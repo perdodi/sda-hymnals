@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:35">
+  <properties>
+    <titles>
+      <title>Odaadnám az életemet</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 e1</verseOrder>
+    <authors>
+      <author>Testvérek</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Odaadnám az életemet</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Odaadnám az életemet, akkor lesz jó, ha óvja kezed, de látod, mily bűnös az, több ott a rossz, a gaz. Nézd, hát mit adhatnék neked én?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A bűnömet bánom, utamat járom, célomat látom: az Te vagy nekem. Csak benned bízom és nem félek én, életem kék egén Te vagy a fény!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Odaadom az életemet, így most már jó, mert fogja kezed. De látod, mily bűnös az, több ott a rossz, a gaz, nézd, csak ezt adhatom neked én.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Életem gyönge, de neked adom: fogadd el, fogadd el!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:08">
+  <properties>
+    <titles>
+      <title>Jöjj, itt az idő, hogy dicsérd</title>
+    </titles>
+    <verseOrder>i1 o1 o1 o2 o1 o1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jöjj, itt az idő...</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Jöjj, itt az idő, hogy dicsérd! Jöjj kapudat tárd az Úr felé! Jöjj, úgy, ahogy vagy és dicsérd! Jöjj, menjünk együtt az Úr felé, jöjj!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Egyszer minden nyelv megvallja, hogy Ő az Úr és mindenki térdet hajt! Megtalálja a legnagyobb kincset, ki Őt választja ma!</lines>
+    </verse>
+  </lyrics>
+</song>

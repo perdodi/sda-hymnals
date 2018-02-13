@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:46:20">
+  <properties>
+    <titles>
+      <title>52. Csak Te voltál az oltalmunk</title>
+    </titles>
+    <copyright>Hé-052</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Csak Te voltál az oltalmunk...<br/><br/>Hitünk énekei<br/>52. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csak Te voltál oltalmunk, Ki reménységünk vagy; S Ki vészben pajzs vagy, jó Urunk, ó! örök éltet adj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A trónod közelségében oly békés, jó a lét, mert karod óv a veszélyben, s a próbákban megvéd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A hegyek, halmok és a föld még nem voltak sehol: De léted, Isten tündökölt és sosem változol!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tenálad ezer hosszú év csak múló pillantás, s a múló rövid földi lét egy röpke villanás.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csak Te voltál az oltalmunk, Ki reménységünk vagy; Ó! vezess mindig, jó Urunk és örök éltet adj!</lines>
+    </verse>
+  </lyrics>
+</song>

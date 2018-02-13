@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:11">
+  <properties>
+    <titles>
+      <title>Állj meg, ne menj tovább</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Állj meg, ne menj tovább</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Állj meg, ne menj tovább,<br/>Állj meg, ne menj tovább,<br/>Isten vonatja készen áll,<br/>Állj meg, ne menj tovább.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az idő, mint gyorsvonat, oly sokat ígér,<br/>Nem tudod, hogy merre visz, merre van a cél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gondold meg, hogy merre van, a helyes irány,<br/>Istentől az életed messze visz talán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden nap egy új öröm, vagy egy csalódás,<br/>Azt mondod, csak így tovább, pedig pórul jársz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Minden útnak vége van, jön a számadás.<br/>Istentől, ha távol élsz, akkor mit csinálsz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Istenhez visz a vonat, gyorsan szállj be hát,<br/>Halál helyett élet vár, és a mennyország.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Értelmes az életed, akkor lesz csupán,<br/>Hogyha járod az utat Isten vonatján.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gondolj arra, életed egyszer véget ér,<br/>Meglátod ez a vonat, biztos célba ér.</lines>
+    </verse>
+  </lyrics>
+</song>

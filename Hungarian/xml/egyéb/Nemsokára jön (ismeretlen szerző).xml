@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:33">
+  <properties>
+    <titles>
+      <title>Nemsokára jön</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nemsokára jön</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nemsokára jön, újra visszajön, az Úr Jézus újra visszajön. Várod-e Urad, várod-e Urad? Elkészítetted-e már magad?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Óh én várom az Urat, szemem figyelve kutat. Várom boldog örömmel, lelkem Néki énekel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Van-e már ruhád, hófehér ruhád? Hadd jöhessen, ne várasd tovább. Van-e már hited, tiszta, hű szíved. Siess, ne várj megáld Mestered!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mécsed fénye ég ? Olaj van elég ? Ha nincs elég olaj, még ma végy. Ébren várod-e, hogy Urad jön-e? Így mehetsz mennyegzőre vele!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:13">
+  <properties>
+    <titles>
+      <title>Közel van az Úrnak jötte</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Közel van az Úrnak jötte</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Közel van az Úrnak jötte, <br/>dicső lesz megjelente,<br/>A nap, mikor elé jutok,<br/>Világunk sóhaját nyögve,<br/>Kiáltjuk könyörögve,<br/>Jöjj már, ó, jöjj dicső Urunk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nem késik el az Úr, sietve jön,<br/>Csodás mennyasszonyáért Ő.<br/>Sóvárgó szívvel zengjük, örömmel énekeljük,<br/>Jöjj értünk Urunk, Te dicső!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűnöknek áradása,<br/>Egész föld vajúdása,<br/>Csüggedni mégsem akarunk.<br/>Mert tudjuk legsötétebb,<br/>Órán lesz érkezésed,<br/>Jöjj már, ó, jöjj dicső Urunk!</lines>
+    </verse>
+  </lyrics>
+</song>

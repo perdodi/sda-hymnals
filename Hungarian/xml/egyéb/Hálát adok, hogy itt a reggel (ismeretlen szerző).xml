@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:53">
+  <properties>
+    <titles>
+      <title>Hálát adok, hogy itt a reggel</title>
+    </titles>
+    <copyright>Kat-77</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hálát adok, hogy itt a reggel...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hálát adok, hogy itt a reggel, hálát adok az új napon. Hálát adok, hogy minden percem Néked adhatom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálát, nemcsak a jó testvérért, - hálát mindenkiért adok. Hálát adok, hogy minden sértést megbocsáthatok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hálát adok, hogy munkát küldesz, hálát adok, hogy fény ragyog. Hálát adok, hogy lelkem fényes és boldog vagyok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hálát adok a vidám percért, hálát ha szomorú leszek. Hálát adok, hogy adsz elém célt és kezed vezet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hálát adok, hogy hallom hangod, hálát adok a jóhírért. Hálát adok, hogy Tested adtad minden emberért.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hálát adok az üdvösségért, hálát adok, hogy várni fogsz. Hálát adok, hogy ma reggel még hálát adhatok.</lines>
+    </verse>
+  </lyrics>
+</song>

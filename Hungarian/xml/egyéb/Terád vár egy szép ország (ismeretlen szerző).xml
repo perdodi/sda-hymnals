@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:47">
+  <properties>
+    <titles>
+      <title>Terád vár egy szép ország</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Terád vár egy szép ország</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Terád vár egy szép ország, Terád vár egy szép ország, Terád vár egy szép ország, ahová megyek. 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs ott többé könnyezés, Nincs ott többé könnyezés, Nincs ott többé könnyezés, ahová megyek. 2x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus Krisztus vár ott rám, Jézus Krisztus vár ott rám, Jézus Krisztus vár ott rám, ahová megyek. 2x</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten szép országa ez, Isten szép országa ez, Isten szép országa ez, ahová megyek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add át néki életed, add át egész életed, akkor te is ez országba bemehetsz! 2x</lines>
+    </verse>
+  </lyrics>
+</song>

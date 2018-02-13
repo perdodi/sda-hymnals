@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:59:10">
+  <properties>
+    <titles>
+      <title>334. Ó! égi jó Atyánk</title>
+    </titles>
+    <copyright>Hé-334, S-128</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! égi jó Atyánk...<br/><br/>Hitünk énekei<br/>334. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! égi jó Atyánk, az áldást add reánk, és most, hogy innen elmegyünk, Te is, ó! jöjj velünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te égi szeretet, Ó! töltsd be szívünket, hogy éljünk boldog békében, a hitnek fényében!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha próba jönne ránk, Ó! légy velünk, Atyánk! És védjen, óvjon szent kezed, míg Jézus eljövend!</lines>
+    </verse>
+  </lyrics>
+</song>

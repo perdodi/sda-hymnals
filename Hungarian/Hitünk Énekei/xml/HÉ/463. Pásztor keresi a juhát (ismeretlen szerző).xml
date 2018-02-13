@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:40:32">
+  <properties>
+    <titles>
+      <title>463. Pásztor keresi a juhát</title>
+    </titles>
+    <copyright>Hé-463, Üa-428</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Pásztor keresi a juhát...<br/><br/>Hitünk énekei<br/>463. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Pásztor keresi a juhát, átjár szava bércet, pusztát. Eltévedt egy juh a nyájtól, el a hű égi Atyától.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Keressük mi is Őt, hozzuk haza a tévelygőt. Még sokan bolyongnak, Jó pásztorról mit sem tudnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pásztorunk kér: segítsetek, keresni az elveszteket, hozzátok vissza a nyájhoz, haza az égi Atyához.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halljátok-é mint bégetnek, összezúzódva hevernek? A Pásztor kér, ezt mondja Ő: Keressétek, míg nem késő!</lines>
+    </verse>
+  </lyrics>
+</song>

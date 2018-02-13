@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:48">
+  <properties>
+    <titles>
+      <title>Hallottam Jóságodról</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hallottam Jóságodról<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hallottam jóságodról, mennyei országodról Ó! milyen végtelen irgalom, kegyelem! Meleted boldog vagyok, csak Te adsz biztonságot. Nélküled életem reménytelen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus , adj új életet, én szívből hozzád térek, Ó! Isten Báránya, mennyország kapuja, irgalom, jóságnapja, üdvöség örök Atyja, eljötöd nagy napján emlékez rám!</lines>
+    </verse>
+  </lyrics>
+</song>

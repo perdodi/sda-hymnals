@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:12">
+  <properties>
+    <titles>
+      <title>B403 Egy az Atyánk…</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Egy az Atyánk… <br/>B403</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egy az Atyánk, ki alkotott Házának gyermekévé. Egy a Fiú, ki megváltott, S tett minket szent népévé. A Lélek is csak egy bennünk, Megszenteli az életünk, S tesz az üdv részesévé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint egy Atyának gyermeki Éljünk hát hitegységben! Mint egy megváltás részesi Járjunk szent szeretetben! Kik Szentlélekkel teljesek, Egymást segítve menjenek Menny felé, kéz a kézben!</lines>
+    </verse>
+  </lyrics>
+</song>

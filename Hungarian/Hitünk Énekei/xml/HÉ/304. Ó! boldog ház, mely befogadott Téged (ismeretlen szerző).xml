@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:48:42">
+  <properties>
+    <titles>
+      <title>304. Ó! boldog ház, mely befogadott Téged</title>
+    </titles>
+    <copyright>Hé-304</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! boldog ház, mely befogadott Téged...<br/><br/>Hitünk énekei<br/>304. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! boldog ház, mely befogadott Téged, Úr Jézus Krisztus, igaz, hű barát! Te drága vendég, mindenkinél drágább, töltse be fényed éltünk hajlékát! Hol minden szívnek Te vagy ékessége, föltekint bízva Reád minden szem! Hol együtt áldott, szent igédet zengjük, s melletted vágyunk élni szüntelen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! boldog ház, hol lelki egyességben nő, férfi véled örök frigyre lép és egymás üdvét építgetve szépen, egy hitben járnak igaz testvérként! És mind a ketten benned bízva élnek és jóban-rosszban szemük Rád tekint; Csak Hozzád vágyik szívük, lelkük mindig és üdvre várnak szent Igéd szerint.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! boldog ház, hol imádságos szívvel szent neved áldva zengnek örömhírt. Légy áldott, Jézus, gyermekek barátja, kisdedek ajka Téged dicsőít! Hitteli szívvvel lábadhoz leülnek, hallgatva drága jó tanácsaid. Már gyermekkorban megismernek Téged, szívükbe zárják áldott szavaid.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! boldog ház, mely áldásodat érzi, hol öröm, béke lakik szüntelen! Ó! boldog ház, hol áldott kezed gyógyít és honnan eltűnt minden félelem! Kik benne laknak, boldog szívvel élnek, nem éri őket gond és fájdalom, tudják, hogy egykor, vándorutuk végén, vár rájuk áldott, örök békehon!</lines>
+    </verse>
+  </lyrics>
+</song>

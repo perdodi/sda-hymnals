@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:15">
+  <properties>
+    <titles>
+      <title>Légy Jézus Krisztus harcosa</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy Jézus Krisztus harcosa</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Légy Jézus Krisztus harcosa, és bátran állj elő! Ne tétováz tovább, halld meg a kürt szavát , mely bátórító harcijel, fel, lelki harcra fel! Már leng a kereszt zászlaja, vár rád a harcmező!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vedd fegyveredet, s harcba állj, mint egykor Gedeon! A bűnnek bátran ellenálj, az Úr áll jobbodon! Az égi seregek mind téged védenek, a harcban mindig légy erős, hisz véled küzd a hős!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vedd föl az Ige fegyverét, ez biztos oltalom! Ez megsegít, bármerre mégy, vízen és szárazon. Az üdv sisakja véd, ha bánt az ellenség, a bűn nyila nem járja át a hit erős pajzsát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Úrnak Lelke bátorít, mint egykor Dávidot, hogy bátran küzdj, Ő megtanít jól forgatni kardod. Nem tart soká a harc, mindvégig hűn kitarts! Fönn Isten adja néked át az életkoronát!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:32:01">
+  <properties>
+    <titles>
+      <title>123. Jézus Istennek Báránya</title>
+    </titles>
+    <copyright>Hé-123</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus Istennek Báránya...<br/><br/>Hitünk énekei<br/>123. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus Istennek Báránya, kínjaidat ég s föld szánja. A nap, a nap sötétté változik, a föld, a föld reng és ingadozik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hegyek, halmok süllyedeznek, a kősziklák repedeznek, holtak, holtak sírból feltámadnak, a szent, a szent városban jelt adnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme a templom kárpitja kettéhasad és megnyitja helyét, helyét a szentek szentének, jelét, jelét Jehova frigyének.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mind ezekből ó! mit értsünk? És szívünkbe vaj? mit véssünk? Isten, Isten végtelen kegyelmét, hozzánk, hozzánk csuda nagy szerelmét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fiát a szeretet Atyja kereszt kínjaira adja, értünk, értünk hogy eleget tégyen, urunk, urunk s üdvözítőnk légyen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Köztünk van a Szentek Szentje: a híveknek ezt jelentse az ép az ép kárpit hasadása, földig, földig kettéhasadása.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézus, ki értünk szenvedtél, hogy éljünk, halálra mentél: Néked, néked szívből hálát adunk, holtig, holtig híveid maradunk.</lines>
+    </verse>
+  </lyrics>
+</song>

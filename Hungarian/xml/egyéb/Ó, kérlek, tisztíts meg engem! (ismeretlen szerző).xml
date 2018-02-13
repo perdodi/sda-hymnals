@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:17">
+  <properties>
+    <titles>
+      <title>Ó, kérlek, tisztíts meg engem!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, kérlek, tisztíts meg engem!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, kérlek, tisztíts meg engem, egészen mosd le vétkemet, egyedül Téged sértettelek, mert rútul cselekedtem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne rejtsd el éntőlem orcád, mert bűnöm bánt, és vétkem fáj. Irgalmas szívvel fordulj hozzám, ó, áraszd kegyelmed rám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne vedd el szent Lelked tőlem, vidámítsd meg szívemet. Hadd mondjam el a bűnösöknek, hogy hozzád megtérjanek.</lines>
+    </verse>
+  </lyrics>
+</song>

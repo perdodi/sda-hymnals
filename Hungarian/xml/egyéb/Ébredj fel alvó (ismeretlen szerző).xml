@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:12">
+  <properties>
+    <titles>
+      <title>Ébredj fel alvó</title>
+    </titles>
+    <verseOrder>i1 c1 v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ébredj fel alvó<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ébredj fel alvó, a mély álmodból, és Krisztus ragyog rád, támadj fel ember a halálból, és Krisztus ragyog rád! 2X</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bár egykor szívedben volt a sőtét, most az Úr fénye tiéd, ragyogjon hát teljes világosság az Úrtól mindig reád!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jóság és békesség töltsön be ma, mindig az Úr előtt járj, vezessen Szentlelke, és Őt csodáld, mindenben, amit csak látsz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az idő megy, és az Úr oly közel, vigyáz, ha jön a sötét! Használd ki perceit, jó sáfár légy, jutalmad nyerd el, ne félj!</lines>
+    </verse>
+  </lyrics>
+</song>

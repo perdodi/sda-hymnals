@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:14">
+  <properties>
+    <titles>
+      <title>Legyen meg akaratod</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Legyen meg akaratod</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Legyen meg akaratod, mint a mennyben! Legyen meg akaratod, a földön, idelenn! Ahogyan a mennyben minden, hirdeti fenségedet, úgy hirdese itt a földön, hogy szent a Te neved, hogy szent a Te neved!</lines>
+    </verse>
+  </lyrics>
+</song>

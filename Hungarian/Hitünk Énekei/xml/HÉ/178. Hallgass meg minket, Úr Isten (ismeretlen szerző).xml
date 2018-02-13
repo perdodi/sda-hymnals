@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:47:12">
+  <properties>
+    <titles>
+      <title>178. Hallgass meg minket, Úr Isten</title>
+    </titles>
+    <copyright>Hé-178</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hallgass meg minket, Úr Isten...<br/><br/>Hitünk énekei<br/>178. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hallgass meg minket, Úr Isten, tekints reánk kegyelmesen, e jelenvaló szent napon könyörgésünk hozzád jusson.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szíveknek vagy vizsgálója és a vesék átlátója; Jól tudjuk gyarló voltunkat és sok fogyatkozásunkat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ellened igen vétkeztünk: De légy kegyelmes minékünk: Mindnyájan el kell hogy vesszünk, ha ingyen jól nem téssz velünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emlékezzél meg mirólunk, mert Te teremtésid vagyunk: Dicsőségét szent nevednek. Kérünk, ne add idegennek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vedd el mirólunk bűnünket, öregbítsd bennünk a hitet, hogy mi jó gyümölcsét annak teremjük néked, Atyánknak.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Így tégy velünk Szentháromság, Kitől árad minden jóság, hogy a Te szent országodban részesüljünk örök jókban.</lines>
+    </verse>
+  </lyrics>
+</song>

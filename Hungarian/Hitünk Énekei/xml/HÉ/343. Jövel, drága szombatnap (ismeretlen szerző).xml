@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:02:19">
+  <properties>
+    <titles>
+      <title>343. Jövel, drága szombatnap</title>
+    </titles>
+    <copyright>Hé-343</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jövel, drága szombatnap...<br/><br/>Hitünk énekei<br/>343. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jövel, drága szombatnap, Isten áldott ünnepe! Áraszd égi fényedet gyönge, fáradt lelkemre!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldog béke, nyugalom terjed szét a szívemben, míg e drága szent napon testem, lelkem megpihen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E szent, boldog ünnepen öröm fénye sugároz, égbe száll a hő fohász a szent szombat Urához.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten adta áldott nap, üdítsd fel a lelkemet: Örök szombat öröme, töltsed be a szívemet!</lines>
+    </verse>
+  </lyrics>
+</song>

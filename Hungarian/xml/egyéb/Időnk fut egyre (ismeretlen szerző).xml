@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:54">
+  <properties>
+    <titles>
+      <title>Időnk fut egyre</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Időnk fut egyrel</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Időnk fut egyre sebesen, rohanva, mint az ár<br/>Fel nem tarthatja semmisem, a nap hamar leszáll.<br/>Jöjj míg az éj rád nem borul, holnap késő talán,<br/>Jöjj, zord sötétben felragyog, kereszt a Golgotán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma még körülvesz sok barát, míg fénybe jár az út,<br/>Elhagynak, vész, ha tör reád, mint tékozló fiút.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egy van, csak egy szent, hű barát, Ő mindvégig szeret,<br/>Kínálja néked önmagát, kezébe tedd kezed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bűnöd, bajod, mind ismeri, szívén bocsánat vár,<br/>Vérével megvett, higgy neki, és minden jó lesz már,<br/>Jöjj szent kezébe tedd kezed, és üdvösség vár rád,<br/>Mert mindeneknek üdve lett, kereszt a Golgotán.</lines>
+    </verse>
+  </lyrics>
+</song>

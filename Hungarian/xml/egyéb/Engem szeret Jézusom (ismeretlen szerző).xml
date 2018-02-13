@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:40">
+  <properties>
+    <titles>
+      <title>Engem szeret Jézusom</title>
+    </titles>
+    <copyright>S-108</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Engem szeret Jézusom</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Engem szeret Jézusom, Bibliámból jól tudom. Mind övé a kisgyermek, erőt ád a gyöngéknek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy van, Ő szeret, Ő szeret nagyon. Úgy van, Ő szeret, Igéjéből tudom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus értem szenvedett, megnyitotta az eget, bűnömtől megtisztított, mennyországba fogadott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus szeret, velem van, őriz minden utamban, mennybe viszi gyermekét, ott dicsérem szent nevét.</lines>
+    </verse>
+  </lyrics>
+</song>

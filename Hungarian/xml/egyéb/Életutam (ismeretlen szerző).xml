@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:13">
+  <properties>
+    <titles>
+      <title>Életutam</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Életutam</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Életutam míg a Földön járom, Bár ez út néha oly rögös és oly nehéz, égi célom tán seholsem látom, Mégis szívemből egy új dal hangja kél!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ott fenn a mennyben vár az én örök hazám, hol Krisztust majd megláthatom. Szívem úgy várja már e nagy találkozást, hol mindörökre Őt imádhatom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudom, most már nem magamban járom, Egy hű barát van, ki mindvégig mellettem áll, Jézus Krisztus vérével megváltott, Szívemből ez új dal ujjongva száll!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vár engem a béke, örökélet, Mit ember nem gondolt el, és szem nem látott még, Hálatelten felcsendül az ének, Szóljon addig míg Jézus visszatér.</lines>
+    </verse>
+  </lyrics>
+</song>

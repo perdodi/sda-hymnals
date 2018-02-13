@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:12">
+  <properties>
+    <titles>
+      <title>Krisztus katonái</title>
+    </titles>
+    <verseOrder>i1 o1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus katonái</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Krisztus katonái sorakozzatok...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztus katonái sorakozzatok, a kereszt jelével harcba szálljatok. Krisztus a királyunk, Ő maga vezet, kövessétek s folyton reá  nézzetek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fel a szent csatára! Fel, te üdvsereg! A kereszt jelében harcod megnyered!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Istennek egyháza az üdvserege, Istennek igéje annak fegyvere. Nem vagyunk szétszórva, egy a mi Urunk; Hitben, szeretetben egy tábor vagyunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A királyi trónok összeomlanak, fényes koronáik porba hullanak; óh de Jézus trónja sohasem inog, jogara örökké uralkodni fog.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krisztus katonái, fel, előre hát! Harcoljátok bátran végig a csatát s diadalhoz jutva, zengjen ajkatok: Üdv a vezérnek, ki győzelmet adott!</lines>
+    </verse>
+  </lyrics>
+</song>

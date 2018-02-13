@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:58">
+  <properties>
+    <titles>
+      <title>Istenünk, örökké a Tied</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istenünk, örökké a Tied</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Istenünk, örökké a Tied minden hatalom, áldalak, dicsérlek, Szent neved magasztalom. Te vagy az út, az élet, Te vagy az igazság, szent neved áldassék!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te vagy az, aki mindig, minden problémám megoldod, szent neved áldassék! Te vagy édesatyám, aki gondoskodik rólam, szent neved áldassék!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Ő hatalma, vára minden győzelmemnek, szent neved áldassék! Mert a Te erőddel győzni tudok minden helyzetemben, szent neved áldassék!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te vagy egyetlen és örök Istenünk a földön, szent neved áldassék! Én magam sem tudom, hogy mennyire szeretlek, szent neved áldassék!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsérlek Istenem, szívből magasztallak, szent neved áldassék! Mindenki látni fogja a te fényed a szívemben, szent neved áldassék! Mindörökké Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

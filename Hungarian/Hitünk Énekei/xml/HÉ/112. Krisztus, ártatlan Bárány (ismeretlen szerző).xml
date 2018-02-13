@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:30:05">
+  <properties>
+    <titles>
+      <title>112. Krisztus, ártatlan Bárány</title>
+    </titles>
+    <copyright>Hé-112</copyright>
+    <verseOrder>i1 v1 v1 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus, ártatlan Bárány...<br/><br/>Hitünk énekei<br/>112. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztus, ártatlan Bárány, Ki miértünk megholtál, a keresztfa oltárán nagy engedelmes voltál. Hordozván bűneinket, Te váltottál meg minket: Irgalmazz nékünk, ó! Jézus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krisztus, ártatlan Bárány, Ki miértünk megholtál, a keresztfa oltárán nagy engedelmes voltál. Hordozván bűneinket, Te váltottál meg minket: Add békéd nékünk, ó! Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

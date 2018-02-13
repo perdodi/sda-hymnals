@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:48">
+  <properties>
+    <titles>
+      <title>Tudjátok meg, hogyaz Úr az Isten</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tudjátok meg, hogyaz Úr az Isten</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tudjátok meg, hogyaz Úr az Isten, Ő alkotott és formált minket, az Ő népe, juhai vagyunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Menjetek be kapuin hálaadással, tornácaiba dicséretekkel, áldjátok az Ő szent nevét!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert jó az Úr, örökkévaló az Ő kegyelme, és nemzedékről nemzedékre való a hűsége. 2X</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vígan énekelj az Úrnak te egész föld! Vígan énekelj az Úrnak! Vígan énekelj és szolgáld Istened, mert jó az Úr, örökkévaló!</lines>
+    </verse>
+  </lyrics>
+</song>

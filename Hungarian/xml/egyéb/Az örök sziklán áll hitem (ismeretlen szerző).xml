@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:22">
+  <properties>
+    <titles>
+      <title>Az örök sziklán áll hitem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az örök sziklán áll hitem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az örök sziklán áll hitem, mint értem tett Istenem; Más mind elosulik, mint hab, de Krisztus mindig szirt marad. Ki bizodalmat benne vet, az nem fövényre épített, az nem fövényre épített.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A frigykötés a drága vér, megóv, ha jő bármi veszély, és hogyha minden szeret hull, ekőszirt áll, el nem mozdul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha zengnak égi trombiták, és eljő Krisztus, mint Király, majd igazsága lesz nekem, díszöltönyöm és ékszerem.</lines>
+    </verse>
+  </lyrics>
+</song>

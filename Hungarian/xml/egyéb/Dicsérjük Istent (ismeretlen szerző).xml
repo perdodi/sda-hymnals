@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:35">
+  <properties>
+    <titles>
+      <title>Dicsérjük Istent</title>
+    </titles>
+    <verseOrder>i1 c1 v1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Dicsérjük Istent<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dicsérjük Istent, az Urat, vallja meg minden nyelv Jézust! Szeretünk és imádunk, Te vagy a mi Királyunk. 2x</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Összegyűltünk, hogy dicsérjünk megtisztult szível, a nevednek trónt emeljünk, és benned örvendjünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Lelkével betöltött, Ő vezet minket, az Ő országa van bennünk, mely Istennek ereje.</lines>
+    </verse>
+  </lyrics>
+</song>

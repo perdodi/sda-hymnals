@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:41">
+  <properties>
+    <titles>
+      <title>Ezt a nyájat jó pásztor vezeti</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ezt a nyájat jó pásztor vezeti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ezt a nyájat jó pásztor vezeti, ezt a nyájat jó pásztor tereli, Ezt a népet Jézus vezeti, ezért Isten szereti.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Semmi rossztól nem kell félnem, nevemen hív, Ő ismer engem, Ha beteg vagyok, meggyógyít, sebeim kötözi, Szelíd szavával, vígasztal, erősít.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden napot vele töltök, éjjel is itt van velem, Farkasoktól, medvéktől oltalmaz engem, Mindent megtesz azért, hogy engem megmentsen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Békesség van a szívemben, jó pásztor terelget engem, Nem hagy el a bajban,<br/>bízhatok benne, Szereti a nyáját, meghalt helyette.</lines>
+    </verse>
+  </lyrics>
+</song>

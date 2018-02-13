@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:18">
+  <properties>
+    <titles>
+      <title>Az isteni út</title>
+    </titles>
+    <copyright>S-026</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az isteni út</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az isteni út ragyogó, mint a nap, a mennyből rá fény derül. Az isteni út boldog életútja, ha dúl is a harc körül. Ha Jézussal karöltve jársz, ha megmentő szavára vársz, az isteni út bőven megjutalmaz, ó néked is nyitva áll.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az isteni út biztos cél felé visz, mert Jézus szent útja ez. Az isteni út tiszta, mint a kék ég, nincs bú rajta, nincs panasz. Már nincs messze tőlünk a cél, a felhőkön megmentőnknél, az isteni út bőven megjutalmaz, ó néked is nyitva áll.</lines>
+    </verse>
+  </lyrics>
+</song>

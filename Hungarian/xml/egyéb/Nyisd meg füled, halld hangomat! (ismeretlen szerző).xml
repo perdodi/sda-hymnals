@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:34">
+  <properties>
+    <titles>
+      <title>Nyisd meg füled, halld hangomat!</title>
+    </titles>
+    <copyright>S-049</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nyisd meg füled, halld hangomat!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nyisd meg füled, halld hangomat! Én csendes szóval hívtalak. Ó nagy Király, világ Ura, szereteted a földet átfogja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha visszatérsz, add meg nekem, hogy melletted legyen a helyem, hogy áldjalak örök élten át, teremteni fogsz egy új hazát.</lines>
+    </verse>
+  </lyrics>
+</song>

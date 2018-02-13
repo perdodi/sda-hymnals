@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:13">
+  <properties>
+    <titles>
+      <title>Élj másokért!</title>
+    </titles>
+    <copyright>S-106</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Élj másokért!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hintsd szerteszét, a szeretet kincseit, élj másokért, az Úr téged így tanít, ha sóvá lesz az életed, úgy ízesül a világ, megérzik majd az emberek, az Úr Jézus irgalmát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézusra nézz, Ő legyen a példakép, tégy jót, szeress, így mutasd be életét. A szolgálathoz új erőt, te mindig csak Tőle várj, az Úrtól vedd az égi fényt és ragyogj, mint napsugár.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:39">
+  <properties>
+    <titles>
+      <title>Elmúlt a tél</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elmúlt a tél</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elmúlt a tél, a tavasz bontja szirmait,<br/>Ébrednek már künn a fák.<br/>Szívemben is kinyílt a virágja<br/>Igédnek szent magja nyomán.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, Uram, szívemből Te űzd el<br/>Bűneim sötét, hideg ködét.<br/>Szent Szellemed lakozzon bennem,<br/>Légy számomra tavasz és a fény.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úgy kérlek én, formáld tovább életem,<br/>Tégy hasonlóvá Őhozzá.<br/>Hadd hirdessem szerte a világon,<br/>Mit tettél értem a Golgotán.</lines>
+    </verse>
+  </lyrics>
+</song>

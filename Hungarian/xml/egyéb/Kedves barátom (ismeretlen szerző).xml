@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:09">
+  <properties>
+    <titles>
+      <title>Kedves barátom</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kedves barátom</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kedves barátom, figyelj most rám. Miért vagy szomorú, és miért nem vidám? Ha életed üres és céltalan, hallgasd meg, hogy mit tanácsol néked ez a dal:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ne add fel a reményt, hisz van megoldás: Jézusban, ki a Golgotán érted adta magát. Akármilyen életed volt eddig neked, hidd el, hogy Jézus Krisztus akkor is szeret.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sok mindent már megpróbáltál, nem volt benne jó. Nem hallottál sehol sem egy vigasztaló szót. Életedet betölti most a keserűség, talán még azt sem tudod, hogy miért is élsz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kedves barátom, figyelj most rám. Én is kerestem és megtaláltam már, Jézust, ki eddig is mindig várt reám, és betölti szívemet a teljes boldogság.</lines>
+    </verse>
+  </lyrics>
+</song>

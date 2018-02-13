@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:23">
+  <properties>
+    <titles>
+      <title>Minden gondomat</title>
+    </titles>
+    <copyright>S-035</copyright>
+    <verseOrder>i1 v1 v2 v3 v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Minden gondomat Rád vetem...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Minden gondomat rád vetem, minden terhemet lábad elé teszem. És bármikor, ha nem tudom, hogy mit tegyek, gondomat, ó Uram, Rád vetem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldd meg életem jó Uram. Hűség kísérje végig az utam. És bármikor, ha nem tudom, hogy mit tegyek, tanácsolj, ó Uram engemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az út, melyre lépsz, oly nehéz. Ne félj, Urad veled van bármerre mész. Az életed elrejtheted szent kezében, Ő legyen, ki betölti életed.</lines>
+    </verse>
+  </lyrics>
+</song>

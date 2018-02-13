@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:41:12">
+  <properties>
+    <titles>
+      <title>154. Jövel, Szentlélek Isten</title>
+    </titles>
+    <copyright>Hé-154</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jövel, Szentlélek Isten...<br/><br/>Hitünk énekei<br/>154. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jövel, Szentlélek Isten, tarts meg minket igédben, ne legyünk setétségben: Maradjunk igaz hitben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szenteld meg mi szívünket, világosítsd elménket, hogy érthessük igédet, mi édes Mesterünket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adj isteni félelmet és bizonyos értelmet; Igéddel taníts minket, gerjeszd fel mi szívünket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vigasztald meg elménket; Mindenben segíts minket; Öregbítsed hitünket, távoztassad bűnünket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogy Téged az Atyával és az Ő szent Fiával dicsérhessünk mindnyájan a fényes mennyországban.</lines>
+    </verse>
+  </lyrics>
+</song>

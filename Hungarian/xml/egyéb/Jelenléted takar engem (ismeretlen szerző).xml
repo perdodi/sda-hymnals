@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:59">
+  <properties>
+    <titles>
+      <title>Jelenléted takar engem</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jelenléted takar engem</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jelenléted takar engem, igazságod befed teljesen. Uram, szentséged a rejtekem. Úr Jézus, rejts engem.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>A Te menedékedben nem érhet baj, biztonságban vagyok karjaidban.<br/>Mutasd meg, hogy nincs ok félelemre. Úr Jézus, rejts engem</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ha szárnyaid takarnak oltalmazva, jöhetne szél, vihar, nem bántana. Szívemben elcsitul a félelem. Úr Jézus, rejts engem.</lines>
+    </verse>
+  </lyrics>
+</song>

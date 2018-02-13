@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:44">
+  <properties>
+    <titles>
+      <title>Széjjeljártam a világban</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Széjjeljártam a világban</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Széjjel jártam a világban,<br/>De sok-sok jajra találtam.<br/>Búsan járnak az emberek,<br/>mert hiányzik a szeretet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram, taníts meg szeretni,<br/>Szívemből mindent kivetni:<br/>legyen harag, vagy neheztelés,<br/>Hadd tudjak jobban szeretni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Széjjel jártam a világban,<br/>De sok-sok könnyre találtam.<br/>Megfáradtak az emberek,<br/>Mert hiányzik a szeretet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Taníts meg szívből örülni,<br/>A terheket mind letenni.<br/>Ha próba jönne, mégoly nehéz,<br/>Hadd tudjak benned örülni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Taníts a hitben megállni,<br/>Erőre benned találni.<br/>Amíg ölel és hordoz-e kéz,<br/>Előre menni nem nehéz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Taníts még jobban szeretni,<br/>Tebenned bízni, remélni.<br/>Szívem, a szám és az énekem,<br/>Dicsérjen Téged szüntelen.</lines>
+    </verse>
+  </lyrics>
+</song>

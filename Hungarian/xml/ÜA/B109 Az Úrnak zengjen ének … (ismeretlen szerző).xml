@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:37">
+  <properties>
+    <titles>
+      <title>B109 Az Úrnak zengjen ének …</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úrnak zengjen ének …<br/>B109</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úrnak zengjen ének, Fel, égig ujjongó, Őt áldja földön s mennyben, Mert győztes Megváltó! Ő megszerezte nékünk A bűnök váltságát, Fölvette minden vétkünk, És értünk bűnné vált.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De messze tűnt a bánat Harmadnap reggelén, És felragyogva áradt Sugárzó, tiszta fény. Feltámadt Jézus Krisztus, Legyőzve a halált; Az őt dicsérő himnusz Zengi diadalát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha félelem, baj támad, Vagy kísértés tör ránk, Csak nézzük keresztfádat, Az üdvnek zálogát. Már vége lett az éjnek, Az Úr nagy napja kél! Vár ránk az örök élet A mennyben Istennél.</lines>
+    </verse>
+  </lyrics>
+</song>

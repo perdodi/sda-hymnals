@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:08">
+  <properties>
+    <titles>
+      <title>B373 Békét, édes békét</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Békét, édes békét<br/>B373</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Békét, édes békét lelkem hol talál? Üdvös égi célját tisztán látja már? Megváltást nyerhetsz az Úr Jézusnál, Enyhet ad néked és békével vár!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fájó sebre gyógyírt, ó, ki nyújt nekem? Rémes éjszakában lesz-e védelem? Gyógyulást nyerhetsz az Úr Jézusnál, Ő vezet téged és karjába zár!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tiszta életforrás nékem hol fakad? Puszta tájon jaj, ki oltja szomjamat? Bőven van áldás az Úr Jézusnál, Bátran jöjj hozzá, ő sok jóval vár!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mondd, a boldog élet útja merre van? Hogy jut végre célba az, ki hontalan? Otthonra lelhetsz az Úr Jézusnál, Jutalmat készít és a mennyben vár!</lines>
+    </verse>
+  </lyrics>
+</song>

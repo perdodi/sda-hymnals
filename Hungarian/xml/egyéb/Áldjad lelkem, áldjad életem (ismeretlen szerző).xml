@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:08">
+  <properties>
+    <titles>
+      <title>Áldjad lelkem, áldjad életem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldjad lelkem, áldjad életem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldjad lelkem, áldjad életem, mindig áldjad az Urat! Hála ének drága illata az, ha szívemből fakad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden reggel, délben, vagy ha jő az est, szálljon hálaáldozat! Áldjad lelkem, áldjad életem, mindig áldjad az Urat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus Jézus, Isten szent Fia, elhagyta dicső honát, és mint Bárány - mert úgy szeretett - értünk adta önmagát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Irgalmas és jóságos az Úr, vétkeinkre nem tekint, nem cselekszik és nem is fizet Ő a bűneink szerint.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ismer minket és emlékezik, tudja, hogy porból vagyunk, bűnbánattal mégis Őelé mindig leborulhatunk.</lines>
+    </verse>
+  </lyrics>
+</song>

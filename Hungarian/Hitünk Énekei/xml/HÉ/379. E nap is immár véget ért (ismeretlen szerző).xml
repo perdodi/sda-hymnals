@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:32:28">
+  <properties>
+    <titles>
+      <title>379. E nap is immár véget ért</title>
+    </titles>
+    <copyright>Hé-379</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>E nap is immár véget ért...<br/><br/>Hitünk énekei<br/>379. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>E nap is immár véget ért, már száll az esthomály és minden nyugovóra tért, én lelkem, aludjál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak Te nem alszol, Istenem, mert nálad nincsen éj; A szemed áthat mindenen, Te vagy az örök fény!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úr Isten, gondolj énreám e sötét éjjelen, hadd őrizzen ez éjszakán az örök kegyelem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Így nyugovóra térhetek és békén elalszom, mert Isten őriz engemet, nincs miért búsulnom.</lines>
+    </verse>
+  </lyrics>
+</song>

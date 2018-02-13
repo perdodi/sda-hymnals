@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:37">
+  <properties>
+    <titles>
+      <title>Együtt lesz majd mind</title>
+    </titles>
+    <copyright>S-009</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Együtt lesz majd mind...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Együtt lesz majd mind a megváltott sereg, így várja Isten parancsát. Dícsérve Urát a Megváltó Királyt, áldva az Ő Hatalmát.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Mind ott leszünk a mennyben Megváltónknál, egymás kezét megfogjuk és találkozunk a Megváltó oldalán testvérem Isten vár ott rád!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szent seregben mi katonák vagyunk és Jézus a parancsnokunk. Hitben harcolunk és mind győzni fogunk, Isten a mi oltalmunk.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Mind ott leszünk a mennyben Megváltónknál, egymás kezét megfogjuk és találkozunk a Megváltó oldalán testvérem Isten vár ott rád!<br/>Nékünk adja Ő országát.</lines>
+    </verse>
+  </lyrics>
+</song>

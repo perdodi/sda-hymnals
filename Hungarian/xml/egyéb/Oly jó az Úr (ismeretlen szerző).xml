@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:36">
+  <properties>
+    <titles>
+      <title>Oly jó az Úr</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Oly jó az Úr</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Oly jó az Úr, oly jó az Úr!<br/>Ő az én hű Pásztorom,<br/>gondviselőm és megtartóm.<br/>Oly jó az Úr!<br/>Ments ki engem a hálóból,<br/>a titkon vetett csapdából,<br/>Hiszen Te vagy erősségem,<br/>Kezedre bízom lelkemet,<br/>mert Te váltasz meg engemet,<br/>Ó, Uram, hűséges Istenem!</lines>
+    </verse>
+  </lyrics>
+</song>

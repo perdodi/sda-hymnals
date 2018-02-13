@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:25:58">
+  <properties>
+    <titles>
+      <title>431. Öröm van a mennyben, egy bűnös felett</title>
+    </titles>
+    <copyright>Hé-431, Üa-187</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Öröm van a mennyben...<br/><br/>Hitünk énekei<br/>431. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Öröm van a mennyben, egy bűnös felett, Ha megtérve hazaérkezett. Fut eléje atyja, kinyújtva karját, Megcsókolja elveszett fiát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Öröm, öröm, zeng az égi hang, Zeng a hárfa, zeng az égi lant. Öröm van a mennyben, egy bűnös felett, Ha megtérve hazaérkezett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Öröm van a mennyben, mert az éjből egy Vándor a napfényre érkezett; Kit a Sátán annyit kínozott, az itt Jézus előtt most imádkozik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Öröm van a mennyben, gyorsan lakomát! Vidámság zengjen a termen át Hirdessétek vígan e hírt szerteszét: "Egy bűnös az Úrhoz visszatért!"</lines>
+    </verse>
+  </lyrics>
+</song>

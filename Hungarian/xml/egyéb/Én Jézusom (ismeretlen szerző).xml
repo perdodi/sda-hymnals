@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:13">
+  <properties>
+    <titles>
+      <title>Én Jézusom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én Jézusom<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én Jézusom, téged a szívem szeret, a bűntől te megmentetél már engemet; Én megmentőm, megtartóm, szabadítóm, Ó! mily nagyon szeretlek, jó megváltóm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én Jézusom, téged a szívem szeret, te eltörléd véreddel bűneimet. És énértem haltál meg a manapon: Ó! mily nagyonszeretlek, én Jézusom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én Jézusom téged a szívem szeret, Én dicsérem míg élek, nagy erődet! Ha végórám eljön is, ezt kiáltom: Ó! mily nagyon szeretlek, én Jézusom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én Jézusom, téged a szívem úgy vár, mert ádvented dicsfénye tündököl már. És szárnyal majd énekem, zeng hálaszóm, Ó! mily nagyon szeretlek, jó megváltóm!</lines>
+    </verse>
+  </lyrics>
+</song>

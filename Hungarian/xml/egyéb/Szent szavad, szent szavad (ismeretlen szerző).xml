@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:40">
+  <properties>
+    <titles>
+      <title>Szent szavad, szent szavad</title>
+    </titles>
+    <copyright>S-137</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szent szavad, szent szavad</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szent szavad, szent szavad mutassa meg mindennap az utat. Uram, mutasd meg nekem, taníts, hogy csak azt tegyem, amit kijelent nekem szent szavad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézusom, Krisztusom, ím az éltem tenéked átadom. Ugye kedves ez neked! Kérlek, add, hogy hadd legyek engedelmes gyermeked, Jézusom.</lines>
+    </verse>
+  </lyrics>
+</song>

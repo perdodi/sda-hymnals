@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:39:46">
+  <properties>
+    <titles>
+      <title>146. Ó! Jeruzsálem, szép honom</title>
+    </titles>
+    <copyright>Hé-146</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! Jeruzsálem, szép honom...<br/><br/>Hitünk énekei<br/>146. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! Jeruzsálem, szép honom, úgy vonzod szívemet, ó! mikor lelek enyhülést és örök örömet?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A falad tiszta drágakő, a kapud drágagyöngy; És minden utcád színarany és színes fényözön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A gyönyörűség kertje vagy, én égi otthonom; Hisz benned béke lakozik és boldog nyugalom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! drága Jézus, Mesterem, úgy várlak: jöjj el már! Mert tudom, égi hazámban a hajlék készen vár!</lines>
+    </verse>
+  </lyrics>
+</song>

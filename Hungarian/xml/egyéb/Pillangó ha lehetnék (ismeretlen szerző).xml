@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:37">
+  <properties>
+    <titles>
+      <title>Pillangó ha lehetnék</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Pillangó ha lehetnék</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Pillangó ha lehetnék, táncolnék, míg röpít a szél, s ha én lennék a cinege a fán, dallal Istent dicsérném.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Vagy kis halként a tó fenekén, a buborékot vígan eregetném; de gyermeked lettem, köszönöm, Istenem én.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Adtál szívet nekem, és hogy tiszta legyen, Te adtad Jézusom, hogy velem legyen. Te gyermeked lettem, köszönöm, Istenem én.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Megfújnám a trombitát, ha én lennéka kis elefánt, s ha úgy élnék, mint kenguru, ugrálnék a dombon át.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ha én lennék a kis polip, vennék több pár kalucsnit, de gyermeked lettem, köszönöm, Itenem én.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Selymet szépet hordanék, ha egy kis hernyó lehetnék, krokodilként, ha utaznék, nem sírnék csak nevetnék.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ha én lennék egy borzos barna bocs, számolnék, mert a medve mind okos, de gyermeked elttem, köszönöm, Istenem én.</lines>
+    </verse>
+  </lyrics>
+</song>

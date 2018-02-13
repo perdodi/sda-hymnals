@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:15">
+  <properties>
+    <titles>
+      <title>Adj hálát a szívedből</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Adj hálát a szívedből</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Adj hálát a szívedből, adj hálát, mert Ő a szent, adj hálát, mert Ő adta Jézust az Ő fiát. És most a gyenge mondja: erős vagyok! A szegény mondja: gazdag vagyok! Mert Jézus mindent elvégzett értem. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

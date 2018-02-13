@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:55">
+  <properties>
+    <titles>
+      <title>Várj, ne fuss úttalan utakon</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Várj, ne fuss úttalan utakon</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Várj, ne fuss úttalan utakon végig, sosem találsz végső állomást, a súlyos gondok meg nem szűnnek így. Várj, ne fuss úttalan utakon végig, mert ez az út, ha egyszer véget ér, te rájössz majd, hogy nem ez volt a cél.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, tedd le terheidet és ne onts több könnyet érte, végre megnyugodhat szíved, Jézus megtalált. Ő az, ki végigment az úton úgy szeretett téged, Ő, akit útja végén kereszthalál várt.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Várj, ne fuss úttalan utakon végig, sosem találsz végső állomást, a súlyos gondok meg nem szűnnek így. Várj, ne fuss úttalan utakon végig, mert ez az út, ha egyszer véget ér, te rájössz majd, hogy késő, elvesztél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak színes délibábot kergetsz, mely becsap téged, állj meg! Vesztedbe rohansz, tovább futni kár! Itt van egy csodálatos út, amit Ő készített néked, lépj az útra bátran, Jézus vár ott rád.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Miért futnál még, vár Jézus, fogd meg kezét. Várj ne fuss úttalan utakon végig, várj, ne fuss úttalan utakon végig...</lines>
+    </verse>
+  </lyrics>
+</song>

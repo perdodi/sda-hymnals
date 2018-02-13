@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:26">
+  <properties>
+    <titles>
+      <title>B520 Fölkelt immár a szép hold</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fölkelt immár a szép hold<br/>B520</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fölkelt immár a szép hold, A csillagezres égbolt Oly tisztán tündököl, Az erdő áll sötéten, S fehér köd künn a réten, Csodásan száll a légbe föl.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mély csend borult a földre, S mit alkony leple föd be, Meghitten integet, Mint nyájas, tiszta hajlék, Hol nappalodnak terhét Kialhatod, feledheted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem látod-é a holdat? Fél arca int, mosolyg csak, Pedig kerek, egész. Van sok, mit itt az ember Nem lát jól földi szemmel, És oktalan nevetni kész.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mint gyenge, földi lények, Kik bűn útjára tértek, Mi nem sokat tudunk; Sok csalfa képet űzünk Sok furfangot kifőzünk, S a céltól csak messzebb jutunk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add, hogy üdvöd keressük, Ne a mulandót lessük, Ne kössön fénye meg; Hagyj egyszerűvé válni, S előtted élni, járni, Mint vidám, boldog gyermekek!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ha jő a végső óra, Fordítsd a kínt is jóra, És adj csendes halált; Ha innen elvezetsz Te, Ó, hadd jutunk egedbe, Úr Istenünk és jó Atyánk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:38">
+  <properties>
+    <titles>
+      <title>El Shaddai</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>El Shaddai</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>El Shaddai, El Shaddai, örök élő Adonai, eltelnek évezredek és Te nem változol meg. El Shaddai, El Shaddai, örök élő Adonai, Rólad szól a szív, a száj, El Shaddai.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te alkottad az eget, napot, földet, vizeket. Ábrahám fiainak Te jelöltél ki utat. Szóltál, feltámadt a szél ott a Vörös tengernél s néped száraz lábbal kelhetett át.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A pusztában vezettél, megbékélést üzentél, kenyereddel tápláltál, karjaidban hordoztál. Mi nem értettük szavad, elvétettük az utat, de Te mégis szeretted fiaidat.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>El Shaddai, El Shaddai, örök élő Adonai, eltelnek évezredek és Te nem változol meg. El Shaddai, El Shaddai, örök élő Adonai, életem kezedben már, El Shaddai.</lines>
+    </verse>
+  </lyrics>
+</song>

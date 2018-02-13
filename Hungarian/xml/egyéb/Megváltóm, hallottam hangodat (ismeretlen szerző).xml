@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:19">
+  <properties>
+    <titles>
+      <title>Megváltóm, hallottam hangodat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Megváltóm, hallottam hangodat</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Megváltóm, hallottam hangodat:<br/>Jöjj gyermekem és járj énvelem!<br/>Úr Jézus vágyom nézni orcád,<br/>Hasonló lenni szívben hozzád.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ne rejtőzz el messze tőlem, Uram,<br/>Ne küldd el szolgád haragodban.<br/>Biztos segítőm voltál nekem,<br/>Kérlek ne menj el, maradj velem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halld meg Uram kiáltásomat,<br/>Kegyelmezz nékem, jöjj mikor hívlak,<br/>Drága jelenléted boldogít,<br/>Szelíd szavadra szívem kinyílt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Taníts meg engem a te utadra,<br/>Ne hagyj letérni arról soha.<br/>Légy erős, szívem, s várd az Urat,<br/>Az úton mindig Ő igazgat.</lines>
+    </verse>
+  </lyrics>
+</song>

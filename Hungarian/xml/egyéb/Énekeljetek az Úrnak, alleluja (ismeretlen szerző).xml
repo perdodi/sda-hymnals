@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:15">
+  <properties>
+    <titles>
+      <title>Énekeljetek az Úrnak, alleluja</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Énekeljetek az Úrnak, alleluja</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Énekeljetek az Úrnak, alleluja, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérjétek az Ő nevét, alleluja, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elkészíti menyegzőjét, alleluja, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megszabadít bűneidből, alleluja, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vele fogunk vacsorázni, alleluja, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Meg fogjuk a Fiát látni, alleluja, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nem lesz sírás, nem lesz bánat, alleluja, alleluja, alleluja.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Csak szeretet lesz mi köztünk, alleluja, alleluja, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

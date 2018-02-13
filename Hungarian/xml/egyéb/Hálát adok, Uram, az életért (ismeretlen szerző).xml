@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:53">
+  <properties>
+    <titles>
+      <title>Hálát adok, Uram, az életért</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hálát adok, Uram, az életért</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hálát adok, Uram, az életért. Rólad zeng éneket hegy, völgy s a rét. A napokat Te számolod, Uram, én mindenért hálát adok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hatalmad, Istenem, mindent fölér. Szavadra engednek: tenger és szél. Leborulnak a csillagok, Uram, én mindenért hálát adok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imádom, Szent Atyám, dicső neved. Te vagy a végtelen nagy szeretet. Kegyelmed ma ingyen adod, Uram, én mindenért hálát adok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hálát adok Uram a szombatért, hálát e szent napért, áldásodért, értem adtad e szent napot, Uram a szombatért hálát adok.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hálát adok Uram eljöttödért, közel van már nagyon, hogy itt legyél. Várom nagyon a nagy napot, Uram eljöttödért hálát adok.</lines>
+    </verse>
+  </lyrics>
+</song>

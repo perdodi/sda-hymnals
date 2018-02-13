@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:46">
+  <properties>
+    <titles>
+      <title>Te vagy a hullámzó tenger</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Te vagy a hullámzó tenger</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te vagy a hullámzó tenger, Te vagy a fán a levél.<br/>És ott vagy a kis hópihében, amit tovarepít a szél -<br/>Ott vagy a játszó gyermekben, Te vagy az ének, a fény.<br/>Ott vagy a csillag óceánban, melynek fénye hozzánk elér.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy Uram, mindenben minden, <br/>és ahol vagy, nincs mulandó.<br/>Az idő és tér felett rendelkezel, <br/>örökkévaló vagy és Mindenható.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott vagy a betegszobában, meghallod a sóhajtást.<br/>Jól ismered azt, aki szenved; és a gúnyolók hadát.<br/>Ott vagy a próféta szóban, közel vagy nagyon hozzánk.<br/>Ott vagy, hol emberek remélnek, ahol győztél: a Golgotán.</lines>
+    </verse>
+  </lyrics>
+</song>

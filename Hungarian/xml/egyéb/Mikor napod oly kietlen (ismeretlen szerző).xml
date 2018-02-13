@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:22">
+  <properties>
+    <titles>
+      <title>Mikor napod oly kietlen</title>
+    </titles>
+    <verseOrder>i1 v1 v2 v3 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mikor napod oly kietlen</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mikor napod oly kietlen, és sivár az életed, ne hagyd szíved csüggedni, tartsd mindig eszedben:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak egy kicsi fény kell, egy kicsi gyertya a sötétben, el ne ess. Ahhoz, hogy messze láss, csak egy kicsi gyertya, melyhez egy kis szikra kell.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Így ha mindnyájan elmondanánk egy imát, hogy földünk megújuljon, s szabad legyen, és ha életünk lángja gyertyaként égne, fénye mindent betöltne.</lines>
+    </verse>
+  </lyrics>
+</song>

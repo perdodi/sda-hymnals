@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:29:54">
+  <properties>
+    <titles>
+      <title>111. A jóság az én pásztorom</title>
+    </titles>
+    <copyright>Hé-111</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A jóság az én pásztorom...<br/><br/>Hitünk énekei<br/>111. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A jóság az én pásztorom, a szív királya Jézus! Az élet útján Ő vezet, ó! miért is lennék én bús?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha tikkadt lelkem révedez, az élet vizét nyújtja; Majd táplál tiszta kenyérrel és hull az égi manna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg Jézus meg nem keresett, csak tévelyegtem árván; De pásztorolt és megszentelt, s az égi otthon vár rám.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Most körülvesz a szeretet és vár az örök élet, a jó pásztorról zengjen hát a boldog hálaének!</lines>
+    </verse>
+  </lyrics>
+</song>

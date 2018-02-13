@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:34">
+  <properties>
+    <titles>
+      <title>Nyisd meg a szemem</title>
+    </titles>
+    <copyright>S-006</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nyisd meg a szemem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nyisd meg a szemem, hadd láthassam Jézust, hadd érintsem Őt meg, hadd mondjam: Szeretlek! Nyisd meg a fülem, taníts meg figyelnem, nyisd meg a szívem, hadd töltse be Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meglátni Jézust és hallani hangját, most ez minden vágyam, hogy halljam és lássam. Csodálni fényét, szent isteni lényét, mert imádni méltó: Ő Úr és Megváltó.</lines>
+    </verse>
+  </lyrics>
+</song>

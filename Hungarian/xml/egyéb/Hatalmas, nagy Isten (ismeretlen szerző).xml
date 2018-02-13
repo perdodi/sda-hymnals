@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:49">
+  <properties>
+    <titles>
+      <title>Hatalmas, nagy Isten</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hatalmas, nagy Isten</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Hatamas, nagy Isten, mindenható. Csak egyedül Te vagy erős és jó. Szereteted árad az emberekre szét; áldásaid érzi minden szív, ki téged hív.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Száljon az ének Szent, nagy nevének! Szóljon dicséret, hogy Jézus az Úr! Hódolva zengjed meghajtva térded! Szóljon az ének, hogy Jézus az Úr!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Királíok Királya, Urak Ura. Dicséret és hála, Isten Fia. Szereteted árad az emberekre szét; áldásaid érzi minden szív, ki téged hív.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Meghalt teérted; már van örök élted! Zengjen dicséret, mert Jézus az Úr! Jöjj, és imádd Őt meghajtva térded! Szóljon az ének, mert Jézus az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

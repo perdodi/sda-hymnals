@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:54">
+  <properties>
+    <titles>
+      <title>Igaz szívvel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Igaz szívvel</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Igaz szívvel téged szolgállak, Uram, a lelkemből áldalak minden nap. Erőddel győzök minden utamon, nem félek bármi ér, igaz szívvel, követlek, mere mész.</lines>
+    </verse>
+  </lyrics>
+</song>

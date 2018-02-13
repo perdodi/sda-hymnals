@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:31:12">
+  <properties>
+    <titles>
+      <title>446. Te fáradt szív ott vár reád</title>
+    </titles>
+    <copyright>Hé-446, Üa-312</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Te fáradt szív ott vár reád...<br/><br/>Hitünk énekei<br/>446. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te fáradt szív ott vár reád küzdés után a pihenés. Oly édes lesz a nyugalom ott, hol nincs többé szenvedés.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Azért csendben várj és légy nyugodt, azért csendben várj és légy nyugodt, azért, azért várj csak és légy nyugodt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Utad kemény, lábad sebes, kereszted megsúlyosbodott, nézz fel, a menny vár ott reád, azért várj csendben s légy nyugodt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Légy csendben, hisz múlik az éj, Ím virrad már dicső napod! A távolból már tündököl; Várj csendben hát és légy nyugodt!</lines>
+    </verse>
+  </lyrics>
+</song>

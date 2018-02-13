@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:47:22">
+  <properties>
+    <titles>
+      <title>179. Ím, nagy Isten, most előtted</title>
+    </titles>
+    <copyright>Hé-179</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ím, nagy Isten, most előtted...<br/><br/>Hitünk énekei<br/>179. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ím, nagy Isten, most előtted szívem kitárom, menedékem nincs sehol a földi határon; Ha Te nem jössz bánatomhoz biztató szóval, italom könny, a kenyerem keserű sóhaj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha a világ nem tudná is számos bűnömet, Te előled elrejtenem semmit sem lehet; Látja Lelked minden bűnöm, melynek átka sújt: Vedd le rólam, ó! Úr Isten, vedd le ezt a súlyt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézusomra föltekintek a kereszt alatt, nincs szívemnek nyugodalma vétkeim miatt; Ó! ne büntesd, Uram, azt kit megtört a bánat: Szálljon reám irgalmadból béke, bocsánat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Fiadért, ki engemet vérén megváltott, hallgass meg, ha bűnbánattal hozzád kiáltok! Vigaszoddal térj kegyesen beteg szívemhez, hozzád térő gyermekednek, Atyám, kegyelmezz!</lines>
+    </verse>
+  </lyrics>
+</song>

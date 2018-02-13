@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:58">
+  <properties>
+    <titles>
+      <title>Itt van az Úr</title>
+    </titles>
+    <copyright>S-050</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Itt van az Úr</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Itt van az Úr, nyújtja két kezét, megragadhat Isten karja még. Itt az életem, összetört cserép, néked adom sebzett szívem hadd legyen tiéd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt van az Úr, nézd a két szemét, szívedben most béke lángja ég. Mint a kis virág, ontja illatát, Jézus fénye békessége árad így reád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Itt van az Úr, Jézus jön feléd, Ó, ne várj, most el ne engedd Őt. Mint a napsugár, tiszta égi fény, felragyog majd Jézus arca életed egén.</lines>
+    </verse>
+  </lyrics>
+</song>

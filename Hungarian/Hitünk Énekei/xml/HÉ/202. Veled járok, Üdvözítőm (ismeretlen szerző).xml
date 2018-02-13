@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:50:43">
+  <properties>
+    <titles>
+      <title>202. Veled járok, Üdvözítőm</title>
+    </titles>
+    <copyright>Hé-202</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Veled járok, Üdvözítőm...<br/><br/>Hitünk énekei<br/>202. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Veled járok, Üdvözítőm, őrízd, óvd a lépésem! Bármily úton vezetsz végig, Veled járok, Mesterem! Drága véred értem hullott, ez az üdvöm, jól tudom; Tied éltem véred árán, Veled járok, Jézusom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess engem rögös úton, vezess bármily ösvényen, bátran lépek lábnyomodba, Veled járok, Mesterem! Drága véred értem hullott, ez az üdvöm, jól tudom; Tied éltem véred árán, Veled járok, Jézusom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha súlyos próbák érnek, gonosz támad ellenem, mindezt már te elszenvedted, Veled járok, Mesterem! Drága véred értem hullott, ez az üdvöm, jól tudom; Tied éltem véred árán, Veled járok, Jézusom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogyha részem kínok terhe, s porba sújt le egészen, Te adsz nékem erőt akkor, Veled járok, Mesterem! Drága véred értem hullott, ez az üdvöm, jól tudom; Tied éltem véred árán, Veled járok, Jézusom!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha a Jordán sebes habja összezárul felettem, Te ott jóval előbb jártál, Veled járok, Mesterem! Drága véred értem hullott, ez az üdvöm, jól tudom; Tied éltem véred árán, Veled járok, Jézusom!</lines>
+    </verse>
+  </lyrics>
+</song>

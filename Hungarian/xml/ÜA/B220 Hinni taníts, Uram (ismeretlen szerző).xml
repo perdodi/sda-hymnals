@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:50">
+  <properties>
+    <titles>
+      <title>B220 Hinni taníts, Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hinni taníts, Uram<br/>B220</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hinni taníts, Uram, kérni taníts! Gyermeki, nagy hitet kérni taníts! Indítsd el szívemet, Buzduljon fel neked Gyűjteni lelkeket! Kérni taníts!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hinni taníts, Uram, kérni taníts! Lélekből, lelkesen kérni taníts! Üdvözítőm Te vagy, Észt, erőt, szívet adj, Lelkeddel el ne hagyj! Kérni taníts!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hinni taníts, Uram, kérni taníts! Gyorsan elszáll a perc, kérni taníts! Lásd gyengeségemet, Erősíts engemet, Míg diadalt nyerek: Kérni taníts!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hinni taníts, Uram, kérni taníts! Jézus, te visszajössz: várni taníts! Majd ha kegyelmesen Nézed az életem: Állhassak csendesen! Hinni taníts!</lines>
+    </verse>
+  </lyrics>
+</song>

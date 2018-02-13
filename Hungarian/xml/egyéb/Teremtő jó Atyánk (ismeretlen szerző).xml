@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:47">
+  <properties>
+    <titles>
+      <title>Teremtő jó Atyánk</title>
+    </titles>
+    <copyright>S-016</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Teremtő jó Atyánk...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Teremtő jó Atyánk mennyi szépséggel gondolt miránk! Mindent bölcsen alkotott, adott hat munkanapot, értünk áldotta meg a szombatot.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyugalom, boldogság, öröm tölti be az Úr napját. Uram, mutasd meg nekem ezen áldott ünnepen, milyen boldogító a kegyelem!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:48">
+  <properties>
+    <titles>
+      <title>B203 Az Isten Bárányára</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Isten Bárányára<br/>B203</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Isten Bárányára Letészem bűnöm én, És lelkem béke várja Ott a kereszt tövén. A szívem mindenestől Az Úr elé viszem, Megtisztul minden szennytől A Jézus vérében, A Jézus vérében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megtörve és üresen Adom magam neki, Hogy újjá ő teremtsen, Az űrt ő töltse ki. Minden gondom, keservem Az Úrnak átadom. Ő hordja minden terhem, Eltörli bánatom, Eltörli bánatom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örök kőszálra állva, A lelkem megpihen; Nyugszom Atyám házába’, Jézus kegyelmében. Az ő nevét imádom Most mindenek felett; Jézus az én Királyom, Imámra felelet, Imámra felelet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeretnék lenni, mint ő, Alázatos, szelíd; Követni híven, mint ő, Atyám parancsait! Szeretnék lakni nála, Hol mennyei sereg Dicső harmóniába’Örök imát rebeg, Örök imát rebeg!</lines>
+    </verse>
+  </lyrics>
+</song>

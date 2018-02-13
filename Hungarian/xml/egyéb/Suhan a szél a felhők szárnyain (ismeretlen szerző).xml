@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:39">
+  <properties>
+    <titles>
+      <title>Suhan a szél a felhők szárnyain</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Suhan a szél a felhők szárnyain</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Suhan a szél a felhők szárnyain. Ki tudja honnan jő és merre megy. Azt suttogja Isten szeret, érted is volt a Golgota és a kereszt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fúj a szél, szerte jár, megkeres és megtalál. Halkan szól, csendesen, megnyugszik a szíveden, vígasztal és megtanít megőrzi lépteid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Suhan a szél a felhők szárnyain. Ki tudja honnan jő és merre megy. Azt suttogja, ha fáradt vagy, Jézushoz jöjj, Ő néked is nyugalmat ad.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Fúj a szél, szerte jár, megkeres és megtalál. Halkan szól, csendesen, megnyugszik a szíveden, erőt ad és megsegít, hordozza a terheid.</lines>
+    </verse>
+  </lyrics>
+</song>

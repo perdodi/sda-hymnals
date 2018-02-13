@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:48">
+  <properties>
+    <titles>
+      <title>Tisztítsd meg szívem!</title>
+    </titles>
+    <verseOrder>i1 c1 v1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tisztítsd meg szívem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tisztítsd meg szívem, formáld Lelkeddel bennem, tudom rád van szükségem, hogy éljem benned az életem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kegyelmed várom, hogy használható legyek, benned van életem, belőled hadd merítsek! Szívemben uralkodjék szent Lellked, kérlek vidd véghez tervedet velem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyelmed várom, hogy szerethető legyek, benned van éltem, belőled hadd merítsek! Minden vágyam, szükségem Te betöltheted, kérlek, vondd magadhoz közel az éltem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kegyelmed várom, hogy vezethető legyek, benned van éltem, belőled hadd merítsek! Ha a Te országod, igazságod első nekem, tudom, minden mást magkapok Tőled.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kegyelmed enyém, így használhatsz teljesen, benned van életem, csak belőled merítek. Szívemben uralkodik szent Lelleked, tudom, véghez viszed tervedet velem!</lines>
+    </verse>
+  </lyrics>
+</song>

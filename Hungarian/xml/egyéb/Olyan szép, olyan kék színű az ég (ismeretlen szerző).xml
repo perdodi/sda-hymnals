@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:36">
+  <properties>
+    <titles>
+      <title>Olyan szép, olyan kék színű az ég</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Olyan szép, olyan kék színű az ég</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Olyan szép, olyan kék színű az ég, ragyogó a napsugár, túl a felhőkön vannak a csillagok, millió tengerár.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aki mindezt, oly bölcsen és jól megalkotta, Ő az égnek és földnek a teremtő Ura, Ő a mindenható, örökkévaló, Szent Isten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogyha nézem az erdőt, hegyeket, csoda szép ez a táj és a fákon az éneklés után elpihen a sok madár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A mezőkön, ha itt van a tavasz nyílik a sok virág, szinte hallom a lágyan zengő szél nagyszerű himnuszát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És a kertekben nyílik a gyümölcs, amikor itt a nyár, éltető eső önti a földeket feltűnik a szivárvány.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csodaszép köntöst öltenek a fák, amikor itt az ősz. elrepül a sok költöző madár, nagyra nő a kicsi őz.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Milyen szép, mikor bekopog a tél pelyhekben hull a hó, így a földeken vastagon, puhán lesz meleg takaró.</lines>
+    </verse>
+  </lyrics>
+</song>

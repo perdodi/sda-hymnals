@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:54">
+  <properties>
+    <titles>
+      <title>Hív már az Úr</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hív már az Úr<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hív már az Úr, hív az Úr, itt hagyom a földi gondokat. 2X</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ott fen majd flyton zeng a dal. Itt hagyom a földi gondokat. Ott nem lesz többé sírás, jaj. Itt hagyom a földi gondokat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, testvér, kelj föl, indulj el! Itt hagyom a földi gondokat. Mert Jézus mondta: kész a hely. Itt hagyom a földi gondokat</lines>
+    </verse>
+  </lyrics>
+</song>

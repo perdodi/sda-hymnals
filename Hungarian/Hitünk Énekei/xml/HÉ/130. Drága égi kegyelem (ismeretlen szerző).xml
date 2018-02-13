@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:33:11">
+  <properties>
+    <titles>
+      <title>130. Drága égi kegyelem</title>
+    </titles>
+    <copyright>Hé-130</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Drága égi kegyelem...<br/><br/>Hitünk énekei<br/>130. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Drága égi kegyelem, munkákodj a szívemben: Mosd le minden bűnömet, szabadíts meg engemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eddig bűnben jártam én, életemben nem volt fény. S égi hang ha szólított, szívem némán hallgatott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Segíts engem, Istenem, bűnbe többé ne essem; Békém benned meglelvén, néked éljek, higgyek én.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus esd most érettem fenn a Szentek Szentjében; Jóra int és Ő tart meg, mert az Isten szeretet.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:17">
+  <properties>
+    <titles>
+      <title>Ó, mily csodálatos</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, mily csodálatos</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, mily csodálatos, ha arra gondolok, hogy Jézus szeret engem. 2X</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, mily csodálatos, ha arra gondolok, hogy Jézus meghalt értem. 2X</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, mily csodálatos, ha arra gondolok, hogy Jézus eljön értem. 2X</lines>
+    </verse>
+  </lyrics>
+</song>

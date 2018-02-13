@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:27:22">
+  <properties>
+    <titles>
+      <title>435. Isten lelke éljen bennem</title>
+    </titles>
+    <copyright>Hé-435, Üa-223</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten lelke éljen bennem...<br/><br/>Hitünk énekei<br/>435. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten lelke éljen bennem Örök időkön át! Fogadd tőlem óh Mesterem Szívemnek háláját! Irtsd ki belőlem a rosszat, Hogy neked élhessek, Ha letelt a zarándoklat, Hogy hozzád mehessek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én Jézusom, jó pásztorom Immár tied vagyok! Tied szívem s akaratom, csak terád hallgatok! Hitben enyémnek nevezlek S óh mily nagy örömem! Óh hallgass meg hát, ha kérlek: Hogy te légy mindenem!</lines>
+    </verse>
+  </lyrics>
+</song>

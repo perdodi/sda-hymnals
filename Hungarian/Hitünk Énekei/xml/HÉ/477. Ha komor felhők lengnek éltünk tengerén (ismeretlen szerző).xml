@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:46:39">
+  <properties>
+    <titles>
+      <title>477. Ha komor felhők lengnek éltünk tengerén</title>
+    </titles>
+    <copyright>Hé-477, Üa-490</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ha komor felhők lengnek éltünk tengerén...<br/><br/>Hitünk énekei<br/>477. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha komor felhők lengnek éltünk tengerén, jön néha kétség s félelem felénk, akkor, óh nagy Mentőnk, szabadítsd meg népedet tomboló viharban lássunk Tégedet. Jézus, Te nagy megmentőnk óh vezess erős kézzel. Krisztus, isteni Mester, vígy partra fel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha viharfelhők fenyegetik hithajónk, már süllyedez is mélyre alattunk, akkor tenger Ura, nyújts sok vigaszt, kegyelmet, mentsünk lelkeket, hogy el ne vesszenek. Jézus, Te nagy irgalmú, adj mentő érzületet, ezzel, Urunk Megváltónk, szolgáljunk Néked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha este, későn fenn ragyog a csillagfény, hív minket haza égi zengemény, akkor óh nagy Mentőnk, Mennyországban adj helyet, túl a halál árján lehessünk Veled. Jézus, hatalmas Győző, kinek szél s vihar enged, Néked isteni Felség: Örök dicséret!</lines>
+    </verse>
+  </lyrics>
+</song>

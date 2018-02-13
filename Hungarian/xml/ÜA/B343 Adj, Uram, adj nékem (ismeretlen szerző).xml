@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:04">
+  <properties>
+    <titles>
+      <title>B343 Adj, Uram, adj nékem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Adj, Uram, adj nékem<br/>B343</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Adj, Uram, adj nékem Több áhítatot, Több békét szívembe, Több bűnbánatot, Több hitet Jézusban, Több munkakedvet, Több készséget jóra, Több éberséget!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Több hálát irántad, Több hű érzetet, Több reményt, bizalmat, Több szeretetet. Többet szánalomból. Több szíves könyört, Többet szelídségből, Több igaz könnyűt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Több tiszta érzelmet, Több béketűrést, Több erőt bűn felett, Több lelkesedést, Több mennyei vágyat, Jámbor életet, Adj világosságot, Add Szentlelkedet!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:37">
+  <properties>
+    <titles>
+      <title>Egy szív érettem dobogott</title>
+    </titles>
+    <copyright>Kicsiny kis fény-7. (35)</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Egy szív érettem dobogott</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egy szív érettem dobogott, egy szívnek nagy fájdalma volt. Egy szív engem hőn szeretett, egy szív érettem megrepedt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E szívben az irgalom élt, e szív szerette a szegényt. E szívben nem volt semmi folt, e szív Jézusom szíve volt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha szívedre búbánat száll, jöjj Jézushoz, mert szíve vár! E szívben van számodra hely, a szíved itt békére lel.</lines>
+    </verse>
+  </lyrics>
+</song>

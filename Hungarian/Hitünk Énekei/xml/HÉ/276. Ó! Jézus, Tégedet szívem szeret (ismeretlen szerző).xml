@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:55:14">
+  <properties>
+    <titles>
+      <title>276. Ó! Jézus, Tégedet szívem szeret</title>
+    </titles>
+    <copyright>Hé-276</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! Jézus, Tégedet szívem szeret...<br/><br/>Hitünk énekei<br/>276. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! Jézus, Tégedet szívem szeret, zsoltárban most Neked zeng éneket: Úr Jézus, Tégedet, Úr Jézus, Tégedet áld ez a szív, s híven szeret.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Békére vágytam én, bús volt szívem, de áttört égi fény a lelkemen. Most már csak Tégedet, most már csak Tégedet áld ez a szív, s híven szeret.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bár gond és gyötrelem most is kísér, Téged az énekem mégis dicsér. Halld meg ez éneket: Úr Jézus, tégedet áld ez a szív, s híven szeret.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És hogyha egykoron hív a halál, a végső sóhajom ég felé száll: Úr Jézus, Tégedet, Úr Jézus, Tégedet áld ez a szív, s híven szeret.</lines>
+    </verse>
+  </lyrics>
+</song>

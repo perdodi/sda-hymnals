@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:56">
+  <properties>
+    <titles>
+      <title>Isten fia</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten fia</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten fia, dícsérünk Téged! Jézus, Urunk, e dal Tiéd! Jöjj most, Isten Lelke, éledjen bennünk szeretet! Jézus, hálátadunk, megmentetél minket. Dicsérünk! Dicsérünk, áldozatodért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Életünk ajánljuk Néked. Fogadd szívünk, tisztítsd azt meg! Töltsd be szeretettel, tedd élő fává életünk! Huljon Lélekeső, mely felüdít minket. Dicsérünk! Dicsérünk, áldozatodért!</lines>
+    </verse>
+  </lyrics>
+</song>

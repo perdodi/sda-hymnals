@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:12">
+  <properties>
+    <titles>
+      <title>Égi Atyánk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Égi Atyánk</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Égi Atyánk, szeretünk Téged, fölemeljük most nagy és szent neved. Hozzád szálljon fel hódolat, dicséret, a Te országod épüljön ma fel!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hatalmas az Úr, Ő az Isten, ki volt, ki van és lesz mindörökké!<br/>Hatalmas az Úr, Ő az Isten, uralma végtelen!</lines>
+    </verse>
+  </lyrics>
+</song>

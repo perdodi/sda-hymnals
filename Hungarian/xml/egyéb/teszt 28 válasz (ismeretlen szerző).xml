@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:03">
+  <properties>
+    <titles>
+      <title>teszt 28 válasz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy gyékényből font kosárba tették, ami be volt kenve gyantával és szurokkal, és azt a Nílus vizének szélén a sás között helyezték el ott, ahol a Fáraó leánya szokott fürödni. II. Móz. 2,3-5.</lines>
+    </verse>
+  </lyrics>
+</song>

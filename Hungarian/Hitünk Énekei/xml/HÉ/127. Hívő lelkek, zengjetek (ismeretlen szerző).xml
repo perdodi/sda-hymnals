@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:32:42">
+  <properties>
+    <titles>
+      <title>127. Hívő lelkek, zengjetek</title>
+    </titles>
+    <copyright>Hé-127</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hívő lelkek, zengjetek...<br/><br/>Hitünk énekei<br/>127. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hívő lelkek, zengjetek diadalmas zsoltárt, mert a komor felhőkön vidám sugár tört át! Jeruzsálem, ujjongj hát, megszűnt már a bánat; Örvendezz e nagy napon, Jézusunk feltámadt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma a Lélek tavaszán győz a fény, az élet; A sír sötét éjéből Krisztus újraéledt. Hosszú, gyászos volt a tél, bűneinknek éje, és most mégis áttöré Jézus meleg fénye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluja! - zengjük most a feltámadottnak, Ki megtörte erejét sötétségnek, sírnak. Alleluja! - mi Atyánk, magasztaljon ének; Alleluja! néked is, éltet adó Lélek!</lines>
+    </verse>
+  </lyrics>
+</song>

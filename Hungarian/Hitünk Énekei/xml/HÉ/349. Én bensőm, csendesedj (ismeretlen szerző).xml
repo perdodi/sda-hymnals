@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:04:25">
+  <properties>
+    <titles>
+      <title>349. Én bensőm, csendesedj</title>
+    </titles>
+    <copyright>Hé-349</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én bensőm, csendesedj...<br/><br/>Hitünk énekei<br/>349. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én bensőm, csendesedj és nyugodj meg az Úrban; Ő adta kezdetben, s e nyugalomnap itt van. Szent szeretetben kell e napot töltenünk és Isten orcáját most buzgón keresnünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma öröm napja van, az Úr igéjét halljuk; Ez alkalmas idő, hogy nevét magasztaljuk! Ki ezt a szent napot szándékkal töri meg, az Isten gyermeke és híve nem lehet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hadd menjek én is el az Úrnak templomába! Ráhelyezem szívem az Úr szent oltárára. És megnyugodva most szent akaratában, csak azt mívelem én, mit üzen szavában.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:04">
+  <properties>
+    <titles>
+      <title>Jézus, te vagy az igazság</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 v1 e1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, te vagy az igazság</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Jézus, te vagy az igazság, ember fia, Isten fia. dicső király. Jézus, szent, tiszta Bárány, dicsőségben és fenségben vagy a mennyben.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A te királyságod eljön, s nem lesz vége mennyen s földön, mert a király oly hatalmas, az Ő igazsága örök.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eljössz felhőkben, nagy fényeségben, hatalommal és dicsőséggel. Jézus várunk! Urunk jövel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus te élő szeretet, a kegyelmet s igazságot te hoztad el. Jézus te mindörökké szent, dicsőségben és fenségben a mennyben.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>A te királyságod eljön, s ének lesz a földön, mert a király oly csodálatos, hogy betölt mindenkit az öröm. Eljössz felhőkben, nagy fényeségben, hatalommal és dicsőséggel. Jézus várunk! Urunk jövel!</lines>
+    </verse>
+  </lyrics>
+</song>

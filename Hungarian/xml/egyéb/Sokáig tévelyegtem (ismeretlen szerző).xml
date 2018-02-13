@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:39">
+  <properties>
+    <titles>
+      <title>Sokáig tévelyegtem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Sokáig tévelyegtem</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Sokáig tévelyegtem a bűnök éjjelen, és gyötré lelkem a kín, a szívem retegés, de Jézus talált reám, így hát, örvendhetek, mert elengedte vétkem, mindent jóvátett.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Már jó minden, most jó minden, mert megtaláltam, azt, ki mindent jóvátett!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Oly boldog vagyok most már, hogy Jézusom szeret; Mint zarándokkal Ő jár, az üdv útján vezet.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Szent karja erős, befed, ha szívem csüggedez, csak Őt kövtem híven, s mindent jóvá tesz.</lines>
+    </verse>
+  </lyrics>
+</song>

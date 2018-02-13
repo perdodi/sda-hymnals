@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:14">
+  <properties>
+    <titles>
+      <title>Én lelkem zengj</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én lelkem zengj</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én lelkem zengj szép zsoltárt, mondj buzgón háladalt; az Úrnak építs oltárt, ki őrző karján tart! Nagy felség örök Isten, kit minden lény imád, csak Téged áld a szívem, vedd hát hódolatát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily boldog az ki vallja a Jákób Istenét, az Ő kezére hagyja a teljes életét, mert ki az Úrban bízik, az meg nem szégyenül: az Úr megőrzi mindig, nem hagyja egyedül.</lines>
+    </verse>
+  </lyrics>
+</song>

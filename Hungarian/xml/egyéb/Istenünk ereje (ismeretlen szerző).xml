@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:58">
+  <properties>
+    <titles>
+      <title>Istenünk ereje</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istenünk ereje</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Istenünk ereje oly nagy: szétszorja ellenségeit. Semmivé teszi az Úr. Az erősek erejét. Fölvete mér a páncélt, a harcra készen áll.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Győzni fog igazságra, mikor Isten harcba száll. Egy harcos a mi Urunk! Együtt menetelünk! Egy harcos a mi Urunk! A győzelem miénk!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ébreszd fel harci kedved, Isten serege kelj fel! Harcolj a sötétség ellen, itt nincs megalkuvás, harcba gyajorlott kézzel lendüljünk támadásba.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Haladjunk előre bátran, mert a győzelem Istené!  Egy harcos a mi Urunk! Együtt menetelünk! Egy harcos a mi Urunk! Miénk a győzelem!</lines>
+    </verse>
+  </lyrics>
+</song>

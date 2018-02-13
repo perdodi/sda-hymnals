@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:26:19">
+  <properties>
+    <titles>
+      <title>432. Jézus szeretetéről énekelek</title>
+    </titles>
+    <copyright>Hé-432, Üa-202</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus szeretetéről énekelek...<br/><br/>Hitünk énekei<br/>432. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus szeretetéről énekelek, Arról ki először szeretett engem, Lejött a földre, hagyta az egeket: A "Golgotán szenvedett és halt értem."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Taníts hűen Téged szeretni, Taníts mindig, híven követni. Én magamtól mit sem tehetek, Vezess kedves Üdvözítőm, követlek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még mielőtt könnyeim folytak volna: Ő régen könnyeket hullatott értem, Még mielőtt gyenge imám lett volna: Ő már régen imádkozott érettem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ez az isteni szeretet végtelen, Nem foghatja fel sem az ég, sem a föld; Ez isteni szeretet, az intelem Megtisztítja lelkemet bűneimtől.</lines>
+    </verse>
+  </lyrics>
+</song>

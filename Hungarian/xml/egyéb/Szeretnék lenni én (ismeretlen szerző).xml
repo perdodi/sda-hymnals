@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:43">
+  <properties>
+    <titles>
+      <title>Szeretnék lenni én</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szeretnék lenni én</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szeretnék lenni én erőtlen és szegény,<br/>az Úr szolgálatában halász.<br/>Ez a munka csodás, oly szép a halfogás,<br/>Ezért ég bennem a munkaláz.<br/>A hálóm én vinném, a mélyvízbe vetném,<br/>hogyha benne csak egy is akad,<br/>Még azt is kivenném, az Úrhoz így vinném,<br/>Uram, hoztam neked egy halat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Már kora hajnalon, kis halászcsónakom,<br/>ott ring a hullámzó tengeren.<br/>Halfogás oly nehéz, nagy a hullámverés,<br/>de az Úr ad erőt énnekem.<br/>Halász akkor örül, ha fogás sikerül,<br/>Nekem is ez a vágyam, nem más.<br/>Uram, add meg nekem, hogy a  bűn tengerén,<br/>Hadd legyek én is egy jó halász.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lesznek tán napjaim, hogy a vízpartjain,<br/>Szétszakadt hálóim foltozom.<br/>Bánat arcomra ül, mert a hal elkerül,<br/>Mit tegyek Uram, Te jól tudod.<br/>Akkor Ő hozzám lép, a szívemre beszél,<br/>lesznek még ragyogóbb hajnalok,<br/>Jöjj te bús Péterem, jöjj halássz énvelem,<br/>Akkor újra véle indulok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeretnék lenni én erőtlen és szegény,<br/>az Úr szolgálatában halász.<br/>Ez a munka csodás, oly szép a halfogás,<br/>Ezért szívemből száll a fohász.<br/>Uram add meg nekem, hogy ifjú életem,<br/>Bűnöst hozzon hozzád, melyre vársz,<br/>Lelked erejével, kezemben igéddel,<br/>Hadd legyek én is emberhalász.</lines>
+    </verse>
+  </lyrics>
+</song>

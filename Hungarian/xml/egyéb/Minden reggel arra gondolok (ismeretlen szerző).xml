@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:24">
+  <properties>
+    <titles>
+      <title>Minden reggel arra gondolok</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Minden reggel arra gondolok</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Minden reggel arra gondolok, <br/>hogy mit jelent nekem az élet,<br/>Életcélom hol találhatom, <br/>ki ad feleletet ?<br/>Ez az Úr szava, a Biblia,<br/>szívem öröm tölti el.<br/>Jézusomra ott találtam én, <br/>az ajkam hálát énekel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldog ember az, kinek szívén, <br/>a lelkében hamisság nincsen.<br/>Bűnterhemtől roskadoz erőm, <br/>a békét keresem.<br/>Ez a Golgota, a Golgota,<br/>a szívem öröm tölti el,<br/>Jézusomra ott találtam én,<br/>az ajkam hálát énekel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden hívő menny felé tekint<br/>a visszatérő Jézust várva.<br/>Szentek szentje megnyilatkozik,<br/>a mennynek sátora.<br/>Örök Pásztorom, a Főpapom !<br/>A szívem öröm tölti el,<br/>Jézusomra ott találtam én,<br/>az ajkam hálát énekel.</lines>
+    </verse>
+  </lyrics>
+</song>

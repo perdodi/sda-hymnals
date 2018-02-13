@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:27">
+  <properties>
+    <titles>
+      <title>Mondd testvér, hová akarsz menni</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mondd testvér, hová akarsz menni</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mondd testvér, hová akarsz menni, az út sötét és meredek. Sok veszély vár rád itt testvérem, mondd mi az, mi úgy siettet?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mennyei hon felé futok, hol angyalok kara fogad, Megváltónkat dicsérjük zengve, az égi karokkal egyben.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sionba megyünk mi tehát, hol a szív ujjongva örül, Megváltónkat dicsérjük hárfán, angyalkarral szüntelenül.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mondd Jézusom, hogy induljak el, az úton, mely Tehozzád visz? A harc nehéz, mely utamon áll, úgy szeretnék megnyugodni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hát, jöjj velünk égi hazánkba az Úr oda hívogat át, Ő szeretni, szenvedni tanít és mennyei erőket ád.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mi ott leszünk együtt testvérek, hol Jézus Atyjának ad át, és általa a győzelmesek nyernek ékes díszkoronát.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jöjj mivelünk, örömmel hívunk! Szent egységben menjünk tovább, a győzelemre segíts Urunk, a megkezdett életpályán.</lines>
+    </verse>
+  </lyrics>
+</song>

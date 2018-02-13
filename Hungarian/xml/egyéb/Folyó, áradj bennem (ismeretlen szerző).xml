@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:43">
+  <properties>
+    <titles>
+      <title>Folyó, áradj bennem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Folyó, áradj bennem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Folyó, áradj bennem, tisztíts meg teljesen! Frissítsd fel, újítsd meg életemet, folyó, jöjj, árassz el!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Lélek, áradj bennem, vezess el Jézushoz, add, hogy imádjam és dicsérjen Őt, Szent Lélek, kérlek, jöjj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, uralkodj bennem, békédet add nekem, taníts, hogy minden nap hálás legyek, Uralkodj szívem!</lines>
+    </verse>
+  </lyrics>
+</song>

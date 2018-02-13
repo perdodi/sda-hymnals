@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:01:16">
+  <properties>
+    <titles>
+      <title>340. Felséges Isten, mennynek földnek Ura</title>
+    </titles>
+    <copyright>Hé-340</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Felséges Isten, mennynek földnek Ura...<br/><br/>Hitünk énekei<br/>340. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Felséges Isten, mennynek földnek Ura, ki híveidnek vagy kegyes gyámola, nyavalyájukban vagy vigasztalója és megtartója.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Te nagy napod és Te szent ünneped ma vagyon, Uram, a Te szent szombatod, mit hogy megüljünk, igen parancsoltad, mindennek hagytad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Törvényed ellen nem akarunk élni, kedvedet Néked nem akarjuk szegni, aszerint inkább akarunk mind járni, s Néked engedni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csak segélj minket, gyarló fiaidat, hogy szentelhessük először magunkat, annak utána a Te szombatodat, szent ünnepedet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mert igen gyarló sáredények vagyunk, a gonoszságra hajlandóbbak vagyunk, csak Te vagy, uram, az ellen gyámolunk, erős támaszunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tebenned bízunk, benned örvendezünk, néked könyörgünk, csak Téged imádunk, a Te nevedért légy kegyelmes nékünk, mi jó Istenünk.</lines>
+    </verse>
+  </lyrics>
+</song>

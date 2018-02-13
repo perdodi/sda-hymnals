@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:00">
+  <properties>
+    <titles>
+      <title>Jézus hív, hogy szabad lehess</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus hív, hogy szabad lehess</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus hív, hogy szabad lehess, ő megtart téged, hogy el ne ess. A sátán támad és legyőzni kész, gyere gyorsan, hátra ne nézz! Ó nézz fel végre és lásd: az Úr a király! Figyelj, halld meg a biztatást: ő vár, ő vár, ő vár rád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus hív, hogy szabad lehess, ő megtart téged, hogy el ne ess. A sátán támad és legyőzni kész, gyere gyorsan, hátra ne nézz! Rajtad nem lesz más hatalom, az Úr a király! Figyelj, itt az alkalom: ő vár, ő vár, ő vár rád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus hív, hogy szabad lehess, ő megtart téged, hogy el ne ess. A sátán támad és legyőzni kész, gyere gyorsan, hátra ne nézz! Gyere gyorsan, gyere gyorsan, gyere gyorsan, hátra ne nézz!</lines>
+    </verse>
+  </lyrics>
+</song>

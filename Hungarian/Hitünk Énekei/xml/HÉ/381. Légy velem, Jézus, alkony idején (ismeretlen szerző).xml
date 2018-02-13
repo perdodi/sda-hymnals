@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:33:10">
+  <properties>
+    <titles>
+      <title>381. Légy velem, Jézus, alkony idején</title>
+    </titles>
+    <copyright>Hé-381, S-020</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy velem, Jézus, alkony idején...<br/><br/>Hitünk énekei<br/>381. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Légy velem, Jézus, alkony idején, jön már az éjjel, egyre fogy a fény! És mikor érzem, mindenki elhagy, új erőt nyújt az, hogy Te velem vagy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak röpke szellő ez a földi lét, gond veszi át a vidám zaj helyét. Csak pusztulást és romlást lát szemem, változhatatlan Jézus, légy velem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nélküled, Jézus, én nem élhetek, hogy győzném le a kísértéseket? Kísérsz Te engem, fogván a kezem, napfényben, sötétben Te jársz velem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent karod védi gyönge lelkemet, könnyemet törli gyógyító kezed. Nem árthat nékem bűn és sírverem, győzök, ha mindvégig fogod kezem.</lines>
+    </verse>
+  </lyrics>
+</song>

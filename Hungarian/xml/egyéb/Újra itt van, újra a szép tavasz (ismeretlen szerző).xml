@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:21">
+  <properties>
+    <titles>
+      <title>Újra itt van, újra a szép tavasz</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Újra itt van, újra a szép tavasz</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Újra itt van, újra a szép tavasz, vígan énekel a kismadár, illatár a légben, dús zamat, díszbe öltözött a szép határ. Édes illat, édes érzemény, elmerengve, íme kérdem én:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ki olyan, mint Isten, ki szavára minden életárba jő a tél után. Őt imádja minden szüntelen, mind e létben, mind e lét után.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nemsokára eljő a tavasz, hosszú, hideg, lelki tél után. Nem lesz többé, nem lesz elmúlás, örök lesz az élet, ifjúság, Élet Ige, élet végtelen, ezt az egyet kérdem szüntelen:</lines>
+    </verse>
+  </lyrics>
+</song>

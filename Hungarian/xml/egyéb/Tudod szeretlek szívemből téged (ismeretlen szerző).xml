@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:48">
+  <properties>
+    <titles>
+      <title>Tudod szeretlek szívemből téged</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tudod szeretlek szívemből téged</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tudod szeretlek szívemből téged,<br/>Úr Jézus, dicső Király,<br/>szivárvány hídként kegyelmességed,<br/>az égből a földig áll.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Forrón dicsér imám,<br/>szálljon erőd reám!<br/>Emelj a mennybe, színed elébe,<br/>Úr Jézus, dicső Király.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs bennem érdem, alig hogy értem<br/>tervedben miért vagyok,<br/>körötted mennyben dicsérnek szebben,<br/>szolgáló szent angyalok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Frigyed van vélem, szent vőlegényem,<br/>Úr Jézus várok reád,<br/>jöhetsz már nappal, jöhetsz már éjjel,<br/>zálogod szívembe már.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hangod már értem, amely igédben<br/>hozzám is szólni akar,<br/>meglátlak egykor, kit most a fátyol<br/>előlem még eltakar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicső az óra, egy virradóra<br/>egek egéből leszállsz,<br/>viszed közülünk eklézsiádba<br/>kit végig hűnek találsz.</lines>
+    </verse>
+  </lyrics>
+</song>

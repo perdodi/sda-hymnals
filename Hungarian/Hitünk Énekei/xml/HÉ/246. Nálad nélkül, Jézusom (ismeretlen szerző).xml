@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-07T13:12:44">
+  <properties>
+    <titles>
+      <title>246. Nálad nélkül, Jézusom</title>
+    </titles>
+    <copyright>Hé-246</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nálad nélkül, Jézusom...<br/><br/>Hitünk énekei<br/>246. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nálad nélkül, Jézusom, boldogságom nincs nekem; Kereszted és kegyelmed békességem, mindenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Próbák súlyos keresztjét alázattal hordozom; Szereteted hirdetem, ez az én nagy vigaszom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha próba, szenvedés vár is vándorutamon, elviselem boldogan Érted, drága Jézusom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uram, kínos kereszted imádkozni megtanít; Próbák útja megaláz, mégis üdvösségre visz!</lines>
+    </verse>
+  </lyrics>
+</song>

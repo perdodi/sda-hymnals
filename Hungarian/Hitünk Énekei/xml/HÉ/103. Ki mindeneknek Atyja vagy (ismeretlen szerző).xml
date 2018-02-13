@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:28:27">
+  <properties>
+    <titles>
+      <title>103. Ki mindeneknek Atyja vagy</title>
+    </titles>
+    <copyright>Hé-103</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ki mindeneknek Atyja vagy...<br/><br/>Hitünk énekei<br/>103. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ki mindeneknek Atyja vagy, nézz irgalommal ránk és tiszta szívet adj nekünk, hogy Téged híven dicsérjünk Ó! mennyei Atyánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! add, hogy úgy, mint egykoron a csendes tó felett, hol zengett, Jézus, szózatod: mint ők is mentek mind legott hadd járjunk most Veled.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! Genezáreth partjai: Zöld halmaid felett, ott térdelt hajdan Mesterünk, hogy égi békét nyerhessünk a rút halál helyett.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hintsd ránk a béke harmatát, míg tart a küzdelem; Ó! űzd el lelkünk bánatát és drága Lelked öntsd ki ránk, hogy áldjunk szüntelen.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>És lázban égő szívünkre add égi balzsamod! Ki mindeneknek Atyja vagy, ó! adj erőt, ha szólít majd Te hívó szózatod!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:19">
+  <properties>
+    <titles>
+      <title>Menj, Ábrahám</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Menj, Ábrahám</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Menj, Ábrahám, menj, indulj még ma el,<br/>Menj, Ábrahám, menj, új otthon vár reád!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>És Ábrahám azonnal ment, elhagyta otthonát,<br/>Nem értette mit Isten mond, de elhitte szavát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne mondd barátom, hogy az más, mert más ma az idő,<br/>Isten szava övéihez örökérvényű.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mindaddig míg te kétkedel, Isten távol marad,<br/>De ha vele indulsz ma el, barátod Ő maga.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az első lépést megteszed, már akkor énekelsz.<br/>Dicsérlek Téged, Istenem, Ábrahám Istene!</lines>
+    </verse>
+  </lyrics>
+</song>

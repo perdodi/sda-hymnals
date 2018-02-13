@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:51:17">
+  <properties>
+    <titles>
+      <title>206. A lábnyomomban járjatok</title>
+    </titles>
+    <copyright>Hé-206</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A lábnyomomban járjatok...<br/><br/>Hitünk énekei<br/>206. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A lábnyomomban járjatok, - Én szólok így, a Mester; - Most fel, ti földi vándorok, és félre minden bűnnel; és hordozván keresztetek, csak engemet kövessetek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én példaképetek vagyok, az életem világít; Én senkit éjben nem hagyok, ki fény honába vágyik. Az út, az élet én vagyok, csak lábnyomomban járjatok!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi szívetekben kárt tehet, a bűnt mind elhagyjátok; Így élve tiszta életet az Isten útján jártok. Én Úr vagyok és kőszikla, a mennyországnak ajtaja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki rólam tudni nem akar, az életében kárt vall; Ki nékem adja életét, az győzve küzd az árral! Ki értem terhét felveszi: az üdvösségét elnyeri.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Én mindig küzdök értetek, és dönthetetlen állok, a harcban mindig részt veszek, és győzve síkra szállok; Ó! miért néznéd a rest szolgát, ki cserben hagyja táborát.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Csak járjunk híven lábnyomán és így hordjuk keresztünk; De békessége hassa át a szívünk és a lelkünk. Mert látja mind a fény honát, ki szívét néki adja át!</lines>
+    </verse>
+  </lyrics>
+</song>

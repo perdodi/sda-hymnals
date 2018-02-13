@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:36:21">
+  <properties>
+    <titles>
+      <title>451. Istennek népe készen légy</title>
+    </titles>
+    <copyright>Hé-451, Üa-346</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istennek népe készen légy...<br/><br/>Hitünk énekei<br/>451. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Istennek népe készen légy, az úr nagy napja jő feléd, a vőlegény nincs messze már felékesítve várj!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oly dicső lesz az a nap! Oly dicső lesz az a nap! Jövel hamar, jövel Uram, hozd fel nagy napodat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Istennek népe ne heverj, a leghasznosb munkára fel, mert Mestered nincs messze már munkád végezve várj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Istennek népe ne feledd, mire az Úr int tégedet, hogy hirtelen jő el a nap egy pillanat alatt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:38">
+  <properties>
+    <titles>
+      <title>Eljöttem Istenem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Eljöttem Istenem<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Eljöttem Istenem, imádni szent neved, a szívem kitárom neked. Kutasd át, kérlek, egész életem, fényed érjen szívem mélyére. Lelkemet szent véred mossa át Jézus, kérlek, tégy most szabaddá! Szentlélek jöjj, és tölts újra meg, és én teljes szívből imádom szent neved.</lines>
+    </verse>
+  </lyrics>
+</song>

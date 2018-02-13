@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:46">
+  <properties>
+    <titles>
+      <title>Hallelu, hallelu ... Áldott az Úr</title>
+    </titles>
+    <copyright>S-068</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hallelu, hallelu...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hallelu, hallelu, hallelu, halleluja, áldott az Úr.<br/>Hallelu, hallelu, hallelu, halleluja, áldott az Úr.<br/>Áldott az Úr, halleluja, áldott az Úr, halleluja, áldott az Úr, halleluja, áldott az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelu, hallelu, hallelu, halleluja, dicsérjük Őt.<br/>Hallelu, hallelu, hallelu, halleluja, dicsérjük Őt.<br/>Dicsérjük Őt, halleluja, dicsérjük Őt, halleluja.<br/>Dicsérjük Őt, halleluja, dicsérjük Őt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelu, hallelu, hallelu, halleluja, áldjátok Őt.<br/>Hallelu, hallelu, hallelu, halleluja, áldjátok Őt.<br/>Áldjátok Őt, halleluja, áldjátok Őt, halleluja.<br/>Áldjátok Őt, halleluja, áldjátok Őt.</lines>
+    </verse>
+  </lyrics>
+</song>

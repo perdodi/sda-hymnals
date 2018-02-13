@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T11:23:49">
+  <properties>
+    <titles>
+      <title>256. Lelkem drága Jézusa</title>
+    </titles>
+    <copyright>Hé-256</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Lelkem drága Jézusa...<br/><br/>Hitünk énekei<br/>256. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lelkem drága Jézusa, hozzád hajt a félelem, míg tombol a vad tusa, s nő a vész a tengeren. Rejts el, rejts el, itt ne hagyj, míg eláll a fergeteg; Biztonságos révet adj, s majd fogadd el lelkemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs nékem más enyhelyem, szívem Téged hív, keres; Maradj vélem Mesterem, őrízzél meg és szeress! Véled állom a vihart, hit és erő vagy, Te szent, szárnyad árnyával takard fejemet, a védtelent!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Téged vágylak, Krisztusom, Benned mindent meglelek; Segíts súlyos sorsomon: vak vagyok és nagybeteg! Szent szavadra hallgatok, tévedés az én bajom, én hamisság s bűn vagyok, Te igazság s irgalom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kegyelem vagy, égi ó, mely minden bűnt eltörül és gyógyító szent folyó, mely megtisztít legbelül. Életkút vagy, lüktetés, vízmerítni drága hely, ó! buzogj fel bennem és öröklétbe felemelj!</lines>
+    </verse>
+  </lyrics>
+</song>

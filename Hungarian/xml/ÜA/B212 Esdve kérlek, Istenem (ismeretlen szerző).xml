@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:49">
+  <properties>
+    <titles>
+      <title>B212 Esdve kérlek, Istenem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Esdve kérlek, Istenem<br/>B212</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Esdve kérlek, Istenem, Segíts bús terhemen! Vádol a múltam, Tettem és szavam Mosd le rólam bűnömet, Tisztíts meg engemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hűtlen voltam, jól tudom, Vétkem nem tagadom. Vádol a tettem, Ellened tettem. Jogos bár ítéleted, Áraszd rám kegyelmedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rejtsd el orcád vétkemtől, Tisztíts meg bűnömtől! Engedd, hogy halljak vigaszhangokat! Kérek Tőled új szívet, Kérem szent lelkedet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nyisd meg ajkamat, Uram, Dicsérjen a szavam! A megtört lelket Te el nem veted. Néked kedves áldozat: Tiszta szív, alázat.</lines>
+    </verse>
+  </lyrics>
+</song>

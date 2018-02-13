@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:24:55">
+  <properties>
+    <titles>
+      <title>428. Keresztény vagy?</title>
+    </titles>
+    <copyright>Hé-428, Üa-173</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Keresztény vagy?<br/><br/>Hitünk énekei<br/>428. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Keresztény vagy? Hőn lángol-e szereteted s törekszel-e élni e szavak értelmén: gyermek vagyok az Ő keblén, gyermek vagyok az Ő keblén!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keresztyén vagy? S végezetül kezed mért pihen tétlenül? Fel hát, míg nappal van és szólj ma egy léleknek Krisztusról, ma egy léleknek Krisztusról!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keresztyén vagy? Járulj tehát Istenhez, hőn mondva imát nézz föl, mert hallja kérésed, S akar segítni tenéked! S akar segítni tenéked!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csendben Isten előtt kérdezd míg bizonyítva érzed ezt, hogy Jézus által eljutál, hol igazság és Isten áll! Hol igazság és Isten áll!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Óh örök fény, hőn esdelek, világosíts és éltess meg; legyek fényednél örökre világosságnak gyermeke, világosságnak gyermeke!</lines>
+    </verse>
+  </lyrics>
+</song>

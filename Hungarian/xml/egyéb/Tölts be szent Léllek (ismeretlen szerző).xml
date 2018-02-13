@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:50">
+  <properties>
+    <titles>
+      <title>Tölts be szent Léllek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tölts be szent Léllek</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tölts be szent Léllek, (vígasztaló), Tölts be szent Léllek, (vígasztaló), Tölts be szent Léllek, (igazságot hozó), Tölts be szent Léllek, (vígasztaló) Isten ojja, ígérete.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aki törvényed írja szívemben, jöjj, zúgó szél, (elevenítő), emésztő tűz, (megszentelő) menyei eső, (lelket frissítő) járd át bensőm! Nyisd meg szemem, (nyisd meg értelmem).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szólj szelíden, (szóld szavát nekem) vezesd léptem, hogy elhiggyem, az Úr velem!</lines>
+    </verse>
+  </lyrics>
+</song>

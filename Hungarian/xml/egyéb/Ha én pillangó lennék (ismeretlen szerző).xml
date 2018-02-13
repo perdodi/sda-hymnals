@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:45">
+  <properties>
+    <titles>
+      <title>Ha én pillangó lennék</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ha én pillangó lennék...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha én pillangó lennék, szárnyaimnak örülnék,<br/>Ha én madárka lennék, vidáman csicseregnék,<br/>Ha én halacska lennék, a tengerekben lubickolnék,<br/>De köszönöm, hogy lehetek, aki, vagyok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert a szívemben élsz, és ez oly jó dolog,<br/>Kisgyermekként, már a Tiéd vagyok,<br/>És azt köszönöm, hogy én, pont én vagyok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha én elefánt lennék, ormányommal tülkölnék,<br/>Ha én kenguru lennék, egyből hozzád ugrálnék,<br/>Ha én egy polip lennék, alakomnak örülnék,<br/>De köszönöm, hogy lehetek, aki, vagyok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha én giliszta lennék, szép lassan araszolnék,<br/>Ha én krokodil lennék, bájosan mosolyognék,<br/>Ha én jegesmedve lennék, <br/>jó bundámban nem fáznék,<br/>De köszönöm, hogy lehetek, aki vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:40:53">
+  <properties>
+    <titles>
+      <title>464. Egy szép kis helyet ismerek</title>
+    </titles>
+    <copyright>Hé-464, Üa-430</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Egy szép kis helyet ismerek...<br/><br/>Hitünk énekei<br/>464. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egy szép kis helyet ismerek, hova oly szívesen megyek, ahol vár rám Isten szava, e hely a szombatiskola!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott ismertem meg Jézusom, ott lett ő a tulajdonom? Ahol ma is vár rám szava, e hely a szombatiskola!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mindig örömmel szaladok oda, hol csak jót tanulok; elmerülni szent szavában az én szombatiskolámban!</lines>
+    </verse>
+  </lyrics>
+</song>

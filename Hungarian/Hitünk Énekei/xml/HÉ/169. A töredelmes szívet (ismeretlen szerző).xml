@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:45:47">
+  <properties>
+    <titles>
+      <title>169. A töredelmes szívet</title>
+    </titles>
+    <copyright>Hé-169</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A töredelmes szívet...<br/><br/>Hitünk énekei<br/>169. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A töredelmes szívet, Te, Uram, szereted, az engedelmes lelket soha meg nem veted. Ezzel a reménységgel Tehozzád óhajtunk; Légy, kérünk, segítséggel és könyörülj rajtunk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:55">
+  <properties>
+    <titles>
+      <title>Illés napjai</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Illés napjai...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Most Illés napjait éljük és hirdetjük az Úr szavát. Ma Mózes szolgád napja virradt újra és igazságod végre helyreáll. Bár e nap próbákkal terhelt éhség van sötét és harc! De hangunk kiáltja a pusztákon át: készítsétek el az Úr útját.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Hát lásd Ő jön, fenn a felhőkön, ragyog mint a nap, ha kürtök hangja szól. Dicsérd Őt, az ünnep éve van, és a Sion hegyén jön megváltód.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ezékiel napjait éljük, a száraz csontra ismét hús kerül. Ma Dávid szolgád napját látjuk újra, a dicséretnek új templom épül. Új aratás napja jött el, a mezők már fehérlenek és mi mint a szőlőskert munkásai az Úr igéjét így hirdetjük ki:</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hát lásd Ő jön, fenn a felhőkön ragyog mint a nap, ha kürtök hangja szól. Dicsérd Őt, az ünnep éve van, és a Sion hegyén jön megváltód.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Nincs senki Hozzá méltó!<br/>Nincs senki Hozzá méltó!</lines>
+    </verse>
+  </lyrics>
+</song>

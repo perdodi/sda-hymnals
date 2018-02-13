@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:37:03">
+  <properties>
+    <titles>
+      <title>453. Mint a szép csillagok</title>
+    </titles>
+    <copyright>Hé-453, Üa-351</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mint a szép csillagok...<br/><br/>Hitünk énekei<br/>453. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mint a szép csillagok, mind, mind elmúlnak, ha a nap sugara a földre ér. Fűszálként az emberek is elhullnak, egy megmarad, mit Jézusért tettél!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Óh ez megmarad, ez el nem hervad, Soh' sem hervad, mit Jézusért tettél. Ha elhagyod a bűnt, szolgálsz az Úrnak, Soh' sem hervad, mit Jézusért tettél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Más fogja élvezni kezed munkáját; aratni nem te fogsz, ki vetettél. Csupán csak a feledékenység vár rád, egy megmarad, mit Jézusért tettél!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hű szolga, te ki vitézül harcoltál, buzgó munkádban majd összeestél; te megnyugszol, de az új földön marad gyümölcsként, amit Jézusért tettél!</lines>
+    </verse>
+  </lyrics>
+</song>

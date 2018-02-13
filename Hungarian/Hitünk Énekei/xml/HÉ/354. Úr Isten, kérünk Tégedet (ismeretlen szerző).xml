@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:23:44">
+  <properties>
+    <titles>
+      <title>354. Úr Isten, kérünk Tégedet</title>
+    </titles>
+    <copyright>Hé-354</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úr Isten, kérünk Tégedet...<br/><br/>Hitünk énekei<br/>354. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úr Isten, kérünk Tégedet: Keresztelj és moss meg minket és tisztíts meg kegyesen; A Krisztusnak szent vérével nagy bűneinket töröld el Szentlelked erejében. Amit e szent fürdő jegyez, mindent mibennünk megszerezz: Végy körül szerelmeddel, hogy a Te szövetségedben megmaradjunk mindvégiglen minden mi gyermekinkkel.</lines>
+    </verse>
+  </lyrics>
+</song>

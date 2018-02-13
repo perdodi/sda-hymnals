@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:55:20">
+  <properties>
+    <titles>
+      <title>323. Szent Isten, noha néked</title>
+    </titles>
+    <copyright>Hé-323</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szent Isten, noha néked...<br/><br/>Hitünk énekei<br/>323. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szent Isten, noha néked az egek ülő széked, ott dicsérnek Tégedet; Bíztat szent igéreted, hogy azért meg nem veted földön lakó népedet. Együtt vagy vélek, kikben alázatos a lélek. Mi is hát térdet hajtunk, hogy rajtunk könyörülj s kegyelmeddel fogadd el, mikor Tehozzád emel kezet ez a gyülekezet.</lines>
+    </verse>
+  </lyrics>
+</song>

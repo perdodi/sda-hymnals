@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:56:44">
+  <properties>
+    <titles>
+      <title>327. Jézus legyen a mi oltalmunk!</title>
+    </titles>
+    <copyright>Hé-327</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus legyen a mi oltalmunk!<br/><br/>Hitünk énekei<br/>327. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus legyen a mi oltalmunk! Tartsa szemmel minden léptünk míg mi újra egybe gyűlünk; Jézus legyen a mi oltalmunk! Jézusunk, oltalmunk földi vándorutunkon; Jézusunk, Krisztusunk, mindörökre Te vagy oltalmunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus legyen a mi oltalmunk! Védő szárnya alatt éljünk, égi mannát adjon nékünk; Jézus legyen a mi oltalmunk! Jézusunk, oltalmunk földi vándorutunkon; Jézusunk, Krisztusunk, mindörökre Te vagy oltalmunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus legyen a mi oltalmunk! Hogyha megkísért az élet, karja nyújtson segítséget; Jézus legyen a mi oltalmunk! Jézusunk, oltalmunk földi vándorutunkon; Jézusunk, Krisztusunk, mindörökre Te vagy oltalmunk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus legyen a mi oltalmunk! Égi szeretete által küzdjünk bátran vésszel, árral; Jézus legyen a mi oltalmunk! Jézusunk, oltalmunk földi vándorutunkon; Jézusunk, Krisztusunk, mindörökre Te vagy oltalmunk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:03">
+  <properties>
+    <titles>
+      <title>Jézus, jöjj közénk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, jöjj közénk</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus, jöjj közénk, még ma, kérünk Jézus, jöjj közénk, mind úgy várunk, Szívünk készen áll, kérünk jöjj ma már, Jézus szállj közénk, jöjj úgy várunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, gyógyítsd meg bűnös éltünk, Jézus, vedd el ma minden bűnünk, Tisztítsd szívünket, hasd át lelkünket, Jézus gyógyítsd meg bűnös éltünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldj meg bennünket, még ma, kérünk, Küldd Szentlelkedet, küld ma nékünk, Szívünk készen áll, Urunk jöjj ma már, Jézus légy velünk, légy vezérünk.</lines>
+    </verse>
+  </lyrics>
+</song>

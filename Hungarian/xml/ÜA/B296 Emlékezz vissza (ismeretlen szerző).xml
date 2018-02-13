@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:59">
+  <properties>
+    <titles>
+      <title>B296 Emlékezz vissza</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Emlékezz vissza<br/>B296</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Emlékezz vissza az útra, és Megtartódat áldd! Bármilyen sok volt a próba, Az mind javadra vált. Kőszikla hűs vizet ontott, S a völgyben manna várt. Bárhogy is tombolt az orkán, Ő hű karjába zárt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szóljon az ének az Úrról, Mert gazdag kézzel áld! Zengjen a hangod a múltról, Ő mindig véled járt. Bár  vadul támad a Sátán, De rajtad már nem győz. Támogat, őriz a Krisztus, A győztes égi Hős.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úgy szeret, úgy nevel téged, Mint atya gyermekét. Gondosan ápol és gyógyít, És szent kegyelme véd. Hűséged jó kötelékét, Ne tépje semmi szét! Szolgáld őt hűen a sírig, És áldjad nagy kegyét!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:55">
+  <properties>
+    <titles>
+      <title>Zeng az ének, zeng a kürt</title>
+    </titles>
+    <copyright>S-029</copyright>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Zeng az ének, zeng a kürt</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Zeng az ének, zeng a kürt, előre ifjúság! Lelki tábor harcmező az egész nagy világ! Harcba szállunk, mert a bűn tombol a föld terén. Szívünkben a hit, szeretet és remény.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fel ifjúság, fel ifjúság! Jézus a fővezér, fel ifjúság!<br/>Fel ifjúság, fel ifjúság! Jézus a fővezér, fel ifjúság!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bátor lélek, bátor szív: ez legyen jelszavunk! Jézussal mi biztosan diadalt aratunk. Csak előre ifjúság, győzzön a szép, a jó! Lengjen mindig fenn a fehér lobogó.</lines>
+    </verse>
+  </lyrics>
+</song>

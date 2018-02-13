@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:46:40">
+  <properties>
+    <titles>
+      <title>54. Nagy kegyelmed és jóságod</title>
+    </titles>
+    <copyright>Hé-054</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nagy kegyelmed és jóságod...<br/><br/>Hitünk énekei<br/>54. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nagy kegyelmed és jóságod, mint a tenger, végtelen! A Te áldott igazságod minden kincsnél több nekem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűnösöknek bűnbocsánat, kegyeseknek jutalom: Tengernyi kincs árad tőled véred által, Jézusom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten áldott, nagy kegyelmét soha fel nem foghatom; Szent szerelme mennyen, földön legcsodásabb hatalom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lelkünk gyarló, mégis érti, befogadja szent szavát; Napsugaras, derűs szívvel áldjuk örök jóságát.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:35">
+  <properties>
+    <titles>
+      <title>Nézz most rá</title>
+    </titles>
+    <verseOrder>i1 v1 c1 c1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nézz most rá</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Nézz most rá, itt van a perc. Szólj Hozzá, hisz mindig felel. Hidd el, elfogadja gyönge imád, Jézus vár, mindig vár rád!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Éld át a Lélek hatalmát! Ne add fel, hinned kell, győzelem vár rád! Lásd Őt, melleted áll, mert tudnod kell a cél nincs messze már!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Indulj el, fogd meg kezét! Elkísér, bármerre mész! Jézus hű barátod, számíthatsz rá. Megért Ő, szívedbe lát.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Érezd hát, nagyon szeret! Add át ma életedet! Nem vagy egyedül a gondjaiddal, lelkedből szóljon a dal!</lines>
+    </verse>
+  </lyrics>
+</song>

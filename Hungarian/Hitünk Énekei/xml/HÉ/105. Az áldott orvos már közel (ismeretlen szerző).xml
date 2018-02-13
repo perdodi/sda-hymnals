@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:28:48">
+  <properties>
+    <titles>
+      <title>105. Az áldott orvos már közel</title>
+    </titles>
+    <copyright>Hé-105</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az áldott orvos már közel...<br/><br/>Hitünk énekei<br/>105. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az áldott orvos már közel, a drága Mester: Jézus! A békét hozza néked el a vigasznyújtó Jézus! Mennyet, földet átható áldott név és drága szó: Téged zengni ó! mily jó Jézus, Jézus, Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! Isten áldott Báránya ím hittel áldlak, Jézus. E névben üdvöt leltem ma, e névben: Bárány Jézus. Mennyet, földet átható áldott név és drága szó: Téged zengni ó! mily jó Jézus, Jézus, Jézus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E név az éltem oltalma és senki más, csak Jézus. Ez áldott névnek dallama a legszebb nékem: Jézus. Mennyet, földet átható áldott név és drága szó: Téged zengni ó! mily jó Jézus, Jézus, Jézus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha vándorutunk véget ér és eljössz értünk Jézus, a megváltottak énekét majd zengjük néked, Jézus! Mennyet, földet átható áldott név és drága szó: Téged zengni ó! mily jó Jézus, Jézus, Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

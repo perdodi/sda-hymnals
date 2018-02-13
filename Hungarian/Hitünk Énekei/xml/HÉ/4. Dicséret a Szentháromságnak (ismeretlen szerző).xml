@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T17:12:53">
+  <properties>
+    <titles>
+      <title>4. Dicséret a Szentháromságnak</title>
+    </titles>
+    <copyright>Hé-004</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Dicséret a Szentháromságnak...<br/><br/>Hitünk énekei<br/>4. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dicséret a Szentháromságnak, egy örök Istennek, ki ura mindennek és teremtője a világnak. Csak övé légyen a dicsőség és a tisztesség!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicséret légyen az Atyának, ki teremtett épen és takargat szépen szárnyai alatt hatalmának, sőt gondot tart bűnös testemre s egész éltemre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicséret légyen a Fiúnak, ki értem testté lett, s minden bűnt eltörlött és hozzám nagy-bő irgalmúnak jelenti magát az életben s az ítéletben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicséret légyen Szentléleknek, ki engem megszentelt s magának pecsételt és vigassága a híveknek, ki vezérel az igaz hitre s örök életre.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicséret, áldás és dicsőség, erő és hatalom, örök birodalom, felmagasztalás és tisztesség légyen lelkemtől néked, Isten, mennyben és itten.</lines>
+    </verse>
+  </lyrics>
+</song>

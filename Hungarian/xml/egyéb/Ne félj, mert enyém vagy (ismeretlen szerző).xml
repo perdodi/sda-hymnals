@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:31">
+  <properties>
+    <titles>
+      <title>Ne félj, mert enyém vagy</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ne félj, mert enyém vagy</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ne félj, mert enyém vagy, ne félj, ne félj,<br/>Neveden hívtalak, szeretlek én.<br/>Enyém vagy, szeretlek, ne félj, ne félj,<br/>Én megváltottalak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kik bíznak az Úrban, van erejük,<br/>Szárnyra kelhetnek, mint saskeselyűk.<br/>Futnak, nem lankadnak, Ő van velük,<br/>És nem fáradnak el.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megtart a kegyelem, hit által élj.<br/>Kegyelem tart csak meg,<br/>ne kérkedjél.<br/>Hit által, Isten ajándékaként,<br/>Ó, nem tőled van ez.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldog, ki mindvégig hű marad,<br/>Mindent  örökségül nyerhet meg az,<br/>Győztesnek Jézus Krisztus ad<br/>Egy új írott nevet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aki hisz énbennem, szavamra áll,<br/>Halálból átment az életre már.<br/>Hol van a fullánkod, ó, halál?<br/>Legyőzve, győzve már!</lines>
+    </verse>
+  </lyrics>
+</song>

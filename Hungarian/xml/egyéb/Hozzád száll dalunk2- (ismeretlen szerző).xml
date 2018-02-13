@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:52">
+  <properties>
+    <titles>
+      <title>Hozzád száll dalunk2-</title>
+    </titles>
+    <verseOrder>i1 v1 c1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hozzád száll dalunk</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Hozzád száll dalunk s hála szavunk, Téged dicsérjen, Urunk! Életünk Tiéd, áldozatul, Hozzád vezessen, az utunk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jó Urunk, életünkkel szolgálunk. Te adtad örökül tisztaságod, az életünkkel szolgálunk.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dalunk száll feléd, nagy örömmel, Tisztán álunk már Eléd. Az igaz imánk Hozzád talál, Hozzád tartozunk régen már.</lines>
+    </verse>
+  </lyrics>
+</song>

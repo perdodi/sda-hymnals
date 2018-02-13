@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:28:25">
+  <properties>
+    <titles>
+      <title>438. Vigyázzatok és imádkozzatok</title>
+    </titles>
+    <copyright>Hé-438, Üa-236</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vigyázzatok és imádkozzatok...<br/><br/>Hitünk énekei<br/>438. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vigyázzatok és imádkozzatok, mert lelkünk Megváltója: Hű Urunk csak úgy lakik nálatok, ha ég hitetek lángja.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ébredjetek s vigyázzatok, fel bátran a munkára, hisz nemsokára eljuttok a boldogság honába.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meg ne szűnjetek hát imádkozni! Jézus küzdött értetek, a mennyben ügyetek képviseli, azért ne csüggedjetek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne feledjétek kötelességtek, míg szavát nem halljátok, miglen eljő dicső Mesteretek, s elközelget váltságtok.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:34:34">
+  <properties>
+    <titles>
+      <title>385. Elmúlt mér az óesztendő</title>
+    </titles>
+    <copyright>Hé-385</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elmúlt mér az óesztendő...<br/><br/>Hitünk énekei<br/>385. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elmúlt mér az óesztendő, Te vagy, uram, dicsérendő, hogy a múlt sok ínségében megtartottál kegyelmedben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fiú Isten, kérünk Téged, Te óvjál kegyesen minket, a Te anyaszentegyházad továbbra is oltalmazzad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne vond meg tőlünk igédet, mi lelki eledelünket; A tévelygéstől, bálványtól, Te őrízz minden gonosztól.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Add, hogy a bűntől elálljunk, szent s jámbor élethez fogjunk; Ne említsd régi bűnünket, de adj áldott esztendőket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jó keresztyénként élhessünk, Tebenned megpihenhessünk, s ha örömben feltámadunk, Veled örökké lakozzunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Örökké Téged így áldunk, az angyalokkal imádunk, hitünket, Jézus, erősítsd, nevedet bennünk dicsőítsd!</lines>
+    </verse>
+  </lyrics>
+</song>

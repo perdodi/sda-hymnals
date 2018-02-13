@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:01">
+  <properties>
+    <titles>
+      <title>Jézus tette szívünkbe</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus tette szívünkbe</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus tette szívünkbe ezt a dalt, világosság támadt bennünk, fény fakadt. Örüljünk és örvendezzünk Őbenne, itt az Úr jókedvének esztendeje!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ékesség a hamu helyett részünk, szabadságot adott Isten nékünk. Örömnek a kenetét gyász helyett, betöltött a szent Lélek és újjá tett!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézsu Krisztus közbenjár most érttünk, csügedésenk szelleméhez nincs közünk. Dicsőségnek palástjába öltözünk, Isten élő Igéje a fegyverünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus táncra fordította bánatunk, Őt, a Királyt ünnepeljük, vígadunk. Neveztetünk igzság fiának, az Úr dicsőségére, plántáinak.</lines>
+    </verse>
+  </lyrics>
+</song>

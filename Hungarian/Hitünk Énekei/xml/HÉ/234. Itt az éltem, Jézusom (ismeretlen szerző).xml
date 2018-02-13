@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-07T13:10:50">
+  <properties>
+    <titles>
+      <title>234. Itt az éltem, Jézusom</title>
+    </titles>
+    <copyright>Hé-234, S-066</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Itt az éltem, Jézusom...<br/><br/>Hitünk énekei<br/>234. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Itt az éltem, Jézusom, oltárodra áldozom! Néked adom kezemet, építsd vele művedet, építsd vele művedet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Add, hogy lábam gyors legyen, hogy szent igéd terjedjen. Add, hogy hangom zengje most üdvre hívó szózatod, üdvre hívó szózatod!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fogadd el az ajkamat, rá az ige mézét add! Vedd át minden kincsemet, szívem-lelkem a Tied, szívem-lelkem a Tied!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lelkem minden szándékát kedved szerint Te formáld! Íme, szívem, Jézusom, Néked szentelt örök trón, Néked szentelt örök trón!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Urald egész lényemet: lelkemet és szívemet, mindenestől hadd legyek mindörökké a Tied, mindörökké a Tied!</lines>
+    </verse>
+  </lyrics>
+</song>

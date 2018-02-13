@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:52:12">
+  <properties>
+    <titles>
+      <title>314. Atyánk, a Te gyermekeid</title>
+    </titles>
+    <copyright>Hé-314</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Atyánk, a Te gyermekeid...<br/><br/>Hitünk énekei<br/>314. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Atyánk, a Te gyermekeid összegyűltek e helyen, halld meg szívünk fohászait, igéd üdvre vezessen! Urunk, éltesd és üdítsd fel szent szavaddal szívünket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldásodnak árja folyjon, s gátja légy a vesztünknek. Lelked jóra, igazságra vezéreljen bennünket! Urunk, éltesd és üdítsd fel szent szavaddal szívünket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kegyelmeddel óvjál minket, menedékünk, Istenünk! Utunkon fényt, áldást hintve igéd legyen fegyverünk! Urunk, éltesd és üdítsd fel szent szavaddal szívünket!</lines>
+    </verse>
+  </lyrics>
+</song>

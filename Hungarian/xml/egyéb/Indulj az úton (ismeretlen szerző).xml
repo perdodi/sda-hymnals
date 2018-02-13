@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:56">
+  <properties>
+    <titles>
+      <title>Indulj az úton</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Indulj az úton</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Indulj az úton, előre nézz,<br/>Nem tántoríthat ezernyi vész.<br/>Életed útját végig kell járni,<br/>És az út végén Jézus fog várni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha néha gondok csüggesztenek,<br/>Bátran előre, fel a fejed !<br/>Gyalog kell menned, nem lehet szállni,<br/>De az út végén Jézus fog várni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szeresd a társad, segítsd meg őt,<br/>Ne hagyd a porban a csüggedőt !<br/>Ezen az úton együtt kell járni,<br/>És az út végén Jézus fog várni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Most mi is bátran elindulunk,<br/>Te vezess minket, s hozzád jutunk,<br/>Nem fogunk többé tétlenül állni,<br/>Mert az út végén Jézus fog várni.</lines>
+    </verse>
+  </lyrics>
+</song>

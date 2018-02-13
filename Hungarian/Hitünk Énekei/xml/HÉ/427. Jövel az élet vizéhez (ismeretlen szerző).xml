@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:24:34">
+  <properties>
+    <titles>
+      <title>427. Jövel az élet vizéhez</title>
+    </titles>
+    <copyright>Hé-427, Üa-168, S-110</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jövel az élet vizéhez...<br/><br/>Hitünk énekei<br/>427. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jövel az élet vizéhez, szomjazó és fáradott! Enyhül itt bűneid terhe, megszűnik gond s bánatod.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj hát ide, ne tétovázz! Itt égi üdv s örök nyugtot találsz. Itt van az élet forrása; gyógyhelyed ez egyedül!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj megújulni e vízhez, s hit hatja át szívedet; eltűnik itten a régi s kezdesz egy új életet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj hát e víz kútfejéhez, nézd milyen dúsan ömöl! Tiszta lesz ettől az elméd s zord kebeled felüdül.</lines>
+    </verse>
+  </lyrics>
+</song>

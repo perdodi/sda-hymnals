@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:16">
+  <properties>
+    <titles>
+      <title>Légy mindhalálig hű</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy mindhalálig hű</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Légy mindhalálig hű, mint az Üdvözítő; a szenvedésben is maradj sziklaszilárd hitű!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beszéde megmarad, s mint tőle vetted azt, úgy tartsd meg, és próbákon át megtart majd hű Urad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A hős nem lát halált, fön nyer fehér ruhát; megvallja az Atya előtt Krisztus a hű szolgát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki mindvégig híven küzd győzedelmesen, annak hol élet fája áll, örök gyümölcs terem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Arra, ki hű megáll, elrejtett manna vár; fehér kövecskén új nevet a győzelmes talál.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Légy hűséges tehát, őrizd urad szavát, és átadja a Hív s Igaz az életkoronát!</lines>
+    </verse>
+  </lyrics>
+</song>

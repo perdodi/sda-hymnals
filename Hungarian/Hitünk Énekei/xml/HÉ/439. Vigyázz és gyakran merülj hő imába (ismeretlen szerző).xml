@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:28:46">
+  <properties>
+    <titles>
+      <title>439. Vigyázz és gyakran merülj hő imába</title>
+    </titles>
+    <copyright>Hé-439, Üa-237</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vigyázz és gyakran merülj hő imába...<br/><br/>Hitünk énekei<br/>439. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vigyázz és gyakran merülj hő imába, kora reggel, midőn a nap felkél, Jézus legyen mindig a lelked vágya s akkor szívedben béke él.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mindenkor légy éber s vigyázz! Imádkozz és vigyázz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vigyázz a napnak minden óráiban, ha háborúság támad ellened. Ügyed vidd Isten elé hő imában s meglátod segít tenéked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vigyázz akkor, midőn beáll az este és örvendj annak, hogy Jézus tied. Mert biztonságban nyugszik lelke, teste, ki Őrá bízza mindenét. <br/>Chorus<br/>Mindenkor légy éber s vigyázz! Imádkozz és vigyázz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vigyázz mindenütt és minden időben, a világ tőrt vet sokféleképpen. A bűn mindig helyet keres a szívben! Kövesd hát Jézust mindenben.</lines>
+    </verse>
+  </lyrics>
+</song>

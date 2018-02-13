@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:41">
+  <properties>
+    <titles>
+      <title>B151 Mondj, szívem, dalt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mondj, szívem, dalt<br/>B151</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mondj, szívem, dalt és magasztald Jézus Krisztus szent nevét! Hálatelten, bűntől menten Dicsőítsed nagy kegyét! Kell csodálnod, hogyha látod Irgalmát, mely végtelen! Szívem zengjen s minden bennem Hálaérzést szüntelen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérd, hogy vére és igéje Tisztogassa lelkedet, Minden bűntől, átkos szennytől Óvja s védje szívedet! Higgyed végre, hogy a szíve Minden bűnöst elfogad, Bűnbánóknak, jobbulóknak Bő kegyelmet osztogat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zengj, szívem, dalt, és magasztald Jézus Krisztus szent nevét, Mert ő rólad bűnbéklyódat Diadallal törte szét! Nagy Megmentő, Üdvözítő, Benne éltünk rejtve van. Higgyünk benne hálát zengve, Üdvöt ád ő biztosan!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:18">
+  <properties>
+    <titles>
+      <title>B452 Úr Jézusunk, ó, légy velünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úr Jézusunk, ó, légy velünk<br/>B452</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úr Jézusunk, ó, légy velünk, S a Szentlelket küldd el nekünk, Hogy hitünkben erősítsen, S az igaz úton segítsen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adj ajkunkra új éneket, Gyújtsd szívünk mélyén tüzedet, Hadd értsen elménk mind többet, Ó, tedd erőssé hitünket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg fenn az égben zenghetünk: Szent, szent az Úr, mi Istenünk! S majd színről színre láthatunk, Égi dicsfényben állhatunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bő hálát mondjunk Istennek: Atya, Fiú, Szentléleknek, Szentháromság egy Istennek Vég nélkül zengjen dicsének!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:47">
+  <properties>
+    <titles>
+      <title>Teljes szívből</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Teljes szívből</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Teljes szívből (Teljes szívből) áldom neved (áldom neved)! Teljes lényem (Teljes lényem) zeng dicséretet (zeng dicséretet). Hozzád vágyom (Hozzád vágyom), minden napon (minden napon), hűen járok (hűen járok) az útadon, minden útadon.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hozzád szálljon minden hála, hozzád szálljon minden szó! Egyedül csak Te vagy méltó, nincsen senki Hozzád fogható!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Térdet hajtok (térdet hajtok), a Király előtt (a Király előtt), vedd az éltem (vedd az éltem), légy Úr minden fölött, mindenem fölött. Bátran nézek (bátran nézek) trónod felé (Szent trónod felé). Benned bízom (Benned bízom), csak Te adsz reményt, csak Te adsz reményt.</lines>
+    </verse>
+  </lyrics>
+</song>

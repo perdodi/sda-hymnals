@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:13">
+  <properties>
+    <titles>
+      <title>A mélyből hozzád száll szavam</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A mélyből hozzád száll szavam</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A mélyből hozzád száll szavam: Uram, irgalmazz! A bajban lelkem társtalan, Krisztus kegyelmezz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Segíts! Segíts! Ne hagyj! Ne hagyj! Nézd rámtör a bűn már! Te adj! Te adj! Erőt! Erőt! Krisztus kegyelmezz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha ajkam vétett ellened, ott van kegyelmed. A jó hírt zengem csak veled, ott van kegyelmed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha arcod fényét feledem, mégis felragyogsz. Te újból hívtál Istenem, oly boldog vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

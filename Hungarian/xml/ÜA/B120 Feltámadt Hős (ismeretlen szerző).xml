@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:38">
+  <properties>
+    <titles>
+      <title>B120 Feltámadt Hős</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Feltámadt Hős<br/>B120</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Feltámadt Hős, ó dics neked! Nagy győzedelmedért, nagy győzedelmedért! A bűntől megváltott sereg, Magasztal, áld, dicsér, magasztal, áld, dicsér, magasztal, áld, dicsér!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igazság Napja ó, mily szép, Felkelted mily dicső, felkelted mily dicső! Elűzöd a halál éjét, És fénnyel lépsz elő, és fénnyel lépsz elő, és fénnyel lépsz elő!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ott látlak téged, Istenem, Királyi székeden, királyi székeden. Fehér ruhában, üdv között Dicsérlek szüntelen, dicsérlek szüntelen, dicsérlek szüntelen!</lines>
+    </verse>
+  </lyrics>
+</song>

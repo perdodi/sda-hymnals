@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:12">
+  <properties>
+    <titles>
+      <title>Kék az ég, nap ragyog</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kék az ég, nap ragyog</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kék az ég, nap ragyog, minden oly szép,<br/>Jézusért itt élni jó és gyönyörűség,<br/>Ő az út, Ő a cél, Ő az érték,<br/>Nem cserélném senkivel sem el.<br/>Nem találtam nála szebbet, nem leltem sehol,<br/>Épp ezért a hálaének most is néki szól,<br/>Kék az ég, nap ragyog, minden oly szép,<br/>Jézusért itt élni jó és gyönyörűség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ami szép, ami jó, ami áldás,<br/>Tőle van a szívemben is e sugárzás.<br/>Tőle van, hogy hiszek, s benne élek,<br/>Hogy személyét láthatom, oly csodaszépnek.<br/>Ő a biztos pont e földön, Ő a támaszom,<br/>Hogyha vége lesz utamnak, vár az égi hon.<br/>Ami szép, ami jó, ami áldás,<br/>Tőle van a szívemben is e sugárzás.</lines>
+    </verse>
+  </lyrics>
+</song>

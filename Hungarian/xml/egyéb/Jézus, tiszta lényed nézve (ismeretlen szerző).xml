@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:04">
+  <properties>
+    <titles>
+      <title>Jézus, tiszta lényed nézve</title>
+    </titles>
+    <copyright>S-021</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, tiszta lényed nézve</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus, tiszta lényed nézve, lelkünk vágyik az égi fényre. Jöjj a szívünket átadjuk néked, töltsön el öröm, mennyei béke.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Világíts! Világíts! Jézus ragyogj, töltsd be szent, égi fénnyel éltünk. Szívünk tüzét, kérünk, gerjeszd fel. Hadd jusson el minden néphez e nagy kegyelem. Küldd szent tüzed, mindenhol fény legyen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miért kell, ó, az éjben járnunk, célt, reményt vajon hol találunk? Nem kell sírnod, nem kell félned, Jézus bűnné lett értem és érted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bárcsak Krisztus égi fénye rólunk visszatükröződne! Hadd látnák meg az emberek rajtunk, bűnünk terhétől megszabadultunk.</lines>
+    </verse>
+  </lyrics>
+</song>

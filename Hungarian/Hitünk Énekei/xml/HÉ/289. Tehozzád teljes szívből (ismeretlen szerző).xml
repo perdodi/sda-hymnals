@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:59:47">
+  <properties>
+    <titles>
+      <title>289. Tehozzád teljes szívből</title>
+    </titles>
+    <copyright>Hé-289</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tehozzád teljes szívből...<br/><br/>Hitünk énekei<br/>289. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tehozzád teljes szívből kiáltok szüntelen: e siralmas mélységből hallgass meg, Úr Isten! Nyisd meg Te füleidet, midőn Téged hívlak, tekintsd meg én ügyemet, mert régen óhajtlak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha, Uram, bűnünk szerint minket büntetnél meg: Uram, e világ szerint ki állhatna úgy meg? De a Te irgalmad nagy a téged félőkön és Te engedelmes vagy, hogy dicsérjen minden.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Énnékem reménységem vagyon csak Istenben és bízik az én szívem Ő szent igéjében. Én lelkem erős hittel az Urat óhajtja, mint a virrasztó éjjel a virradtát várja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Izráel, az Istenbe vesd reménységedet, mert szent irgalma bőven nagy messze kiterjedt. Ő megsegít mindenben, hívein könyörül, az Izráelt kegyesen kimenti bűnéből.</lines>
+    </verse>
+  </lyrics>
+</song>

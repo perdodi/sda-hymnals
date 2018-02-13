@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:16">
+  <properties>
+    <titles>
+      <title>Ma vígan énekelj</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ma vígan énekelj<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ma vígan énekelj, te föld! Ma álljatok az Úr előtt, ma lépjetek a trón felé,  az úr szent orcája elé!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ismerd előt, egész világ: az élet véle boldogság, mert ő teremtett, nem magunk, az Úr kegyelméből vagyunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr ezt jól kigondolta, hogy népét is megalkotta; E nyájban élni víg öröm, ha ő legeltet dús füvön.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicséretekkel áldjátok, ma szent nevét imádjátok, dicsénekben zengjetek, hálával énekeljetek!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Úrnak hála, tisztelet, kegyelme mily sokat tehet! Ezt mindenütt tapasztalom szívemben őt szolgálhatom.</lines>
+    </verse>
+  </lyrics>
+</song>

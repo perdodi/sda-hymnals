@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:48:58">
+  <properties>
+    <titles>
+      <title>190. Én érted haltam meg</title>
+    </titles>
+    <copyright>Hé-190</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én érted haltam meg...<br/><br/>Hitünk énekei<br/>190. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én érted haltam meg és ontám véremet, hogy így szerezzem meg az üdvösségedet. Én érted adtam életem, te mit adsz énnekem? Én érted adtam életem, te mit adsz énnekem?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A fényes égi trónt, az angyalsereget, én érted hagytam ott, hogy megmenthesselek. Én mindent érted hagytam el, te értem mit hagysz el? Én mindent érted hagytam el, te értem mit hagysz el?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A súlyos keresztet már vittem helyetted és égető könnyet már sírtam éretted! Én mindezt érted tűrtem el, te értem mit tűrsz el? Én mindezt érted tűrtem el, te értem mit tűrsz el?</lines>
+    </verse>
+  </lyrics>
+</song>

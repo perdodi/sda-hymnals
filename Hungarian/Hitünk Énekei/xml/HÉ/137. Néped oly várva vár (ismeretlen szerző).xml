@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:38:10">
+  <properties>
+    <titles>
+      <title>137. Néped oly várva vár</title>
+    </titles>
+    <copyright>Hé-137</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Néped oly várva vár...<br/><br/>Hitünk énekei<br/>137. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Néped oly várva vár! Jézusunk, jöjj el már, ez hő imánk. Töröld a könnyeket, gyógyítsd a szíveket, hozd el a szenteknek örök honát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Néped oly várva vár! Jézusunk jöjj el már, szívünk eped: Mentsd meg a csüggedőt, emeld fel, Jézus, őt, adj néki új erőt: Szentlelkedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Néped oly várva vár! Jézusunk, jöjj el már! Nagy Főpapunk, úgy várunk tégedet, áraszd ránk fényedet, adj örök életet, Úr Jézusunk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:41">
+  <properties>
+    <titles>
+      <title>Fel, mert közeleg az éjjel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fel, mert közeleg az éjjel<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fel, mert közeleg az éjjel, ifjú korodban fel! Jó reggel állj munkába, mert majd elkésel! Míg tart a nappal működj; Most, idején tedd ezt! Fel, mert közeleg az éjjel, s minden késő lesz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fel, mert közeleg az éjjel, fel életed delén! Jézusnak add erődet, még most idején! Jótettben előljárni: szent célod legyen ez! Fel, mert közeleg az éjjel, s minden késő lesz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fel, mert közeleg az éjjel, fel, ha a nap leszáll! Fel, ha az est int téged, s közeleg a homály! Fel, fel híven mindvégig, míg üt a végső perc! Fel, mert közeleg az éjjel, s minden késő lesz.</lines>
+    </verse>
+  </lyrics>
+</song>

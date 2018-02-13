@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:13">
+  <properties>
+    <titles>
+      <title>B413 Jézusomnak szent nevében</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézusomnak szent nevében<br/>B413</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézusomnak szent nevében Vízbe merítkeztem én; Néki adtam át az éltem, Már ez többé nem enyém. Élek, de többé nem én, Mert a Krisztus bennem él, Élek, de többé nem én, Mert a Krisztus bennem él!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Semmifélét itt e földön Többé úgy nem szeretek, Mint csak Jézust, kiben üdvöm, Boldogságom teljes lett.  Jézus az én gyönyöröm, Öt dicsérem örökkön, Jézus az én gyönyöröm, Őt dicsérem örökkön!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, világ, ne csábíts többé, Rád én úgysem hallgatok; Szívem, lelkem immár övé, Istenemnek szolgálok.  Nem kell nékem e világ, Jézus az, ki üdvöt ád, Nem kell nékem e világ, Jézus az, ki üdvöt ád!</lines>
+    </verse>
+  </lyrics>
+</song>

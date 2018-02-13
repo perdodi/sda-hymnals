@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:08">
+  <properties>
+    <titles>
+      <title>B367 Jézus, téged kereslek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, téged kereslek<br/>B367</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus, téged kereslek, békességre vágyva. Űzött, hajszolt életem, látod, milyen árva. Engedj közel magadhoz, s szólj hozzám szelíden, Igéd áldott vigasza csöndesítse szívem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, téged kereslek, mikor bűnöm éget. Meddő gyötrődésemnek Csak Te vethetsz véget. Oldozzál fel Igéddel, mikor szívem vádol. Ments ki bocsánatoddal ördög hatalmából!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, téged kereslek, erőt, áldást kérve: Felebarátaimnak ne legyek terhére! Tőled való örömöm hadd ragyogjon másra: Legyek minden embernek gyámolító társa!</lines>
+    </verse>
+  </lyrics>
+</song>

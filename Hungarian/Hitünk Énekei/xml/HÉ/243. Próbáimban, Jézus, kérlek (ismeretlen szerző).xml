@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-07T13:12:16">
+  <properties>
+    <titles>
+      <title>243. Próbáimban, Jézus, kérlek</title>
+    </titles>
+    <copyright>Hé-243</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Próbáimban, Jézus, kérlek...<br/><br/>Hitünk énekei<br/>243. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Próbáimban, Jézus, kérlek, légy velem, el ne tántorodjék Tőled életem; Ha megrettent a vész, vagy ha öröm ér, elszakadnom Tőled ne hagyj semmiért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha e világ bűne engem hívogat, nagy csalárdul kínál hitványságokat: Szemem elé állítsd szenvedésidet, vérrel koronázott, szent keresztedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tisztogass bár bajjal olykor engemet: Kegyelmeddel szenteld szenvedésemet; Erőtlen bár testem, Te oltárodon keserű pohárral, hittel áldozom.</lines>
+    </verse>
+  </lyrics>
+</song>

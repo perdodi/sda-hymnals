@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:35">
+  <properties>
+    <titles>
+      <title>O, fill it up</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>O, fill it up</lines>
+    </verse>
+    <verse name="v1">
+      <lines>F: O, fill it up,<br/>     L: Fill my cup and let it owerflow<br/>F: O, fill it up,<br/>     L: Fill my cup and let it owerflow<br/>F: O, fill it up,<br/>     L: Fill my cup and let it owerflow<br/>E: Let it owerflow with love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>F: Amazing grace<br/>     L: Amazing grace how sweat the sound<br/>F: That saved a wretch<br/>     L: That saved a wretch like me.<br/>F: I once was lost<br/>     L: I once was lost but now am found<br/>E: Was blind but now I see.</lines>
+    </verse>
+  </lyrics>
+</song>

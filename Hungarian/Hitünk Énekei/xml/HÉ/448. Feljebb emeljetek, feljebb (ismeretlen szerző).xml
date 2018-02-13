@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:31:54">
+  <properties>
+    <titles>
+      <title>448. Feljebb emeljetek, feljebb</title>
+    </titles>
+    <copyright>Hé-448, Üa-320</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Feljebb emeljetek, feljebb...<br/><br/>Hitünk énekei<br/>448. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Feljebb emeljetek, feljebb a bűn gyászos éjiből! Ott a helyem Jézus mellett, éltét értem adta fel! Szálljon, szálljon angyal szárnya, elragadva vigyen el, vigyen fel a Golgotára, hol megváltott vérével!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Feljebb emeljetek, feljebb, fájdalmaim árjából! Egyre éget, sajog a seb szenvedésem lángjától! Szálljon, szálljon angyal szárnya, fönn a tábor ormain, hol fénylett áldott orcája könnyen gyógyul ott a kín!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feljebb emeljetek, feljebb, ez csak gyötrelem hona! Mind közelebb és közelebb, hol a mennynek sátora! Szálljon, szálljon angyal szárnya, lássam már az ég Urát! Föl Sionnak szent halmára, nyissátok szent kapuját!</lines>
+    </verse>
+  </lyrics>
+</song>

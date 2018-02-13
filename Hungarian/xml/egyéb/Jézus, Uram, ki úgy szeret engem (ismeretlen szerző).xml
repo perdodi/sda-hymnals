@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:03">
+  <properties>
+    <titles>
+      <title>Jézus, Uram, ki úgy szeret engem</title>
+    </titles>
+    <copyright>S-043</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, Uram, ki úgy szeret engem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus, Uram, ki úgy szeret engem, bűnömért kínhalált halt a kereszten, szent vére árán megváltott, így az Övé vagyok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mesterem nékem Jézus, elhívott engem Ő. Nemcsak a földi évekre, egy örök életre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jártam a bűnben megkötözötten, de Jézus békét és üdvöt ad nékem, megszabadultan járhatok, mert az Övé vagyok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ujjongó ének tölti be szívem, győzelem és erő serkenti léptem, az ő szavára indulok, mert az Övé vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

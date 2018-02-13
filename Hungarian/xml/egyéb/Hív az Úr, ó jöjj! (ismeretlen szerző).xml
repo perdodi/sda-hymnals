@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:54">
+  <properties>
+    <titles>
+      <title>Hív az Úr, ó jöjj!</title>
+    </titles>
+    <copyright>S-001</copyright>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hív az Úr, ó jöjj!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Napról napra hallhatod, szemeikben láthatod, üres fény és fájdalom tükröződik arcukon. Oly sok ember szenved még, s félelemben él. Kiáltásukat csupán Jézus hallja jól.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hív az Úr, ó jöjj! Hív az Úr, ó jöjj! Ahol nincsen már remény, segítség Te légy! Hív az Úr, ó jöjj! Hív az Úr, ó jöjj! Mikor szólal meg szíved, ha hív az Úr, jövök!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Azért hívott minket el, hogy a fényét hintsük el. Mi lehetne fontosabb: üzenetét továbbadd. Erejével támogat, adjad át magad. Örökélet Igéjét mi vihetjük szét.</lines>
+    </verse>
+  </lyrics>
+</song>

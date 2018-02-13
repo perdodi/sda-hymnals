@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:25">
+  <properties>
+    <titles>
+      <title>Minden új nap</title>
+    </titles>
+    <verseOrder>i1 o1 o2 o2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Minden új nap...</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Minden új nap Veled kezdődik el, megtöltöd szívem kincseiddel. Szentséged szépsége megújít engem, Te vagy szerelmesem!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Jövök Hozzád, kegyelmedbe, folyó, mely árad, mosson meg engem! Tisztítson meg teljesen! Te vagy szerelmesem.</lines>
+    </verse>
+  </lyrics>
+</song>

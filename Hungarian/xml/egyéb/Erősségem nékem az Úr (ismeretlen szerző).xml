@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:40">
+  <properties>
+    <titles>
+      <title>Erősségem nékem az Úr</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Erősségem nékem az Úr<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Erősségem nékem az Úr, Ő a harcban a megtartó. És Ő nékem oltalmazóm, az Úr harcól, fel övezi derekát megfutamítja az elenség táborát. az Úr hangjától reszket az egész föld, veszetébe rohan a gonosz, és az igaz örül!</lines>
+    </verse>
+  </lyrics>
+</song>

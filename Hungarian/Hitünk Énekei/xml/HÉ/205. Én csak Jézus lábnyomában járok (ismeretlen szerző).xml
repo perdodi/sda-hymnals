@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:51:09">
+  <properties>
+    <titles>
+      <title>205. Én csak Jézus lábnyomában járok</title>
+    </titles>
+    <copyright>Hé-205</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én csak Jézus lábnyomában járok...<br/><br/>Hitünk énekei<br/>205. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én csak Jézus lábnyomában járok, Benne rejtem el az életem! Senki másban üdvöt nem találok Nála van az örök életem, Nála van az örök életem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hegyen-völgyön vezeti a léptem, vígan járom vándorutamat; Hogyha folyton égi fényét nézem, megtalálom örök honomat, megtalálom örök honomat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vigyáz rám, így nyugodt szívvel alszom, vidám szívvel véle ébredek: Erőt ád, míg tart e földi harcom és ha győztem, véle élhetek, és ha győztem, véle élhetek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szívem hozzá bizalommal térhet: Ellát minden jóval engemet. Kegyelmében, irgalmában élek, Jézus őrzi gyönge lelkemet, Jézus őrzi gyönge lelkemet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Boldog szívvel járom már a pályám, tudom, Jézus végül hazahív... S ott majd egykor égi vacsoráján hálatelten dicséri e szív, hálatelten dicséri e szív!</lines>
+    </verse>
+  </lyrics>
+</song>

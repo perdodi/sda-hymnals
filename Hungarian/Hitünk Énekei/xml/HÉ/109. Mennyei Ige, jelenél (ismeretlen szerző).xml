@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:29:34">
+  <properties>
+    <titles>
+      <title>109. Mennyei Ige, jelenél</title>
+    </titles>
+    <copyright>Hé-109</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mennyei Ige, jelenél...<br/><br/>Hitünk énekei<br/>109. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mennyei Ige, jelenél, örök Atyától kijövél, testet magadra felvevél, s abban minket üdvözítél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy Atyánknak Igéje, kit Ádámnak megígére és Ábrahámnak hirdete, Dávidnak is megjelente.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Világosítsd meg elménket, szenteld meg a mi szívünket, hogy ismerhessünk Tégedet, utálhassuk bűneinket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Erősítsd bennünk hitünket, nyerhessük üdvösségünket; Te légy minékünk épület, út, igazság, örök élet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogy mikor eljössz ítélni, minden szív titkát kivenni, a jóknak minden jót adni, a gonoszokat büntetni.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Akkor tőled bűneinkért ne vess el; Lám Te azokért magas keresztfán ontál vért: Sőt üdvözíts érdemedért!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicséret és nagy dicsőség, adassék néked tisztesség, ki Atyával egy Istenség, Szentlélekkel vagy egy Felség.</lines>
+    </verse>
+  </lyrics>
+</song>

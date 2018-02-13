@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:50">
+  <properties>
+    <titles>
+      <title>Hiszek én az Úr Istenben</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hiszek én az Úr Istenben</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hiszek én az Úr Istenben, aki mindent alkotott,<br/>Eget, földet Ő teremtett, napot, holdat, csillagot,<br/>Mire van szükségünk, tudja, meg is adja mind nekünk,<br/>Szabad így fordulnunk Hozzá; mi Atyánk, jó Istenünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hiszek én az Úr Jézusban, aki Isten szent Fia,<br/>Idejött a mennyből hozzánk, hogy az éltét áldozza,<br/>A kereszten meghalt értünk, szabad így lett életünk,<br/>Ha szívünkben trónra léphet, <br/>az Övéi úgy leszünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hiszek én a Szentlélekben,<br/>aki itt él szívemben,<br/>S noha sokszor megbántottam,<br/>soha nem hagy elvesznem.<br/>Atya, Fiú és Szentlélek,<br/>ez a három egy Isten,<br/>Neked, áldott Szentháromság,<br/>legyen áldás szüntelen.</lines>
+    </verse>
+  </lyrics>
+</song>

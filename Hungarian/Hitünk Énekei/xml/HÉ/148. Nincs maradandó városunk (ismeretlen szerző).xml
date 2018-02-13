@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:40:19">
+  <properties>
+    <titles>
+      <title>148. Nincs maradandó városunk</title>
+    </titles>
+    <copyright>Hé-148</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nincs maradandó városunk...<br/><br/>Hitünk énekei<br/>148. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nincs maradandó városunk a földön, ahol lakozunk; De szívünk, lelkünk boldog már, mert örökségünk készen vár, mert örökségünk készen vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs maradandó városunk; Az égi honba vágyódunk, mert Sionban nincs elmúlás, csak fény van ott és ragyogás, csak fény van ott és ragyogás!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! Édes, égi örök hon! Te áldott békés otthonom; A vágyak szárnyán Istenem, a szívem hozzád emelem, a szívem hozzád emelem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csak várj én szívem, csitulj el;  A boldog nap még nem jött el, csak tegyed azt, mit Isten mond; S az újföldön lesz otthonod, S az újföldön lesz otthonod.</lines>
+    </verse>
+  </lyrics>
+</song>

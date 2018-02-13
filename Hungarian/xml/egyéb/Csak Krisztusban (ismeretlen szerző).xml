@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:33">
+  <properties>
+    <titles>
+      <title>Csak Krisztusban</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Csak Krisztusban</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csak Krisztusban kaptam reményt, új örömet, új életcélt. Őrá mindig számíthatok, bármilyen nagy próbát kapok. Szerelme lángja égig ér, békéje mélyebb tengernél. Hű pártfogóm, Ő mindenem, nagy szeretettel véd engem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Krisztusban, ki gyermek lett, Isten a földön megjelent. Úgy jött ide, mint ajándék, menteni jött, de Őt verték. Míg értünk halt a kereszten, kiengesztelte az Istent. A bűnöm mind Őrajta volt, így nekem életet adott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg teste sírban nyugodott, gondolták a Fény halott. De harmadnap feljött a nap, Krisztus a sírból feltámadt. Most már Ővé a győzelem, megszabadult az életem. Én az Övé, Ő az enyém, áldozatának érdemén.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nincs több bűnvád, rémes halál, Krisztus bennem él most már, és bölcsőmtől a síromig Ővele eldőlt sorsom is. Sem nem pokol, sem emberek kezéből már ki nem vehet. Míg visszatér és mennybe hív, nagy diadalban részesít.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Sem nem pokol, sem emberek kezéből már ki nem vehet. Míg visszatér és mennybe hív, nagy diadalban részesít.</lines>
+    </verse>
+  </lyrics>
+</song>

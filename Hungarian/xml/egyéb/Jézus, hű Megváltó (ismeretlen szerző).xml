@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:03">
+  <properties>
+    <titles>
+      <title>Jézus, hű Megváltó</title>
+    </titles>
+    <copyright>S-057</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, hű Megváltó</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus hű Megváltó, Isten áldott Szentje, Égi Főpap, Úr és Király, Béke hírnöke.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hála néked Bárány, mert Atyám lett az Isten, és elküldted Lelkedet, hogy megtartsd életem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus hű Megváltóm! Nem adatott más név, amely által éltem lenne s üdvre juthatnék.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elé állok egykor, színről színre látom. Dicső fénye rám ragyog majd, s Krisztus lesz Napom.</lines>
+    </verse>
+  </lyrics>
+</song>

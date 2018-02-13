@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:21:26">
+  <properties>
+    <titles>
+      <title>418. Jön az ég és föld királya</title>
+    </titles>
+    <copyright>Hé-418, Üa-128</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jön az ég és föld királya...<br/><br/>Hitünk énekei<br/>418. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jön az ég és föld királya népe millióival. Üdvözlünk nagy ember fia, zengő hálaadással! Halleluja! Üdvözlünk Isten fia! Halleluja! Üdvözlünk Isten fia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Menny, föld s tenger mind elmúlnak, mit kezdetben alkotál; Ellenségid elnémulnak, ha hallják a trombitát: "Jöjjetek be, álljatok a trón elé! Jöjjetek be, álljatok a trón elé!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kicsinyei, kik szeretik, látják gyönyörűségét, dicsősége rajtok fénylik s üdv tölti a bú helyét. Mesteretek felhőben jő elétek! Mesteretek felhőben jő elétek!</lines>
+    </verse>
+  </lyrics>
+</song>

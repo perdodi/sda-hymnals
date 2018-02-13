@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:36">
+  <properties>
+    <titles>
+      <title>Drága Szentlélek jöjj!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Drága Szentlélek jöjj!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Drága Szentlélek jöjj, Vigasztalónak jöjj!<br/>Drága Szentlélek jöjj, Vigasztalónak jöjj!<br/>Jöjj és vidámíts meg, jöjj és vigasztalj meg!<br/>Drága Szentlélek jöjj, Vigasztalónak jöjj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drága Szentlélek jöjj, Szabadítónak jöjj!<br/>Drága Szentlélek jöjj, Szabadítónak jöjj!<br/>Jöjj és szabadíts meg, jöjj és vigasztalj meg!<br/>Drága Szentlélek jöjj, Szabadítónak jöjj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drága Szentlélek jöjj, Bátorítónak jöjj!<br/>Drága Szentlélek jöjj, Bátorítónak jöjj!<br/>Jöjj és erősíts meg, jöjj és szabadíts meg!<br/>Drága Szentlélek jöjj, Bátorítónak jöjj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Drága Szentlélek jöjj, Újjáteremtőnek jöjj!<br/>Drága Szentlélek jöjj, Újjáteremtőnek jöjj!<br/>Jöjj, tüzed éleszd fel, jöjj és erősíts meg !<br/>Drága Szentlélek jöjj, Újjáteremtőnek jöjj!</lines>
+    </verse>
+  </lyrics>
+</song>

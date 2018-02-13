@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:15">
+  <properties>
+    <titles>
+      <title>Ó Jézus, életem reménye</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 e1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó Jézus, életem reménye</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó Jézus, életem reménye, ha leszáll az alkonyat, menedékem légy Te, magamra ne hagyj! Ó légy közel, mikor az este messze űz egy szép napot, s a sok kedves arcot már nem láthatom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, ó Jézus, csak veled legyek! Jézus, ó Jézus, csak veled legyek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Várok a nagy találkozásra, mikor mindent megbocsát s ad az Úr sok gyermekének koronát. Ó ne adj nékem fényes ékszert, elég lesz a két kezed, és a mennynek ajtaján beléphetek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Valóra válik az ígéret, nem lesz bűn ott, nem lesz könny, béke vár rám és az égi fényözön. Ó tarts meg engemet utamban, kelts szívemben új reményt, hogy magadhoz hívod azt, ki hitben élt.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hogy magadhoz hívod azt, ki hitben élt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:21">
+  <properties>
+    <titles>
+      <title>Mi várjuk az Úr Jézust</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mi várjuk az Úr Jézust</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mi várjuk az Úr Jézust, mikor jön,<br/>Mi várjuk az Úr Jézust, mikor jön,<br/>Mi várjuk az Úr Jézust, várjuk az Úr Jézust,<br/>Várjuk az Úr Jézust, mikor jön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi repülünk eléje, mikor jön,<br/>Mi repülünk eléje, mikor jön,<br/>Mi repülünk eléje, repülünk eléje,<br/>Repülünk eléje, mikor jön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi térdelünk eléje, mikor jön,<br/>Mi térdelünk eléje, mikor jön,<br/>Mi térdelünk eléje, térdelünk eléje,<br/>Térdelünk eléje, mikor jön.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, bűnös mit fogsz tenni, mikor jön,<br/>Ó, bűnös mit fogsz tenni, mikor jön,<br/>Ó, bűnös mit fogsz tenni, bűnös mit fogsz tenni,<br/>Bűnös mit fogsz tenni, mikor jön.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te mondod a hegyeknek, mikor jön,<br/>Te mondod a hegyeknek, mikor jön,<br/>Te mondod a hegyeknek, mondod a hegyeknek,<br/>Halmok essetek ránk, mert Ő jön.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó, bűnös jöjj Jézushoz, mert Ő jön,<br/>Ó, bűnös jöjj Jézushoz, mert Ő jön,<br/>Ó, bűnös jöjj Jézushoz, bűnös jöjj jézushoz,<br/>Bűnös jöjj Jézushoz, mert Ő jön.</lines>
+    </verse>
+  </lyrics>
+</song>

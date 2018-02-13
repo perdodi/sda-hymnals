@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:09">
+  <properties>
+    <titles>
+      <title>Áldott legyen a frigy</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldott legyen a frigy<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldott legyen a frigy, mely minket összeköt Krisztus által szeretetben! Szilárd ez és örök.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atyánk trónja előtt együtt esengeni örömben búban közösen, az kedves Őneki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A sújtottak terhét megosztjátjuk szívesen, és folynak részvétkönnyeink Urunkhoz közösen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha testben válni kell, az mélyen fáj nekünk; De egyesít minket a hit, és menny felé megyünk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:05">
+  <properties>
+    <titles>
+      <title>Jézusom áldozatodra gondolok</title>
+    </titles>
+    <verseOrder>i1 v1 c1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézusom áldozatodra gondolok</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Jézusom áldozatodra gondolok, meghaltál értem a Golgotán. Te mindig vársz, hátat soha nem fordítanál, most újra itt vagyok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Drága véred értem folyt, ott fent, a keresztfán, alázattal térdre hullok kegyelmed láttán. Most újra hálás szívem, újra leteszem életem.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Most magasra emelem fel szent neved, hisz csak Te vagy méltó megváltó Úr. Csodálom megmentő kegyelmedet és imádom szent neved.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Köszönöm Neked, köszönöm Neked, köszönöm Neked a keresztet!</lines>
+    </verse>
+  </lyrics>
+</song>

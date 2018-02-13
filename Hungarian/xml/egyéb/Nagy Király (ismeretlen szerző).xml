@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:30">
+  <properties>
+    <titles>
+      <title>Nagy Király</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nagy Király</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Nagy Király, Fenséges Úr, Király, Isten fia, tied minden magasztalás!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Szent sereg előtted hajt fejet, hozsannát zeng: Te vagy a Szent! - Téged imád.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Nincs más név! Te vagy az üdv, az Élet, Jézus. Megtartónk, Szabadítónk, Csak te vagy a Fény!</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Nagy Király! Imádunk nagy Király! Hatalom, üdv, áldás, erő, minden Tied!</lines>
+    </verse>
+  </lyrics>
+</song>

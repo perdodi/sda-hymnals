@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:08">
+  <properties>
+    <titles>
+      <title>Jöjj, Uram, gyógyíts meg</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jöjj, Uram, gyógyíts meg</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jöjj, Uram, gyógyíts meg, szívünk tisztísd meg égi tüzzel, jöjj, szabadítással, s szívünkben a dal dicséret lesz.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Feléd jövünk, s minden bűnt leteszünk, szívünkből kiáltjuk: égi Atyánk, oly jó veled!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten szent Lellke, áradj szívünkbe nagy erővel, szenté tégy bennünket, szolgálni taníts meg teljes szívvel!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Feléd jövünk, s minden bűnt leteszünk,<br/>szívünkből kiáltjuk: égi Atyánk, oly jó veled!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj, mutasd meg rajtunk, hogy mi részt kaptunk országodban, erőddel fölkeltünk, és most hirdetjük, hogy te szent vagy!</lines>
+    </verse>
+  </lyrics>
+</song>

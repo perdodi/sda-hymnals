@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:49:42">
+  <properties>
+    <titles>
+      <title>195. Már hallom, Jézusom</title>
+    </titles>
+    <copyright>Hé-195</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Már hallom, Jézusom...<br/><br/>Hitünk énekei<br/>195. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Már hallom, Jézusom, hogy hívsz és vársz reám, hogy megmossál a véredben, mely folyt a Golgotán! Lásd én jövök már, mert Te vársz reám: Tisztíts meg a véredben, mely folyt a Golgotán!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bár gyönge még hitem, de adsz majd új erőt, hogy tiszta szívvel állhassak az égi trón előtt. Lásd én jövök már, mert Te vársz reám: Tisztíts meg a véredben, mely folyt a Golgotán!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most Jézus szava szól, az üdvösség enyém, most szívemben a béke él, az élő hit remény. Lásd én jövök már, mert Te vársz reám: Tisztíts meg a véredben, mely folyt a Golgotán!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Üdv néked áldott vér, üdv néked kegyelem, üdv néked Jézus Krisztusom, Te üdvöm életem. Lásd én jövök már, mert Te vársz reám: Tisztíts meg a véredben, mely folyt a Golgotán!</lines>
+    </verse>
+  </lyrics>
+</song>

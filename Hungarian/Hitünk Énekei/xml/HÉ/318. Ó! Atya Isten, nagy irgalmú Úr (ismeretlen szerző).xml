@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:53:35">
+  <properties>
+    <titles>
+      <title>318. Ó! Atya Isten, nagy irgalmú Úr</title>
+    </titles>
+    <copyright>Hé-318</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! Atya Isten, nagy irgalmú Úr...<br/><br/>Hitünk énekei<br/>318. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! Atya Isten, nagy irgalmú Úr, bűnbánó szívvel ím eléd borul hű néped, áldva felséges neved, hogy esdve kérje nagy kegyelmedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gondolsz ránk, híven oltalmaz kezed, rólunk egy percre azt le nem veszed; Irgalmasságod mindig oly közel és erős karod minket átölel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagy jóságodra méltók nem vagyunk, rossz útra térve gyakran elhagyunk; Áhítjuk mégis igéd szent szavát, megtérő gyermekid fogadd be hát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kérünk, Úr Isten, Krisztus Jézusért, vérével pecsételt szerelmedért: Irgalmasságod közöld mivelünk és tárd ki szíved, végy be, Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

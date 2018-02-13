@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:12">
+  <properties>
+    <titles>
+      <title>Kiálts</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kiálts</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kiálts az Úr közel! Építsd házát a szívedben! Dicsőséges trón, imádat hazája épüljön a Királynak! Kiálts boldog énekkel! Az Ő szerelme nem fogy el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ahogy dicsérjük Őt, megújítja szívünk, betőlti élettel. Kiálts, az Úr közel! Az Úr ott él, ahol dicsőítik Őt, mert háza dicsőőség!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr ott él, ahol dicsőítik Őt, mert háza dicsőség! Kiálts! Eljötünk, együtt egy szívvel imádunk zenével és dallal, örvendjünk hát, mindazért, amit tett értünk Atyánk, emeljük fel hódolatunk!</lines>
+    </verse>
+  </lyrics>
+</song>

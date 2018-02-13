@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:56">
+  <properties>
+    <titles>
+      <title>B277 A tenger árja</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A tenger árja<br/>B277</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A tenger árja bármily nagy, Jó Atyád téged el nem hagy. Ő mérte ki az óceánt, És tőle függ a nagy világ. Megtartja népét szüntelen, Mert Jézus Úr a tengeren.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha csónakodba lép az Úr, A zúgó tenger elcsitul. Ő csendre inti szíved is, Ha gondjaid közt rátekintsz, Nem nyelhet el a félelem, Mert Jézus Úr a tengeren.</lines>
+    </verse>
+  </lyrics>
+</song>

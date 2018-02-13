@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:26">
+  <properties>
+    <titles>
+      <title>Mindennap új lapot kezdhetünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mindennap új lapot kezdhetünk</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mindennap új lapot kezdhetünk,<br/>újat ír rá Isten ujja.<br/>Új éneket énekelhetünk,<br/>újra, meg újra, meg újra.<br/>Mint a por úgy szállnak bűneink<br/>naponta szívünkre hullva,<br/>De egy kéz letörli róla mind,<br/>újra, meg újra, meg újra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tegnapi tartozás terhe már<br/>nem nyomja vállunkat úgy ma.<br/>Repülj hát felfelé víg madár,<br/>újra, meg újra, meg újra.<br/>Családi tűzhelyünk melegét<br/>mindennap hideg szél fújja,<br/>Tápláljuk újra hát, s melegít<br/>újra, meg újra, meg újra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elakadt életünk szekere,<br/>van ki a sárból kihúzza.<br/>Gördülhet előre kereke<br/>újra, meg újra, meg újra.<br/>Bárcsak így telne az életünk:<br/>mindennap várva az Úrra!<br/>Kegyelmét dicsérné énekünk<br/>újra, meg újra, meg újra.</lines>
+    </verse>
+  </lyrics>
+</song>

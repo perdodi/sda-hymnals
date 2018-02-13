@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:14">
+  <properties>
+    <titles>
+      <title>Legyen a béke teveled</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Legyen a béke teveled</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hevenu sálom alehem, hevenu sálom alehem! Hevenu sálom alehem, hevenu sálom, sálom, sálom alehem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Legyen a béke teveled, legyen a béke teveled! Legyen a béke teveled, legyen a béke, béke, béke teveled!</lines>
+    </verse>
+  </lyrics>
+</song>

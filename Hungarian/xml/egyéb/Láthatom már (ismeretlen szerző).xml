@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:15">
+  <properties>
+    <titles>
+      <title>Láthatom már</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Láthatom már<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Láthatom már a szenthelyet, melyet az Úr s nem ember ápített. Jézus a bárány, igazi áldozat, nem árthat így nekem a kárhozat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mennyei kapukon át láthatom Jézusom szolgálatát. Mennyei főpapom egyedül áll, könyörög szüntelen az Atyánál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ott tudom meg, mily sokat ér a kereszt fára hullt, kiomlott vér. Főpapom, Jézusom ott áll a szenthelyen, most értem, mily dicső a kegyelem!</lines>
+    </verse>
+  </lyrics>
+</song>

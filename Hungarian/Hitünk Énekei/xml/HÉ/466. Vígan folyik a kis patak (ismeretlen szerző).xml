@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:41:35">
+  <properties>
+    <titles>
+      <title>466. Vígan folyik a kis patak</title>
+    </titles>
+    <copyright>Hé-466, Üa-434</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vígan folyik a kis patak...<br/><br/>Hitünk énekei<br/>466. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vígan folyik a kis patak a hegyről a völgybe le, Aranypikkelyes kis halak boldogan úsznak benne.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy szeretlek kis patakom, te a menny ajándéka! Te légy mindig az italom, szomjam csillapítója!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Többé még ki is üríti a részegítő pohárt? Ami neki csak növeli szegénységét, nyomorát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nézd, hogy fürdik a madárka a szép tiszta patakban, s utána vígan dalolja énekét a bokorban!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A természetre hallgatok és erősen fogadom, hogyha bárhova is jutok, csak a víz lesz italom!</lines>
+    </verse>
+  </lyrics>
+</song>

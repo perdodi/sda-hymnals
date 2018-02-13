@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:44">
+  <properties>
+    <titles>
+      <title>B173 Ahogy gerle hangja</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ahogy gerle hangja<br/>B173</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ahogy gerle hangja búgón Rezdül át a lombokon, Vagy az ősi tölgyek ágát Vihar tépi tombolón, Úgy jöjj, Szentlélek, jöjj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint a szőlőtőke nedve Árad szét a vesszőkön, Ahogy Krisztus népe útját Jelzi áldás és öröm, Úgy jöjj, Szentlélek, jöjj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hozz a fájó sebre gyógyírt, Esdő szóra küldj választ, Vigaszt önts a csüggedt szívbe, Nyelvet adj a némának! Ó, jöjj, Szentlélek, jöjj!</lines>
+    </verse>
+  </lyrics>
+</song>

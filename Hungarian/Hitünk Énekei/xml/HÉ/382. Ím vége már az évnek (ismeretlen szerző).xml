@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:33:31">
+  <properties>
+    <titles>
+      <title>382. Ím vége már az évnek</title>
+    </titles>
+    <copyright>Hé-382</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ím vége már az évnek...<br/><br/>Hitünk énekei<br/>382. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ím vége már az évnek, most nyugodj meg szívem: A lelkem minden titkát az Úr elé viszem, a szívem sebét, terhét, a lelkem bánatát, s a bánatomnak könnyét, mit csak az Isten lát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! miért volt annyi bánat és oly kevés öröm? Ó! miért szállt annyi sóhaj és miért folyt könnyözön? Ó! mennyi, mennyi szégyen és mennyi kudarc ért; A siker oly kevés volt; Ó! mondd, szívem, miért?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogy soha ne feledjük: Itt nincs örök hazánk! Hisz béke, örök otthon a mennyben vár reánk! S ki Isten útját járva itt újjászületett, a feltámadás napján kap örök életet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy biztonságban járjak, csak Jézust nézhetem; De más vágyam most nincs is, hisz Ő az életem. A küzdés útján végig csak érte ég lelkem, s a sír sötétjén túlra majd hozzá visz hitem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó! segíts át az élten, mi örök Istenünk, az utat Te mutasd meg és fogd gyenge kezünk. S ha néha szenvedünk is, mert utunk rögös itt, ó! adjad szent békédet, mely mindig boldogít.</lines>
+    </verse>
+  </lyrics>
+</song>

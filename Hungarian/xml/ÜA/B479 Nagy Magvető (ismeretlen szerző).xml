@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:21">
+  <properties>
+    <titles>
+      <title>B479 Nagy Magvető</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nagy Magvető<br/>B479</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nagy Magvető, te drága Jézus, Ó, mennyi szív még zord, sivár; Ellenáll áldott szent Igédnek, És téged is dőrén kizár.Most, amíg a kegyidő tart: Jöjj, szánts Te új ugart, Jöjj, szánts Te új ugart!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagy Magvető, te drága Jézus, A mélyben sok kő rejlik még, Csorbítja élét az ekének, Miatta nő a veszteség. Te szólj, hisz benned van erő: S termő lesz majd a kő, S termő lesz majd a kő!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagy Magvető, te drága Jézus, Az ige-mag hull szerteszét. De nézd, a drága szántóföldben Rút tövis fojtja a vetést! Fékezd a tövis erejét, Hogy ne terjedjen szét, Hogy ne terjedjen szét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagy Magvető, te drága Jézus, Munkáld, gondozd a szíveket! Lábad nyomán új élet indul, A puszta termőföld lehet. Munkádra jő nagy változás, Dúsgazdag aratás, Dúsgazdag aratás!</lines>
+    </verse>
+  </lyrics>
+</song>

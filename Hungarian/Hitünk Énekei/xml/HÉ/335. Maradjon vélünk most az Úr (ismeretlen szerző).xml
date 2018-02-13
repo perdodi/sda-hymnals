@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:59:31">
+  <properties>
+    <titles>
+      <title>335. Maradjon vélünk most az Úr</title>
+    </titles>
+    <copyright>Hé-335, S-128</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Maradjon vélünk most az Úr...<br/><br/>Hitünk énekei<br/>335. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Maradjon vélünk most az Úr, áldását adva ránk! Elhagyván áldott szent helyét, áradjon béke ránk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maradjon vélünk most az Úr, amikor elmegyünk: kísérjen végig utunkon, míg hazaérkezünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maradjon vélünk majd az Úr, hogyha már itt az éj; hűsége óvjon bástyaként, lelkünket őrízvén!</lines>
+    </verse>
+  </lyrics>
+</song>

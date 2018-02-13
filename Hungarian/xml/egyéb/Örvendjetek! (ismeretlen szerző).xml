@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:20">
+  <properties>
+    <titles>
+      <title>Örvendjetek!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Örvendjetek!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Örvendjetek, mert Isten úgy szeret! Békét akar, nem zord ítéletet. Örvendjetek, örvendjetek! Jézus az Isten fia eljött értetek. Nem kell a sötétségben, bűnben élnetek, halljátok meg e jó hírt emberek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvendjetek, Jézus feltámadott! Új életet és új reményt hozott. Örvendjetek, örvendjetek! Nála az örök élet forrása ered. Jöjjetek, igyatok hát éltető vizet! Halljátok meg e jó hírt emberek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örvendjetek, mert Jézus újra jön! Elszáll a gond, felszárad mind a könny. Örvendjetek, örvendjetek! Felragyog az igazság, végre győz a jó. Országa, szent uralma örökkévaló! Halljátok meg e jó hírt emberek!</lines>
+    </verse>
+  </lyrics>
+</song>

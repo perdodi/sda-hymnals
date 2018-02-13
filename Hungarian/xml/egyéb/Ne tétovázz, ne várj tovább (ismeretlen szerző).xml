@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:31">
+  <properties>
+    <titles>
+      <title>Ne tétovázz, ne várj tovább</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ne tétovázz, ne várj tovább</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ne tétovázz, ne várj tovább,<br/>életed, szíved add Néki át,<br/>Ne tétovázz, ne várj tovább,<br/>Isten hív, halld meg hát,<br/>Ő vár reád, Ő vár reád.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Azt mondod, ráérek még én,<br/>nekem most nem kell,<br/>Megvagyok még nélküle.<br/>Gondold meg jól, hogy mit teszel,<br/>Hisz téged is vár Ő, tudod te jól,<br/>Nincs már sok idő, nincs sok idő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretnél megismerni még,<br/>élvezni mindent.<br/>A világ - mondod - kedvesebb.<br/>Lehet, hogy késő lesz már.<br/>Mikor rájössz: másképp élni nincs már idő,<br/>Nincs már sok idő, nincs sok idő.</lines>
+    </verse>
+  </lyrics>
+</song>

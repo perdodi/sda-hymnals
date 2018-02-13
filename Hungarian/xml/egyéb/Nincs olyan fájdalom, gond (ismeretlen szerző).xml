@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:33">
+  <properties>
+    <titles>
+      <title>Nincs olyan fájdalom, gond</title>
+    </titles>
+    <copyright>S-143</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nincs olyan fájdalom, gond</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nincs olyan fájdalom, gond, mit meg nem oldhat, nincs olyan nagy hegy, mit Ő, meg nem mozdíthat, nincs oly sötét, nagy vihar, mit le nem csendesít, nem lehet oly bánatod, amin Ő nem segít.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert-e világnak terheit mind vállain hordja, tudom testvérem, hogy téged is hordoz majd, mert-e világnak terheit mind vállain hordja, tudom testvérem, hogy téged is hordoz majd.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Így szól, "Jöjj hozzám, ha megfáradtál, úgy várlak!" Hív az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

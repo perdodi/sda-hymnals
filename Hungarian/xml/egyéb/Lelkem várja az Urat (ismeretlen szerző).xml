@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:14">
+  <properties>
+    <titles>
+      <title>Lelkem várja az Urat</title>
+    </titles>
+    <copyright>S-083</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Lelkem várja az Urat</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lelkem várja az Urat, mint az őrök a hajnalt. Virrasztva vár egy találkozást.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jézus, Te visszajössz, igen, várlak, míg csak élek, lelkem virrasztva vár. Lelkedet ne vond meg tőlem, útamat úgy vezesd, hogy lépteim elérjenek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyelem, szeretet, áldás, szent Igéd, égi mannád: a szívemen békéd megpihen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Köszönöm, hogy a földön jártál, hogy éljek én és megbocsáss. Véred árán vár a mennyország! Ó,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jézus, Te visszajössz, igen, várlak, míg csak élek, lelkem virrasztva vár. Lelkedet ne vond meg tőlem, útamat úgy vezesd, hogy lépteim elérjenek. Téged!</lines>
+    </verse>
+  </lyrics>
+</song>

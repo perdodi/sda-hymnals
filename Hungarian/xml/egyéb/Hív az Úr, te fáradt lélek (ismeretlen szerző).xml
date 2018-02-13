@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:53">
+  <properties>
+    <titles>
+      <title>Hív az Úr, te fáradt lélek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hív az Úr, te fáradt lélek</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hív az Úr, te fáradt lélek,<br/>örömöt ad, békességet,<br/>hogyha szíved megnyitod.<br/>Ne mondd büszkén: "Nincs szükségem!"<br/>segítségre bajban nékem,<br/>majd megoldom én magam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kis bajokban bátor lehetsz,<br/>napsütésben bátran mehetsz,<br/>Elérsz földi célokat,<br/>de a szíved problémáin,<br/>Lelki rabság nyomorúságin,<br/>nem tudsz győzni egymagad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak az Úr az, ki segíthet, <br/>gyere bátran, nyisd meg szíved,<br/>tedd kezébe életed.<br/>Ne bolyongj a magad útján, <br/>boldog leszel Jézus jobbján, <br/>add át Néki szívedet.</lines>
+    </verse>
+  </lyrics>
+</song>

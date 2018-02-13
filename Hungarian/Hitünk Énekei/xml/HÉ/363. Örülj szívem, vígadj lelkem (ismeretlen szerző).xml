@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:26:53">
+  <properties>
+    <titles>
+      <title>363. Örülj szívem, vígadj lelkem</title>
+    </titles>
+    <copyright>Hé-363</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Örülj szívem, vígadj lelkem...<br/><br/>Hitünk énekei<br/>363. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Örülj szívem, vígadj lelkem, ékességed lett a hit. Vacsorához mégy Jézushoz, hivatalos vagy te itt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha bűnödért halálos bért érdemeltél lelkedre. E szent asztal megvigasztal s válik üdvösségedre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ez örömben, reménységben, Jézus ma hozzád jövök. Asztalodnál lábam megáll: testem, lelkem újítsd meg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tisztogass meg, bűnből moss meg, kegyelmedből Istenem. Úgy a Sátán lelkem kárán nem örül, nem árt nekem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csakhogy immár bűntől elválj, s légy hűséggel Jézushoz. Halálával, váltságával minden bűnből feloldoz.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hát jöjjetek, bűnös lelkek, orvosságot kik vártok! Jézus lelke, szent kegyelme kiárad ma reátok.</lines>
+    </verse>
+  </lyrics>
+</song>

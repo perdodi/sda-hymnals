@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:18:39">
+  <properties>
+    <titles>
+      <title>410. Dolgaimban, utaimban</title>
+    </titles>
+    <copyright>Hé-410, Üa-073</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Dolgaimban, utaimban...<br/><br/>Hitünk énekei<br/>410. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dolgaimban, utaimban örömmel énekelek, de legnagyobb boldogságom szombaton a dicsének.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Óh az Úrnak szent szombatja, mely minden napok felett, örömével átragyogja gonddal terhelt szívemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden gond és bánat szűnik, hálával telik szívem, mert a drága szombatnapon csak az Úrnál időzöm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bár idegen földön zengem reménységem énekét, mégis tudom nemsokára az ígért földön leszek.</lines>
+    </verse>
+  </lyrics>
+</song>

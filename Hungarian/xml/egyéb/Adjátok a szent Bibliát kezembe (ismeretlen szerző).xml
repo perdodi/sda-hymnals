@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:15">
+  <properties>
+    <titles>
+      <title>Adjátok a szent Bibliát kezembe</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Adjátok a szent Bibliát kezembe</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Adjátok a szent Bibliát kezembe! Ez ad vigaszt a gond és baj között. Nincs vész, mely égi, szent fényedet elfedje, mióta Jézus értünk földre jött.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A Bibliának hadd ragyogjon fénye, a szűk kapun át minket ez vezet. Az Úr iránt ez indít tiszteletre: Ígéret, törvény és a szeretet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adjátok a szent Bibliát kezembe! A fáradt vándort ez enyhíti meg. Gyógyító ír ez bármilyen sebekre, ez szüntet kínt, ez gyógyít beteget.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adjátok a szent Bibliát kezembe! Abban találom Jézus életét, ki értem adta önmagát keresztre, s aki legyőzte lelkem ellenét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adjátok a szent Bibliát kezembe, mely megmutatja a legjobb Atyát! Ki engem, bűnöst, méltat kegyelemre, s ki értem adta egyszülött Fiát!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Adjátok a szent Bibliát kezembe, hadd szívjam annak balzsamdús szavát! Ó, hadd fakasszon ez örömkönnyekre s hálára az Istenem iránt!</lines>
+    </verse>
+  </lyrics>
+</song>

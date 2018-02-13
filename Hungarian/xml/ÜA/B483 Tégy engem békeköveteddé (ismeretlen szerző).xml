@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:22">
+  <properties>
+    <titles>
+      <title>B483 Tégy engem békeköveteddé</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tégy engem békeköveteddé<br/>B483</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tégy engem békeköveteddé, Hogy hinthessem az ige magvakat! Ó, Szentlelked hadd uralkodjék bennem, És az ajkamra adj tiszta szavakat!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó add, Uram, hogy soha ne feledjem, hogy mi voltam, s hogy mivé lettem én! Egész életemmel, lényemmel hirdessem: Jézus él! Benne mindig van remény.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tégy engem békeköveteddé, Bár nélküled én oly kicsi vagyok, A harcaim közt az ad erőt nékem, Ha az Ige fénye újra rám ragyog.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tégy engem békeköveteddé, Mert sóvárogva vár rád a világ! Ó, add, hogy lámpás legyek szent kezedben, Aki utat mutat másoknak hozzád!</lines>
+    </verse>
+  </lyrics>
+</song>

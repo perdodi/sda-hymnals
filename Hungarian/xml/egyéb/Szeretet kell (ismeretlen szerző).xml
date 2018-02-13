@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:41">
+  <properties>
+    <titles>
+      <title>Szeretet kell</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szeretet kell</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szeretet kell, ahogy a kenyér, így mondja ezt Jézus szava is. Mert az ember örül és remél, ugyanígy kell a szeretet is. Kell a munka és persze kell a pihenés, Jézust dicsérő éneklés, és kell valaki, pontosabban valami, amit ki kell mondani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretet kell ahogy a kenyér. Ez a kis mondat nagy igazság. Jézus a társ, hűséges barát, ki napfényed az életen át. Ő az, aki vár, amikor letérsz. Ő lesz a bajban a segítő kéz. Úgy kell, hogy szolgáljad Őt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint a mezőn nyíló sok szép kisvirág, és ha fáj a sok-sok megaláztatás, amit-e földön okoznak. Add át életed, így azt is megértheted, őket szeretni is lehet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szeretet kell, ahogy a kenyér. Ez a kis mondat nagy igazság. De az is kell, hogy olyat tegyél, mitől az élet mosolyog rád.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:18">
+  <properties>
+    <titles>
+      <title>Az Úr a te őrződ</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr a te őrződ</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Az Úr a te őrződ, melletted áll, erős Ő, megtart téged jóban és rosszban, sötétben, fényben, nappal és éjjel. Ne félj a mától, ne félj attól, hogy mit hoz a holnap majd neked, mert az Úr a te őrződ melletted áll, erős Ő, megtart téged.</lines>
+    </verse>
+  </lyrics>
+</song>

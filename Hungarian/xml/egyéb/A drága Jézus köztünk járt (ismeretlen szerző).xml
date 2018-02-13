@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:12">
+  <properties>
+    <titles>
+      <title>A drága Jézus köztünk járt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A drága Jézus köztünk járt</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A drága Jézus köztünk járt, a nyáj hű pásztora, ki ismeri az Ő szavát, nem téved el soha.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az égbe Ő nyitott kaput, a juhok pásztora. Hogy járható legyen az út, a nyájért éltét adta.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Övéit mind jól ismeri, és néven szólítja. Ha más akolban laknak is, Ő mind előhozza,</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mert egy a pásztor, egy a nyáj, Jézusban egyek vagyunk, és pásztorunk szent lábnyomán, Atyánkhoz eljutunk.</lines>
+    </verse>
+  </lyrics>
+</song>

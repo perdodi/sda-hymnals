@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:10">
+  <properties>
+    <titles>
+      <title>B384 Légy Jézus Krisztus harcosa</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy Jézus Krisztus harcosa<br/>B384</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Légy Jézus Krisztus harcosa, És bátran állj elő! Már leng a kereszt zászlaja, Vár rád a harcmező.  Ne tétovázz tovább, Halld meg a kürt szavát, Mely bátorító harci jel, Fel, lelki harcra fel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vedd fegyveredet, s harcba állj, mint egykor Gedeon! A bűnnek bátran ellenállj, Az Úr áll jobbodon! Az égi seregek Mind téged védenek. A harcban mindig légy erős, Hisz véled küzd a Hős!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csak vidd kereszted válladon, végig türelmesen! Ha Sátán rád tör támadón, Jól őrködj szíveden! A bűntől óvd magad, Légy végre már szabad! Küzdj hittel, bátran, lelkesen, és vár a győzelem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vedd föl az Ige fegyverét, Ez biztos oltalom! Ez megsegít, bármerre mégy, vízen és szárazon. Az üdv sisakja véd, Ha bánt az ellenség. A bűn nyila nem járja át A hit erős pajzsát.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Úrnak Lelke bátorít, Mint egykor Dávidot, hogy bátran küzdj, ő megtanít Jól forgatni kardod. Nem tart soká a harc, Mindvégig hűn kitarts!... Fönt Isten adja néked át Az életkoronát.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:47">
+  <properties>
+    <titles>
+      <title>Te égből származó</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Te égből származó<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te égből származó. még alig ismert szó, én benned bízom szüntelen, te üdvöt hordozó!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én kincsem, vigaszom az élet utamon, te napról-napra támogatsz, míg benned megnyugszom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úrba vetett hit a mennybe felsegít; Ott tárja Isten én elém az élet kincseit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! add, az életem oly szent és jó legyen, hogy Jézus melett élhesek a dicső mennyekben!</lines>
+    </verse>
+  </lyrics>
+</song>

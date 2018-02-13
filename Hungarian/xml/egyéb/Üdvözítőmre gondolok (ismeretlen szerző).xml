@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:23">
+  <properties>
+    <titles>
+      <title>Üdvözítőmre gondolok</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Üdvözítőmre gondolok<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Üdvözítőmre gondolok: szívemben ég a vágy; Mily öröm lesz, ha láthatom egy örök élten át!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Énekem hangja gyönge még és alig hallható. Egykor az égikarban zeng dicsérő énekszó.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reményem vagy Te, Jézusom, öröm, vagy bánat ér. Te légy az égi oltalom szívem csak erre kér.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Életet, fényt e nagy világ tőled kap szüntelen. Szent neved, jézus, bennem él, szolgálak szívesen.</lines>
+    </verse>
+  </lyrics>
+</song>

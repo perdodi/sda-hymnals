@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:28:12">
+  <properties>
+    <titles>
+      <title>102. Az Isten annyira szerette</title>
+    </titles>
+    <copyright>Hé-102</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Isten annyira szerette...<br/><br/>Hitünk énekei<br/>102. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Isten annyira szerette a bűnös világot, hogy szent Fiát adná érette, s általa váltságot: Amit végzett örök tanácsa az időknek előtte, hogy a bűnös embert megváltsa, azt szent Fia megtette.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ama mennyei hatalmasság megszánta estünket: Az Ige, ó! nagy irgalmasság! Felvevé testünket; Magasztalunk azért, Istenünk, imádunk és tisztelünk, mert ki állhat immár ellenünk, midőn Isten van velünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! magasságos Isten Fia! Erős menedékünk! Boldogságunknak ami híja volt, megadtad nékünk. Megbékéltettél szent Atyáddal s így vigasztalást nyújtál; Nékünk evangéliomoddal világgosságot nyújtál.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te szegénységed gazdagságunk, balzsamunk fájdalmad, nyomorúságod boldogságunk, életünk halálod! Dicsőség legyen azért néked, Felséges Úr Istenünk! Szívünkből magasztalunk Téged, mindaddig, míglen élünk.</lines>
+    </verse>
+  </lyrics>
+</song>

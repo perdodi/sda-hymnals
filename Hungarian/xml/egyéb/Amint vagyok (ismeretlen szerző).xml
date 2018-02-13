@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:17">
+  <properties>
+    <titles>
+      <title>Amint vagyok</title>
+    </titles>
+    <copyright>S-126</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Amint vagyok</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Amint vagyok, csak úgy jövök. Nem az erőm, de az erőd, A véred mossa le a bűnt, Isten Báránya, ím, jövök!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amint vagyok, te elfogadsz, Bűneimből feloldozasz. Tebenned bízva üdvöt adsz, Isten Báránya, ím, jövök!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amint vagyok, nincs akadály: Előled semmi el nem zár. Tied vagyok egészen már, Isten Báránya, ím, jövök!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:43">
+  <properties>
+    <titles>
+      <title>Szombatnap</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szombatnap</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Eljött újra nékünk a drága szombatunk, e napnapnak örömére mi újra itt vagyunk, mert nyugtot itt találunk és tűnik bánatunk, ha örömünk van benne, úgy fénylik általunk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Üdvözlünk te áldás napja mindig téged várunk, áldunk téged énekünkben drága szombatunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyalok is zengenek és vélünk ünnepelnek, a menny és föld lakói e napnak örvendenek. Csak tarsuk mindig szentnek e drága szombatunk, a mennyben fent is vár ránk, ez áldott szent napunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent örömnek napja, mert Jézus van velünk, az üdv órái lesznek, mit véle eltöltünk. Most háladalban zengjük: Hozsánna Istenünk! Mert bennünk kívánsz lakni, s lesz örök életünk.</lines>
+    </verse>
+  </lyrics>
+</song>

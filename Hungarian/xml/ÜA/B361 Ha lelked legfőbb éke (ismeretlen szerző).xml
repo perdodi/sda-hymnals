@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:07">
+  <properties>
+    <titles>
+      <title>B361 Ha lelked legfőbb éke</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ha lelked legfőbb éke<br/>B361</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha lelked legfőbb éke Az áldott égi béke, És Krisztus benned él, Úgy bármi vész ha rád tör, Megváltott életedből A boldog békesség beszél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeresd a békességet; Mert nagy kincs ez tenéked, Ha lelked bántja bú! Kövesd a békességet, Úgy hirdessed, hogy éljed; A béke híve halk szavú...!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Békülj meg Isteneddel, Míg meg nem áld, ne menj el! E béke ára harc. Jutalma az új élet, Mely majd örökre éltet, Ha békességben megmaradsz.</lines>
+    </verse>
+  </lyrics>
+</song>

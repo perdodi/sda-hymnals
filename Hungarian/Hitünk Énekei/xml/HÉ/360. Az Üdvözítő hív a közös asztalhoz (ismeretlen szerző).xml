@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:25:50">
+  <properties>
+    <titles>
+      <title>360. Az Üdvözítő hív a közös asztalhoz</title>
+    </titles>
+    <copyright>Hé-360</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Üdvözítő hív a közös asztalhoz...<br/><br/>Hitünk énekei<br/>360. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Üdvözítő hív a közös asztalhoz: hogy halálának emlékét most vegyük magunkhoz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A kenyér és a bor csak két szent emlékkép és hitünk által értjük meg e jegyek erejét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A bort és kenyeret ha hittel vesszük át, az egység lelkét nyerjük el e két szent jegyen át.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Már fogyni kezd az éj, a Bárány Jézus jön: mint választottak ott leszünk az égi mennyegzőn!</lines>
+    </verse>
+  </lyrics>
+</song>

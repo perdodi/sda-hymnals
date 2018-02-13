@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:32:37">
+  <properties>
+    <titles>
+      <title>20. Imádjuk Őt</title>
+    </titles>
+    <copyright>Hé-020</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Imádjuk Őt...<br/><br/>Hitünk énekei<br/>20. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Imádjuk Őt, mint a szentségnek Istenét! Trónjánál térdelve imádjuk Őt! Alázat tömjénjét, szolgálat aranyát adjuk át hódolva s dicsérjük Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lábához tedd minden fárasztó terhedet; Átveszi, hordozza helyetted Ő! Könnyed le törli, imádra megfelel, utadon mindenütt Ő jár elöl.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Attól se félj, hogyha átléped küszöbét, hogy kicsi még a fény, mely benned gyúlt; igazság palástja szeretet melege remegő lelkednek védelmet nyújt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjj hát, ne félj add át szívednek kincseit, Őnéki mind kedves, mind drága az! Bús, könnyes éj helyett víg reggelt ad neked; Nála a remény és végső vigasz.</lines>
+    </verse>
+  </lyrics>
+</song>

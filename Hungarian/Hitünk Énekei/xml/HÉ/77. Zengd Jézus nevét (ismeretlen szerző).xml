@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:50:51">
+  <properties>
+    <titles>
+      <title>77. Zengd Jézus nevét</title>
+    </titles>
+    <copyright>Hé-077, S-136</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Zengd Jézus nevét...<br/><br/>Hitünk énekei<br/>77. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Zengd Jézus nevét, zengd világ, Őt angyalok, áldjátok! És ékesítve homlokát: az áldott Krisztus Jézust magasztaljátok!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ti választottak, szent hívek, ti mind, kiket megváltott, most irgalmát dicsérjétek: az áldott Krisztus Jézust magasztaljátok!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ti bűnösök, mert Ő hordott tiértetek kínt, s átkot és szent vérével áldozott: az áldott Krisztus Jézust magasztaljátok!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ti népek, törzsek, kik bárhol az Ő szavát halljátok, nagy jóvoltáért hálából: az áldott Krisztus Jézust magasztaljátok!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mily boldogság lesz majd, ha fenn, az Úr előtt megállok, és mindörökké zenghetem: az áldott Krisztus Jézust magasztaljátok!</lines>
+    </verse>
+  </lyrics>
+</song>

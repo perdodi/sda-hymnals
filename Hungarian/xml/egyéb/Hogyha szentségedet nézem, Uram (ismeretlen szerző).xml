@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:51">
+  <properties>
+    <titles>
+      <title>Hogyha szentségedet nézem, Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hogyha szentségedet nézem, Uram</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Hogyha szentségedet nézem, Uram,<br/>hogyha szereteted szemlélem,<br/>minden, ami körül vesz árnyék lesz a Te fényedben.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mikor öröm él a szívemben,<br/>mikor rabul ejt a szeretet, <br/>minden, ami körülvesz, árnyék lesz a Te fényedben.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imádlak én, imádlak én, ameddig csak élek, imádlak én! 2x</lines>
+    </verse>
+  </lyrics>
+</song>

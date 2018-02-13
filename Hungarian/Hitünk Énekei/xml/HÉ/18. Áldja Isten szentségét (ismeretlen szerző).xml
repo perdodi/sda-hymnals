@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:32:03">
+  <properties>
+    <titles>
+      <title>18. Áldja Isten szentségét</title>
+    </titles>
+    <copyright>Hé-018, S-114</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldja Isten szentségét...<br/><br/>Hitünk énekei<br/>18. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldja Isten szentségét mind, ki érzi kegyelmét! Fenn az égi angyalok, lenn a földi vándorok! És a csillag óceánt zengő szózat hassa át; minden lélek mindenhol áldva áldja mindenkor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldjuk Isten kegyelmét, féltő gondját, hűségét! Áldjuk őt szent Fiáért, s minden ajándékáért! Szent szerelmét dicsérje szív és hárfa éneke! Minden szív, mely Istené, áldva áldja örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

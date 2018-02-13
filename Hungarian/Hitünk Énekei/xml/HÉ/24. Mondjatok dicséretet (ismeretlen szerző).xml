@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:33:52">
+  <properties>
+    <titles>
+      <title>24. Mondjatok dicséretet</title>
+    </titles>
+    <copyright>Hé-024</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mondjatok dicséretet...<br/><br/>Hitünk énekei<br/>24. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mondjatok dicséretet, keresztyének, az Úr Istennek, szentséges tiszteletet adjatok ő nevének!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvendjetek őneki igaz isteni félelemmel; Mert köztetek lakozik az anyaszentegyházban!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És Ő megelégíti lelketeket lelki kenyérrel, biztat Ő igéjével, édes ígéretivel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent, Uram, a te neved, szent vagy Te a magas mennyekben, Szent vagy és rettenetes minden nemzetségekben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Téged illet, Uram, mi tiszteletünk, hál'adásunk, a mi gyülekezetünk, ünnepi szentelésünk.</lines>
+    </verse>
+  </lyrics>
+</song>

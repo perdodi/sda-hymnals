@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:57">
+  <properties>
+    <titles>
+      <title>Istenem, megláthattam</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istenem, megláthattam</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Istenem, megláthattam Igéd igazságát. Megmutattad, Uram, hogy milyen is vagy igazán.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Őszíntén vágyom, hogy betölts, hogy épp olyan legyek, Uram, mint Te</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezessed az éltemet Igéd napfényében. A kezedet, Uram, ne engedjem el sohasem!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Őszíntén vágyom, hogy betölts, hogy épp olyan legyek, Uram, mint Te,<br/>Hogy épp olyan legyek, Uram, mint Te</lines>
+    </verse>
+  </lyrics>
+</song>

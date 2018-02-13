@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:44">
+  <properties>
+    <titles>
+      <title>Ha ezen a földön bármi ér</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ha ezen a földön bármi ér<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha ezen a földön bármi ér, ne csüggedj el, Jézus, aki mindig megsegít a küzdelenben, bátor, erős harcos légy, ne félj, ne lankadj el, tudjad, hogy a győzelem tiéd az ellenségen!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Mert Jézus neve, Jézus ereje, Jézus vére, Ő a te győzelmed. 2X</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha ellenség vezs körül és sötétség: ne rémülj meg! Jézus nevét hívd segítségül, és ne szégyenülsz meg. Bízzál benne teljes szívedből, és Ő lesz oltalmad, ne támaszkodjál a te elmédre, mert megtántorodhatsz.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jézus neve, Jézus ereje, Jézus vére, Ő a te győzelmed. Mert Jézus neve, Jézus ereje, Jézus vére, Ő a te győzelmed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Felettébb győzöl az által, aki diadalra vezet, mindenre van erőd Jézusban, aki megerősít téged. Szívvel hiszel igazságában, és szájjal vallod meg, hogy Krisztus lakik hit által a te szívedben.</lines>
+    </verse>
+  </lyrics>
+</song>

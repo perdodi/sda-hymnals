@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-07T13:10:14">
+  <properties>
+    <titles>
+      <title>231. Egy drága kincset keresek</title>
+    </titles>
+    <copyright>Hé-231</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Egy drága kincset keresek...<br/><br/>Hitünk énekei<br/>231. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egy drága kincset keresek, mely mennybe vezet engemet, e kedves ige szólt hozzám: "Jól vagyon, jó és hű szolgám!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem bánom, hogyha megvetnek, ha bántanak és sértenek, ha napról napra, én Uram, tetszéseddel találkozzam!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elhagyhat minden jó barát, s gúnyszavuk tőrként járhat át, én mégis kérlek: Bocsásd meg, mert nem tudják mit művelnek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te adjál nékem értelmet, hogy kedved szerint élhessek, s ha bolyongok is egyedül, majd szívem nálad felderül.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az ígéretek hajnalát mind hirdették a próféták; És teljesedik hirtelen, s én örvendezve szemlélem!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>E boldog napon leteszem sok súlyos terhem, keresztem és öröm, béke vár reám én Üdvözítőm oldalán!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:56">
+  <properties>
+    <titles>
+      <title>Zengj halleluját az Úrnak</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Zengj halleluját az Úrnak</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Zengj halleluját az Úrnak,<br/>zengj halleluját az Úrnak,<br/>halleluja, halleluja,<br/>zengj halleluját az Úrnak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus halálból feltámadt,<br/>Jézus halálból feltámadt,<br/>halleluja, halleluja,<br/>Jézus halálból feltámadt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus a menny és föld Ura,<br/>Jézus a menny és föld Ura,<br/>halleluja, halleluja,<br/>Jézus a menny és föld Ura.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ő nemsokára visszajön,<br/>Ő nemsokára visszajön,<br/>jön talán még ma, és elvisz haza,<br/>Ő nemsokára visszajön!</lines>
+    </verse>
+  </lyrics>
+</song>

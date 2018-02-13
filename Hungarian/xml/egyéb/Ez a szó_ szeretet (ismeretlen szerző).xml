@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:41">
+  <properties>
+    <titles>
+      <title>Ez a szó: szeretet</title>
+    </titles>
+    <copyright>S-093</copyright>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ez a szó: szeretet...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ez a szó: szeretet, minden nyelvben él, legyen nyugat, vagy kelet, észak bár, vagy dél. Ez a szó Istenről szól, mert ez Őmaga és hogy így megismerjük: eljött Fia!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A szeretet erős, nem múlik el, nem gerjed haragra, gonoszt nem ró fel. Mindent remél és hisz, mindent elvisel. A szeretet erős, soha nem múlik el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus a mi Mesterünk, mielőtt eltávozott, ránk, tanítványaira új parancsot hagyott. Azt hogy ahogy Ő minket úgy szeressük egymást, s hogy Krisztuséi vagyunk: megtudja így a világ.</lines>
+    </verse>
+  </lyrics>
+</song>

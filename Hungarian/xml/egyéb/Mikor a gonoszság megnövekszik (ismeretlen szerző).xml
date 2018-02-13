@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:21">
+  <properties>
+    <titles>
+      <title>Mikor a gonoszság megnövekszik</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mikor a gonoszság megnövekszik</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mikor a gonoszság megnövekszik, csalás és ámítás jónak tűnik. Eltapos minden láb, gyilkol a kéz, a szemem Tereád néz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mivel az egekig ér, az egekig ér kegyelmed, ó, Uram. A felhőkig ér, a felhőkig ér <br/>hűséged, ó, Uram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mind, aki Reád vágyik, hozzád szalad, szárnyadnak árnyéka oltalmat ad. Az élet forrása nálad fakad, és soha el nem apad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sötétben, halálban nem tántorog, mert fényes csillagod énrám ragyog, irgalma éntőlem el nem forog, erősen tart két karod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Folyóként eláraszt a nagy öröm, mindig Tebenned gyönyörködöm. Hűséged pecsétjét adtad nekem, a Tiéd az életem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kész az én szívem, hogy énekeljen, kész az én lelkem, hogy dicsérjelek. Hirdetem nevedet mindenkinek, hadd tudják a nemzetek: azt, hogy az egekig ér...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:12">
+  <properties>
+    <titles>
+      <title>A béke hangjai a szívedben</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A béke hangjai a szívedben</lines>
+    </verse>
+    <verse name="o1">
+      <lines>A béke hangjai a szívedben, megújítják életed, ha fáradt vagy és nagyon megterhelt, ha lelked nyomja a sok bűnteher, add át Neki mindened, életed, szívedet, és a béke betölt téged.</lines>
+    </verse>
+  </lyrics>
+</song>

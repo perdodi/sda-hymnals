@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-07T13:10:26">
+  <properties>
+    <titles>
+      <title>232. Én áldott Istenem</title>
+    </titles>
+    <copyright>Hé-232</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én áldott Istenem...<br/><br/>Hitünk énekei<br/>232. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én áldott Istenem, Te végtelen nagy jóság, ki nélkül nincsen jó és nincs bajra orvosság, adj nékem ép testet, a lelkem tisztítsd meg és éltem ékítse jó lelkiismeret!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Add, tennem jó kedvvel, azt, mi énhozzám illik és mint szent törvényid azt nékem is rendelik. Hogy mindent megtegyek, ha nékem rendeled, s ha végbevittem mind, ó! áldja szent kezed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Add, hogy most minden szóm csak tiszta és jó legyen, hogy oktalan beszéd a számból ki ne menjen! Ha tisztem szerint kell akárhol szólanom: Szent igéd szavától ne hagyj elhajlanom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha sorsom mostoha: Ó! ne hagyj elcsüggednem! Ha rajtam a kereszt: Ó! ne engedj elesnem! Ne vegyen ellenség énrajtam hatalmat és jó tanács ha kell: Te adj bölcs szavakat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add, hogy mindenkivel csak békességben éljek! Szent tanításodtól én soha el ne térjek! Jó munkám béréből majd hogyha gyarapszom, ó! engedd áldásod jóra fordítanom!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ha úgy tetszik, Uram, hogy kedvezz életemnek, ha majd vénségemet én erőben érem meg: Bűnös és rút élet lelkem ne terhelje, hogy ősz haját fejem ékesen viselje!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Holtakat végnapon majd mikor feltámasztod, én koporsómhoz is hű kezed kinyújtod; Szent igéd szavával majd akkor keltsél fel és dicsőült testben vígy engem mennybe fel!</lines>
+    </verse>
+  </lyrics>
+</song>

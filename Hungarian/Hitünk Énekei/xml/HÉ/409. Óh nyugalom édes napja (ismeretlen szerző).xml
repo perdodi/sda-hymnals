@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:18:18">
+  <properties>
+    <titles>
+      <title>409. Óh nyugalom édes napja</title>
+    </titles>
+    <copyright>Hé-409, Üa-071</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Óh nyugalom édes napja...<br/><br/>Hitünk énekei<br/>409. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Óh nyugalom édes napja, amit Isten rendele, Nézz lelkem az Úr napjára, örvendj te is ővele!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vajon maradjak-e otthon, ha imára megy a nép? Folytassam-e rendes dolgom, hallván mások énekét?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ott az áldott szavak csengnek: "Osszátok a kenyeret, Melyet az Úr rendelt nektek, hogy ti azzal éljetek!"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az az óra, boldog óra, amikor az Úr felől, Elmélkedve, gondolkodva, tanulok igéiből.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:05">
+  <properties>
+    <titles>
+      <title>Jézus, ünnepeljük győzelmed</title>
+    </titles>
+    <verseOrder>i1 c1 v1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, ünnepeljük győzelmed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, ünnepeljük győzelmed, Jézsu, magasztaljuk neved. Jézus, hálával köszöntünk, Jézsu, tiéd az életünk. 2X</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szabadításod örök életre szól drága véredel fizzatél, hogy megments a gonosztól, hogy a halálból élatre keljünk. Dicsöség néked, Mesterünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szellemed eljött,hogy betöltsön erővel, hogy tanúid lehessünk tökéletes szívvel. Jelenlétedben eltünnek a bajok, s a boldog reménység felragyog.</lines>
+    </verse>
+  </lyrics>
+</song>

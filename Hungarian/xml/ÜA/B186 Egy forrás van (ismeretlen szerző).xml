@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:46">
+  <properties>
+    <titles>
+      <title>B186 Egy forrás van</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Egy forrás van<br/>B186</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egy forrás van, mely bűntől megtisztít; Hely, hol sötétben napfény világít. Lehull a terhed, látást nyer a vak, Mert a golgotai vér csodás erősséget ad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, lélek, rád is vár a Golgota, Bűnterhed bátran tedd le hát oda! Jézus ha látja csüggedt életed, Felüdítve új erőt s békességet ad neked.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T13:01:32">
+  <properties>
+    <titles>
+      <title>294. Ó! Sion, ébredj</title>
+    </titles>
+    <copyright>Hé-294</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! Sion, ébredj...<br/><br/>Hitünk énekei<br/>294. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! Sion, ébredj, töltsd be küldetésed, mondd a világnak: hajnalod közel! Mert nem hagy az, ki népeket teremtett, senkit sem éjben, bűnben veszni el. Légy örömmondó, békekövet, hirdesd: a Megváltó elközelgetett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mondd minden népnek: elveszett juháért mit tett a Pásztor - csoda szerelem - Földig hajolt a kárhozott világért, s hogy ott fenn élhess, Ő meghalt itt lenn. Légy örömmondó, békekövet, hirdesd: a Megváltó elközelgetett!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Küldj fiaidból, akik nem hiába élvezik kincsed: hirdessék szavad; Öntsd lelked értük győzelmes imába: mindent, mit adtál, Krisztus visszaad. Légy örömmondó, békekövet, hirdesd: a Megváltó elközelgetett!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Sion, várjad, előbb jön, mint véled, felfedi titkát minden szív előtt! Egy lélekért se érjen vádja téged, hogy temiattad nem látta meg Őt. Légy örömmondó, békekövet, hirdesd: a Megváltó elközelgetett!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:38:01">
+  <properties>
+    <titles>
+      <title>136. Ó! Jézus a szívem úgy vár</title>
+    </titles>
+    <copyright>Hé-136</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! Jézus a szívem úgy vár...<br/><br/>Hitünk énekei<br/>136. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! Jézus a szívem úgy vár! Szent békédet úgy szomjazom! Hő vágyam a menny felé száll: Ó! Jöjj el már én Megváltóm! A szemem az égre tekint, úgy várom, hogy jöjj el megint, mert érzem, hogy közel vagy már, és lelkem oly epedve vár!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott lehetek, igéd szerint, szent Sionnak dicső hegyén. A szeretet így üdvözít, s már most éltet ez a remény. Szent kebledre borulok majd, és feledek könnyet és jajt, mert üdvömet megtalálom, ott Tenálad, hű Megváltóm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A megszentelt, megváltott nép szent házadban boldogan él. Ha útjának végére ér, a gonosztól többé nem fél. Én isteni gyógyítóm jöjj, és hívedet emeljed föl! Úgy vágyom, hogy lássalak már, ó Jézus, a szívem úgy vár!</lines>
+    </verse>
+  </lyrics>
+</song>

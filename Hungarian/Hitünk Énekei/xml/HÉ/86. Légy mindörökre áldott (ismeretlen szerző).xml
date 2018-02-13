@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:52:22">
+  <properties>
+    <titles>
+      <title>86. Légy mindörökre áldott</title>
+    </titles>
+    <copyright>Hé-086</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy mindörökre áldott...<br/><br/>Hitünk énekei<br/>86. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Légy mindörökre áldott, Megváltó Jézusom! A kisdedeknek ajka szent hozsánnaszót mond. Te Izráelnek szentje és Dávid fia vagy, az Úr nevében áldott, légy áldott mindennap!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most angyalkarok zengik nagy dicsőségedet és válaszol a földről a megváltott sereg; Ím pálmaággal hintik az utadat tele és felhatol az égig hű néped éneke.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Így harsonázott néked a kiválasztott nép és mégis reád tette a bűnök keresztjét; Te imádkoztál értünk a kínos keresztfán; Az én bűnöm is vedd el és hallgasd meg imám!</lines>
+    </verse>
+  </lyrics>
+</song>

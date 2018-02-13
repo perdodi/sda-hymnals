@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:58:49">
+  <properties>
+    <titles>
+      <title>333. Áldjuk Őt, áldjuk Őt!</title>
+    </titles>
+    <copyright>Hé-333</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldjuk Őt, áldjuk Őt!<br/><br/>Hitünk énekei<br/>333. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldjuk Őt, áldjuk Őt! Isten erős karja véd: féltőn őrzi gyermekét. Áldjuk Őt, áldjuk Őt, áldjuk, áldjuk, áldjuk Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldjuk Őt, áldjuk Őt! Minden földi szenvedés öröklétért oly kevés! Áldjuk Őt, áldjuk Őt, áldjuk, áldjuk, áldjuk Őt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldjuk Őt, áldjuk Őt! Készen vár a mennyben ránk ékes életkoronánk. Áldjuk Őt, áldjuk Őt, áldjuk, áldjuk, áldjuk Őt!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:28:59">
+  <properties>
+    <titles>
+      <title>369. Csöndesen száll feléd</title>
+    </titles>
+    <copyright>Hé-369</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Csöndesen száll feléd...<br/><br/>Hitünk énekei<br/>369. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csöndesen száll feléd dicsérő énekünk, midőn e napnak reggelén ím Hozzád esdeklünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Míg üde szirmokon csillog a harmatcsepp, az újabb napra adj erőt, ó! küldd el Lelkedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az élet harcterén új küzdelmünk előtt csak Tőled várjuk védelmünk, csak Tőled az erőt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Új élet hajnalán, Golgota szent hegyén nagy győzedelmet nyert Fiad, megdicsőíttetvén!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallgasd meg hő imánk, lásd, hitünk gyönge még; Szent Fiad áldott győzelme az élet s üdvösség!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:37">
+  <properties>
+    <titles>
+      <title>B113 A halál legyőzőjének …</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A halál legyőzőjének …<br/>B113</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A halál legyőzőjének, Ki meghalt a Golgotán, Zengjen hála, örömének Minden hívő ajakán! Szenvedett az átokfán, Értünk mindent már elvégzett: Sírjából föltámadott, Poklot, halált megrontott!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálahimnuszt zengjen szívünk, Zúgjon égi örömár, Hódolattal telve menjünk Hozzá, hol az élet vár! Nem árt többé a halál, Múljék minden rettegésünk! Rajtunk élet napja kél, Íme, Jézus Krisztus él!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Majd ha egykor angyalszóra Új testben föltámadunk, Az lesz majd a boldog óra, Dicsőséges hajnalunk. Krisztus előtt hódolunk, S reánk ragyog fénylő arca. Szemtől szembe látjuk őt, A föltámadt égi Hőst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zengjünk néki hálazsoltárt Buzgó szívvel, örömmel! Szórjunk lába elé pálmát, Bensőnk hála töltse el! Dicső hajnal támadt fel, Messze űzve éj homályát; Jertek, zengjük szerteszét Jézus Krisztus győzelmét!</lines>
+    </verse>
+  </lyrics>
+</song>

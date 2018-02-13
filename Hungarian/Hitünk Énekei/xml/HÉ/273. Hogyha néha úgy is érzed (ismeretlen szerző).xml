@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:53:43">
+  <properties>
+    <titles>
+      <title>273. Hogyha néha úgy is érzed</title>
+    </titles>
+    <copyright>Hé-273</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hogyha néha úgy is érzed...<br/><br/>Hitünk énekei<br/>273. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hogyha néha úgy is érzed: elfelejtett Isten téged, adjon erőt az a hit: Isten végül megsegít!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogyha késik segítsége, ne mondd: "Már mindennek vége!" Helyzetedet tudja jól, meg is segít legjobbkor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bár a mennynek minden éke készen vár az üdvösségre: Bölcsessége szabja meg, mi jót adhat most neked.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bármennyi a szenvedésem, mindig tudom, mindig érzem: Isten mindig vélem van, hű és biztos oltalmam.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A kísértő csábít, ámít, mégsem gyötör már sokáig: Jézus újra visszajő, Ő lesz majd az ítélő.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicső menny lesz örökségem, hogyha a bűn nem kell nékem. Ama boldog drága hon: Az a legszebb jutalom!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Te légy az én osztályrészem: Nem kell egyéb semmi nékem! Életemben, holtomban Tied vagyok, én Uram.</lines>
+    </verse>
+  </lyrics>
+</song>

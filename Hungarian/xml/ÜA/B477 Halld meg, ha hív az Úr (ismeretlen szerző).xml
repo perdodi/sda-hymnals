@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:21">
+  <properties>
+    <titles>
+      <title>B477 Halld meg, ha hív az Úr</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Halld meg, ha hív az Úr<br/>B477</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Halld meg, ha hív az Úr! Mondd, mire várnál? Nyomdokán indulj el bátor hittel,Semmit se tétovázz, ne fuss meg gyáván, Jézusod véled lesz, csak nézz rá fel!Érted a földre jött, hogy üdvöt hozzon És néked győzelmes éltet adjon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szolgáld őt szüntelen, tettre kész szívvel, Oltárán életed tisztán égjen!Keskeny és szűk az út, mely hozzá visz fel, De a cél tündököl égi fényben.Meg ne állj csüggedőn, Megváltód megvéd, Hívjad csak oltalmul áldott nevét!</lines>
+    </verse>
+  </lyrics>
+</song>

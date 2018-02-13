@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:50:06">
+  <properties>
+    <titles>
+      <title>308. Az Úrban nincsen észak s dél</title>
+    </titles>
+    <copyright>Hé-308</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úrban nincsen észak s dél...<br/><br/>Hitünk énekei<br/>308. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úrban nincsen észak s dél, nincs kelet sem nyugat; Csak egy nagy testvér közösség a kéklő ég alatt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úrban minden bízó szív ím közösségre lép és szolgálata egybefűz, mint drága kötelék.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha bárhonnan is származol ó! testvér, nyújts kezet! Mint egy Atyának gyermeke én egy vagyok veled.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Úrban íme együtt van most minden földi nép, mert Krisztus minket eggyé tett és vár az üdvösség.</lines>
+    </verse>
+  </lyrics>
+</song>

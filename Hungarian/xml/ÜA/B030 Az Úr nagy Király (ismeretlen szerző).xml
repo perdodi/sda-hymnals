@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:25">
+  <properties>
+    <titles>
+      <title>B030 Az Úr nagy Király</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr nagy Király<br/>B030</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr nagy Király, az ég és föld ura. Országa bizton áll, nem rendül meg soha.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj, mondjunk hálaéneket! Övé legyen a tisztelet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Isten Úr; ítél a bűnös föld felett. De minden szív remél, kit kegyelmébe vett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hát örvendj és remélj, várd érkező Urad! Ő bátorít, ne félj; Eljön, és üdvöt ad!</lines>
+    </verse>
+  </lyrics>
+</song>

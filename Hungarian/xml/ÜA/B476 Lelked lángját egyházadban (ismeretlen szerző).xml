@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:21">
+  <properties>
+    <titles>
+      <title>B476 Lelked lángját egyházadban</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Lelked lángját egyházadban<br/>B476</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lelked lángját egyházadban Éleszd újra Istenünk. Hogy a földi küldetésben Jó sáfárként működjünk. Engedelmes szolgáidként Induljunk, ha Lelked küld, Mondjuk el, hogy Jézus által Megbocsátasz minden bűnt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tedd egyházad népét bátor Érted élő tanúvá, Hadd legyünk e széles földön Fényt, sugárzó lámpássá! Érjük el a szenvedőket Gyógyító szent Igéddel, És a bűnben szunnyadókat Az álomból keltsük fel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lássuk el az éhezőket, Látogassunk foglyokat, Oldjuk fel a láncra vertet, És szánjuk a hontalant! Jézus Krisztus hangján szóljunk, Kik már vettük áldását, Úgy éljünk, hogy példánk által Szent arcát megláthassák!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:13">
+  <properties>
+    <titles>
+      <title>A mi Megváltónk követségében</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A mi Megváltónk követségében</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A mi Megváltónk követségében ifjú seregünk indul egy szívvel. Be kell mutatnunk az Ő jóságát, hogy Őt tisztán láthassák!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lássa Jézust, ki minket lát, szeretete ragyogjon át! Minden szó, mit kiejtünk, minden, amit cselekszünk, legyen fénylő világosság!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ahogy Jézus járt, ahogy Ő szolgált, mi is úgy járunk hegyen-völgyön át. Ahogy Jézus élt, nekünk példakép, lábunk lábnyomába lép.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ifjú életünk maga prédikál, mert a szívünk már ott van Jézusnál. Ahogy Ő tenne itt a helyünkben, tegyünk úgy mi helyébe!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istent dicsérik, ahol mi járunk, hálaéneket fakaszt lábnyomunk. Elől Jézus megy, és mi követjük, Ő az áldott Mesterünk.</lines>
+    </verse>
+  </lyrics>
+</song>

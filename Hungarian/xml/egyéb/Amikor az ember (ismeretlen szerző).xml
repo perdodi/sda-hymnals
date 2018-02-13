@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:16">
+  <properties>
+    <titles>
+      <title>Amikor az ember</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Amikor az ember</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Amikor az ember még csak kisgyerek, akkor is kell az Istenről ismeret. Az Úr Jézus ajándékát élvezem, és minden percben ezt énekelem:</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Felfrissít az engedelmesség, nekem ebből soha nem elég. Épp ezért, a legkedvesebb énekem, hogy Jézus, Jézus, Jézus, Jézus, Jézus, Jézus, Jézus, Jézus, Jézus kell nekem. (Ámen)</lines>
+    </verse>
+  </lyrics>
+</song>

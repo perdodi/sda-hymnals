@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:20">
+  <properties>
+    <titles>
+      <title>Öröm van nálad</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Öröm van nálad<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Öröm van nálad, még ha búbánat sújt is ránk, ó! Jézusunk. Benned és véled mienk az élet, nagy megváltónk, hű Urunk. Te széjjeltéped a köteléket, ki benned bízik, sziklára épít.</lines>
+    </verse>
+  </lyrics>
+</song>

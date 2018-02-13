@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T19:40:32">
+  <properties>
+    <titles>
+      <title>227. Az Úrnak hangja szólt hozzám</title>
+    </titles>
+    <copyright>Hé-227</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úrnak hangja szólt hozzám...<br/><br/>Hitünk énekei<br/>227. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úrnak hangja szólt hozzám: Ó! jöjj már gyermekem, a bűnödet én elveszem, pihenj a keblemen! Az Úrhoz vittem akkor én elcsüggedt lelkemet és békességre lelt szívem és végre megpihent.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úrnak hangja szólt hozzám: Az üdv forrása vár; A szomjas szív megújul itt, ó! jöjj, siess, igyál! Mily boldog szívvel csüggtem ott az élet kútfején, a lelkem újjáéledett, s most benne élek én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úrnak hangja szólt hozzám: Ím én vagyok a fény; Csak jöjj, kövess és bizton jársz a próbák éjjelén! Az Úrra néztem akkor én és áradt fénye rám, e fényben járok szüntelen, míg el nem jön hazám!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:20">
+  <properties>
+    <titles>
+      <title>Az Úr menváram</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr menváram</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr menváram énekem,  azoed viharban sziklavár! Bár hullám csapdos zord éjben, a szívem ott békét talál.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az Úrban bízom én, Ő e menváram a kősziklám, a menváram, Ó Jézusom tebenned megnyugszom én, Te zord viharban sziklavár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A nap hevétől oltalom, a zord viharban sziklavár! Az éjszakában fénytornyom, ködoszlató reménysugár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha szól Ő, tenger csendesül, a zord viharban sziklavár! A lelkem hozzá menekül, nem érhet engem semmi kár.</lines>
+    </verse>
+  </lyrics>
+</song>

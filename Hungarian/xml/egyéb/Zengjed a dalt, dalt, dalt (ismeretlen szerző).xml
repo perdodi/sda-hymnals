@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:56">
+  <properties>
+    <titles>
+      <title>Zengjed a dalt, dalt, dalt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Zengjed a dalt, dalt, dalt</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Zengjed a dalt, dalt, dalt, kiáltsd a szót, szót, szót, zengjed a dalt, kiáltsd a szót: Él az Úr! Az arany kapun át látod életed Urát, zengjed a dalt, kiáltsd a szót: Él az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Indulj, szép égi szekér, hazafelé vezet az út! Indulj szép égi szekér, hazafelé vezet az út! Ha minden szent életre kél, ha minden szent életre kél.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hívj Atyám a szentek közé, ha minden szent életre kél!</lines>
+    </verse>
+  </lyrics>
+</song>

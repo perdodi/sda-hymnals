@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:38:20">
+  <properties>
+    <titles>
+      <title>138. Mondd, miért szunnyadsz</title>
+    </titles>
+    <copyright>Hé-138, S-120</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mondd, miért szunnyadsz...<br/><br/>Hitünk énekei<br/>138. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mondd, miért szunnyadsz, hisz vár égi otthon; miért nem vagy éber, e hon oly közel? Ébredj, ó! ébredj, és ölts lelki fegyvert, kelj fel és mondjad: Ó! Jézus, jövel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mondd, miért szunnyadsz és alszol ily későn? Győztesre vár csak a szent jutalom. Jézusunk nem késik, ő eljön hamar, Mondd hogyan állsz meg majd ama napon?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Félelem tölti el ezreknek szívét, mert gyötri lelkük a nagy számadás; Ó! figyelj, hív téged az égi szózat, harc után rád örök megnyugvás vár.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miért vonz még múló és könnyelmű hívság, ábrándok útján a rossz tőrbe ejt. Törd szét ma láncát a rút szenvedélynek, számodra áldást a menny hona rejt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nézz fel az égre és várd híven Jézust, Ádventjét hirdetik már a jelek; Vigadj és örvendj, hisz Jézusunk jön már, s Ővele dicsfényben angyalsereg!</lines>
+    </verse>
+  </lyrics>
+</song>

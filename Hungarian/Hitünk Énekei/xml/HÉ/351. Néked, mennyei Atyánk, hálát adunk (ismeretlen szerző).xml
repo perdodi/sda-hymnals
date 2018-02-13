@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:22:42">
+  <properties>
+    <titles>
+      <title>351. Néked, mennyei Atyánk, hálát adunk</title>
+    </titles>
+    <copyright>Hé-351</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Néked, mennyei Atyánk, hálát adunk...<br/><br/>Hitünk énekei<br/>351. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Néked, mennyei Atyánk, hálát adunk, szent Fiaddal s Szent Lelkeddel imádunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy minket e napon is megtartottál, lelki-testi eledellel tápláltál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bocsásd meg, kérünk, minden bűneinket, mikkel ma is megbántottunk Tégedet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ez éjszakának is sötétségében védelmezz minket minden gonosz ellen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Őrizz a Sátán nagy csalárdságától és minden lelki-testi nyavalyától!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Áldd meg csendességgel nyugodalmunkat: Örömmel érjük felvirradásunkat!</lines>
+    </verse>
+  </lyrics>
+</song>

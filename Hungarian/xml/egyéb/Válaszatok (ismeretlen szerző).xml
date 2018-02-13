@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:55">
+  <properties>
+    <titles>
+      <title>Válaszatok</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1 v2 c2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Válaszatok</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Válaszatok addig, míg tart a ma, ki legyen a ti szíveteknek Ura. Nem szolgálhat két úrnak senki sem, egyiket gyűlölni vagy szeretni kell.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Világi kívánság és a pénz, idegen istenek, bálványok, szenvedély: vakitják a szemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Azért hát féljétek az Urat, néki szolgáljatok, hagyjátok el a bűnt, az Úr előtt járjatok.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Válaszatok addig, míg tart a ma, ki legyen a ti szíveteknek Ura. Én és az én otthonom az Urat szolgáljuk minden napon.</lines>
+    </verse>
+  </lyrics>
+</song>

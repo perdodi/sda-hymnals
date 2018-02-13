@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:11">
+  <properties>
+    <titles>
+      <title>B396 Boldog ének hangja csendül</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Boldog ének hangja csendül<br/>B396</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Boldog ének hangja csendül Krisztus népe ünnepén. Élő hitben összeforrva Áldjuk Istent szent hegyén. Ő, mint pásztor karján hordoz Bajban, vészben szüntelen. Ujjong lelkünk, égig szárnyal Hódolattal teljesen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Térdre hullva oltárt gyújtunk Jézusunk, az Úr előtt, Mert szent vére rólunk minden Bűnt és vétket eltörölt. Hótisztára mosta szívünk, És elküldte Szentlelkét. Megváltónknak hálát mondunk, Bátran valljuk nagy nevét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ezredévek jönnek-mennek, Minden múlik, porba hull, Ám őrajta sziklán állunk, Bizton tart és véd az Úr! Benne bízva napról napra, Tesszük munkánk szorgosan. Tudjuk jól, hogy pályánk végén Célba érünk boldogan!</lines>
+    </verse>
+  </lyrics>
+</song>

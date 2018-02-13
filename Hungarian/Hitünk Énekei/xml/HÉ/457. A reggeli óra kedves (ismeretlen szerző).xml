@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:38:27">
+  <properties>
+    <titles>
+      <title>457. A reggeli óra kedves</title>
+    </titles>
+    <copyright>Hé-457, Üa-377</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A reggeli óra kedves...<br/><br/>Hitünk énekei<br/>457. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A reggeli óra kedves, ha Istennel kezdjük meg, a szív örömében repdes és az ajk hálát rebeg: így illik keresztyénhez, akit Isten felébreszt, a nyugalmas éjjel után új derült reggelre korán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óh tekintsünk fel az égre, hol a nap ragyogva áll, melyről hegyre és völgyekre fény és áldás alászáll. Szebben mint nap világa ragyog Krisztus orcája, üdv, béke és igazság van rejtve e világosságban.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ma is fog minket kísérni, a munkához megy velünk; szívünket jóra vezérli és híven áll mellettünk, hogy ne érjen e napon minket semmi bántalom, és magunkat áldásával adjuk nyugalomnak által.</lines>
+    </verse>
+  </lyrics>
+</song>

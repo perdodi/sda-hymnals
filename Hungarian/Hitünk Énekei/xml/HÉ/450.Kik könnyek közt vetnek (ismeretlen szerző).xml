@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:36:00">
+  <properties>
+    <titles>
+      <title>450.Kik könnyek közt vetnek</title>
+    </titles>
+    <copyright>Hé-450, Üa-343</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kik könnyek közt vetnek...<br/><br/>Hitünk énekei<br/>450. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kik könnyek közt vetnek, örömben aratnak; Atyjuk örökében egykor vigadnak. Kik jó magot vetnek, melyet az Úr küldött, kévéik behordják örömkönny között.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kévéik hordják, kévéik hordják, kik könnyek közt vetnek, kévéik hordják. Kévéik hordják, kévéik hordják, örömben aratnak, kévéik hordják.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívünk ne csüggedjen, ámbár szántóföldünk tele van kövekkel s csak tövist lelünk. Az Úr megígérte, hogy áldását küldi s a vetést bőséges áldás kíséri!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megváltónkért vetni az ige jó magvát, - bárhová is küldjön - legyen óhajunk, mert ha ezt hűséggel mindvégig megtesszük, fáradtságunk után lesz bő jutalmunk!</lines>
+    </verse>
+  </lyrics>
+</song>

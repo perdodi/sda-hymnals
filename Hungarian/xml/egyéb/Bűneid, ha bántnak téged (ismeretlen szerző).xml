@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:33">
+  <properties>
+    <titles>
+      <title>Bűneid, ha bántnak téged</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Bűneid, ha bántnak téged</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bűneid, ha bántnak téged, ördög, világ küzd veled, félelemmel teljes szíved, irgalomért küzdve esd.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Akkor jöjj a Golgotára, hittel nézz az Úrra fel, várjad Őt és nemsokára, érzed azt, hogy nem hagy el, várjad Őt és nemsokára, érzed azt, hogy nem hagy el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha az emberek elhagynak, barátból lesz ellenség, utaid zord, elhagyottak,szemed már sok könnytől ég.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus hív, itt van az óra, ma még vár a kegyelem, ma tedd élted az oltárra,ne gátoljon félelem.</lines>
+    </verse>
+  </lyrics>
+</song>

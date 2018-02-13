@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:40:45">
+  <properties>
+    <titles>
+      <title>151. Jézus Krisztus bennem él!</title>
+    </titles>
+    <copyright>Hé-151</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus Krisztus bennem él!<br/><br/>Hitünk énekei<br/>151. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus Krisztus bennem él! Halál, hol a te hatalmad? Síromból is előhív és ad örök nyugodalmat. Megdicsőít jó Uram: Ez az én bizodalmam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus él, a nagy király: Övé égen, földön minden; Véle együtt örököl, aki benne bízik híven. Istennél van jutalmam: Ez az én bizodalmam!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus él és megmenti, aki bűnét bánja mélyen; Szent kegyelmét ígérte, hogy a bűnös hozzá térjen. Hitben átadom magam: Ez az én bizodalmam!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus él! Az üdv enyém, én meg Krisztusé, egészen. Semmi meg nem tántorít, az Ő példáját ha nézem. Mindig Ő lesz oltalmam: Ez az én bizodalmam!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézus él! Mily boldogság! Tőle többé el nem választ sem sötétség hatalma, sem dicsőség, sem a bánat. Ő ad erőt harcomban: Ez az én bizodalmam!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jézus él! S ki benne hisz, azt a halál le nem sújtja. Jézus Krisztus szívemben szent reménység tüzét szítja. Zengje szívem boldogan: Jézus, én bizodalmam!</lines>
+    </verse>
+  </lyrics>
+</song>

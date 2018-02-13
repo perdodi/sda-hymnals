@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:17">
+  <properties>
+    <titles>
+      <title>B442 Mind adjon hálát Istennek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mind adjon hálát Istennek<br/>B442</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mind adjon hálát Istennek, Ki csak él idelenn, Mint mennyben angyalseregek Őt zengik szüntelen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérjük Istent boldogan, Mert Ő a legfőbb jó! Nagy csodaműve számtalan, Karja mindenható.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Épségben tartott bennünket Éltünk kezdetétől, S ha ember már nem segített, Ügyünk Ő vette föl.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bár gyakran bűnnel bántottuk, Nem fordult tőlünk el. Megbocsát nékünk Krisztusért, S megáld kegyelmével.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ő adjon vidám, új szívet A régi helyébe, És vessen gondot, félelmet Tenger mélységébe!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jóvolta járjon mivelünk, Híven öleljen át, És tartsa távol mitőlünk Ma is a bajt, a kárt!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ő legyen, míg tart ez a lét, A mi üdvösségünk, És ha itt utunk véget ért, Égi örökségünk!</lines>
+    </verse>
+  </lyrics>
+</song>

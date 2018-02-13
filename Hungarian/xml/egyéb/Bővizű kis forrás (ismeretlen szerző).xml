@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:33">
+  <properties>
+    <titles>
+      <title>Bővizű kis forrás</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Bővizű kis forrás</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bővizű kis forrás jó orvosság, jólesik ha felfrissít és így jókedvet ád. Árnyas erdő csöndje mindenkit hív, felvidulhat minden ifjú szív.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Látod-e az égen a sok csillagot, jól figyeld meg, amit az Úr így megalkotott. Nézz körül a földön, minden oly szép, Őt dicséri minden nyelv és nép.</lines>
+    </verse>
+  </lyrics>
+</song>

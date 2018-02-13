@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:48:00">
+  <properties>
+    <titles>
+      <title>302. Fohászkodom hozzád, Uram, Istenem!</title>
+    </titles>
+    <copyright>Hé-302</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fohászkodom hozzád, Uram, Istenem!<br/><br/>Hitünk énekei<br/>302. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fohászkodom hozzád, Uram, Istenem! Kérlek, kegyelmesen hallgass meg engem, mert Tebenned soha nem volt kétségem, azért most is Tehozzád esedezem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Látod, Uram, igen megnyomorodtam, előtted nagy nyavalyára jutottam, de míg Te szent Istenségedben bíztam, soha semmiben el nem hagyattattam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reménységem míg el nem fogyatkozott, a Te ígéreted nálam nyilván volt, hogy énnékem mind megadod azokat, melyeket én szívem Tőled óhajtott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Azért Téged hívlak csak segítségre és magamat nem is bízom senkire; Én lelkemet vigyed hálaadásra és szívemet juttasd nagy vígasságra.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Irgalmasságodat mikor hallhatom, legott elfelejtem minden bánatom; Abban vagyon nékem nagy vigasságom, bűneimnek bocsánatját hogy bírom.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jelentsd nekem a Te akaratodat, fordítsd hozzám szent irgalmasságodat; Add meg nékem most, amit Tőled várok, melyért dicséretet örökké mondok.</lines>
+    </verse>
+  </lyrics>
+</song>

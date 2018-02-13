@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:46">
+  <properties>
+    <titles>
+      <title>Te vagy kősziklám</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Te vagy kősziklám</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te vagy kősziklám, oltalmam szélvészben, veszélyek közt támaszom, aki megtartasz emgem, mert benned bízom én. Benned bízom én, velem vagy, s ez ad erőt, kegyelmed elég nekem.</lines>
+    </verse>
+  </lyrics>
+</song>

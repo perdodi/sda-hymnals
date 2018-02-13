@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:14">
+  <properties>
+    <titles>
+      <title>Legyen áldás az úton</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Legyen áldás az úton</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Legyen áldás az úton, amit ma kezdesz el, legyen veled az Isten, kérjük, kísérjen el. Kérjük, oltalmazzon meg, és adjon néked erőt, Utadon vezesen, formáljon, szeresen, legyen a te őriződ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Legyen áldás az úton, amit me kezdesz el, tegye jóvá az Isten, amit te rontasz el! Kérjük, lénye ragyogja lábad elé a fényt! Lásd meg, hogy utadon isteni oltalom vigyáz rád, és szeretve félt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Legyen áldás az úton, amit ma kezdesz el, legyen erőd és türelmed, ha szenvedni kell! Legyen erőd szeretni, utolsó lenni, ha kell, szívem szolgálni, hálával áldozni, Jézusra mutatni fel!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Legyen áldás az úton, amit ma kezdesz el, öröm kísérjen végig, amíg úton leszel! Legyen boldog élted, és mindig az övé! Szívünkből szeretünk, imában kísérünk élted célja felé!</lines>
+    </verse>
+  </lyrics>
+</song>

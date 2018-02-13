@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:32:15">
+  <properties>
+    <titles>
+      <title>449. Őrálló szólj, ne légy néma</title>
+    </titles>
+    <copyright>Hé-449, Üa-337</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Őrálló szólj, ne légy néma...<br/><br/>Hitünk énekei<br/>449. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Őrálló szólj, ne légy néma, fújjad jól a trombitát! Fújjad, hallja minden ember, az igazság szózatát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Őrálló fújjad a kürtöt hangosan, ne vesztegelj! Ints, dorgálj s óvó szavaddal hadd teljen be minden hely.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óh kiálts a tévedőknek: rossz úton jár lábatok! Mélység van az utak végén, melybe majd lehullotok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh kiálts az igazaknak, Siessetek menteni! Mert az éjfél nincs már messze s nem tudtok segíteni.</lines>
+    </verse>
+  </lyrics>
+</song>

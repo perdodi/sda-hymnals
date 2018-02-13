@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:40">
+  <properties>
+    <titles>
+      <title>Suhanó felhő</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Suhanó felhő</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Suhanó felhő... puha, lágy szelló... érzem itt vagy, tudom, hogy itt vagy. Lehajtom fejem, a hangod figyelem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szólj Szent Lélek, taníts engem! A sebem begyógyul, a könnyem már nem hull. Örömőt adtál, befogadtál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A bánat elrepül, sok gond eltörpül. Vakon követlek, mint gyermek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vezess hát tovább, egész életemen át! Úgy vágyom, úgy vágyom Terád! Nekem bárhogy jösz, úgy jó, legetsz tűz, vagy hűs folyó, nekem csak is, csak is Veled jó! 2x</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:34">
+  <properties>
+    <titles>
+      <title>Csak nyisd ki szíved</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Csak nyisd ki szíved</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csak nyisd ki szíved és sose félj, mert él az Úr , csak nyisd ki a szíved, kérd te is Őt, hogy Ő legyen Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

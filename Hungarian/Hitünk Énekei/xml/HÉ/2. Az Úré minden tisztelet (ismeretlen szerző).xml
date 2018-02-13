@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T17:13:16">
+  <properties>
+    <titles>
+      <title>2. Az Úré minden tisztelet</title>
+    </titles>
+    <copyright>Hé-002</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úré minden tisztelet...<br/><br/>Hitünk énekei<br/>2. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úré minden tisztelet, az Úré minden hála! Mert vész nem érhet bennünket, ha lépünk lábnyomába. Az Isten minket úgy szeret, hogy messze űz bajt, félelmet, s a béke élhet bennünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szívünk, lelkünk hőn imád nagy jóvoltodért Isten és néked hódol, téged áld az égen, földön minden. Ki Úr vagy minden életen és nagy hatalmad végtelen, csak benned boldog éltünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te egyszülöttje Istennek, Te élő szent igéret, a benned bízó bűnösnek Te szerzel békességet. Ó! Jézus, benned hisz, remél, s a földkerekség téged kér, hogy nyerjen üdvösséget.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, Isten lelke légy velünk, add nékünk segítséged. Ha Sátán támad ellenünk, hogy győzzünk mindig véled. A kínok útján Jézus járt, ó vidd hát küzdő táborát a végső győzelemre!</lines>
+    </verse>
+  </lyrics>
+</song>

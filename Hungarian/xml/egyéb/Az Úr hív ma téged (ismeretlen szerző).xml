@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:19">
+  <properties>
+    <titles>
+      <title>Az Úr hív ma téged</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr hív ma téged</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr hív ma téged, oly régen vár rád. Nyisd meg hát szíved Neki! Meghallod e hamgját, mely halkan szólít? Csak te vagy fontos neki!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vár, csak rád vár, hiszen érted halt meg és ma újra megtené Ő! Most Ő kéri: enged hogy rád találjon. Add hát ma szíved neki!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak egyet kell lépned Megváltód felé, karjában békét találsz. A sötétség elmúlt, a fény vár rád, megvéd és vigyáz majd rád.</lines>
+    </verse>
+  </lyrics>
+</song>

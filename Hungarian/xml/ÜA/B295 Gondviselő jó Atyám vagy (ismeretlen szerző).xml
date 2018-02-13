@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:59">
+  <properties>
+    <titles>
+      <title>B295 Gondviselő jó Atyám vagy</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Gondviselő jó Atyám vagy<br/>B295</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Gondviselő jó Atyám vagy, Ó, én édes Istenem! Látom én, hogy minden elhagy E világon, csak Te nem! Hozzád vágyom, benned élek, Üdvöt mástól nem remélek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint az alélt, bús virágra Megújító harmatot: Vérző szívem fájdalmára Csak Te hintesz balzsamot. Könnyű sorsom terhe rajtam, Ha imára nyílik ajkam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rám-rám derül ismeretlen Utamon egy kis öröm; Azt is a Te véghetetlen Jóságodnak köszönöm; Hálakönnyem tündöklése A Te neved hirdetése.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gyenge vagyok, lankadoznak Buzgóságom szárnyai, Bármily híven vágyakoznak Színed elé szállani, Ó, adj erőt, hogy míg élek, Egyedül csak néked éljek!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, add, hogy ha majd bevégzem e mulandó életet, Lelkem tisztán és egészen Légyen eggyé teveled! El ne vonjon semmi többé, Tied legyek mindörökké!</lines>
+    </verse>
+  </lyrics>
+</song>

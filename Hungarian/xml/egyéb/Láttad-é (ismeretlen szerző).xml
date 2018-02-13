@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:15">
+  <properties>
+    <titles>
+      <title>Láttad-é</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Láttad-é...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Láttad-é, mikor értünk vérezett? Láttad-é, mikor értünk vérezett? Ó, láttam, bűnös szívem remeg, remeg, remeg! Láttad-é, mikor értünk vérezett?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Láttad-é, mikor feltámadott? Láttad-é, mikor feltámadott? Ó, láttam és a szívem örül, örül, örül! Láttad-é, mikor feltámadott?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Várod-é, mikor Ő majd visszajön? Várod-é, mikor Ő majd visszajön? Ó, várom, bízó szívem remél, remél, remél! Várod-é, mikor Ő majd visszajön?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:35:03">
+  <properties>
+    <titles>
+      <title>28. Jöjj, mondjunk hálaszót</title>
+    </titles>
+    <copyright>Hé-028</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jöjj, mondjunk hálaszót...<br/><br/>Hitünk énekei<br/>28. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jöjj, mondjunk hálaszót hű szájjal és hű szívvel! Mert rajtunk itt az Úr nagy csodadolgot mível! Már anyaölben is volt mindig gondja ránk, a sok jót mellyel áld ki sem mondhatja szánk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dús kincséből az Úr jó békességet adjon, hogy szívünkben a kedv víg és derűs maradjon. Ne hagyja híveit bú-bajban sohasem, a rossztól óvja meg e földi életen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Atyát és Fiút, és a Szentlelket áldom, a menny Urát, kiben szent egybeforrt a három. Aki úgy szól ma is, ahogy régente szólt, nem változik: az Ő és az lesz, aki volt.</lines>
+    </verse>
+  </lyrics>
+</song>

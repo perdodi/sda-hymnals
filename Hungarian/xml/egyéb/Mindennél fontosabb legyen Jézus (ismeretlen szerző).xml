@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:26">
+  <properties>
+    <titles>
+      <title>Mindennél fontosabb legyen Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mindennél fontosabb legyen Jézus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mindennél fontosabb legyen Jézus<br/>Benne erősödjél meg,<br/>Mindennél jobban várd az üdvösséget,<br/>És nem csalódsz és mindig boldog leszel.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mindennél jobban szeresd Őt!<br/>Mindennél jobban szeresd Őt!<br/>Jézus a szikla, építs arra,<br/>Mennybe elragad a drága megmentőd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nézzed Jézus drága szelídségét.<br/>Ha Őrá nézel te is olyan leszel,<br/>Ő emberek előtt magát megalázta,<br/>Az Isten Fia érted is szenvedett.</lines>
+    </verse>
+  </lyrics>
+</song>

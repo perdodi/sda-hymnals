@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:08">
+  <properties>
+    <titles>
+      <title>Jöjj, ajánljuk fel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jöjj, ajánljuk fel</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jöjj, ajánljuk fel hálaénekünk az Úrnak! Övé minden, ami él, vele minden a miénk, ajánljuk fel énekünket, ajánljuk fel dicséretünk az Úrnak!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:38:53">
+  <properties>
+    <titles>
+      <title>141. Halld, ó halld, mily hangos szó</title>
+    </titles>
+    <copyright>Hé-141</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Halld, ó! halld, mily hangos szó...<br/><br/>Hitünk énekei<br/>141. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Halld, ó! halld, mily hangos szó hatja át az egeket! Angyalkarok zengenek: Krisztus Urunk közeleg, Krisztus Urunk közeleg!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halld az égi trombitát, megremeg a föld, az ég! "Ébredjetek igazak, itt a boldog öröklét, itt a boldog öröklét!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nézd ím jő már Jézusunk, néki hódol ég és föld! Krisztus váró boldog nép, szent örömmel üdvözöld, szent örömmel üdvözöld!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjj az Úrhoz, te is jöjj, vár az örök békehon! Örök ott a boldogság, szeretet és nyugalom, szeretet és nyugalom!</lines>
+    </verse>
+  </lyrics>
+</song>

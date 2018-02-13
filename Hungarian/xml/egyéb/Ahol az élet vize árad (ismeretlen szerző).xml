@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:15">
+  <properties>
+    <titles>
+      <title>Ahol az élet vize árad</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ahol az élet vize árad</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ahol az élet vize árad , tiszta mint a kristály, és a folyó mindkét partján az élet fája áll. Ahol nem lesz többé éjjel és napsugár sem kell, mert a drága Bárány arca tündököl.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ahol aranyból lesz minden, az utcák és falak, csak a kapuk lesznek gyöngyből és a tizenkét alap.  Ahol nem lesz többé éjjel és napsugár sem kell, mert a drága Bárány arca tündököl.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oda megyek, ahol a Báránytrónja áll, és a száznegyvennégyezer lepecsételt vár, és a fehér ruhások seregében énekelek egy dalt: Glória halleluja! 2x</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glória halleluja! Glória halleluja! Fehér ruhások állnak a királyi szék előtt, és mindnyájuk kezzében pálmaág lebeg. És leborulva áldják a mindenség Urát, és éneklik a Bárány dalát!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ezek azok, akik a nyomorúságból jöttek, és szenvedtek a Jézus nevért. Ezek azok, akik megmosták fehére a ruhát. Jézus vérében!</lines>
+    </verse>
+  </lyrics>
+</song>

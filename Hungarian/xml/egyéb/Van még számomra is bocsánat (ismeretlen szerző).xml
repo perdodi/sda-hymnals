@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:53">
+  <properties>
+    <titles>
+      <title>Van még számomra is bocsánat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Van még számomra is bocsánat</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Van még számomra is bocsánat, <br/>van Megváltó, Ő az enyém.<br/>Nem mardos, sem a bűn, sem a bánat, <br/>mint a fecske ujjongok én.<br/>Halálban hevertem, de Ő felemelt, <br/>az életem ára a szíve vére lett.<br/>A bűnöm, Úr Jézus, a bűnöm, Úr Jézus, <br/>nem vádol többé engemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha kísértés hulláma tör rám,<br/>az én Uram védeni jő.<br/>Roskaszt a teher, nem is bírnám,<br/>hű vállára átveszi Ő.<br/>S hazám felé utamat, bár nem tudom, <br/>előttem jár Krisztus, mint tűzoszlopom.<br/>A véred, Úr Jézus, a véred, Úr Jézus, <br/>felhőként vezet utamon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az ég alját fürkészve nézem,<br/>Hajnalcsillag felkel-e már ?<br/>vigyázom és hallgatom ébren,<br/>hárfák hangja zendül-e már ?<br/>És én is elkezdem az én énekem, repesve, <br/>új hangon zeng dicséretem,<br/>Mikor az Úr Jézus, az én Uram <br/>Jézus, jön, hogy engem is elvigyen.</lines>
+    </verse>
+  </lyrics>
+</song>

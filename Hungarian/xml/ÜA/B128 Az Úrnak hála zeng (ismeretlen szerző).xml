@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:39">
+  <properties>
+    <titles>
+      <title>B128 Az Úrnak hála zeng</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úrnak hála zeng <br/>B128</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úrnak hála zeng a hívő ajkakon, Új ének hangja peng a hárfahúrokon. Az Úr nevét hű szívvel áldjuk és kiáltjuk szerteszét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A földre jött az Úr, s meghalt az átokfán, De húsvét fénye gyúl a gyászos éj után Ím, Jézus él! Ki rátekintve bízik benne, az nem fél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő ismét visszajön, hisz’ megígérte rég, A mennybe visz, hogy fönn megossza mindenét. Szent trónusát mind körülálljuk, és így áldjuk a Királyt.</lines>
+    </verse>
+  </lyrics>
+</song>

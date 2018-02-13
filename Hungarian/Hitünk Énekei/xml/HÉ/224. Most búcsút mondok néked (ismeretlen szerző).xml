@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T19:40:06">
+  <properties>
+    <titles>
+      <title>224. Most búcsút mondok néked</title>
+    </titles>
+    <copyright>Hé-224</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Most búcsút mondok néked...<br/><br/>Hitünk énekei<br/>224. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Most búcsút mondok néked, te csalfa, rossz világ! Bár csábít léha élet, a kétes boldogság. A mennyben vágyom élni, a szívem odaszáll: És ott a fény honában majd örökségem vár!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! Jézus Krisztus, rejtsd el Tebenned éltemet, mert ezer tövis bántja és tépi szívemet! De fájdalmaim árját Te megrövidíted, s én dicsőítlek Téged, mint boldog gyermeked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szívem templomában ott dzíszlok szent neved és békét ad a szívnek megváltó kereszted. Ó! világítsd az utam, hogy el ne tévedjek, s ha megfutottam pályám, majd véled élhessek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! rejtsd el kegyelemből én árva lelkemet, hogy egykor én is lássam nagy dicsőségedet. Mert boldog az, ki végül Tenálad kopogtat, s még boldogabb, ki véled mindvégig megmarad!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó! mindenható Isten, Te óvjad lelkemet; S az élet szent könyvébe Írjad be nevemet. Az örök élet kincse, ó, hadd legyen enyém, hogy dicsőséged zengjem majd mindörökre én.</lines>
+    </verse>
+  </lyrics>
+</song>

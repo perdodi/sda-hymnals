@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T11:23:28">
+  <properties>
+    <titles>
+      <title>255. Légy velem, áldott Úr Isten</title>
+    </titles>
+    <copyright>Hé-255</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy velem, áldott Úr Isten...<br/><br/>Hitünk énekei<br/>255. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Légy velem, áldott Úr Isten, ne hagyj el engem sohasem! Ellenség, ármány vesz körül, ím szívem hozzád menekül.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tebenned bízom, Úr Isten, mert Te vagy nékem mindenem! Megmentesz engem, jól tudom, ó! örök Isten, Jézusom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örvend a szívem s áldalak: Jöttödet várom nap mint nap! Vezessen földi utamon Szent igéd, égi oltalom!</lines>
+    </verse>
+  </lyrics>
+</song>

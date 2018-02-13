@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:49">
+  <properties>
+    <titles>
+      <title>Tégy engem békeköveteddé</title>
+    </titles>
+    <copyright>S-013</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tégy engem békeköveteddé</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tégy engem békeköveteddé, hogy hinthessem az igemagvakat! Ó, Szentlelked hadd uralkodjék bennem, és az ajkamra adj tiszta szavakat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó add, Uram, hogy soha ne feledjem, hogy mi voltam, hogy mivé lettem én! Egész életemmel, lényemmel hirdessem: Jézus él! Benne mindig van remény.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tégy engem békeköveteddé, bár nélküled én oly kicsiny vagyok, a harcaim közt az ad erőt nékem, ha az Ige fénye újra rám ragyog.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tégy engem békeköveteddé, már sóvárogva vár Rád a világ. Ó, add, hogy lámpás legyek szent kezedben, aki utat mutat másoknak Hozzád!</lines>
+    </verse>
+  </lyrics>
+</song>

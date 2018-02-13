@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:53">
+  <properties>
+    <titles>
+      <title>Hálát adunk Királyunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hálát adunk Királyunk</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hálát adunk hatalmas Úr Királyunk, hálát adunk Neked Szabadítónk! Hálát adunk hatalmas Úr Királyunk, hálát adunk Neked Szabadítónk!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus eljött és én élek, bűnöm elmúlt, nem félek. Szívem betelt reménységgel és nagy örömmel, megismertem Őt, a Szentet, aki mindig szeretett, aki odaállt helyettem az ítéletre, ó igen, az ítéletre!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halljátok meg minden népek, teljesült az ígéret, Istenünk világossága a világra jött, és Ő hív ma minden embert, hogy szívből megtérjenek, hiábavalóság helyett végre éljenek, ó igen, végre éljenek!</lines>
+    </verse>
+  </lyrics>
+</song>

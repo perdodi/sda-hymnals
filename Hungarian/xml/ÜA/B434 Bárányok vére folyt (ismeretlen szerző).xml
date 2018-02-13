@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:16">
+  <properties>
+    <titles>
+      <title>B434 Bárányok vére folyt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Bárányok vére folyt<br/>B434</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bárányok vére folyt Egykor a szent helyen, Ám elégséges egy sem volt, Hogy bűntől megmentsen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Istennek Báránya, Te vagy az egyetlen, Ki magad tetted oltárra, Hogy életem legyen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Két kezem rád teszem, Ártatlan, szent Bárány, Hogy legyen rajtad bűnterhem, S elvedd véred árán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bűntartozásomat Véred eltörli mind, Ez nékem lelki békét ad, És rám kegyelmet hint.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Már  jöhetek eléd Átoktól mentesen, Üdvszerző véred erejét Örökké dicsérem!</lines>
+    </verse>
+  </lyrics>
+</song>

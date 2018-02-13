@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:31">
+  <properties>
+    <titles>
+      <title>Ne félj, mert megváltottalak</title>
+    </titles>
+    <copyright>S-079</copyright>
+    <verseOrder>i1 c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ne félj, mert megváltottalak</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ne félj, mert megváltottalak, neveden szólítottalak, karjaimba zártalak, örökre enyém vagy! Ne félj, mert megváltottalak, neveden szólítottalak, karjaimba zártalak, örökre enyém vagy!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Viruló réteken át, hűs forrás felé vezetlek. Pásztorod vagyok, elveszni senkit sem hagyok, karom feléd tárom, kiárad áldásom. Nem rejtőzöm el, szeretet lángja átölel, amikor úgy érzed, nyomaszt az élet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem taszítalak el, amikor vétkezel. Irgalmat lelsz a szívemben, örök feléd a hűségem. Amerre jársz, védlek, nyomodba lépek. Nem rejtőzöm el, szívem a szívednek felel. Ne félj, ha éjben jársz, hidd, hogy a fény vár rád!</lines>
+    </verse>
+  </lyrics>
+</song>

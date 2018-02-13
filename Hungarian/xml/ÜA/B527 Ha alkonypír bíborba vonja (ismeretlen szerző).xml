@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:27">
+  <properties>
+    <titles>
+      <title>B527 Ha alkonypír bíborba vonja</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ha alkonypír bíborba vonja<br/>B527</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha alkonypír bíborba vonja Az esti égnek fellegét Eltűnik már a napsugára, S madárdaloktól zeng a lég; Hálával megtelik a szív, És minden áhítatra hív.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bár hallgatag a rét virága, De szótlan is imát rebeg, És színpompás kelyhét kitárva, Fejét szelíden hajtja meg. Az égbe küldi illatát, Az Alkotóhoz sóhaját.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oly kedves a hűs esti élet, Mikor minden nyugodni tér, Ó, ember, int a szép természet S a csendben elközelgő éj: Légy telve hálaérzettel, Te is imába mélyedj el!</lines>
+    </verse>
+  </lyrics>
+</song>

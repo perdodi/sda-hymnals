@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:11">
+  <properties>
+    <titles>
+      <title>Kis szívem, kis szoba</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kis szívem, kis szoba</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kis szívem, kis szoba, de nincs benne lámpa, Oly sötét, mint az éj; sötétben kilátna?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erre jár a Király, Ő hoz bele lámpát, szívemben széttekint, és ott ugyan mit lát?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kis szoba, csúf, poros, szemetes a sarka, látja ezt a Király, szomorkodik rajta.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézusom, Királyom, arra kérlek téged, Tisztítsd meg szívemet, és a rossztól védjed!</lines>
+    </verse>
+  </lyrics>
+</song>

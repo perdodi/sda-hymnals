@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:31">
+  <properties>
+    <titles>
+      <title>Betlehemben született</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Betlehemben született</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Betlehemben született az ácsmester fia, emberré lett az Isten; zengj halleluja. Azoknak, kik ismerték Őt, azt tanította, a csoda a ti szátokban van, hát jól figyelj oda.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Ó, Jézus, Te vagy a mi Urunk, ó, Jézus, néked zengjen dalunk! Ó, Jézus, Te vagy a mi Urunk, ó, Jézus, néked zengjen dalunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egy nap szamárháton ment fel Jeruzsálembe, ott volt az Ő egész népe, hozsannát zengve, Ez a nép volt az, aki Őt megfeszítette, meghalt, hogy mi élhessünk általa örökre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Emmausba vivő úton ment két tanítvány, letörve és hallgatagon, győzött a halál, egyszer melléjük szegődött egy különös idegen, megnyitotta a szemüket, s eltűnt hirtelen.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ő volt Jézus, Ő az, a mi Urunk, ó, Jézus, néked zengjen dalunk. Ó, Jézus, Te vagy a mi Urunk, ó, Jézus, néked zengjen dalunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jeruzsálem templomából kő kövön nem maradt, a mi szívünk félelmei porrá zúzódnak, szívünk templomának nagy takarítását, rajta kívül nem végezheti el senki más.</lines>
+    </verse>
+  </lyrics>
+</song>

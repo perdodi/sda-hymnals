@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:37">
+  <properties>
+    <titles>
+      <title>Ott a Via  Dolorosán</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ott a Via  Dolorosán</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ott a Via  Dolorosán, Jeruzsálem utcáján, ahol Megváltónk a Golgotára ment. Tolongott a tömeg s pribékek vonszolták a vesztőhelyre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Háta ütésektől vérzett, fején töviskorona, minden lépés újabb kín és fájdalom. A világ összes bűne nyomta vállát a kereszt súlya alatt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ott a Via Dolorosán, a szenvedések útján, ott járt némán, s győztesen a Bárány. Szenvedett a kereszten, szeretett Téged s engem. Ott a Via Dolorosán hordozta bűnünket.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>S a tisztító vér, az engesztelés, Jeruzsálem szívén átáradt felénk.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ott a Via Dolorosán, szenvedésnek útján, ott járt némán, s győztesen a Bárány. Felvette a keresztet, szeretett Téged s engem. Ott a Via Dolorosán hordozta bűnünket.</lines>
+    </verse>
+  </lyrics>
+</song>

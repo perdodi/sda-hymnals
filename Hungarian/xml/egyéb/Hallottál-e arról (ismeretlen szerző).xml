@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:48">
+  <properties>
+    <titles>
+      <title>Hallottál-e arról</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hallottál-e arról</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hallottál-e arról, hogy Jézus újra visszajön, hogy nemsokára újra visszajön. Egy nap, amit úgy vár a szívem, hogy Jézus innen elvigyen. Egy nap, amit úgy vár a szívem, hogy Jézus innen elvigyen.</lines>
+    </verse>
+  </lyrics>
+</song>

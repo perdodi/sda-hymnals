@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:47:18">
+  <properties>
+    <titles>
+      <title>300. Ó! mily hű barátunk Jézus</title>
+    </titles>
+    <copyright>Hé-300, S-062</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! mily hű barátunk Jézus...<br/><br/>Hitünk énekei<br/>300. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! mily hű barátunk Jézus, Mert Ő mindig megsegít, Tárjuk fel hát imánk szárnyán éltünk súlyos terheit! Szívünk gyakran gondtól szenved, nyugtot, békét hol is lel? Ó! Csak Jézus elé menjünk, Bízva hittel nézzünk fel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kínozzon bár bűnöd; vétked, Sújtson porba súlyos vád, Hittel tekints fel az égre, gondja van az Úrnak rád! Ő a testi- lelki orvos, Rajta kívül nincsen más; Benne talál nyugtot szíved, Benne van csak gyógyulás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Élted gondja hogyha terhel, Nála találsz enyhülést; vár Ő téged kitárt karral. Hozzá menni, ó! Ne késs! Bízva, hittel nézz az Úrra, Szálljon hozzá hő imád; Szívből szeret, s megtart téged; Jézus Krisztus, hű barát.</lines>
+    </verse>
+  </lyrics>
+</song>

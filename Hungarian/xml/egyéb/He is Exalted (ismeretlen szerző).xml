@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:49">
+  <properties>
+    <titles>
+      <title>He is Exalted</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>He is Exalted...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>He is exalted, the King is exalted on high, I will praise Him. He is exalted, for ever exalted And I will praise his name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is the Lord, for ever His truth shall reign. Heaven and earth rejoice in His holy name. He is exalted, the King is exalted on high.</lines>
+    </verse>
+  </lyrics>
+</song>

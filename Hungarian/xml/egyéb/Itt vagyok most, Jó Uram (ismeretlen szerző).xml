@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:58">
+  <properties>
+    <titles>
+      <title>Itt vagyok most, Jó Uram</title>
+    </titles>
+    <copyright>S-081, Adminisztrálja: Karesz</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Itt vagyok most, Jó Uram...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Itt vagyok most, Jó Uram, hozzád száll e dal. Tudom, sokszor hívtalak, de ma másképp szól e dal. Mert ma nem azt kérem, hogy adj még, nem könyörgök: figyelj rám! Csak azt mondom, hogy szeretlek, Atyám!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Szeretlek,  ó, Uram! Hálám szívemből fakad! Hiszen mindent látsz Te bennem, hatalmad olyan nagy! Szeretlek,  ó, Uram! Hálám szívemből fakad, és éneklem, hogy áldott légy, Uram!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ismét térden állok én, s tudom, hogy hallgatsz rám. Bár sokszor hideg szavakat szól kopott és halk imám. De most el kell, hogy mondjam egyszer, amit oly rég szeretnék, hogy szeretlek, és szívem csak Tiéd!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Szeretlek, ó, Uram! Hálám szívemből fakad! Hiszen mindent látsz Te bennem, hatalmad olyan nagy! Szeretlek, ó, Uram! Hálám szívemből fakad, és éneklem, hogy áldott légy, Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

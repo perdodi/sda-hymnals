@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:27:58">
+  <properties>
+    <titles>
+      <title>101. Légy hálás Jézus Krisztusnak</title>
+    </titles>
+    <copyright>Hé-101</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy hálás Jézus Krisztusnak...<br/><br/>Hitünk énekei<br/>101. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Légy hálás Jézus Krisztusnak, te gyönge földi ember, mert érted hagyta ott a trónt és földi külsőt vett fel! Én embertársam, ne feledd, hogy mily nagy áron mentett meg: Ó! köszönd nagy szerelmét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Légy hálás Jézus Krisztusnak, hogy értünk földre szállott és keresztünket hordozván, megmenté a világot! És győzve Sátán erején Ő üdvözíti gyermekét: Ó! köszönd nagy szerelmét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Légy hálás Jézus Krisztusnak, ki harmadnap feltámadt és most az Atya jobbján ül, védvén a földi nyájat! Ő kibékített Istennel és új életre hívott el: Ó! köszönd nagy szerelmét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Légy hálás Jézus Krisztusnak, ki helyet készít nékünk, hogy földi szenvedés után a dicső mennyben éljünk, hogy véle együtt lakhassunk és dicsőségét láthassuk: Ó! köszönd nagy szerelmét!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Légy hálás Jézus Krisztusnak, kit híven visszavárunk és egykor orcája előtt az ítéletre várunk! Úgy élj, hogy választott lehess és országába bemehess: Ó! köszönd nagy szerelmét!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Add, Jézusom, hogy mindenkor Rád várjak igaz hittel, hogy jobbod felől lehessek megváltott gyermekiddel. Ha utam próbák közt vezet, Te vezesd minden léptemet, mert benned bízom, Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

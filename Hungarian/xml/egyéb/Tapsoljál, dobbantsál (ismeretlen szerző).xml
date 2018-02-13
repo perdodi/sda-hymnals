@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:45">
+  <properties>
+    <titles>
+      <title>Tapsoljál, dobbantsál</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tapsoljál, dobbantsál</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Tapsoljál, dobbantsál, mondd el mindenkinek, hogy Jézus szereti. Tapsoljál, dobbantsál, add át Jézus szeretetét. Jézus szeretete nem csoda, minden kisfiú és kislány megkapja. Elküldte Fiát, mert úgy szeretett, hát rajtunk múlik, hogy átadjuk-e !? (la-la-la)</lines>
+    </verse>
+  </lyrics>
+</song>

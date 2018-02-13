@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:44">
+  <properties>
+    <titles>
+      <title>Szívem alkotója</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szívem alkotója</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szívem alkotója, Te ismersz nagyon jól,<br/>megérted azt mi bennem van, ha ajkam nem is szól.<br/>Ha válasz út előtt állok, ha léptem tétova,<br/>hozzád futok lelkem pásztora.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Éltem megtartója, türelmed végtelen,<br/>Te hű maradsz, bár néha gyermeked hitetlen.<br/>Ha eltévedt bárányként utolér hívó szavad,<br/>hozzád futok lelkem pásztora.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Éjszakában jelző tűz, nappal fényes napsugár,<br/>mutatod nékem utam, karjaidban béke vár.<br/>Ha fúj a hideg szél, zúg az élet vihara,<br/>hozzád futok lelkem pásztora.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tőled kaptam életet, hát néked élem én,<br/>Bár teljes szívvel szeretlek, Te előbb szerettél.<br/>A mély völgyben is hallom, ha szólít Mesterem szava,<br/>s hozzád futok, lelkem pásztora.</lines>
+    </verse>
+  </lyrics>
+</song>

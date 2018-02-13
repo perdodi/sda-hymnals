@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:50">
+  <properties>
+    <titles>
+      <title>Tüzed Uram Jézus</title>
+    </titles>
+    <copyright>S-027</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tüzed Uram Jézus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tüzed Uram Jézus, szítsd a szívemben, lángja lobogjon elevenebben! Ami vagyok és mind ami az enyém, tartsd a kezedben, igazi helyén!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Életem kútja, örök örömem, fény a sötétben csak te vagy nekem, hallod imám és bármi fenyeget, nem hagy el engem, tart a te kezed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szorongat a Sátán, fenyeget a rém. Ám ha velem vagy, rejtve vagyok én. Ennek a világnak fekete egén, lényed a csillag, sugarad a fény.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jön az örök nap már, közeledik ő, mennyei honba hazavinni jő. Röpke pillanat, míg tart a keserű, Krisztus elém jön, s örök a derű.</lines>
+    </verse>
+  </lyrics>
+</song>

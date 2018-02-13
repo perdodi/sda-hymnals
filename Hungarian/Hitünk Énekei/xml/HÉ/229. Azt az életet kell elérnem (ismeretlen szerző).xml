@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T19:40:50">
+  <properties>
+    <titles>
+      <title>229. Azt az életet kell elérnem</title>
+    </titles>
+    <copyright>Hé-229</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Azt az éltet kell elérjem...<br/><br/>Hitünk énekei<br/>229. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Azt az éltet kell elérnem, amely boldogít; Nem csüggedek, s míg elérem, támaszom a hit. Bűn és baj, ha rám támad, égi szózat így biztat: Meg ne restülj, törj keresztül, ég jutalma int.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hív a Bárány, s vágyom állni trónja lépcsőjén. Úgy futok, hogy elmaradva kárt ne valljak én. Elveszíti szent jogát, nem nyer égi koronát, az, ki késve, hátra nézve, hitet hagyva él.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, segítsd célom látnom, melyért úgy küzdök; Támogass a súlyos harcban, hogyha gyengülök. Vonj, ha csábít a világ, védj meg, óvj meg, hogyha bánt, mert ha vezet szent kegyelmed, megmenekülök.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus Krisztus, lelkem vágyva Hozzád esedez. Fogjad kezem, hogyha szívem fáradt, s csüggedez. Szent igéd így éltet ad, vésd e szívbe önmagad: s célt ha érek, zeng az ének: Isten műve ez!</lines>
+    </verse>
+  </lyrics>
+</song>

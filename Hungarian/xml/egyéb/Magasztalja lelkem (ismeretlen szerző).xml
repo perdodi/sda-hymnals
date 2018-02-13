@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:16">
+  <properties>
+    <titles>
+      <title>Magasztalja lelkem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Magasztalja lelkem</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Magasztalja lelkem az Urat, és Örvendez a lelkem Istenben! 2x</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mert ránéz az Úr az alázatosra és boldognak mondják Őt, mert nagy dolgokat tesz a hatalmas és szent az Ő neve!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És irgalma megmarad mindazokon, akik az Urat félik, oly nagy dolgokat tesz keze erejével és elszéleszti a kérkedőt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A hatalmas ledönti a helyéről, ott majd az alázatos ül, éhezőket tölt be az Ő javaival és gazdag meg éhen marad.</lines>
+    </verse>
+  </lyrics>
+</song>

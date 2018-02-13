@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:33:36">
+  <properties>
+    <titles>
+      <title>23. Az Úr Sionban trónol</title>
+    </titles>
+    <copyright>Hé-023</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr Sionban trónol...<br/><br/>Hitünk énekei<br/>23. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr Sionban trónol: Az ég s föld áldja Őt! Ím hajoljon meg minden lény a fényes trón előtt! Az Úr Sionban trónol: hol zeng az ének szó, és elfogadja imánkat az örökkévaló!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr Sionban trónol: Az ő nagy neve szent! Az égi áldás tőle jó, új éltet ő teremt. Csak tartsuk fel a zászlót, és zengjen már a kürt, hogy minden nemzet tudja meg: Ő békességet küld!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr Sionban trónol: ez órát néki szánd! Hogy hálaének töltse be a szentély udvarát! És minden áldott lélek, ki trónja elé jött, most üdvözölje királyként és dicsőítse Őt!</lines>
+    </verse>
+  </lyrics>
+</song>

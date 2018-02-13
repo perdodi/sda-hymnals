@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:22">
+  <properties>
+    <titles>
+      <title>Mikor vízen mégy át</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mikor vízen mégy át</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mikor vízen mégy át, én veled vagyok, és ha tűzben jársz, nem érnek a lángok. Ne félj azért, mert megváltotalak, neveden hívtalak, az enyém vagy. Igazság által leszel erős, ne félj! Nem közelít hozzád a veszély.</lines>
+    </verse>
+  </lyrics>
+</song>

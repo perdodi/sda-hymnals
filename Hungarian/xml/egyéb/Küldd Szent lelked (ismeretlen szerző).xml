@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:14">
+  <properties>
+    <titles>
+      <title>Küldd Szent lelked</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Küldd Szent lelked</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Küldd Szent lelked, kérlek, Uram, küldd hő, buzgó imámra, Hogy tanítson, vigasztaljon és vezessen utadra! Bűn teherrel messze tőled sötét éjben bolyongtam, <br/>Tűzoszloppal, égi fénnyel vezess, vezess, ó Uram!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meghallgattál és fényt gyújtottál. Minőt soha nem láttam.</lines>
+    </verse>
+  </lyrics>
+</song>

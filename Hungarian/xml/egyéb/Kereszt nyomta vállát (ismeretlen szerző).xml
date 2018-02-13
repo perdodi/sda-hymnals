@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:10">
+  <properties>
+    <titles>
+      <title>Kereszt nyomta vállát</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kereszt nyomta vállát<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kereszt nyomta vállát, kigúnyolták őt, megveteték, csúfolták a megmentőt. Kínhalála nékünk életetjelent. Ilyen mély a holtig tartó szeretet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vándorlásunk útján kérjük szüntelen: békességét őrizze meg szívünkben. Nyugtalanság érja ne tévesszen meg! Vezessen az el nem múló szeretet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőítjük Jézust, menny és föld urát: legyőzte a sötétségnek hatalmát. Küzdelmünkben ő nyújt segítő kezet, melletünk áll, nem hagy el, mert így szeret.</lines>
+    </verse>
+  </lyrics>
+</song>

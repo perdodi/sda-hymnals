@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:38">
+  <properties>
+    <titles>
+      <title>Rád bízom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Rád bízom</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Rád bízom, rád bízom,<br/>a nehéz napokat rád bízom,<br/>rád bízom, rád bízom,<br/>a fényes napokat is.<br/>Sorsom legyen a Te kezedben,<br/>Biztos helye van a féltő szívedben -<br/>ezért hát rád bízom, rád bízom<br/>a nehéz napokat rád bízom,<br/>rád bízom, rád bízom a fényes napokat is.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem félek, nem félek,<br/>ha volna mitől is nem félek.<br/>Nem félek, nem félek, <br/>de kérem az erődet.<br/>Támaszt keresek az erődben,<br/>vigaszt a szomorú nehéz időkben-<br/>ha lesznek, nem félek, nem félek,<br/>ha volna mitől is, nem félek.<br/>Nem félek, nem félek,<br/>de kérem az erődet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reménység, reménység,<br/>a holnap felől is reménység.<br/>Reménység, reménység,<br/>megtart, ha jön a kétség.<br/>Fény lesz ott, ahol ma sötétség,<br/>élet ott, ahol ma reménytelenség -<br/>ezért hát reménység, reménység,<br/>a holnap felől is reménység.<br/>Reménység, reménység,<br/>megtart, ha jön a kétség.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsérünk, dicsérünk,<br/>mi téged Jézusunk, dicsérünk!<br/>Dicsérünk, dicsérünk és áldunk, halleluluja</lines>
+    </verse>
+  </lyrics>
+</song>

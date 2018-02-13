@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:39">
+  <properties>
+    <titles>
+      <title>B133 Ó, Jézus, Te csodálatos</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, Jézus, Te csodálatos <br/>B133</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, Jézus, Te csodálatos, Győzelmes hős egykor és most, Mindig dicső, nagy és nemes: Te benned bízni érdemes!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mondjatok, mondjatok, Mondjatok, dicséretet az Úrnak! Mondjatok, mondjatok, Mondjatok, mind zengve hangosan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isteni arc, ó, jöjj hozzánk, Világosságod áraszd ránk, Űzd el a bűnnek éjjelét, Szenteld meg e világ terét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kinek szívét elfoglalod, Igéd fényével áthatod, Abból kihalt ez a világ, És a szeretet járja át.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>El nem múlik e szeretet, Mert lelkeddel Te éleszted, Nem fogy soha, de gyarapul, Folyton nagyobb lángokra gyúl.</lines>
+    </verse>
+  </lyrics>
+</song>

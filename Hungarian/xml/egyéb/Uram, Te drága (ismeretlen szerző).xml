@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:50">
+  <properties>
+    <titles>
+      <title>Uram, Te drága</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Uram, Te drága</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Uram, Te drága, egyetlen menedék,<br/>Tiéd a föld és ég, Tiéd a mindenség,<br/>Tenálad rejtve, nem ér az ellenség,<br/>Legyőzted azt már rég.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Örökre Te lettél a vezérem, tetteidet dicsérem,<br/>A földön és a mennyben odaát,<br/>Kérlek, hogy jöjj el értem a mennyből,<br/>Hogy magadhoz emelj föl,<br/>Szívemben ég orcád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudom, hogy bűnöm milyen nagy hatalom,<br/>A jót már nem tudom, hiába akarom,<br/>de jöttél, Jézus, legyőzted tudatom,<br/>Tiéd a hatalom.</lines>
+    </verse>
+  </lyrics>
+</song>

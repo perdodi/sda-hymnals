@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:30">
+  <properties>
+    <titles>
+      <title>Nagy Királyunk, Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nagy Királyunk, Jézus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nagy Királyunk Jézus, áldj meg minket, tudjuk bűnösök vagyunk mind, akik állunk előtted. Meghajtjuk térdünk, és Téged kérünk, vedd el bűneinket tőlünk, hogy Te hozzád megtérjünk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó hatalmas, kezed nagy csodákat tesz, szívünk újjá születhet, szívünk újjá születhet! Ó hatalmas, kezed nagy csodákat tesz, szívünk újjá születhet, szívünk újjá születhet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tied a dicsőség és imádás, felemeljük kezeinket, hogy dicsérjük szent Neved, Tied a dicsőség és imádás, felemeljük kezeinket, hogy dicsérjük szent Neved.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hálát adok néked Atyám mindenért, a Te szeretetedért, amit tőled kaptam én. Hálát adok néked Atyám mindenért, a Te szeretetedért, amit tőled kaptam én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tied a dicsőség és imádás kérünk Atyánk nézz most reánk és hallgasd meg hű imánk: Tied a dicsőség és imádás kérünk Atyánk nézz most reánk és hallgasd meg hű imánk:</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ó mi Atyánk, kérünk álld meg e népet, ki most itt áll előtted, kérünk áldjad meg őket! Ó mi Atyánk, kérünk álld meg e népet, ki most itt áll előtted, kérünk áldjad meg őket! Kérünk áldjad meg őket!</lines>
+    </verse>
+  </lyrics>
+</song>

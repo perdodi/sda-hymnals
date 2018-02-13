@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:11">
+  <properties>
+    <titles>
+      <title>Állj ellent a bünnek</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Állj ellent a bünnek<br/>(Urm, te hívtál</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Állj ellent a bünnek, mely lelkedre tör! Mert győzelmed által az erőd csak nő. Küzdj bűneid ellen, higgy s hited segít,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nézd mindenkor Jézust, Ő megerősít! Kérd, hogy segítse harcod, védjan, derítse arcod! Hogyha Uradnak valod, Ő majd meg erősít.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Állj ellent, ha csábít a kísértő rossz; Ne szomorítsd Jézust, hisz kegyelmet hoz! Légy kedves és nyájas, légy mindig szelíd;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A győztesnek Isten Majd koronát nyújt; Ha őt nézed mindig, oly biztos az út! Ha csügged a lélek, ha fárad a szív,</lines>
+    </verse>
+  </lyrics>
+</song>

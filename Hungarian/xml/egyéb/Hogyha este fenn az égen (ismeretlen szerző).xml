@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:50">
+  <properties>
+    <titles>
+      <title>Hogyha este fenn az égen</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hogyha este fenn az égen<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hogyha este fenn az égen ragyognak a csillagok, mintha innen jobb világba hívnának az angyalok. Ekkor szárnyra kél a vágyam, és a menny felé repül, az Atyához, ki szememről minden könnyet letöröl.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tündökölj csak milljó csillag, sok szegénynek tündökölj! Angyalok, ó, vonjatok csak szíveketa mennybe föl. Hogy reménység szárnyán szállva Téged megismerjenek, és majd egykor a mennyekben halleluját zengjenek.</lines>
+    </verse>
+  </lyrics>
+</song>

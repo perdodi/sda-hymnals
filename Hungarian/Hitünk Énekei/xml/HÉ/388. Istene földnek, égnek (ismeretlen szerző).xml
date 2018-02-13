@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:35:36">
+  <properties>
+    <titles>
+      <title>388. Istene földnek, égnek</title>
+    </titles>
+    <copyright>Hé-388</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istene földnek, égnek...<br/><br/>Hitünk énekei<br/>388. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Istene földnek, égnek, most színed elé lépett két hívő gyermeked. Ó! áldd és tartsd meg őket, kik áldást kérni jöttek, hogy elnyerjék szent tetszésed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Add, hogy e perctől kezdve járjanak kéz a kézbe', szent szövetségedben és szeretetben élve, majd egymást óva védve éljenek együtt hűségben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ím most előtted állnak és áldásodra várnak, Ó! áldd meg frigyüket, hadd érezhessék, kérünk, hogy itt vagy együtt vélük, Ó! vezesd minden léptüket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! add, hogy minden percben mi tiszta szeretetben kövessük lábnyomod és alázattal kérünk, kik jót téve is vétünk, hogy adjad reánk áldásod.</lines>
+    </verse>
+  </lyrics>
+</song>

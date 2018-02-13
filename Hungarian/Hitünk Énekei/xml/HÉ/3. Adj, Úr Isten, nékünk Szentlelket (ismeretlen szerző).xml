@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T17:13:04">
+  <properties>
+    <titles>
+      <title>3. Adj, Úr Isten, nékünk Szentlelket</title>
+    </titles>
+    <copyright>Hé-003</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Adj, Úr Isten, nékünk Szentlelket...<br/><br/>Hitünk énekei<br/>3. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Adj, Úr Isten, nékünk Szentlelket, szent igédben építs meg minket, adjad megismernünk természetünket, tekintsd meg szükségünket, könyörgésünket: Adj igaz hitet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy, Atyánk,örök Úr Isten, kiben semmi kétségünk nincsen. Neveljed hitünket te szent igédben, szent Fiadnak, Krisztusnak ismeretében, üdvösségünkben!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te vagy, Krisztus, mi üdvözítőnk, szent Atyádnál békesség-szerzőnk. Mi életünk vagy te: lakozzál bennünk, hogy minden mi dolgunkban téged dicsérjünk és dicsőítsünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Szentlélek, kérünk tégedet: bátorítsad a mi szívünket. Vigasztalj meg minket s igazgass minket, hogy hallván megérthessük te szent igédet, üdvösségünket!</lines>
+    </verse>
+  </lyrics>
+</song>

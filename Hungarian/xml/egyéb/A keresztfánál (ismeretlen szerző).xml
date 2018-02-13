@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:12">
+  <properties>
+    <titles>
+      <title>A keresztfánál</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A keresztfánál...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A keresztfánál egymásra lelve éneklünk, bár még fájnak a dalok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Feltámadt Krisztus. Te győztél bennem, megtörted végül a kárhozatot. Új reggel virrad, felkelt a nap már, új reggel virrad, tárd ki szíved. Új reggel virrad, életet kaptál, új reggel virrad, Jézus közel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A kő már nincs ott, a gyásznak vége, örvendezz bátran, feltámadt a holt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Induljunk együtt, add hát a kezed, sok helyen várnak, légy áldozatos.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Add erőd, Uram, hogy éber legyek, segíts, hogy mindig járjak utadon.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bármerre megyünk, közösségünkben, velünk van Jézusunk minden napon.</lines>
+    </verse>
+  </lyrics>
+</song>

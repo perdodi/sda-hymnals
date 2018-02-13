@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:21">
+  <properties>
+    <titles>
+      <title>Mi vagyunk az a nemzedék</title>
+    </titles>
+    <copyright>S-124</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mi vagyunk az a nemzedék</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mi vagyunk az a nemzedék, mely látja Jézus eljöttét. A legszebb korban születtünk, jön Jézus örvendjünk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tudjuk a végső nemzedék meglátja Jézus eljöttét. Mi vagyunk az a nemzedék, meglátjuk eljöttét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rég meg van írva felőlünk, hogy csodás dolgot művelünk. Elvisszük Jézus szavait a világ végéig.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most nyílnak rég várt alkalmak, töltsük be hívatásunkat. Az advent szózat szólít ma a legszebb munkára.</lines>
+    </verse>
+  </lyrics>
+</song>

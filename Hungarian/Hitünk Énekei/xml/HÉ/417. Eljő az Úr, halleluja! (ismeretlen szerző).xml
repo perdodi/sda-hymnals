@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:21:05">
+  <properties>
+    <titles>
+      <title>417. Eljő az Úr, halleluja!</title>
+    </titles>
+    <copyright>Hé-417, Üa-118</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Eljő az Úr, halleluja!<br/><br/>Hitünk énekei<br/>417. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Eljő az Úr, halleluja! De nem szegénységben: Országolni, halleluja! Örök dicsőségben.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Légy hát kész megállani, ő szent színét meglátni! Amit ígért, halleluja! Be fogja váltani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljő az Úr, halleluja! Egyszer jött mint bárány, Ki bűnünkért, halleluja! Meghalt keresztfáján.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eljő az Úr, Halleluja! Kormányzó vesszővel S betölt mindent, Halleluja! Nevének fényével.</lines>
+    </verse>
+  </lyrics>
+</song>

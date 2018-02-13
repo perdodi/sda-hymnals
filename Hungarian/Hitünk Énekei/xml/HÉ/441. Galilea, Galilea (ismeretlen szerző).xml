@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:29:27">
+  <properties>
+    <titles>
+      <title>441. Galilea, Galilea</title>
+    </titles>
+    <copyright>Hé-441, Üa-249</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Galilea, Galilea...<br/><br/>Hitünk énekei<br/>441. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Galilea, Galilea, drága idők nagy tanúja, egykor a menny Ura itt lenn, tanított a tengereden.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Galilea, Galilea, a te neved e föld felett, mindenfelé hírben marad, míg süt a nap az ég alatt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vizeiden egykor ott járt, Üdvözítőnk s a hullámárt, csendre inté s ez engedett, szavára lecsendesedett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Belőled jött az üdv folyó, mely messze folyt s lett üdvadó, most is folyik hozzánk, felénk, melytől életre ébredénk.</lines>
+    </verse>
+  </lyrics>
+</song>

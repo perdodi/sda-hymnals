@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:12">
+  <properties>
+    <titles>
+      <title>Éled szürke élted</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Éled szürke élted</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Éled szürke élted a gonosz gyötri lelkedet, pedig Jézus rád is vár! Felébredsz reggelente, nem érted miért vagy leterhelt, tudd meg, hogy Ő a megoldás!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Van kiút a szürkeségből, élheted napjai keserűség nélkül. Jézus felvitte minden terhed a keresztre, ezáltal találkozhatsz a kegyelemmel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus várja szívedet, hogy megújítsa életed, indulj, Ő felemel. A nehézségekben veled lesz, nyugalmat ad a bensődnek, megújít Szellemével.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Van remény, indulok már feléd, Uram, és hiszem, hogy átjárod bensőm és tudom, hogy általad örök éltem van!</lines>
+    </verse>
+  </lyrics>
+</song>

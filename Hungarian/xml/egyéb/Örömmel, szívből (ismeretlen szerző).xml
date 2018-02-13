@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:20">
+  <properties>
+    <titles>
+      <title>Örömmel, szívből</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Örömmel, szívből</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Örömmel, szívből most dicsérd a Királyt! Emeld fel hagod és zengj halleluját! Borulj trónjához Őt dicsőíteni! Lépj most színe elé és add szíved neki!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy a Teremtőm, Te vagy a Megváltóm, Te vagy Szabadítóm, Te Úr vagy, Te vagy a Gyógyítóm, Te vagy a Segítőm, Pásztorom vagy nékem, s vezetőm, Jézus, Úr Király, dicsérlek én!</lines>
+    </verse>
+  </lyrics>
+</song>

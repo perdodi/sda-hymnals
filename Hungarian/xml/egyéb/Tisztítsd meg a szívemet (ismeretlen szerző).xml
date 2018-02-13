@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:48">
+  <properties>
+    <titles>
+      <title>Tisztítsd meg a szívemet</title>
+    </titles>
+    <copyright>S-076</copyright>
+    <verseOrder>i1 v1 v1 c1 v1 c1 c1 e1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tisztítsd meg a szívemet...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tisztítsd meg a szívemet, újítsd meg az életem! Nézd, milyen hűtlen voltam én Tehozzád, de most arra kérlek, áraszd kegyelmed rám!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus várok rád, ó tölts el most Szentlelkeddel! Add, hogy életem neked éljem! Bocsásd meg hűtlenségem, hozom most eléd minden vétkem, szabadításod örömét add nekem!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Szabadításod örömét add nekem!</lines>
+    </verse>
+  </lyrics>
+</song>

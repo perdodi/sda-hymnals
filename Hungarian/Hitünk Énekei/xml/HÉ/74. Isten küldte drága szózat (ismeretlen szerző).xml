@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:50:18">
+  <properties>
+    <titles>
+      <title>74. Isten küldte drága szózat</title>
+    </titles>
+    <copyright>Hé-074</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten küldte drága szózat...<br/><br/>Hitünk énekei<br/>74. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten küldte drága szózat, áldást hozó égi szó, üdvösségem szent alapja, vigaszt nyújtó, gyógyító, taníts, oktass, s így vezess igaz útra, Istenhez!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyelemnek áldott Lelke, töltsd be egész éltemet, tárd fel Isten dicsőségét, Te adj nékem értelmet: Add értnem az égi szót, erőt, vigaszt hordozót!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Őrizze meg szívem, elmém, mit az ige tanított; Mindig híven cselekedjem, mire bölcsen oktatott; Utam, egész életem, hozzá méltó szent legyen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dolgaimban, utaimban a szent írás vezessen, mert mit lelkem abból merít, sziklaként áll erősen; Lelkem így győz a harcban, s ínségben is békém van.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isten szava az én tükröm, s így követem Jézusom, kegyelmének szent pecsétjét szívem mélyén hordozom; Így lesz erős a hitem, míg az üdvöt elnyerem.</lines>
+    </verse>
+  </lyrics>
+</song>

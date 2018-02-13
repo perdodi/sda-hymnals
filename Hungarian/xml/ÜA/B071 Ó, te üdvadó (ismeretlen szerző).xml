@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:32">
+  <properties>
+    <titles>
+      <title>B071 Ó, te üdvadó</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, te üdvadó<br/>B071</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, te üdvadó, Áldást, fényt hozó, Békét hirdető karácsony! Bűnterhes földre Krisztus ma jött le; Hívek, örvendezzünk e napon!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, te üdvadó, Áldást, fényt hozó, Békét hirdető karácsony! Krisztus megjelent, Bűnöktől megment; Hívek, örvendezzünk e napon!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó,te üdvadó, Áldást, fényt hozó, Békét hirdető karácsony! Ujjong a szívünk, Jézus jött értünk; Hívek, örvendezzünk e napon!</lines>
+    </verse>
+  </lyrics>
+</song>

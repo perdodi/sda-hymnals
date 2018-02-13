@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:32">
+  <properties>
+    <titles>
+      <title>Nem tudtam azt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nem tudtam azt</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nem tudtam azt, hogy szereteted mily nagy! Nem tudtam azt, hogy életemnek Ura vagy, hogy megteremtett engem ez a szeretet, nem tudtam ezt, de most értettem meg. A szívemet betölti drága, jó igéd, sok-sok ember azt kérdezi, hol van segítség?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem tudtam azt, hogy szereteted mily nagy! Nem tudtam azt, hogy életemnek Ura vagy! Nem tudtam azt, hogy szereteted végtelen, nem tudtam ezt, de most értettem meg. Így van ez - mit hallok? Mily csodálatos! Tőle kaptam szeretetet, szívem örvend most.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tündököl e szeretet előttem: most értem azt, hogy Te meghaltál érettem, de még ma is ez a nagy kérdés bennem él, hogy ennyire, Te hogy szerethettél?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:24">
+  <properties>
+    <titles>
+      <title>Minden ágazat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Minden ágazat</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Minden ágazat, nemzet és nép! Angyal hirdet egy igét!<br/>Isten félelem járja át most, földi emberek szívét!<br/>Földet alkotó Isteni szó, az órát hirdeti néktek,<br/>az ítéletnek a napja eljött! Jézus ád örök éltet.</lines>
+    </verse>
+  </lyrics>
+</song>

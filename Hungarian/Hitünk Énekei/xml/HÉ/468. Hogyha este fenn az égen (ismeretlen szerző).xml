@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:42:17">
+  <properties>
+    <titles>
+      <title>468. Hogyha este fenn az égen</title>
+    </titles>
+    <copyright>Hé-468, Üa-454, S-116</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hogyha este fenn az égen...<br/><br/>Hitünk énekei<br/>468. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hogyha este fenn az égen ragyognak a csillagok, úgy van, mintha jobb világba hívnának az angyalok. Ekkor szárnyra kél a vágyam és a menny felé repül, az Atyához ki szememről minden könnyet letöröl.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tündökölj csak milljó csillag, sok szegénynek tündökölj. Angyalok óh hívjatok csak szíveket a mennybe föl. Hogy reménység szárnyán szállva téged megismerjenek és majd egykor a mennyekben halleluját zengjenek.</lines>
+    </verse>
+  </lyrics>
+</song>

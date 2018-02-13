@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:11">
+  <properties>
+    <titles>
+      <title>Állj! Elmondom néked</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Állj! Elmondom néked</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Állj! Elmondom néked, amit értem tett az Úr. Állj! Elmondom néked, amit értem tett az Úr: Ő a bűn rabságából megváltott, és tiszta új szívet így adott. Állj! Elmondom néked, amit értem tett az Úr.</lines>
+    </verse>
+  </lyrics>
+</song>

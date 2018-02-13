@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:56">
+  <properties>
+    <titles>
+      <title>atizennegy</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magyar Katolikus Egyház, Magyarországi Református Egyház, Magyarországi Evangélikus Egyház, Magyarországi Zsidó Hitközségek Szövetsége, Egységes Magyarországi Izraelita Hitközség, Magyarországi Autonóm Orthodox Izraelita Hitközség, Budai Szerb Ortodox Egyházmegye, Konstantinápolyi Egyetemes Patriarchátus - Magyarországi Ortodox Exarchátus, Magyarországi Bolgár Ortodox Egyház, Magyarországi Román Ortodox Egyházmegye, Orosz Ortodox Egyház Magyar Egyházmegyéje, Magyar Unitárius Egyház Magyarországi Egyházkerülete, Magyarországi Baptista Egyház, Hit Gyülekezete.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:23:11">
+  <properties>
+    <titles>
+      <title>423. Nyájasan szól ma még Megváltónk szava</title>
+    </titles>
+    <copyright>Hé-423, Üa-153, S-118</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nyájasan szól ma még Megváltónk szava...<br/><br/>Hitünk énekei<br/>423. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nyájasan szól ma még Megváltónk szava, hív engem és tégedet! Várja, hogy szívét neki ki ajánlja, vár engem és tégedet!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Óh jöjj haza, fáradt vándor jöjj haza! Nyájasan szól ma még Megváltónk szava: Fáradt lélek, jöjj haza!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem hallod, miként kér az Üdvözítő, kér téged és engemet! Miért vársz, míg letel a kegyelmi idő, az idő nem vár minket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az idő fut, a percek elrepülnek, ők nem várnak bennünket! A jövendőre sötét árnyak ülnek s a vég gyorsan közelget!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ám ő a bűnösnek kegyelmet hirdet, kegyelmet nékem s néked! S örök szerelmébe fogad bennünket, mindünket: engem s téged!</lines>
+    </verse>
+  </lyrics>
+</song>

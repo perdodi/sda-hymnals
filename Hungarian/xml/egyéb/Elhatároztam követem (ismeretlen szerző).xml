@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:38">
+  <properties>
+    <titles>
+      <title>Elhatároztam követem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elhatároztam követem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elhatároztam követem Jézust,<br/>elhatároztam követem Jézust,<br/>Elhatároztam követem Jézust, <br/>nincs visszaút, nincs visszaút.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Világ mögöttem, előttem Jézus,<br/>Világ mögöttem, előttem Jézus,<br/>Világ mögöttem, előttem Jézus, <br/>Nincs visszaút, nincs visszaút.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Határozd el most, követed Jézust,<br/>Határozd el most, követed Jézust,<br/>Határozd el most, követed Jézust, <br/>Nincs visszaút, nincs visszaút.</lines>
+    </verse>
+  </lyrics>
+</song>

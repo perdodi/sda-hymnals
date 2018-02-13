@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:53:01">
+  <properties>
+    <titles>
+      <title>90. Egy drága Gyermek született</title>
+    </titles>
+    <copyright>Hé-090</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Egy drága Gyermek született...<br/><br/>Hitünk énekei<br/>90. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egy drága Gyermek született, kit vártunk réges-rég; Ím áldja érte az Urat a föld s a magas ég, a föld, s a magas ég!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oly csodálatos a neve, Őt áldja minden száj; Ki bölcsesség és békesség és hatalmas király, és hatalmas király!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Ő uralma áldásos és napról napra nő; Az alapja az igazság, s a béke tőle jő, s a béke tőle jő.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:37:42">
+  <properties>
+    <titles>
+      <title>394. Hajoljunk le az Úr előtt</title>
+    </titles>
+    <copyright>Hé-394, Üa-001</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hajoljunk le az Úr előtt...<br/><br/>Hitünk énekei<br/>394. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hajoljunk le az Úr előtt s új énekkel dicsérjük Őt. Imádja Őt minden nemzet, mert Ő hozott üdvösséget!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Istennek népe fel tehát, zengj Néki dicshalleluját; dicsérjed Ő nagy jóságát, kegyelmét és igazságát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örvendjetek, tapsoljatok, bércek, hegyek, folyók, habok, föld, tengerek, s élőlények mind, mind ti: énekeljetek!</lines>
+    </verse>
+  </lyrics>
+</song>

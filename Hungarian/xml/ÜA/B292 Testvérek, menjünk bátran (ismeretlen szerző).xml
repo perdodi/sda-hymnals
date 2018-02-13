@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:58">
+  <properties>
+    <titles>
+      <title>B292 Testvérek, menjünk bátran</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Testvérek, menjünk bátran <br/>B292</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Testvérek, menjünk bátran, Hamar leszáll az éj, E földi pusztaságban Megállni nagy veszély. Hát merítsünk erőt A menny felé sietni, Nem állva megpihenni A boldog cél előtt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A keskeny útra térünk, Ne rettentsen meg az; Ki elhívott vezérünk, Tudjuk, hű s igaz. Mint egykor ő tevé, Most véle s benne bízva, Arcát ki-ki fordítsa A szent város felé!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elmúlik nemsokára A földi vándorút, És az örök hazába, Ki hű volt, mind bejut. Ott vár angyalsereg, Ott várnak mind a szentek, S az Atyánál pihentek, Megfáradt gyermekek.</lines>
+    </verse>
+  </lyrics>
+</song>

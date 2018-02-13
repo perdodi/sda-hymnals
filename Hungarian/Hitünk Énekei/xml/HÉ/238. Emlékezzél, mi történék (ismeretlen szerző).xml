@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-07T13:11:27">
+  <properties>
+    <titles>
+      <title>238. Emlékezzél, mi történék</title>
+    </titles>
+    <copyright>Hé-238</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Emlékezzél, mi történék...<br/><br/>Hitünk énekei<br/>238. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Emlékezzél, mi történék, Uram, mirajtunk és tekintsd meg, mily nagy szidalomban mi vagyunk, mert bűnünkért, Uram, Tőled ostoroztatunk; Azért szükség éjjel s nappal Hozzád kiáltnunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bizodalmunk vagyon benned, felséges Isten, mert megmaradsz mindörökké ígéretedben, ha gyötrődünk bűnünk szerint a mi testünkben, azért nem hagysz elszakadnunk tőled lelkünkben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miért, Uram, mindörökké hogy elhagysz minket, ily nagy sok keserűséggel látod ügyünket? Kérünk Téged, térítsd hozzád a mi szívünket, mert nem nyerjük nálad nélkül üdvösségünket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vedd el rólunk, kérünk Téged, nagy haragodat és újítsd meg már minékünk mi napjainkat, kegyelmes Úr Isten, tartsd meg mi házainkat, dicsérhessünk mindörökké, mint szent Atyánkat!</lines>
+    </verse>
+  </lyrics>
+</song>

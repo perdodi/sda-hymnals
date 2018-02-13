@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:56">
+  <properties>
+    <titles>
+      <title>Indulj meg te föld</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Indulj meg te föld</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Indulj meg te föld, az Úr orcája előtt,<br/>Jákobnak és Izraelnek Istene előtt<br/>Indulj meg te föld, az Úr orcája előtt,<br/>Jákobnak és Izraelnek Istene előtt.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, jó Atyám, hallgasd meg kérésem,<br/>Forraszd eggyé a Te néped Izraelt.<br/>Mosd le a bűntől és tedd tisztává,<br/>Hogy hallgasson Izrael az Ő Urára.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyelmem kiöntöm Jeruzsálememre,<br/>Megismerik a Fiút, akit általszegeztek.<br/>Keseregnek szívükből és hozzád térnek,<br/>Megnyugtatom oket az én jelenlétemben.</lines>
+    </verse>
+  </lyrics>
+</song>

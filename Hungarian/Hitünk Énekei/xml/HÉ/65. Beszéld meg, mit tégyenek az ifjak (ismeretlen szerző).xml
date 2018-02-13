@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:48:35">
+  <properties>
+    <titles>
+      <title>65. Beszéld meg, mit tégyenek az ifjak</title>
+    </titles>
+    <copyright>Hé-065</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Beszéld meg, mit tégyenek az ifjak...<br/><br/>Hitünk énekei<br/>65. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Beszéld meg, mit tégyenek az ifjak, hogy éhessenek ők feddhetetlenül? Szent igéd szerint útjukat szabják. Én téged kerestelek szüntelenül; Kérlek, Úr Isten, teljes szívemből: Eltévelyednem ne hagyj törvényedtől!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Te igédet rejtem szívemben, hogy semmi bűnnel ne bántsalak Téged, de megmaradjak Te ösvényedben, minden dolgomban megtartom törvényed. Ó! áldott Isten, taníts engemet, hogy igazán értsem rendelésedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ítéletedet én ajakimmal és a Te szádnak ő kegyes beszédét előszámlálom hálaadással, szent kötéseddel biztatom szívemet; Bizonyságidon örvendez lelkem, mik gazdagságnál kedvesebbek nékem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szüntelen nékem gyönyörűségem vagyon csak a Te parancsolatidban, Te utaidat gyakran említem, hogy el ne essem valaha azokban. Szent igazságodban minden kedvem és Te ösvényed én el nem tévesztem.</lines>
+    </verse>
+  </lyrics>
+</song>

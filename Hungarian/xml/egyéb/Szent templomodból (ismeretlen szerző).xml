@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:41">
+  <properties>
+    <titles>
+      <title>Szent templomodból</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szent templomodból</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szent templomodból indul egy folyó, ki átkel rajta, az megváltozik. Ó, vezess engem Jézus, vezess át a folyón, hogy szívem benned, csak benned ragyogjon!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áradj folyó, szent Lélek jöjj, és ragadj magaddal! Gyújts tüzet ó, a szívemben, amely ég, nagy lánggal ég! 2x</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Áradj folyó!</lines>
+    </verse>
+  </lyrics>
+</song>

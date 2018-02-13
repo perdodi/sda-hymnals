@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:53:56">
+  <properties>
+    <titles>
+      <title>319. Úr Isten, mi sok szükséget érezvén</title>
+    </titles>
+    <copyright>Hé-319</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úr Isten, mi sok szükséget érezvén...<br/><br/>Hitünk énekei<br/>319. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úr Isten, mi sok szükséget érezvén körülöttünk, segedelemkérés végett e szent helyre feljöttünk; Uram, a könyörgőnek illesd meg szívét és száját, a Téged tisztelőnek áldd és szenteld meg munkáját.</lines>
+    </verse>
+  </lyrics>
+</song>

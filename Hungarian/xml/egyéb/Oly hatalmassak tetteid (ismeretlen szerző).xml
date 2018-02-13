@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:35">
+  <properties>
+    <titles>
+      <title>Oly hatalmassak tetteid</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Oly hatalmassak tetteid</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Oly hatalmassak tetteid, ó, mennyei Felség! Oly hatalmasak teteid, ó, mennyei felség! Igazság van utadon, ó népek Királya! Ki ne félne Téged, és dicsér neved?!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert csak te vagy, te vagy erre méltó! Sok nép összegyűl, szent trónod körül Uram!  2x</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Csak te vagy erre méltó! Méltó!</lines>
+    </verse>
+  </lyrics>
+</song>

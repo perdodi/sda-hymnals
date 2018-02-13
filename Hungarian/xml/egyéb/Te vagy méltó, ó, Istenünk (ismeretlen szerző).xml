@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:46">
+  <properties>
+    <titles>
+      <title>Te vagy méltó, ó, Istenünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Te vagy méltó, ó, Istenünk</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te vagy méltó, ó, Istenünk, neked hódolunk, és Téged tisztelünk. Magasztalásunk illata szálljon fel, mennyei tróntermedet töltse be.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldunk Téged, imádunk Téged, hű séges Megváltó, Te vagy az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

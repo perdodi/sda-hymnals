@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:48:14">
+  <properties>
+    <titles>
+      <title>185. Te fáradt vándor, merre mégy?</title>
+    </titles>
+    <copyright>Hé-185</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Te fáradt vándor, merre mégy?<br/><br/>Hitünk énekei<br/>185. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te fáradt vándor, merre mégy? Ó! jöjj, mert hív Atyád! A békességed nem leléd, mert nem találhatád. Ó! jöjj haza!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! jöjj haza, mert sok sebed itt gyógyulást talál! És ád majd Jézus új szívet, s így rád a béke vár. Ó! jöjj haza!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! jöjj haza! ki Jézusra oly sóvárogva vársz. Ó! miért vagy vágyak vándora, hisz hontalanná válsz! Ó! jöjj haza!</lines>
+    </verse>
+  </lyrics>
+</song>

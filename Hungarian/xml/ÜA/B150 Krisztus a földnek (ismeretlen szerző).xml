@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:41">
+  <properties>
+    <titles>
+      <title>B150 Krisztus a földnek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus a földnek<br/>B150</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztus a földnek drága, égi fénye, És minden népnek új erőt ad lénye. Végtelen fényár, jöjj, e világ úgy vár! Az Úrnak tisztesség!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus a földnek béke, üdv és áldás. Megtisztít vére, tőle jő megváltás. Hadd jöjjön végre béke minden szívbe! Az Úrnak tisztesség!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krisztus a földnek őserő és élet, Itt minden érte s általa nyer éltet. Nyáját megőrzi, népe útját védi. Az Úrnak tisztesség!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Atya Isten mindörökre áldott, Szent Fia, Jézus, értünk földre szállott. Isten Szentlelke önt reményt a szívbe. Az Úrnak tisztesség!</lines>
+    </verse>
+  </lyrics>
+</song>

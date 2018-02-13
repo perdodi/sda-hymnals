@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:20">
+  <properties>
+    <titles>
+      <title>Mi Atyánk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mi Atyánk</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Mi Atyánk, ki vagy a mennyekben, szenteltessék meg, a Te Neved, jöjjön el a Te országod, legyen meg akaratod, mindennapi kenyerünket, add meg nékünk a Te Igédből,</lines>
+    </verse>
+    <verse name="o2">
+      <lines>és bocsásd meg vétkeinket, miképpen mi is egymásnak. Ne vigy minket kísértésbe, szabadíts meg a gonosztól, mert tiéd az ország, Tiéd a hatalom, Tiéd a dicsőség, Ámen.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Halleluja, halleluja, halleluja, ámen. Halleluja, halleluja, halleluja, ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:38:43">
+  <properties>
+    <titles>
+      <title>140. Úgy várjuk visszajöttödet</title>
+    </titles>
+    <copyright>Hé-140</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úgy várjuk visszajöttödet...<br/><br/>Hitünk énekei<br/>140. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úgy várjuk visszajöttödet, Úr Jézus, várunk téged! Mi tudjuk, hogy a trónon ülsz és híveidet véded. Ki benned hisz, kit hazahívsz, az emelt fővel járhat és jutalma van nálad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hű szívvel várjuk jöttödet és békén tűrünk mindent, mert vigaszt nyújt a gondolat, hogy megváltottál minket. Mi tudjuk azt, hogy vélünk vagy és megosztod a terhet, mert végtelen szerelmed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! Jézus, várunk Tégedet, mert nálad van már szívünk! És tudjuk: itt vagy lélekben, s ez boldogságunk nékünk. A lelkünk vár: Ó! jöjj el már és hozd el üdvünk napját, a szívünk szent nyugalmát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Jézus, tudjuk biztosan, hogy nemsokára eljössz és boldog hittel várjuk már az örömhozó felhőt! Mily szép lesz majd a pillanat, az áldott örömünnep, mely elhozza üdvünket!</lines>
+    </verse>
+  </lyrics>
+</song>

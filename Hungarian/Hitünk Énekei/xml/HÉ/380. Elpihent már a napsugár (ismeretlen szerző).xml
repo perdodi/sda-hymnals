@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:32:49">
+  <properties>
+    <titles>
+      <title>380. Elpihent már a napsugár</title>
+    </titles>
+    <copyright>Hé-380</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elpihent már a napsugár...<br/><br/>Hitünk énekei<br/>380. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elpihent már a napsugár, sötétlő éjjel árnya száll; Világos mégis éjszakánk: Jézusunk fénye árad ránk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszönjük néked, Istenünk, hogy ma is óvtad életünk, angyalok által hordoztál, nem ért így minket semmi kár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amit csak tettünk ellened, bocsásd meg minden vétkünket, s ne ródd fel bűnül lelkünknek: Nyugalmat adj a testünknek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fölöttünk fénylő csillagok, őriznek égi angyalok, Sátántól, bűntől, bánattól védjél meg, Isten, mindenkor!</lines>
+    </verse>
+  </lyrics>
+</song>

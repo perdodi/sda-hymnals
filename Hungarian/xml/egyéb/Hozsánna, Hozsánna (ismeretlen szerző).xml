@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:51">
+  <properties>
+    <titles>
+      <title>Hozsánna, Hozsánna</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hozsánna, Hozsánna</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hozsánna, hozsánna, a magasságban Istennek,<br/>Hozsánna, hozsánna, a magasságban Istennek.<br/>Szentséges neved áldjuk, teljes szívvel imádunk,<br/>Magasztalunk, Te Felséges, ki hatalmas vagy, hűséges.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glóri, Glóri, harcot győz a nagy Király,<br/>glóri, Glóri, uralkodik és megáld,<br/>Szentséges neved áldjuk, teljes szívvel imádunk,<br/>Magasztalunk, Te Felséges, ki hatalmas vagy, hűséges.</lines>
+    </verse>
+  </lyrics>
+</song>

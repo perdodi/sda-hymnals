@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:12">
+  <properties>
+    <titles>
+      <title>A Te szerelmed, Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A Te szerelmed, Jézus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A Te szerelmed, Jézus, olyan jó nekem, a Te szerelmed, Jézus, él, a Te szerelmed, Jézus, mindig érzem én, ha a szívem megnyitom feléd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Te kezedbe, Jézus, fogjad életem, a Te kegyelmed legyen énvelem, a Te szerelmed, Jézus, kiárad reám, az én szívem csak téged vár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Te lelkeddel, Jézus, betöltöd szívem, olyan jó, mikor érezhetem, a Te erőddel, Jézus, könnyebb életem, veled járni nagy kegyelem.</lines>
+    </verse>
+  </lyrics>
+</song>

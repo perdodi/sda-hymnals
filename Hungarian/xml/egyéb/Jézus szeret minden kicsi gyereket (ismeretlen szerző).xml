@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:01">
+  <properties>
+    <titles>
+      <title>Jézus szeret minden kicsi gyereket</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus szeret minden kicsi gyereket</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Jézus szeret, minden kicsi gyereket, <br/>Jézus szeret minden kicsi gyereket,<br/>Jézus szeret minden kicsi gyereket, <br/>minden kicsi gyerek jöhet Hozzá!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Egy kicsi, két kicsi, három kicsi gyereket, <br/>négy kicsi, öt kicsi, hat kicsi gyereket,<br/>Hét kicsi, nyolc kicsi, kilenc kicsi gyereket, <br/>minden kicsi gyerek jöhet Hozzá!</lines>
+    </verse>
+  </lyrics>
+</song>

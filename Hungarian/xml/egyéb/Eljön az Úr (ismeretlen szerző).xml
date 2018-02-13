@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:38">
+  <properties>
+    <titles>
+      <title>Eljön az Úr</title>
+    </titles>
+    <copyright>S-003</copyright>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Eljön az Úr</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Eljön az Úr nagyon hamar. Várd Őt híven éjjel, nappal! Minden órán imádkozzál, légy erős, tarts ki még, hogy megállj.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Közel az Úr, már nincsen sok idő, talán ma még Megváltóm visszajő. Közel az Úr, az égi nagy Király, hűséges légy, türelemmel virrasztva várj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy mikor jő, én nem tudom, de életem reá bízom. Felhők között, ha megjelen, Urammal leszek én szüntelen.</lines>
+    </verse>
+  </lyrics>
+</song>

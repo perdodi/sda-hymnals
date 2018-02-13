@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:18">
+  <properties>
+    <titles>
+      <title>B455 Dicsőséged szent hegyére</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Dicsőséged szent hegyére<br/>B455</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dicsőséged szent hegyére Vígy magaddal most, Urunk, Ahol hittel reád nézve, Égi fényben láthatunk! Itt még ködbe vész utunk, S körülvesz a kétség éje: Keltsd fel napod hadd lássuk, Milyen nagy vagy, Királyunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Segíts, hogy most ébren legyünk, Nem fáradtan, álmosan, De mint Mózes, Illés, nézzünk Örvendve, magasztosan! A hit hegyén, boldogan Oly jó Véled lenni nékünk, Építsünk hajlékot hát, S nézzük Jézus szent arcát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallgassuk az Atya szavát: Kedves Fiáról beszél! Nem kell félnünk zord haragját, E szó mostan nem ítél. Ki Fiában hisz, remél, S elfogadja tanítását, Annak adja kegyelmét, S kedveli, mint gyermekét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atyánk tőlünk azt kívánja, Hogy Fiára hallgassunk. Önmagunkat megtagadva, Néki híven szolgáljunk, Szavához ragaszkodjunk, Mindig az ő útján járva; Urunk, igéd hassa át Elménk, szívünk egyaránt!</lines>
+    </verse>
+  </lyrics>
+</song>

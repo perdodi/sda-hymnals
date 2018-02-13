@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:28:04">
+  <properties>
+    <titles>
+      <title>437. Bűnnek tengerében voltam</title>
+    </titles>
+    <copyright>Hé-437, Üa-229</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Bűnnek tengerében voltam...<br/><br/>Hitünk énekei<br/>437. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bűnnek tengerében voltam elmerülve teljesen. Szörnyű helyzetemről ottan nem tudtam én semmit sem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó de Jézus látott engem s értem mennyből lejöve. Megkeresett a mélységben, dics és hála nekie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kárhozatnak örvényében Forgott lelkem élete, Az átok nagy sötétjében el kellett vón' vesznie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bűnöm átka a mélységbe rémségesen lesodort. Lezuhantam és épsége szívemnek, ah, oda volt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus írta fel az élet könyvébe a nevemet: Ő nyújt békét, üdvösséget, megtisztítja lelkemet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drága Jézus Te vagy nékem Szabadítóm, mindenem! Ha szemlélem nagy szerelmed, hálával kell zengenem:</lines>
+    </verse>
+  </lyrics>
+</song>

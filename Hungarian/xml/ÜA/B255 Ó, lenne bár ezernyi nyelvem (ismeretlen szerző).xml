@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:54">
+  <properties>
+    <titles>
+      <title>B255 Ó, lenne bár ezernyi nyelvem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, lenne bár ezernyi nyelvem<br/>B255</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, lenne bár ezernyi nyelvem, ezernyi ajkam énnekem, Hogy szívem óhajához mérten Elzenghetném dicsénekem; Dicsénekre dicséneket Arról, mit Isten vélem tett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bár zengne ajkam oly serényen, Hogy fel- feltörne a napig! Buzogna hálától a vérem, Amíg csak eremben folyik; Hogy lenne egy- egy dicszengés Énbennem minden érverés!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mért hallgattok szívem erői? Munkára fel hát szorgosan! Szolgálni Istent, őt dicsérni, Imádni buzgón, hangosan! Ó, lelkem, testem, ne pihenj, Magasztald Istent szüntelen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jóságod vágyom énekelni, Amíg csak ép lesz a nyelvem; Hálámnak áldozatát tenni, Míg élet van a szívemben; S ha nem lesz erő ajkamon, Dicsérni fog majd sóhajom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, fogadd hálás éneklésem, Kegyelmesen, jó Istenem! Add, hogy ez ének még szebb légyen Tenálad ott a mennybe’ fenn, Amikor majd sok ezrekkel Dicsérlek örök énekkel</lines>
+    </verse>
+  </lyrics>
+</song>

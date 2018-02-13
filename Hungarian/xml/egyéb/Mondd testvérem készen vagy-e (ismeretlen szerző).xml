@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:27">
+  <properties>
+    <titles>
+      <title>Mondd testvérem készen vagy-e</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mondd testvérem készen vagy-e</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mondd testvérem készen vagy-e, ha az Úr Jézus eljön?<br/>és majd vele egyesülve végzed utad oda fönn,<br/>ha már itt minden elsüllyed fölemeled a szemed,<br/>csodás óra, Krisztus áll majd előtted.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maranatha halleluja Maranatha halleluja,<br/>Maranatha halleluja,<br/>Jézus jön, a menyegző elérkezett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megváltódnak érkeztére elkészítetted magad,<br/>megtudták már tőled mások is, hogy nincs messze Urad,<br/>szorgoskodsz-e érte, vagy állsz kelletlenül nem várva,<br/>éjfélt üt már a nagy Király órája.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elkészülsz-e, ó, testvérem, mire Jézus megjelen?<br/>nyomdokába jársz-e? eggyé válsz-e vele oda fenn?<br/>Hogyha minden összeomlik, felemeled a szemed,<br/>Dicső óra, Jézus int majd tenéked.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A megváltó jöttét hirdetik az idők jelei,<br/>Én dicsérni akarom, s örökké néki zengeni.<br/>Legyen fényesebb a ruhám, ha eléje kerülök,<br/>Mondd testvér, fogjuk-e látni együtt Őt?</lines>
+    </verse>
+  </lyrics>
+</song>

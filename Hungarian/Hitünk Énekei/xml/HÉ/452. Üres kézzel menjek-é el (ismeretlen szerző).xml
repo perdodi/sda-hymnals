@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:36:42">
+  <properties>
+    <titles>
+      <title>452. Üres kézzel menjek-é el</title>
+    </titles>
+    <copyright>Hé-452, Üa-348</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Üres kézzel menjek-é el...<br/><br/>Hitünk énekei<br/>452. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Üres kézzel menjek-é el s úgy álljak az Úr előtt? Egy lelket sem hozhassak el, s gyümölcstelen nézzem őt?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Üres kézzel menjek-é el, s úgy álljak az Úr előtt? Egy lelket sem hozhassak el, gyümölcstelen nézzem Őt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hisz Jézus megváltott engem, nem rettegem a halált; De üresen megjelenni: fájdalom e lelki kárt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jönnének bár újra vissza kárbaveszett éveim, Jézusomnak hőn szolgálni törekedném híven én.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kérlek hát óh keresztyének, idején működjetek, s mielőtt a nap lemenne, sok lelket megmentsetek.</lines>
+    </verse>
+  </lyrics>
+</song>

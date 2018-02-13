@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:36">
+  <properties>
+    <titles>
+      <title>Drága kereszt</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Drága kereszt<br/>(Dicsérem neve ód 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Drága kereszta Golgotán róla a béke árad rám, Megváltóm rajta vérzett, szent vére lelkem üdvelett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Drága kereszt, csodás kereszt, Megváltóm éretem hordta ezt! Ha látom Őt, a szenvedőt, ez ád hitemnek új erőt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eltörlé rajta vétkemet, megváltva bűnös életem, e nagy kegy engem fölemel, áldott szívéhez von közel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Segíts, ó, Jézus, hadd legyek alázatos, hű gyermeked, formáld át szívem teljesen, add, hogy hozzád méltó legyen!</lines>
+    </verse>
+  </lyrics>
+</song>

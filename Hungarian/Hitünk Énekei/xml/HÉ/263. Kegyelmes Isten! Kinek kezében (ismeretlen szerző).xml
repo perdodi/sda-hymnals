@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T11:26:15">
+  <properties>
+    <titles>
+      <title>263. Kegyelmes Isten! Kinek kezében</title>
+    </titles>
+    <copyright>Hé-263</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kegyelmes Isten! Kinek kezében...<br/><br/>Hitünk énekei<br/>263. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kegyelmes Isten! Kinek kezében életemet adtam; Viseld gondomat, vezéreld utamat, mert csak Rád maradtam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most is csak Benned reménységemet, Uram, én helyeztem; Magam rád hagytam, Rád támaszkodtam, Te alád vetettem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi hasznod benne, hogyha veszélyre jutok kétség miatt? Kit Fiad által Te megváltottál, mint fogadott fiát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallgass meg azért Te nagy nevedért, én könyörgésemben; Mutasd meg jódat, sok áldásodat az én szerencsémben!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gyermekségemtől fogván egyedül csak Tetőled vártam, mint Atyja után Fiú kiáltván, könyörögvén jártam.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Add meg énnékem én reménységem szerint való jódat; Áldd meg fejemet, ki bízik benned, s viseljed gondomat!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A szép harmatot miként hullatod tavasszal virágra; Sok jódat, Uram, Úgy hullasd reám, te régi szolgádra,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hogy mind holtomig szívem legyen víg, Téged magasztalván, mindenek előtt s mindenek fölött szent nevedet áldván.</lines>
+    </verse>
+  </lyrics>
+</song>

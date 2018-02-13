@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:52:31">
+  <properties>
+    <titles>
+      <title>213. Én Jézusom, téged a szívem szeret</title>
+    </titles>
+    <copyright>Hé-213, S-067</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én Jézusom, téged a szívem szeret...<br/><br/>Hitünk énekei<br/>213. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én Jézusom, téged a szívem szeret, a bűntől te megmentettél már engem; Én megmentőm, megtartóm, szabadítóm, Ó! mily nagyon szeretlek, jó Megváltóm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én Jézusom, téged a szívem szeret, Te eltörléd véreddel bűneimet. És énértem haltál meg ama napon: Ó! mily nagyon szeretlek, én Jézusom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én Jézusom, téged a szívem szeret, és dicsérem míg élek, nagy erődet! Ha végórám eljön is, ezt kiáltom: Ó! mily nagyon szeretlek, én Jézusom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én Jézusom, téged a szívem úgy vár, mert advented dicsfénye tündököl már. És szárnyal majd énekem, zeng hálaszóm, Ó! mily nagyon szeretlek, jó Megváltóm!</lines>
+    </verse>
+  </lyrics>
+</song>

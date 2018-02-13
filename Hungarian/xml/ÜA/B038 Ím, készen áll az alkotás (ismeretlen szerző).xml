@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:28">
+  <properties>
+    <titles>
+      <title>B038 Ím, készen áll az alkotás</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ím, készen áll az alkotás<br/>B038</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ím, készen áll az alkotás! Nézd , Isten műve mily csodás! Halleluja, halleluja! Jöjj, Nap, aranysugárt vető, jöjj, ezüsthintő Hold elő; Zengjétek, zengjétek: halleluja, halleluja,halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zengj,égre kúszó felegár, halld, még a szél is zúgja már: Halleluja, halleluja! Szép hajnal, harmatot hagyó, hűs alkonyat, békét adó; Zengjétek, zengjétek: halleluja, halleluja,halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zúgj, tengerekre szomjazó, bővíztől áradó folyó, Halleluja, halleluja! Tűz, ó, te titkos őserő, zord felegekbe' fészkelő; Zengjétek, zengjétek: halleluja, halleluja,halleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Visszhangozék a hálaszó: mily nayg az Úr, az alkotó! Halleluja, halleluja! Atya, Fiú s szentlélek ő, szentháromságban egy dicső; Zengjétek, zengjétek: halleluja, halleluja,halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

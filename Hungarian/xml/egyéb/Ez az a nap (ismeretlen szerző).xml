@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:41">
+  <properties>
+    <titles>
+      <title>Ez az a nap</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ez az a nap...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ez az a nap, ez az a nap, mit az Úr rendelt, mit az Úr rendelt, ez az a nap, ez az a nap, mit az Úr rendelt, mit az Úr rendelt. Örvendjünk, vigadjunk e napon, örvendjünk, vigadjunk e napon, ez az a nap, ez az a nap, mit az Úr rendelt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus az Úr, Jézus az Úr, akit szolgálunk, akit szolgálunk, Jézus az Úr, Jézus az Úr, akit szolgálunk, akit szolgálunk. Szolgáljuk hűséggel szent nevét, szolgáljuk hűséggel szent nevét! Jézus az Úr, Jézus az Úr, akit szolgálunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eljön az Úr, eljön az Úr, akit úgy várunk, akit úgy várunk! Eljön az Úr, eljön az Úr, akit úgy várunk, akit úgy várunk! Egy szívvel mondjuk, hogy: jöjj vissza már! Egy szívvel mondjuk, hogy: jöjj vissza már! Jövel Uram jövel Uram, jöjj el Úr Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

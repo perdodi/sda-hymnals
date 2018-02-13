@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:47:03">
+  <properties>
+    <titles>
+      <title>177. Mint látod, hűtlen szolgaként</title>
+    </titles>
+    <copyright>Hé-177</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mint látod, hűtlen szolgaként...<br/><br/>Hitünk énekei<br/>177. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mint látod, hűtlen szolgaként most hitben roskadok eléd, mert értem adtál drága vért; Ó! Bárány Jézus, ím jövök!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint látod, mindent elhagyok, mert hallom hívó szózatod; S hogy fájó lelkem orvosold: Ó! Bárány Jézus, ím jövök!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint látod, fájó gyötrelem és kétség forrong lelkemben; "Bent: súlyos harc; kint: félelem" Ó! Bárány Jézus, ím jövök!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mint látod, tenger vétkem van, most mégis átadom magam és véled járok boldogan, Ó! Bárány Jézus, ím jövök!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mint látod, nincsen semmi gát, mit hittel nem törhetenék át, mert el kell jutnom most hozzád; Ó! Bárány Jézus, ím jövök!</lines>
+    </verse>
+  </lyrics>
+</song>

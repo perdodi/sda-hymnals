@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:39">
+  <properties>
+    <titles>
+      <title>Sion hegyét menedékül</title>
+    </titles>
+    <copyright>S-024</copyright>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Sion hegyét menedékül</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sion hegyét menedékül rendelte isteni szózatod: felhővel és tűzoszloppal népedet oltalmazod.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A Te menedékedben bántás nem ér, biztonságban lehet benn, aki él, ott lesz a védelem mindenfelől: szélvész, eső elől.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nappal, ha nagy meleg támad, hogyha az ég is beborul: félelemre soha nincs okom, sátor lesz árnyékul.</lines>
+    </verse>
+  </lyrics>
+</song>

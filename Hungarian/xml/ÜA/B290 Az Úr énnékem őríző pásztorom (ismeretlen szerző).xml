@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:58">
+  <properties>
+    <titles>
+      <title>B290 Az Úr énnékem őríző pásztorom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr énnékem őríző pásztorom<br/>B290</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr énnékem őríző pásztorom, Azért semmiben meg nem fogyatkozom, Gyönyörűséges mezőn engem éltet, Szép kies folyó vizekre terelget, Megnyugosztalja lelkem szent nevében, És vezérl engem igaz ösvényében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha a halálnak árnyékában járnék, Még annak sötét völgyében se félnék, Mert mindenütt te jelen vagy énvélem, Megvigasztalnak vessződ, botod engem, És nekem az én ellenségim ellen Készítesz asztalt, eledelt adsz bőven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az én fejemet megkened olajjal, És itatsz engem bővséges pohárral; Nagy kegyességed engem körülvészen, És követ engem egész életemben. Az Úr énnékem megengedi nyilván, Hogy mind éltiglen lakjam ő házában.</lines>
+    </verse>
+  </lyrics>
+</song>

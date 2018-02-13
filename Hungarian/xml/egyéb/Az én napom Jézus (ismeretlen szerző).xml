@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:21">
+  <properties>
+    <titles>
+      <title>Az én napom Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az énapom Jézus<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az én napom Jézus sötét éjszakán, Háladalom Jézus, hogy ha öröm vár.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Szeretetem Jézus, s aboldogságom, Reánéni mindig, ez az óhajom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lelkem hogyha fáradt, üdít szent igéd, Boldog szível hordom Lelked pecsétjét;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Édes békeséged mindig élvezem, Szent szerelmed karja hordoz így engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Küzdelem a létem, harc a bün elen, Isten segítsége az én győzelmem.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Most te harcolsz értem, nem fél már szívem, Betakar kegyelmed s üdvözít engem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mily boldog az éltem itt e földön már, Örvendezve zengem: Jézus velem jár!</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Senki el nem választ tőled, Jézusom, s örök kegyelmedből eljön szép honom.</lines>
+    </verse>
+  </lyrics>
+</song>

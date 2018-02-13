@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:21">
+  <properties>
+    <titles>
+      <title>Új szívet adj, Uram</title>
+    </titles>
+    <copyright>S-132</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Új szívet adj, Uram</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Új szívet adj, Uram énnekem, új szívet adj, én Istenem, amely csupán csak Teérted ég, s Véled jár szüntelen, csak Véled szüntelen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyájas, vidám, szelíd, jó szívet, mely Jézusom, Te lakhelyed. Hol egyedül a Te hangod szól, mely Véled van tele, csak Véled van tele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, a Te gyógyító kezed megfogta már a szívemet, s én is tudom, bűntelen leszek, majd nálad odafenn, a mennyben odafenn.</lines>
+    </verse>
+  </lyrics>
+</song>

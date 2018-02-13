@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:13">
+  <properties>
+    <titles>
+      <title>Köszönöm, hogy teremtettél</title>
+    </titles>
+    <copyright>S-109</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Köszönöm, hogy teremtettél</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Köszönöm, hogy teremtettél, köszönöm áldó kezed,<br/>Köszönöm, hogy megmentettél, köszönöm az új szívet.<br/>Köszönöm a virágnyílást, köszönöm a lombhullást,<br/>Köszönöm a vidámságot, szívet tépő bús fohászt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszönöm a derült égen, köszönöm a napsugárt,<br/>Köszönöm a sötét felhőt, köszönöm a borulást.<br/>Köszönöm a harcok útját, köszönöm a győzelmet,<br/>Köszönöm a sújtó próbát, a felmentő szent kezed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Köszönöm a dalos kedvem, köszönöm a könnyeket.<br/>Köszönöm az életterhet, köszönöm, ha elveszed.<br/>Köszönöm a szenvedést is, köszönöm, ha segítesz,<br/>Köszönöm a próbatételt, mely után kebledre hívsz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Köszönöm a rózsák szirmát, köszönöm a sok tövist,<br/>Köszönöm a hazahívást, köszönöm, hogy küzdök itt.<br/>Köszönöm a keresztterhet, köszönöm Szentlelkedet,<br/>Köszönöm, hogy eljössz egyszer, s országodba bevezetsz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Köszönöm, mind, amit adtál, köszönöm, ha elveszed,<br/>Köszönöm a boldogságot, köszönöm, ha elveszett.<br/>Köszönöm óvó kegyelmed, köszönöm, ha próba vár,<br/>Köszönöm hű szerelmedet, azt is, ha borúra vált.</lines>
+    </verse>
+  </lyrics>
+</song>

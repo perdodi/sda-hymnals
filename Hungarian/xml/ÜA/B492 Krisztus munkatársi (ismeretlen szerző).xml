@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:23">
+  <properties>
+    <titles>
+      <title>B492 Krisztus munkatársi</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus munkatársi<br/>B492</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztus munkatársi, Készüljetek fel! Jó hírt prédikálni Induljatok el! Buzgalommal telten szerte járjatok, Szeretetben s hitben Munkálkodjatok!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Munka sok vár rátok, Induljatok hát! Pusztít a bűn-átok, Merre a szem lát. Béna, vak és sánta gyógyulásra vár, Lelki újulásra, ki bűn útján jár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krisztus drága vére, Lemos minden bűnt. Sátán rémítése Nem árthat nekünk. Szent kegyelme művét zengje ajkatok, Az Úr szántóföldjét járja lábatok!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Örömhírvivőknek Útja mily kedves! Szavuk üdvös ének, S mint a méz, édes. Áldott égi béke csendül ajkukon, Örvendj, Isten népe, s épülj szavukon!</lines>
+    </verse>
+  </lyrics>
+</song>

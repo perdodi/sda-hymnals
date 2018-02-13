@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:46:45">
+  <properties>
+    <titles>
+      <title>175. Minden népek hirdessétek</title>
+    </titles>
+    <copyright>Hé-175</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Minden népek hirdessétek...<br/><br/>Hitünk énekei<br/>175. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Minden népek hirdessétek az Istennek jóságát, hál'adással dicsérjétek az Ő irgalmassságát; Mert ő minket szeretett, üdvösségre vezetett, szent Fiát elbocsátotta, Ki lelkünket megváltotta.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Istennek igazságát ez kielégítette, bűnösöknek adósságát teljesen kifizette; Mind kegyes életével, mind sok szenvedésével; Sőt mi több, értünk meghala, bár Ő ártatlanság vala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bárcsak mindig meghálálnánk ezt az áldott kegyelmet, bárcsak annyira juthatnánk, hogy nyervén segedelmet meghalhatnánk bűnünknek, élhetnénk Istenünknek, jól viselhetnénk magunkat, követhetnénk Megváltónkat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bírj Atyánk erre bennünket, adj erőt szándékunkra, segítsd igyekezetünket, vezes feltett célunkra; Kegyelmeddel légy velünk, hogy míg e testben élünk, csak az új életben járjunk, boldogságot is úgy várjunk.</lines>
+    </verse>
+  </lyrics>
+</song>

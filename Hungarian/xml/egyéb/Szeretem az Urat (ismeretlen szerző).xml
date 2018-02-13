@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:41">
+  <properties>
+    <titles>
+      <title>Szeretem az Urat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szeretem az Urat</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szeretem az Urat, mert meghallgatja esedezéseim szavát, kinyitom a szívem, hogy megérthessem örökkévaló stavát, oly jó az Úr, oly jó az Úr, világoságom és megtartóm nekem, oly jó az Úr, oly jó az Úr, világoságom és megtartóm nekem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogyha mélységben járok, a szükség idején, mikor összeomlik minden, csak Tebenned bízom én!</lines>
+    </verse>
+  </lyrics>
+</song>

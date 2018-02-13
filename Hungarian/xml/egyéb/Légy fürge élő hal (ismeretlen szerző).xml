@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:16">
+  <properties>
+    <titles>
+      <title>Légy fürge élő hal</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy fürge élő hal</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Légy fürge, élő hal, haladj az ár ellen,<br/>Fel frissen és bátran, tiéd lesz a győzelem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csak a megholt halak úsznak együtt az árral,<br/>Mozdulatlanul, némán és bénán,<br/>Nincs erejük, bátorságuk ellenállani,<br/>Egyre messzebb sodorja a hullám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És ha másképpen viselkedsz, mint a többiek,<br/>Úgy gondolják rólad, de bolond vagy.<br/>Ne törődj te ezzel, hisz csak az a lényeges,<br/>amit az Úr Jézus mond terólad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha nem tudsz <br/>megfordulni a folyóvizen,<br/>Kérjed Istent, Ő adjon erőt.<br/>Hidd el hogyha életedben <br/>Jézus, aki győz,<br/>Csodákat tesz a szemed előtt.</lines>
+    </verse>
+  </lyrics>
+</song>

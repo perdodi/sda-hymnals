@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:47:11">
+  <properties>
+    <titles>
+      <title>57. Nagy kegyelmed árad</title>
+    </titles>
+    <copyright>Hé-057</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nagy kegyelmed árad...<br/><br/>Hitünk énekei<br/>57. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nagy kegyelmed árad, Istenünk, felénk: Áldott Lelked áraszt útjainkra fényt. Hű szerelmed oly nagy, mint a magas ég; drága igéd biztos égi menedék!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tűz a nap sugára föld és víz felett; fénye bőven áraszt kedvet, életet. És a verőfényben milliónyi hang éneket zeng néked égi kórusban!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Add, hogy igazságod fénye törje át földi teremtményid lelki vakságát! És ha komor felhős néha fenn az ég: oszlasd áldott fénnyel, s űzd el fellegét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bízva bízunk benned, égi szeretet: járja át a szívünk áldott meleged! Vándorlásunk útján fogjad a kezünk, égi otthonunkba míg megérkezünk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:01">
+  <properties>
+    <titles>
+      <title>B312 Mily szent öröm</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mily szent öröm<br/>B312</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mily szent öröm minden perc veled, Ha áldhatom, Uram, nagy neved. Mily irgalom, fel sem foghatom, Kegyelmedet árasztod rám, Jézusom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily szent öröm minden alkalom, Ha lábadnál ülök, Jézusom. Mily nagyszerű minden pillanat, Megnyílik a szívem, ha szól szent szavad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mily szent öröm mikor nézhetem, Hogy átformál kezed teljesen. A szívemet tüzed járja át, Ragaszkodom hűségesen tehozzád.</lines>
+    </verse>
+  </lyrics>
+</song>

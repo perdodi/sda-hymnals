@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:38">
+  <properties>
+    <titles>
+      <title>B122 Vonj, Mesterünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vonj, Mesterünk<br/>B122</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vonj, Mesterünk, És mi megyünk Szívünk szent óhajával E földről el, A mennybe fel, Hol Te vagy az Atyával!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vonj, Mesterünk, És mi megyünk Célunk felé serényen, Mert mi magunk Nem haladunk Az igaz, jó ösvényen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vonj, Mesterünk, S mi követünk Föl az égi hazába, Ó, fogd kezünk, Te légy velünk, S nem esünk bűncsapdába!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vonj, Mesterünk, És adj nekünk Új erőt a hit harchoz, Hogy kitartsunk, S eljuthassunk Az égiek karához!</lines>
+    </verse>
+  </lyrics>
+</song>

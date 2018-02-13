@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:20">
+  <properties>
+    <titles>
+      <title>Mennyei Atyánk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mennyei Atyánk</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mennyei Atyánk, hadd dicsérjünk. Hadd magasztaljuk Szent neved. Jöjjön el a Te országod minél előbb. A Te néped epedve vár Reád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott légy, ó felséges Isten, ki voltál, vagy és eljövend. Áldott légy, ó felséges Isten, uralkodj örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

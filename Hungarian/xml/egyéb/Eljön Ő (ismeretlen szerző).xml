@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:38">
+  <properties>
+    <titles>
+      <title>Eljön Ő</title>
+    </titles>
+    <copyright>S-088</copyright>
+    <verseOrder>i1 o1 o2 o3 o1 o2 o3 o2 o3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Eljön Ő...</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Eljön Ő, készen állj! Elvisz, kit készen talál. Jézus az, ki olajjal tölti meg a lámpádat.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Világíts! Világíts! Világíts életeddel! Világíts! Világíts!</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Világíts az életeddel már, ha újra visszajön, hogy világítva várd!</lines>
+    </verse>
+  </lyrics>
+</song>

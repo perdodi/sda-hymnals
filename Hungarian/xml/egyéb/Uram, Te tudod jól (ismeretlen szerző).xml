@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:51">
+  <properties>
+    <titles>
+      <title>Uram, Te tudod jól</title>
+    </titles>
+    <copyright>S-134</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Uram, Te tudod jól</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kemény és jéghideg kőszívem van nekem, Te tudod azt, Uram tudod jól. Oly kemény, mint a kő Jézus nélkül a szív, mert nem vagy Uram, a szívemben.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te tudod jól Istenem, milyen ember vagyok. Hozzád jövök, Uram kéréssel: bár lennék olyan, mint Te: irgalmas, őszinte, hogy ki engem ismer, szeressem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az én beszédem is oly hideg, mint a jég, bánatot okoznak szavaim. Hűvös tekintetem és én tudom, hogy miért, mert nincsen Jézus a szívemben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szívembe jött az Úr, neki adom magam. Átadom magamat teljesen. Beszédem változott, nem okoz bánatot, szemeim ragyognak boldogan.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Köszönöm néked Uram, hogy eltört a szikla, a szikla, mely szívemben volt. A kő már nem hűt többé, mert hozzád tartozom, Te vezesd életem, Jézusom.</lines>
+    </verse>
+  </lyrics>
+</song>

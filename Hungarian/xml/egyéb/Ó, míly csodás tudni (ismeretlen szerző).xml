@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:18">
+  <properties>
+    <titles>
+      <title>Ó, míly csodás tudni</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, míly csodás tudni</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, míly csodás tudni azt, örök Istennünk, hogy Jézus jön, vissza jön. Elhozza majd a dicsőséges országát, örök békét, szabadulást. Jézus jön vissza jön! Jézsu jön vissza jön!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meghalt itt lenn, hogy néked életed legyen. Ő mellette, majd ott fenn. Örülj te Föld, mert beváltja ígéretét, hisz feltámadt Jézus él! Jézus él, igen él! Jézus él, igen, él!</lines>
+    </verse>
+  </lyrics>
+</song>

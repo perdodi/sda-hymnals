@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:43:10">
+  <properties>
+    <titles>
+      <title>38. Ó! Ábrahám Ura</title>
+    </titles>
+    <copyright>Hé-038</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! Ábrahám Ura...<br/><br/>Hitünk énekei<br/>38. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! Ábrahám Ura, hadd áldjuk szent neved, mert mindenható, örök vagy és szeretet. Nagy Isten a neved, ezt vallja föld és ég, csak téged illet tisztelet és dicsőség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! Ábrahám Ura, ím hallom szent szavad; Csak azt az üdvöt keresem, mit kezed ad. A múló földi jót és vágyát elhagyom, s őt választom, ki őrizőm és pásztorom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! Ábrahám Ura, szent kegyelmed nekem az én örömöm, utamon ez vezessen. Te barátod lettem, én Istenem te vagy: Tarts meg a Jézus véréért és üdvöt adj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megesküvél Uram, és igédben bízom, hogy égbe viszed gyermeked sasszárnyakon. Meglátom Jézusom, és áldom hatalmát, szent kegyelmének éneklek Alleluját.</lines>
+    </verse>
+  </lyrics>
+</song>

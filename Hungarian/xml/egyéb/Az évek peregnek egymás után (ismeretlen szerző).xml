@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:22">
+  <properties>
+    <titles>
+      <title>Az évek peregnek egymás után</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az évek peregnek egymás után</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az évek peregnek egymás után, ki tudja holnap lesz-e még? Az élet a földön oly hamar lejár, ami volt tovaszáll, mint a szél. Csak egyetlen út vezet Istenhez el és az emberi szív ott békére lel. De ha ezt az utat még nem ismered: Ez az út, az a régi kereszt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak jártam az utamat magányosan, de szembe jött Jézus velem. Nagy irgalmával Ő hozzám lehajolt, igen ezt soha nem feledem. Hogy hová megyek, most már azt is tudom, maga Isten vezet e drága úton. De ha ezt az utat még nem ismered: Ez az út, az a régi kereszt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hiszem nemsoká eljön Uram, csak azt kérem szívemből én, ha jön készen találjon és elvigyen majd a felhőkön hazafelé. Oly békesség tölti be most életem, mert Ő vigyáz rám és fogja kezem. Tudom hozzá csak egyetlen út vezet: Ez az út, az a régi kereszt.</lines>
+    </verse>
+  </lyrics>
+</song>

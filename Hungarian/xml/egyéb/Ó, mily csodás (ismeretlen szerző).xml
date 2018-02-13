@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:17">
+  <properties>
+    <titles>
+      <title>Ó, mily csodás</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, mily csodás</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, mily csodás isteni szeretet,<br/>ó, mily csodás isteni szeretet,<br/>Ó, mily csodás isteni szeretet, égi szeretet!<br/>Olyan magas, fel sem érhetem, olyan mély, <br/>hogy meg sem mérhetem,<br/>Olyan széles, át sem érhetem: égi szeretet.</lines>
+    </verse>
+  </lyrics>
+</song>

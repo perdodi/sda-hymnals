@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:30">
+  <properties>
+    <titles>
+      <title>Ne bánkódj, testvér!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ne bánkódj, testvér!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ne bánkódj, testvér, vigyázz!<br/>Ne félj, ha Ővele jársz!<br/>Ha Jézus a Mestered, <br/>nincs mit vesztened, <br/>légy bátor hát, vigyázz!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha látod, hogy a vízár egyre csak nő,<br/>és úgy érzed sodor az ár,<br/>Ó, lásd meg a Mestert: a habokon jő, <br/>ne mondd, hogy nincs reménysugár!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, ezernyi kérdéstől csügged a szív,<br/>az arcunkon nincs már mosoly.<br/>Halld, Jézus ad választ, Ő magához hív, <br/>hát ne légy már többé fogoly!</lines>
+    </verse>
+  </lyrics>
+</song>

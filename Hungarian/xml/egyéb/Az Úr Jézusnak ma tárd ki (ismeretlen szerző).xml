@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:18">
+  <properties>
+    <titles>
+      <title>Az Úr Jézusnak ma tárd ki</title>
+    </titles>
+    <copyright>S-039</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr Jézusnak ma tárd ki</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr Jézusnak ma tárd ki a szívedet, hadd formálja át teljesen az életed.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Várd Őt, várd Őt, aki üdvöt ád, várd Őt, várd Őt és dicsérd a Királyt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő minden foglyot megszabadít, a béna jár, a poklos gyógyul, hall a süket, a vak is lát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki minden terhet hord, ki gyászban jár és könnye hull, a búját öröm váltja fel és térdre borul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó fogjad kezünk, Jézusunk és légy velünk. Szent békességed töltse be az életünk.</lines>
+    </verse>
+  </lyrics>
+</song>

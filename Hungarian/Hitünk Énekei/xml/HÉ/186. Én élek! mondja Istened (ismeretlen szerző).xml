@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:48:23">
+  <properties>
+    <titles>
+      <title>186. Én élek! mondja Istened</title>
+    </titles>
+    <copyright>Hé-186</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én élek! mondja Istened...<br/><br/>Hitünk énekei<br/>186. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én élek! mondja Istened, hogy nem kívánom vesztedet, sőt várlak üdvösségemmel; Csak bűnös utad hagyjad el, van számodra is kegyelem, hogy örökké élj Énvelem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E szavakat vedd eszedbe és immár ne ess kétségbe; Te itt lelsz vigaszt, kegyelmet és orvosságot szívednek, mit Isten néked megígért; Ó! boldog, ki sír bűnéért!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óvd magad hiú ábrándtól, az elbizakodottságtól és ne mondd: akkor megtérek, ha kiélvezem a létet, hisz Isten jó, majd megbocsát és kegyelmet Ő úgyis ád.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Van kegyelem és békélés, az Isten arra mindig kész, de erre, aki úgy számít, hogy bátran tovább vétkezik, az nem kedvez a lelkének és égi jót nem remélhet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó! segíts, Jézus, légy velem, adj megtérést még ma nekem, hogy megbánhassam bűnömet, míg megtartod az éltemet, hogy elkészüljek időben és megbékéljek Istenben.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:09">
+  <properties>
+    <titles>
+      <title>B380 Végig megálld a nagy tusát</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Végig megálld a nagy tusát<br/>B380</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Végig megálld a nagy tusát! Erőt Urad, a Krisztus ád. Nyerd el, mit félre tett neked, A koronát, az életet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A célra fuss, hogy mennybe juss, Ott vár reád az égi juss! Az út oda bizton vezérl, Krisztus az út, Krisztus a cél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne csüggedj el, Ő felemel, Új erőt ád, csak bíznod kell! Ha gondodat mind ráveted, Segíti vinni terhedet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bízzál, ne félj, a Krisztus él! Ő hűn szeret és megsegél: Csak higgy, és ő lesz Mestered, Urad s mindenben mindened!</lines>
+    </verse>
+  </lyrics>
+</song>

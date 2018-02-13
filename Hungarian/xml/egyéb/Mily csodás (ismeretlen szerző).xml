@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:22">
+  <properties>
+    <titles>
+      <title>Mily csodás</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mily csodás</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(Férfiak | Nők)<br/>Mily csodás [Mily csodás]<br/>Kegyelem [Kegyelem]<br/>Mily csodás [Mily csodás]<br/>Szeretet [Szeretet]<br/>Istenünk egy fia<br/>Mily csodás</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó milyen [Ó milyen]<br/>Szeretet [Szeretet]<br/>Ugye hogy [Ugye hogy]<br/>Szeretett [Szeretett]<br/>Életét feláldozta<br/>Istenünk egy fia<br/>Micsoda szeretet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oly csodás [Oly csodás]<br/>Kegyelem [Kegyelem]<br/>Oly csodás [Oly csodás]<br/>Szeretet [Szeretet]<br/>Istenünk egy fia<br/>Oly csodás</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ó milyen [Ó milyen]<br/>Szeretet [Szeretet]<br/>Ugye hogy [Ugye hogy]<br/>Szeretett [Szeretett]<br/>Életét feláldozta<br/>Istenünk egy fia<br/>Maga a szeretet!<br/>Szeretet!</lines>
+    </verse>
+  </lyrics>
+</song>

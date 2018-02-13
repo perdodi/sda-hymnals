@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:35">
+  <properties>
+    <titles>
+      <title>B097 Zeng a város</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Zeng a város<br/>B097</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Zeng a város, víg a nép, Ének csendül szerteszét. Zúgják mind, hol Jézus jár: „Dávid sarja nagy Király!” Ámde Jézus könnye hull, Népe sorsán megindul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Térj meg, Jeruzsálem ma, Hozzád szól az Úr szava! Ám, ha Krisztust elveted, Békéd többé nem leled! Rád tör ellenséges nép, Isten karja meg nem véd!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lelkem, készülj, ébren légy, Krisztus Jézus jön feléd! Légy hű, és őt el ne hagyd, Meg ne tagadd szent Urad! Áldd és magasztald a Hőst, Pálmád lengesd, dicsérd őt!</lines>
+    </verse>
+  </lyrics>
+</song>

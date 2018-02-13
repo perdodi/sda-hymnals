@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:39">
+  <properties>
+    <titles>
+      <title>Először lépek oltárodhoz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Először lépek oltárodhoz</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Először lépek oltárodhoz, <br/>ki értem haltál Jézusom,<br/>Szent Lelked, véred bűntől oldoz, <br/>megőriz a keskeny úton.<br/>Szegélyzi partját sok tövis, <br/>de örök üdvösségre visz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örök életre hívtál engem, <br/>bűnösök Megváltó Ura,<br/>Feltárult szent keresztségemben <br/>a mennyországnak kapuja,<br/>Átléptem a szoros kaput, <br/>előttem áll most még az út.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erősíts meg, hát fegyverezz fel, <br/>ifjúságomnak idején,<br/>Állj mellém, kísérj Szent Lelkeddel, <br/>utamban el ne vesszek én,<br/>S, ha véget ér az út amott, <br/>terítsd meg nékem asztalod.</lines>
+    </verse>
+  </lyrics>
+</song>

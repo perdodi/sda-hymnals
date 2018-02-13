@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:10">
+  <properties>
+    <titles>
+      <title>Áldunk Téged hű Urunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldunk Téged hű Urunk</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldunk Téged hű Urunk,<br/>Szívből hálát zeng dalunk,<br/>És dicsérjük szent neved,<br/>Értünk adtad életed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hozzád száll imánk, Jézus, jöjj !<br/>Hozzád száll imánk, Jézus, jöjj !<br/>Hozzád száll imánk, Jézus, jöjj !<br/>Ó, Jézus, hozzánk jöjj !</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Néked zeng dalunk, Jézus, jöjj !<br/>Néked zeng dalunk, Jézus, jöjj !<br/>Néked zeng dalunk, Jézus, jöjj !<br/>Ó, Jézus, hozzánk jöjj !</lines>
+    </verse>
+  </lyrics>
+</song>

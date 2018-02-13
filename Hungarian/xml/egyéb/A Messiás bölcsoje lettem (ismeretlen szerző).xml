@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:11">
+  <properties>
+    <titles>
+      <title>A Messiás bölcsoje lettem</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A Messiás bölcsője lettem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úr Jézus. mikor bennem megszülettél, azóta élek én, azóta ismerem a boldog ságot, az üdvözítő béke áldott csendjét.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A Messiás bölcsője lettem én, bölcsőm lakója lett Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindennap, kezemet fogva, úgy vezetsz, mint jó Atya gyermekét, és bárminő értéktelen életem,értéké válik immár a kezedben.</lines>
+    </verse>
+  </lyrics>
+</song>

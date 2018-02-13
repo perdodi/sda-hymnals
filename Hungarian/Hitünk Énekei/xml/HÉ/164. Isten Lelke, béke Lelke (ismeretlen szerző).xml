@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:44:56">
+  <properties>
+    <titles>
+      <title>164. Isten Lelke, béke Lelke</title>
+    </titles>
+    <copyright>Hé-164</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten Lelke, béke Lelke...<br/><br/>Hitünk énekei<br/>164. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten Lelke, béke Lelke, töltsd be most a szívemet! Szomjas lelkem téged áhít, várom már a jöttödet. Jöjj el már, jöjj el már, mert a szívünk várva vár; szomjas lelkem téged áhít, Isten Lelke jöjj el már!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nálad nélkül nincsen békém, szívem nyugtot nem talál. Jöjj szívembe , Isten Lelke, várva várlak, jöjj el már! Jöjj el már, jöjj el már, mert a szívünk várva vár; szomjas lelkem téged áhít, Isten Lelke jöjj el már!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Térdre hullva kérlek téged, szánd meg gyönge lelkemet; küldjél rám is égi áldást, öntsd ki szent szerelmedet! Jöjj el már, jöjj el már, mert a szívünk várva vár; szomjas lelkem téged áhít, Isten Lelke jöjj el már!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tisztaságban őrizzed meg, áldjad, óvjad szívemet; lelkemet a békességgel, szent erőddel töltse meg! Jöjj el már, jöjj el már, mert a szívünk várva vár; szomjas lelkem téged áhít, Isten Lelke jöjj el már!</lines>
+    </verse>
+  </lyrics>
+</song>

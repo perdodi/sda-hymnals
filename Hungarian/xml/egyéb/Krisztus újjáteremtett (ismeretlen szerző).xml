@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:12">
+  <properties>
+    <titles>
+      <title>Krisztus újjáteremtett</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus újjáteremtett</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Krisztus újjáteremtett, halálból Ő kimentett,<br/>Kegyelmében nyugszom meg én.<br/>Túlcsordul már a szívem, megújul Lelke bennem,<br/>Kegyelmében nyugszom meg én.<br/>Dicsérlek én, Uram, dicsérlek boldogan,<br/>Így zengem el, hogy mit tettél velem!<br/>Határtalan az öröm, hogy Szentlelked az erőm,<br/>Kegyelmedben nyugszom meg én.</lines>
+    </verse>
+  </lyrics>
+</song>

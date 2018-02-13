@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:21">
+  <properties>
+    <titles>
+      <title>Az Úrban bízom</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úrban bízom</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úrban bízom, erős karja megtart engem az élőknek földjén! 2x</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Az élőknek földjén boldog minden teremtmény, mert az élőknek földjén ott az Úr, igen! 2x <br/>Úr! Úr! Ott az Úr! Ott az Úr! Ott leszek én!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beszéde táplálja, átformálja lelkem az élőknek földjén! 2x</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Az élőknek földjén boldog minden teremtmény, mert az élőknek földjén ott az Úr, igen! 2x<br/>Úr! Úr! Ott az Úr! Ott az Úr! Ott leszek én!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Szellem erősít, betölti a szívem az élőknek földjén!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az én Megváltóm vár asztalához engem az élőknek földjén!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>És én hálával áldozom örökké az Úrnak az élőknek földjén!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:18">
+  <properties>
+    <titles>
+      <title>Az ajtó előtt állok</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az ajtó előtt állok<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az ajtó előtt állok és zörgetek, arra várok, hogy bebocsáss. A szíved ajtaján kívül nincs kilincs, csak rajtad áll a nagy találkozás.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, halld meg hangom és válaszolj, nyisd meg szíved ajtaját! Ó, halld meg hangom és válaszolj, hogy velem együtt vacsorálj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérdezed: -Ki az, aki kinn áll?- Jézus vagyok, Isten Fia. Éltem adtam a bűnös emberért, hogy ne kelljen meghalnia.</lines>
+    </verse>
+  </lyrics>
+</song>

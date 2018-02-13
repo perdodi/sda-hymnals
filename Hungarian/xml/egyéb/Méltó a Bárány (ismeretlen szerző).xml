@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:29">
+  <properties>
+    <titles>
+      <title>Méltó a Bárány</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Méltó a Bárány</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Méltó a Bárány, hogy vegyen dicsőséget, hódolatot, áldást, és tiszteséget! 2X</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szent az Ő neve örökké, szent az Ő neve örökké, szent az Ő neve örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

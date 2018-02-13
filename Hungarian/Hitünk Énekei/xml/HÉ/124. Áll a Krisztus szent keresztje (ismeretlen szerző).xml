@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:32:11">
+  <properties>
+    <titles>
+      <title>124. Áll a Krisztus szent keresztje</title>
+    </titles>
+    <copyright>Hé-124</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áll a Krisztus szent keresztje...<br/><br/>Hitünk énekei<br/>124. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áll a Krisztus szent keresztje elmúlás és rom felett, Krisztusban beteljesedve látom üdvösségemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bánt a sok gond, űz a bánat, tört remény vagy félelem: Ő nem hágy el, biztatást ad, békesség van énvelem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldogságnak napja süt rám, jóság, fény jár utamon; A keresztfa ragyogásán fényesebb lesz szép napom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldássá lesz ott az átok, megbékéltet a kereszt; El nem múló boldogságod, békességed ott keresd!</lines>
+    </verse>
+  </lyrics>
+</song>

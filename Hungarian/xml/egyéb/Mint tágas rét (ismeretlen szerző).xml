@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:27">
+  <properties>
+    <titles>
+      <title>Mint tágas rét</title>
+    </titles>
+    <copyright>S-010</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mint tágas rét</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mint tágas rét és tiszta vízű forrás, mint csöndes vízpart, Uram, a szíved. Ott szabadságban vígan járunk-kelünk, nem köti béklyó lábunk és kezünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ám sokan mégis láncok közt vergődnek, bűn köteléke nyűgözi szívük. Még büszke énük börtönében ülnek, mely félelemnek köveiből áll.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, drága Jézus, Te vagy a reményünk, ha te feloldasz, szabadok vagyunk. Oly sokan most is szabadságra vágynak, oldd le a bűnönk láncait hamar.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Mint tágas rét és tiszta vízű forrás, mint csöndes vízpart, Uram a szíved.</lines>
+    </verse>
+  </lyrics>
+</song>

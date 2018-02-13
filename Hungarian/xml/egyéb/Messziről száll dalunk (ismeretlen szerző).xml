@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:20">
+  <properties>
+    <titles>
+      <title>Messziről száll dalunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Messziről száll dalunk</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Messziről száll dalunk, halld meg, ó, Jézusunk, csak feléd indulunk vágyakozva. Életünk töltse meg Lelked szent hatalma! Így fogadj el bűneinkkel, Krisztusunk, vígy magasra!</lines>
+    </verse>
+  </lyrics>
+</song>

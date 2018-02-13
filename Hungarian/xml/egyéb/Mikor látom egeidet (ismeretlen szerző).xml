@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:21">
+  <properties>
+    <titles>
+      <title>Mikor látom egeidet</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mikor látom egeidet</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mikor látom egeidet, amit ujjaid formáltak, s onnan fénylő tekinteted Hold és csillagfény formákban.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akkor kérdem, mi az ember, hogy még rá is vagyon gondod, hogy nézel rá türelemmel, fiát is fiadnak mondod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogy kevéssel tetted őket kevesebbé önmagadnál, szerzel nékik dicsőséget, egy fénysugárt koszorúdnál.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Juhokat és mindenféle barmot lábunkhoz helyeztél, rejtse ég vagy tenger mélye, minket rajtuk úrrá tettél.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mikor látom egeidet, akkor kérdem, mi az ember, Urunk szentelt neveidet énekeljük tiszta hittel. Urunk szentelt neveidet énekeljük tiszta hittel.</lines>
+    </verse>
+  </lyrics>
+</song>

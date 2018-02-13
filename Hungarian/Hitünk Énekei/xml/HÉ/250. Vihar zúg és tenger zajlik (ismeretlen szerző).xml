@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-07T13:13:21">
+  <properties>
+    <titles>
+      <title>250. Vihar zúg és tenger zajlik</title>
+    </titles>
+    <copyright>Hé-250</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vihar zúg és tenger zajlik...<br/><br/>Hitünk énekei<br/>250. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vihar zúg és tenger zajlik, életünknek tengere, Jézus ajkán tisztán hallik: "Kövess engem, jöjj ide!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hív ma Jézus, hív ma téged, karja fog, hogy el ne ess: Ha a bálvány így szól néked: "Velem jöjj csak és szeress."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha roskad gyönge vállam, bűnöm súlya földre nyom; "Enyhet, békét találsz nálam!" - Szavad, Jézus, égbe von.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uram, hozzád vágyik lelkem, eléd tárom terhemet, legyek mindig - ó! ezt esdem! - Érted élő gyermeked!</lines>
+    </verse>
+  </lyrics>
+</song>

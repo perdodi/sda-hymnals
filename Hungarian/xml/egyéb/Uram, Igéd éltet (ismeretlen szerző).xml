@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:50">
+  <properties>
+    <titles>
+      <title>Uram, Igéd éltet</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Uram, Igéd éltet</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram, Igéd éltet, minden szavad élet és szellem, és mint fa víz mellet, levelet hajt, termést érlel, úgy virágzom, és gyümölcsöt terem beszéded bennem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mint eső és hó hull szomjas földre, megöntözi azt, sarjaszt friss fűvet, úgy lesz jószerencsés a Te igéd, amely szádból kijött, nem tér meg üresen, hanem megcselekszi azt, amiért elküldte Őt, pusztában vizet fakaszt, újjáéleszti a lelkem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:02">
+  <properties>
+    <titles>
+      <title>Jézus visszajön, mindig készen várjuk Őt!</title>
+    </titles>
+    <copyright>S-028</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus visszajön!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus visszajön, mindig készen várjuk Őt! Jézus visszajön, mindig készen várjuk Őt! Jézus visszajön, mindig készen várjuk Őt! Halleluja! Halleluja! Mindig készen várjuk Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljön a Király, minden szem meglátja Őt! Eljön a Király, minden szem meglátja Őt! Eljön a Király, minden szem meglátja Őt! Halleluja! Halleluja! Minden szem meglátja Őt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zengjünk háladalt! Boldog szívvel áldjuk Őt! Zengjünk háladalt! Boldog szívvel áldjuk Őt! Zengjünk háladalt! Boldog szívvel áldjuk Őt! Halleluja! Halleluja! Boldog szívvel áldjuk Őt!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Halleluja, halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

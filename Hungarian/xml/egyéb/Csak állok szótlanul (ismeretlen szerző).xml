@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:34">
+  <properties>
+    <titles>
+      <title>Csak állok szótlanul</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Csak állok szótlanul</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csak állok szótlanul a dárda földre hull, itt más erő az Úr, itt más erő az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az éj az hosszú volt, de eltűnt már a hold, a hajnal felsikolt, a hajnal felsikolt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Föltámadt, alleluja, föltámadt alleluja! Föltámadt, alleluja, föltámadt alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elég volt már, elég, fénnyel hinti az ég, az új nap reggelét, az új nap reggelét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Virágban áll a rét, virágos úton át, valaki jön feléd, valaki jön feléd.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Virágban áll a rét, virágos úton át, Jézus jön feléd, Jézus jön feléd.</lines>
+    </verse>
+  </lyrics>
+</song>

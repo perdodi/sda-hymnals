@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:21">
+  <properties>
+    <titles>
+      <title>Úgy szerette Isten-e</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úgy szerette Isten-e</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy szerette Isten ezt a bűnnel telt világot egyszülött Fiában testet öltve földre szállott. Hogy aki hisz, aki hisz az el ne vesszen benne örök éltet nyerjen. Hogy aki hisz, aki hisz az el ne vesszen életet nyerjen.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten nagyon szeret téged elvette minden vétked. Nem terhel semmi téged már. Ellenünk szóló irat, a Golgotán széjjelszakadt<br/>kitárva Isten szíve vár. Ellenünk szóló irat, a Golgotán széjjelszakadt kitárva Isten szíve vár.</lines>
+    </verse>
+  </lyrics>
+</song>

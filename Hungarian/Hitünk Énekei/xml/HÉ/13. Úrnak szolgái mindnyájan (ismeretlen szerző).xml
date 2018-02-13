@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:18:27">
+  <properties>
+    <titles>
+      <title>13. Úrnak szolgái mindnyájan</title>
+    </titles>
+    <copyright>Hé-013</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úrnak szolgái mindnyájan...<br/><br/>Hitünk énekei<br/>13. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úrnak szolgái mindnyájan, áldjátok az Urat vígan, kik az ő házában éjjel vigyázván, vagytok hűséggel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Felemelvén kezeteket, dicsérjétek Istenteket, szívből néki hálát adván, Őt áldjátok minduntalan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megáldjon téged az Isten a Sionról kegyelmesen, ki teremtette az eget, a földet és mindeneket!</lines>
+    </verse>
+  </lyrics>
+</song>

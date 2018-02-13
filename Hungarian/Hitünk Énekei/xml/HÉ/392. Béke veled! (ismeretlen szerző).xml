@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:37:00">
+  <properties>
+    <titles>
+      <title>392. Béke veled!</title>
+    </titles>
+    <copyright>Hé-392</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Béke veled!<br/><br/>Hitünk énekei<br/>392. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Béke veled! Most aludj csak csendben, sírod felett a csöndesség lengjen; Áldott legyen és nyugalmas álmod, véled legyen, ki védett és áldott, béke veled!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Béke veled! Ki hű voltál hitben, s elvégezted a munkádat híven; Megnyugodtál a jajtól és könnytől, mentes vagy már a kín keresztjétől. Béke veled!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Béke veled! Míg eljön a hajnal, s látunk téged, kit szólít az angyal: Feltámadunk, e szent remény éltet, s találkozunk nagy örömben véled. Béke veled!</lines>
+    </verse>
+  </lyrics>
+</song>

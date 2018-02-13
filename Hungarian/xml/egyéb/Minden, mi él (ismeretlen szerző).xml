@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:25">
+  <properties>
+    <titles>
+      <title>Minden, mi él</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Minden, mi él</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden, mi él csak Téged hirdet. Minden dicsér, mert mind a műved. Azzal, hogy él, ezt zengi Néked: Dicsérlek én, dicsérlek Téged!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dicsér az ég, nap, hold és csillagok, fény és sötét, nap, éj és hajnalok. Dicsér az ég, felhő és hóvihar, a víz, a tűz, megannyi tiszta dallal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsér a föld, dicséri szent neved, mint jó anyánk, táplál s ad eledelt, virág, gyümölcs, zöld fű, fa, hegyvidék, tó és folyó, síkság és büszke bérc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A nagy világ létével énekel, szavunkra vár, hogy hangja dal legyen, zengjük tehát ég és föld énekét, zengjük velük: nagy Isten áldott légy!</lines>
+    </verse>
+  </lyrics>
+</song>

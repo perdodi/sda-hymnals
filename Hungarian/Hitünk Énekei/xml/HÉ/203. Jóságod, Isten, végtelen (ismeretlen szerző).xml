@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:50:52">
+  <properties>
+    <titles>
+      <title>203. Jóságod, Isten, végtelen</title>
+    </titles>
+    <copyright>Hé-203</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jóságod, Isten, végtelen...<br/><br/>Hitünk énekei<br/>203. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jóságod, Isten, végtelen, s irgalmasságod árja! Te kegyelemmel vagy velünk az éltünk oltalmára. Én erős váram, Istenem, ó! jusson eléd kérelmem, a szívem égő vágya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! ne add, hogy a földi jó özönnel jusson nékem; Csak napról napra gondoskodj és táplálgassad éltem. Adj értelmet, hogy Tégedet, meg Jézust, a Te küldötted és magam megismerjem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ím kérlek, ne adj hírnevet és dicsőséget nékem. De becsületem, jó Uram, Te ne hagyd elveszítnem. Ó! irányítsad éltemet, hogy orcád előtt élhessek majd örök szeretetben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én nem kérek most kincseket, sem hosszú éltet Tőled; Csak jóban, rosszban adj nekem megelégedett szívet. Szent kezedben van életem és irgalmadat elnyerem, ha szívből hozzád térek.</lines>
+    </verse>
+  </lyrics>
+</song>

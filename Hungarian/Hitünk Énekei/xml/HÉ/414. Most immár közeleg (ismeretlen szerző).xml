@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:20:02">
+  <properties>
+    <titles>
+      <title>414. Most immár közeleg</title>
+    </titles>
+    <copyright>Hé-414, Üa-110</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Most immár közeleg...<br/><br/>Hitünk énekei<br/>414. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Most immár közeleg ama boldog idő, hogy a drága evangyélium erős hanggal zeng a földön át s ébredő népek lakják a dicső Siont.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Elmúlik már a nagy homály, a sötétség, fénylik világosság szívünkben. Isten népe miért aludnál mostan még, eljő majd az Úr nagy fényében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most immár közeleg ama boldog idő, melyet várva vártak atyáink, s jövendöltek már-már oly régen erről, az Úrtól hívott prófétáink.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most immár közeleg ama boldog óra, midőn az alvók majd ébrednek, felserkennek ők a teremtő szavára s örök otthonukba betérnek.</lines>
+    </verse>
+  </lyrics>
+</song>

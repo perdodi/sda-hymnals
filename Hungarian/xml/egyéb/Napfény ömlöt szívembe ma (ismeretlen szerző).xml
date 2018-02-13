@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:30">
+  <properties>
+    <titles>
+      <title>Napfény ömlöt szívembe ma</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Napfény ömlöt szívembe ma</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Napfény ömlöt szívembe ma, mely sokkal fényesebb, mint az a nap, mely kint ragyog, hisz Jézustól eredt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lelki fény az boldog fény az, égi fényhez jön az értelem, ha lelkünkbe tekint Jézus, arca bennünk megjelen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsének jött lelkembe ma, a mennyből érkezett, a fénysugár hozta nekem, hogy zengjek éneket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tavasz derült szívembe ma, az Úr olyan közel kegyelme éltet, engemet a menny felé emel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Öröm áradt szívembe ma, üdv, béke és remény, és szeretettel tölti meg bensőm' ez égi fény.</lines>
+    </verse>
+  </lyrics>
+</song>

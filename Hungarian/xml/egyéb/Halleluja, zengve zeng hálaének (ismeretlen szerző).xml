@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:47">
+  <properties>
+    <titles>
+      <title>Halleluja, zengve zeng hálaének</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Halleluja, zengve zeng hálaének</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Halleluja, Zengve zeng hálaének,<br/>Halleluja, Zengve zeng hálaének,<br/>Halleluja, Jézus, Te égi bárány!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Benned lettem én is új teremtés,<br/>Benned megtaláltam életem célját,<br/>Téged dicsér már a szívem és szám.</lines>
+    </verse>
+  </lyrics>
+</song>

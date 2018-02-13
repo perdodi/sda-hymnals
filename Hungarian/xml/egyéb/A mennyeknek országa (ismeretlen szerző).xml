@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:13">
+  <properties>
+    <titles>
+      <title>A mennyeknek országa</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A mennyeknek országa</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A mennyeknek országa közötünk, A mennyeknek országa közötünk, A mennyeknek országa közötünk, (mibenünk), mi bennünk, (mibenünk!), mibenünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A vak lát, a süket hall, a bénák már járnak, hanjára eltűnik a baj; Élet lesz a halálból, s a szegények mind hallgatják, örvendj, mert Jézus a Király!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A mennyeknek országa közötünk van, A mennyeknek országa közötünk van!</lines>
+    </verse>
+  </lyrics>
+</song>

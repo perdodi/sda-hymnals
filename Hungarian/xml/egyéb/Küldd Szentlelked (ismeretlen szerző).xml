@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:14">
+  <properties>
+    <titles>
+      <title>Küldd Szentlelked</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Küldd Szentlelked</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Küldd Szentlelked, kérlek, Uram, küldd hő, buzgó imámra: Hogy tanítson, vigasztaljon és vezessen utadra! Bűnteherrel, messze tőled, sötét éjben bolyongtam, tűzoszloppal, égi fénnyel vezess, vezess, ó, Uram!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Meghallgattál s fényt gyújtottál, minőt soha nem láttam. Bús lelkemmel, tört szívemmel szent örömre találtam. Ó, én lelkem, hirdesd széjjel, mint jött Isten tefeléd, mint jött Jézus, és üdvödért föláldozta életét</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Népmilliók, zarándokok Téged, Uram, keresnek. Hallasd szavad, ó, Megváltóm, s küldd vezérül Lelkedet! Hadd leljenek fényt és erőt, zúgjon ének, örömár: Te vagy, Jézus, Isten Fia, mindörökké Úr s Király!</lines>
+    </verse>
+  </lyrics>
+</song>

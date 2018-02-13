@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:16:12">
+  <properties>
+    <titles>
+      <title>403. Adjátok a szent bibliát kezembe</title>
+    </titles>
+    <copyright>Hé-403, Üa-057</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Adjátok a szent bibliát kezembe...<br/><br/>Hitünk énekei<br/>403. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Adjátok a szent bibliát kezembe, ez ad vigaszt a gond és baj között. Nincs vész, mely égi szent fényét elfedje, mióta Jézus értünk földre jött.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A bibliának hadd ragyogjon fénye, a szűk kapun át minket ez vezet s az Úr iránt tanít szent tiszteletre ígéret, törvény és a szeretet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adjátok a szent bibliát kezembe, a fáradt vándort ez enyhíti meg. Valódi ír az bármilyen sebekre, ez szüntet kint és gyógyít beteget.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adjátok a szent bibliát kezembe, abban találom Jézus életét, ki érettem adá magát keresztre s aki legyőzte lelkem ellenét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adjátok a szent bibliát kezembe, hadd szívjam annak balzsamdús szavát. Óh, hadd fakasszon ez örömkönnyekre s hálára az én Istenem iránt.</lines>
+    </verse>
+  </lyrics>
+</song>

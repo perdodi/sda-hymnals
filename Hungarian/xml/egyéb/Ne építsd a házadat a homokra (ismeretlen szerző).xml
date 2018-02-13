@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:31">
+  <properties>
+    <titles>
+      <title>Ne építsd a házadat a homokra</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ne építsd a házadat a homokra</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ne építsd a házadat a homokra, ne építsd a házadat a fövényre, mert jön szélvihar és ár, és a házad meg nem áll, hanem nagy robajjal dől össze.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Építsd a sziklára a házadat, annak a nagy vihar sem árthat, jöhet árvíz, eső, szél, erősen áll, amit építetél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Építsd Jézusra a házadat, neki a nagy vihar sem árthat, jöhet árvíz, eső, szél, erősen áll, amit építetél.</lines>
+    </verse>
+  </lyrics>
+</song>

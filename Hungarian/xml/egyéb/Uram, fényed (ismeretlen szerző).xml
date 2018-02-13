@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:51">
+  <properties>
+    <titles>
+      <title>Uram, fényed</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Uram, fényed</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Uram, fényed hétköznappá szürkült már a szívemben. Kérlek gyújts bennem új tüzet, mely érted ég. Atyám az arcod nem látom bűnöm vasrag falától. Kérlek, bocsáss meg nekem, világíts újra rám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Könyörgök, újítsd meg, tisztíst meg! Szent arcodat ne rejtsd el tőlem! Hogy megláthassam, amit meg kell tenem, hogy dicsőítsen Téged az életem! 2x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram fényed kristály tisztán ragyog már a szívemben, ne halványuljon el, sötétben fény legyen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atyám a Lelked jusson teljességre a bensőmben, és én elindulok aratásodba, ó, Istenem! És én elindulok aratásodba, ó, Istenem!</lines>
+    </verse>
+  </lyrics>
+</song>

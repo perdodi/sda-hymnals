@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:06">
+  <properties>
+    <titles>
+      <title>Jézussal járok mindennap</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézussal járok mindennap</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézussal járok mindennap, zengd, dicsérd, zengd dicsérd,<br/>Erős jobbjával támogat, zengd dicséretét.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zengd, zengd, zengd, dicséretét, <br/>zengd, zengd, zengd, dicséretét<br/>Zengd, zengd, zengd, dicséretét,<br/>ó milyen hatalmas név!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Életét adta énértem,<br/>zengd, dicsérd, zengd, dicsérd,<br/>Hogy a halálból megmentsen,<br/>zengd dicséretét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vére a bűntől megmosott, <br/>zengd, dicsérd, zengd, dicsérd,<br/>Szentlelke megújult erőt adott,<br/>zengd dicséretét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Általa lett a föld és ég, <br/>zengd, dicsérd, zengd, dicsérd,<br/>Benne és érte van a mindenség,<br/>zengd dicséretét!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsőség és áldás a Báránynak, <br/>zengd, dicsérd, zengd, dicsérd,<br/>Hódolat és tisztesség a Királynak,<br/>zengd dicséretét!</lines>
+    </verse>
+  </lyrics>
+</song>

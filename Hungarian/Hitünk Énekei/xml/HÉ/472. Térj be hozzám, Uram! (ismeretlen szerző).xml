@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:43:41">
+  <properties>
+    <titles>
+      <title>472. Térj be hozzám, Uram!</title>
+    </titles>
+    <copyright>Hé-472, Üa-464</copyright>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Térj be hozzám, Uram!<br/><br/>Hitünk énekei<br/>472. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Térj be hozzám, Uram! Soká voltál már künn, szívem kicsiny hajlékában enyhítsed bánatim. Szegény vagyok és vak, elfog a félelem, Te hatalmas vagy és gazdag kegyelmed végtelen!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Térj be hozzám! Szívem mást nem kíván. Térj be hozzám! Szívem mást nem kíván.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Térj be hozzám, Uram! Szent igazságoddal. Tüzes fényében láthassam jóakaratodat. Add, hogy megérthessem örök ítéleted, Ha szól hozzám félelmesen, ha kegyelmet hirdet.</lines>
+    </verse>
+  </lyrics>
+</song>

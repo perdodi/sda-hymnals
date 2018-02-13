@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:53:14">
+  <properties>
+    <titles>
+      <title>217. Az áldott égi szó vezet</title>
+    </titles>
+    <copyright>Hé-217</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az áldott égi szó vezet...<br/><br/>Hitünk énekei<br/>217. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az áldott égi szó vezet, a mennybe felvisz engemet. Az Úrral járni, ó! mily jó, mert mennybe visz e drága szó! Az Úr vezet, az Úr vezet az ige által engemet; Mint tanítványa követem és utam vége győzelem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha illat árad szerteszét, ha felhős lesz ott fenn az ég, ha bőszült árral küzdök én: Ő megtart engem mindenképp. Az Úr vezet, az Úr vezet az ige által engemet; Mint tanítványa követem és utam vége győzelem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg áldott kezét foghatom, nem hallja senki panaszom. Nem tör le engem semmi vész, mert híven vezet ez a kéz! Az Úr vezet, az Úr vezet az ige által engemet; Mint tanítványa követem és utam vége győzelem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha földi éltem majd lejár, ha Krisztus által győztem már, majd engem is vár Jézusom és vár az örök békehon. Az Úr vezet, az Úr vezet az ige által engemet; Mint tanítványa követem és utam vége győzelem!</lines>
+    </verse>
+  </lyrics>
+</song>

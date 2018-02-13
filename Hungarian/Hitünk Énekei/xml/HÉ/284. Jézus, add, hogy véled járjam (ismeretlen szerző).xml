@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:58:02">
+  <properties>
+    <titles>
+      <title>284. Jézus, add, hogy véled járjam</title>
+    </titles>
+    <copyright>Hé-284</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, add, hogy véled járjam...<br/><br/>Hitünk énekei<br/>284. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus, add, hogy véled járjam földi vándorutamat, légy Te biztos, erős váram, leljek benned oltalmat! Te adsz éltet, Te adsz erőt, bizodalmat lelkemnek; Mint az élő szőlővessző táplálja a fürtöket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rajtad kívül senkim sincsen, aki értem annyit tett, legyen véred örök kincsem, az váltott meg engemet. Ne imádnám, ne szeretném azt, ki éltét áldozá; Mindhalálig ne követném, ne lennék én hű Hozzá?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram Jézus, veled járok bánatban és örömben, Érted élek, Tied vagyok, mindörökre légy velem! Engedelmes szolgád leszek, akkor is, ha halni hívsz, mert ki híven jár itt veled, meghalni is mindig kész.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maradj velem itt e földön, hogyha napom alkonyul, hogyha lejár egyszer időm, s reám sötét éj borul. Nyújtsd ki akkor áldó kezed, mondjad: "Szolgám végeztél, bízva hajtsd le fáradt fejed, mert ki itt hisz, ott is él."</lines>
+    </verse>
+  </lyrics>
+</song>

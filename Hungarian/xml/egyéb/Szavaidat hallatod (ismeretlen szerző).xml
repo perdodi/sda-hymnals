@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:40">
+  <properties>
+    <titles>
+      <title>Szavaidat hallatod</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szavaidat hallatod</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szavaidat hallatod, én élvezem azokat,<br/>A Te szavaid gyönyörűségeim,<br/>Szívem vigadoz, ha hallom hangodat,<br/>Mert a Te nevedről neveztettem el.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, örömem forrása, élet kútfeje, <br/>hálával áldozom neked,<br/>Jézus, örömem forrása, élet kútfeje, <br/>szívből szolgálok neked.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tanítványként reggelente felserkenek, <br/>hogy szívembe rejtsem törvényedet,<br/>Igéd megnyílása világosság nekem,<br/>Vádlóimnál bölcsebbé tesz engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eltátom a szám és lihegek,<br/>Úgy kívánom a Te beszédedet,<br/>Reggeltől napestig arról elmélkedem,<br/>Minden szavad nagy nyereség nekem.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hogy zengjen, ne hallgasson felőled a dicséret,<br/>Urunk, Istenünk örökké áldunk Téged.</lines>
+    </verse>
+  </lyrics>
+</song>

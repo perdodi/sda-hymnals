@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:56">
+  <properties>
+    <titles>
+      <title>Irgalma mély</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Irgalma mély</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Irgalma mély, bár méltatlan rá szívem <br/>Megváltóm lett nekem, és Szabadítóm<br/>Irgalma mély, nem sürget, de vár reám,<br/>Megtisztít teljesen és újjá formál</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>És Jézusomért,<br/>Aki úgy szeretett,<br/>Adom önként most mindazt 'mim van még</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Irgalma él, nem törhette meg halál<br/>Feltámadt jól tudom, e szív megbocsát<br/>Irgalma győz, elszaggatja láncaim<br/>Újjá lett életem Őbenne él</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>És Jézusomért,<br/>Aki úgy szeretett,<br/>Adom önként most mindazt, 'mim van még.</lines>
+    </verse>
+  </lyrics>
+</song>

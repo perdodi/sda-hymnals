@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:50">
+  <properties>
+    <titles>
+      <title>B221 Hívtál, Uram, megyek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hívtál, Uram, megyek<br/>B221</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hívtál, Uram, megyek, Remegve bár, megyek Kitárt karod felé, Szelíd szemed elé. A bűnöm terhe vállamon Mint átoksúly nehéz nagyon; S ezt fájlalom, ezt fájlalom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hívtál, Uram, megyek, Remegve bár, megyek Kitárt karod felé, Szelíd szemed elé. Megvallom, hogy Jézus, a Szent, Ki érettem halálba ment Bűnből megment, bűnből megment!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hívtál, Uram, megyek, Remegve bár, megyek Kitárt karod felé, Szelíd szemed elé. Ha majd hozzád elérkezem, Átvert kezedbe vedd kezem, Maradj velem, maradj velem!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:31:21">
+  <properties>
+    <titles>
+      <title>119. Ó! ártatlanság Báránya</title>
+    </titles>
+    <copyright>Hé-119</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! ártatlanság Báránya...<br/><br/>Hitünk énekei<br/>119. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! ártatlanság Báránya, e világnak ki vagy ára, megtartója, táplálója, áldott légy, egek királya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy érdemlettük ezt tőled, hogy mi értünk ezt felvegyed? Hogy szent tested vereséget, szenvedjen ennyi sérelmet?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bár tiszta ártatlanság vagy, káromlónak is mondanak, ámde Te mégis vesztegelsz, ily hamis vádra nem felelsz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mivelhogy Isten fiának, mondod magad Messiásnak: Káromlónak elneveznek, nem hisznek Téged Istennek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldott légy ezért, Jézusunk, édes megváltó Krisztusunk, fő tanítónk és orvosunk. Megszabadító Királyunk!</lines>
+    </verse>
+  </lyrics>
+</song>

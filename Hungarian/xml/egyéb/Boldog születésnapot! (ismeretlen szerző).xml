@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:31">
+  <properties>
+    <titles>
+      <title>Boldog születésnapot!</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Boldog születésnapot!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ez a nap más mint a többi, ezt te is jól tudod, másként kelt fel reggel a nap, és másként járt a hold.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Köszöntünk hát téged, ha már így együtt vagyunk, ajándékul fogadd el vidám kis dalunk: Boldog, boldog, boldog születésnapot, kívánjuk, hogy legyen még sok ilyen szép napod!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megint egy évvel öregebb lettél és bölcsebb is talán, őrizd meg az emlékeid, és légy nagyon vidám!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tavasz után eljön a nyár, és ősz után a tél, de minden évben eljön a nap, amikor születtél.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:43">
+  <properties>
+    <titles>
+      <title>Szerette az igazságot</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szerette az igazságot</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szerette az igazságot, gyűlölte a hamisságot, annak okáért felkent téged az Isten, a te Istened öröm olajával társaid fölé.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én Uram, Istenem, Te vagy az igazság, Téged követlek, szeretem beszédedet, kívánom érteni és cselekedni és hogy betöltsem a te akaratod a földön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, Uram, szólj hozzám, hallja a te szolgád, nyisd meg szememet, hogy lássam dicsőséged, Te formálsz engemet, igéd változtat meg, köszönöm, hogy erősen tart kegyelmed.</lines>
+    </verse>
+  </lyrics>
+</song>

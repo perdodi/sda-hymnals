@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:34:13">
+  <properties>
+    <titles>
+      <title>384. Ez esztendőt áldással</title>
+    </titles>
+    <copyright>Hé-384</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ez esztendőt áldással...<br/><br/>Hitünk énekei<br/>384. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ez esztendőt áldással, ez esztendőt áldással koronázd meg, Úr Isten, hogy víg hálaadással, hogy víg hálaadással dicsérje neved minden. Tetőled jőnek kedves napjai az időnek; Nyújts hát, kérünk, bőséget kezeddel, tőlünk a békességet ne vedd el; De midőn megtartod testünket, ne hagyd el lelkünket!</lines>
+    </verse>
+  </lyrics>
+</song>

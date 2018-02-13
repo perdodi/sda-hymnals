@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:37:24">
+  <properties>
+    <titles>
+      <title>454. A békehírnök lába óh mily kedves</title>
+    </titles>
+    <copyright>Hé-454, Üa-352</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1a">
+      <lines>454.<br/>mily kedves...</lines>
+    </verse>
+    <verse name="i1b">
+      <lines>Hitünk énekei</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A békehírnök lába óh mily kedves és mily szép, ki Üdvkirályunk szent szavát hordozza szerteszét.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, Urunknak hála dics! Ki a Siont építi mostan is, Urunk, óh küldj több hírnököt, mert nagy e földi tér; és még Atyánknál sok a hely, melyet Te készítél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Urunk, óh küldj több hírnököt, mert nagy e földi tér; és még Atyánknál sok a hely, melyet Te készítél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Még rombol mindig a gonosz, bűn árja zúg nagyon.  Ámde egyházad győztesen áll sziklaalapon.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:50">
+  <properties>
+    <titles>
+      <title>B227 Jöjj, ó, bűnös</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jöjj, ó, bűnös<br/>B227</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jöjj, ó, bűnös, jöjj őhozzá, Jézus az, ki megsegít! A megtérőt szíve várja, Vigasz ez, mely lelkesít. Bűnös, jöjj, mert Jézus vár, Téged is szívére zár!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lásd, a köd mint oszlik széjjel, Mikor a nap fényt szór rá! Úgy lesz nappallá az éjjel, Ha megtérve jössz hozzá. Bűnös, jöjj, mert Jézus vár, Téged is szívére zár!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vérén váltott meg a bűnből, Vétked eltörölte ő. Amint vagy, úgy jöjj csak hozzá, Jézus hív, a Megmentő! Bűnös, jöjj, mert Jézus vár, Téged is szívére zár!</lines>
+    </verse>
+  </lyrics>
+</song>

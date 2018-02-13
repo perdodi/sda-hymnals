@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:37">
+  <properties>
+    <titles>
+      <title>Ott a folyónak túloldalán</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ott a folyónak túloldalán</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ott a folyónak túloldalán, öröm és béke: ott hazám. Dicsőült lények nagy serege, szívembe hangzik az éneke:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Siess haza, ó, siess haza, így hangzik az Úr hívó szava. Tündöklő fényben várnak reád, siess haza, ó, ne várj tovább.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Előre mentek testvéreim, ők is a fényből intnek felém. Csodálatos lesz és üdvteli egymást a mennyben köszönteni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vágyom a honba, hol engemet, aki csak ott van, mind-mind szeret. Üdvözítőmnél van a helyem, jöjj hát testvérem te is velem.</lines>
+    </verse>
+  </lyrics>
+</song>

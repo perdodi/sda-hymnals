@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:28">
+  <properties>
+    <titles>
+      <title>Mutasd meg, Uram!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mutasd meg, Uram!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mutasd meg, Uram, királyságodszent és igaz voltát, hatalmas erőd legyen vélünk ellenség ha ránk is tör! Minden teted oly csodás, megújít, vigasztád. Mutasd meg, hogy szent országod mindig áll!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mutasd meg, Uram, csatáinkban győztes, nagy erődet, kinyújtott jobbod reménységünk, és ez megvéd mindenkor! Lelkünk szolgál és dicsér, bő áldásodra vár! Mutasd meg, hogy szent országod mindig áll!</lines>
+    </verse>
+  </lyrics>
+</song>

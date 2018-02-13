@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:22">
+  <properties>
+    <titles>
+      <title>Úr Jézus, nézz le rám!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úr Jézus, nézz le rám!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úr Jézus, nézz le rám, jöjj, mosd le bűnömet! Sok földi szenvedély kötöz: jöjj, oldj föl engemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úr Jézus, nézz le rám, gond és bú látogat; Mint szolgád: ízleljem ígért szent nyugodalmadat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úr Jézus, nézz le rám, ne tévedhessek el; a menny felé sötéten ét Te légy az úti jel!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Úr Jézus, nézz le rám, ha nő a félelem, ár zúg és ellenség szorít, légy, Megváltóm, velem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Úr Jézus, nézz le rám, ha elvonult az ár, Te szent derűd derítsen és az örök napsugár!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:50">
+  <properties>
+    <titles>
+      <title>Ugye túlhajszol az élet</title>
+    </titles>
+    <copyright>S-078</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ugye túlhajszol az élet</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ugye túlhajszol az élet, tele aggódással szíved, itt az idő, hogy megállj és imádkozz. Keress helyet, mely nyugodt, ahol a hangját hallhatod, hív a lélek hangja téged: jöjj felém!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj felém, jöjj felém, legyen mindig rám időd, jöjj felém! Csendesítsd el szívedet, üresítsd meg elmédet, töltse be a szíved remény, jöjj felém.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Belesüppedtél a búba, félve gondolsz a holnapra, és az élet terhét vinni oly nehéz! Ha gondjaid Rá veted, igazi békét ad neked. Hív a lélek hangja téged: jöjj felém!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jöjj felém, jöjj felém, legyen mindig rám időd, jöjj felém! Átölel a szeretet, szabaddá lesz életed. Töltse be a szíved remény, jöjj felém.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:43:53">
+  <properties>
+    <titles>
+      <title>158. Jövel Szentlélek Úr Isten</title>
+    </titles>
+    <copyright>Hé-158</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jövel Szentlélek Úr Isten...<br/><br/>Hitünk énekei<br/>158. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jövel Szentlélek Úr Isten, Ki Atyával vagy egy Isten; Tégy mivelünk kegyelmesen a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűnösök vagyunk előtted, mert nem fogadtuk intésed; Bűneinket elfedezzed a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldd meg, Szentlélek, szívünket. Szenteld meg a mi lelkünket, újítsd meg természetünket a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Viseljed a mi gondunkat, néked adtuk mi magunkat, vezéreld a mi utunkat a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szentlélek! kérünk, irgalmazz és minden bűntől oltalmazz, kárhozat ellen légy támasz a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Minden keserűségünkben és életünknek rendiben bátoríts minket hitünkben a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Az igaz hitnek gyümölcsét, a szeretet egyességét; Plántálj mindenütt jó hitet a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szentlélek! kérünk Tégedet, oltalmazd a Te Igédet; Ismerhessünk meg Tégedet a Krisztusnak kegyelméért!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dicsőség Atya Istennek, Fiúnak, Üdvözítőnknek, a Szentlélek Úr Istennek, Szentháromság egy Istennek!</lines>
+    </verse>
+  </lyrics>
+</song>

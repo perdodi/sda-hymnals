@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:39:29">
+  <properties>
+    <titles>
+      <title>460. Ha Megváltónk, ha Megváltónk</title>
+    </titles>
+    <copyright>Hé-460, Üa-401</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ha Megváltónk, ha Megváltónk...<br/><br/>Hitünk énekei<br/>460. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha Megváltónk, ha Megváltónk eljön mint király, ott a mennyben kit megváltott, mind előtte áll.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mint sok ragyogó csillag, mind úgy fénylenek, Jézus koronájában, mint drágakövek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Összegyűjti, összegyűjti egy szent csapatba a lelkeket, kiket vére tisztára mosa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kebelére vonja majd a kis gyermekeket, kik örömmel a Jézusnak adták szívüket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Óh, hát adjad kicsiny és nagy, Jézusnak szíved! Boldoggá tesz, dicsővé tesz s a mennybe vezet.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:39:50">
+  <properties>
+    <titles>
+      <title>461. Krisztus zászlaja alá egybegyűlünk</title>
+    </titles>
+    <copyright>Hé-461, Üa-425</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus zászlaja alá egybegyűlünk...<br/><br/>Hitünk énekei<br/>461. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztus zászlaja alá egybegyűlünk s az Úr harcaira felfegyverkezünk. Istenünk országáért bátran küzdünk kitartva mindhalálig!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dicséret! Hatalom! Hatalom az Úrnak mostan és mind örökké! Isten népéhez bátran csatlakozunk s az ígéret földje felé vonulunk, ahol végét éri küzdelmes utunk, kitartva mindhalálig!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szombat iskolánkban megerősödünk a lélek erejét magunkra öltjük, és az élethalálharcba úgy megyünk kitartva mindhalálig!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Küzdelem után öröm következik Sálem virányin minden bajunk szűnik! És örök üdvösségünk megkezdődik, ha kitartunk mindvégig!</lines>
+    </verse>
+  </lyrics>
+</song>

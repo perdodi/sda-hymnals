@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:44">
+  <properties>
+    <titles>
+      <title>Szívvel elhiszem</title>
+    </titles>
+    <verseOrder>i1 v1 v2 v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szívvel elhiszem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szívvel elhiszem, szájjal megvalom, hogy Jézus Krisztus Úr! Nem hallgatok, mert jól tudom, igen, él a megváltóm! 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs távol, nem rejtőzik el, keze nyújtva van felém, válaszol, ha hívom Őt, ezért megvalom Nevét! Igen én hirdetem Nevét! 2x</lines>
+    </verse>
+  </lyrics>
+</song>

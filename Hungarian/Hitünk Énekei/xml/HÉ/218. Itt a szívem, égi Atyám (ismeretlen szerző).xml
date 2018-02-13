@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:53:23">
+  <properties>
+    <titles>
+      <title>218. Itt a szívem, égi Atyám</title>
+    </titles>
+    <copyright>Hé-218, S-115</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Itt a szívem, égi Atyám...<br/><br/>Hitünk énekei<br/>218. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Itt a szívem, égi Atyám, Tiéd egész életem; munkáld, formáld kedved szerint, hogy az üdvöt elnyerjem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tisztítsad meg minden szennytől szegény bűnös szívemet; téríts le a széles útról, újítsad meg éltemet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kegyelmedet áraszd énrám, áldott Lelked erejét; szereteted vegyen körül, hadd lehessek a tiéd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megvált engem Jézus vére, minden bűntől megtisztít; Isten Lelke elpecsétel, Öröklétre felkészít.</lines>
+    </verse>
+  </lyrics>
+</song>

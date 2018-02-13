@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:36:39">
+  <properties>
+    <titles>
+      <title>391. Minden ember csak halandó</title>
+    </titles>
+    <copyright>Hé-391</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Minden ember csak halandó...<br/><br/>Hitünk énekei<br/>391. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Minden ember csak halandó, minden test, mint fű, virág; Itt ami van, mind romlandó és elmúlik e világ. Porrá kell e testnek lenni, hogyha el akarja venni az örök dicsőséget, melyet Isten készített.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Azért e testi életem, ha jön a sír éjjele, bátran s örömmel letészem, semmit sem vesztek vele; Mert a Krisztus drága vére utat nyit egy dicsőbb létre; A halálban biztatóm Jézus, az én Megváltóm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Égi város, Jeruzsálem, ó! mint fénylik, tündöklik, templomának mély csendjében örömének hallatszik. Mennyi szépség, mennyi öröm, új nap virrad majd a földön: üdvöt hozó drága nap, melyre nem jön alkonyat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldog, lelki látomásban láttam ezt a szép napot; Nemsokára üdvruhámban Uram előtt állhatok. Koronát ad Jézus nékem, üdvösség lesz ott a részem, örök béke vár reám Üdvözítőm oldalán.</lines>
+    </verse>
+  </lyrics>
+</song>

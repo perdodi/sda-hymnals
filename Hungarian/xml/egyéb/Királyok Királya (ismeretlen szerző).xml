@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:11">
+  <properties>
+    <titles>
+      <title>Királyok Királya</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Királyok Királya</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Királyok Királya és Uraknak Ura, Jézus, Te élsz énbenem most. Megnyitom a szívem, Te vagy az én Uram, erő és dicsőség a Tied!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő ül a trónon, Ő neked erőt ad. Boldogság, bőség van trónja előtt. Emeld fel tekinteted: Jézus jót akar neked. Ő me, változott meg: Ő ül a trónon.</lines>
+    </verse>
+  </lyrics>
+</song>

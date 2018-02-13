@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:13">
+  <properties>
+    <titles>
+      <title>Körülvesz téged Isten Fia</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Körülvesz téged Isten Fia</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Körülvesz téged Isten Fia az ő szeretetével. Ő az, aki ad nyugalmat lelkednek. Tartsd meg, mit Ő rendelt tenéked, akkor lelke veled lesz, betölti életedet egészen.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, ó Jézus! Jöjj és tölts ba már! Jézus, ó Jézus! Jöjj és tölts be már!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, jöjj és énekeld ezt a dalt teljes szívből, örömmel, emeld fel a kezed, s add át életed! Add néki könnyeid s bánatod, addj át minden szenvedést, az örök élet így lesz a tiéd.</lines>
+    </verse>
+  </lyrics>
+</song>

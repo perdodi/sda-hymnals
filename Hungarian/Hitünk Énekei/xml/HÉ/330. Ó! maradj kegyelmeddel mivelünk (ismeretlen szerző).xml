@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:57:47">
+  <properties>
+    <titles>
+      <title>330. Ó! maradj kegyelmeddel mivelünk</title>
+    </titles>
+    <copyright>Hé-330</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! maradj kegyelmeddel mivelünk...<br/><br/>Hitünk énekei<br/>330. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! maradj kegyelmeddel mivelünk, Jézusunk, hogy a bűnös világnak tőribe ne jussunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! maradj szent igéddel mivelünk, Megváltónk, e földi vándorlásban Te légy útmutatónk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! maradj, világosság, mivelünk fényeddel, Te vezess a sötétben, hogy ne tévedjünk el.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! maradj áldásoddal mivelünk, Úr Isten, szent kegyelmed áraszd ránk minden szükséginkben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó! maradj oltalmaddal mivelünk, hű pajzsunk, e világ diadalmat ne vehessen rajtunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó! maradj hűséggel mivelünk, szent Isten, adj erőt, hogy megálljunk mindvégig a hitben.</lines>
+    </verse>
+  </lyrics>
+</song>

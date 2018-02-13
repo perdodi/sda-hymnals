@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:16:33">
+  <properties>
+    <titles>
+      <title>404. Ím ma az egész égbolt</title>
+    </titles>
+    <copyright>Hé-404, Üa-063</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ím ma az egész égbolt...<br/><br/>Hitünk énekei<br/>404. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ím ma az egész égbolt miként nevet, ragyog! Óh, mert az Úr szerezte nekünk e szép napot.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az Úrnak napján ne feledd, mutasd be tisztán szívedet, szenteld meg, szenteld meg buzgón ez ünnepet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily ünnepélyes csend van ma völgyön és hegyen, mert Isten szava szólal s folyvást tovább megyen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mily csodás béke árad a hímes rét felett, hogy megpihen, ki fáradt és megterheltetett.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És ha az Úrnak napja ily szép már e földön, mily szép lesz majdan végre, midőn az Úr eljön!</lines>
+    </verse>
+  </lyrics>
+</song>

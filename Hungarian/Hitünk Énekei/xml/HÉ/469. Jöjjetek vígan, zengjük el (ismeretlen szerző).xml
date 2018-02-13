@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:42:38">
+  <properties>
+    <titles>
+      <title>469. Jöjjetek vígan, zengjük el</title>
+    </titles>
+    <copyright>Hé-469, Üa-457</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jöjjetek vígan, zengjük el...<br/><br/>Hitünk énekei<br/>469. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jöjjetek vígan, zengjük el: Isten szeret! Örvendjetek dicsfényében, Isten szeret! Bűnálomból ébredjetek, és az üdvöt keressétek. A reggeli fény közeleg, Isten szeret.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Isten szeret, Isten szeret! Jöjjetek vígan zengjük el: Isten szeret!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hirdessétek ezt mindenütt: Isten szeret! Ő a trónról a földre jött, Isten szeret! Lásd az Üdvözítő itt van meghalt értünk a Golgotán. Mentve vagyunk, halleluja, Isten szeret.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örvendj, ki átadád magad: Isten szeret! Nála megleled nyugalmad, Isten szeret! Ő a mi pajzsunk, oltalmunk és a mi erős mentsvárunk, Megmentőnk és szabadítónk, Isten szeret.</lines>
+    </verse>
+  </lyrics>
+</song>

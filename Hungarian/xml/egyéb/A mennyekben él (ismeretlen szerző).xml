@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:13">
+  <properties>
+    <titles>
+      <title>A mennyekben él</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A mennyekben él<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A mennyekben él Istenem, nem csügged el a lelkem. Ő mellettem van szüntelen, ezt napról-napra árzem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mennyben él Istened, ne félj az ellenségtől. Nem árthat semmi sem neked, az ő oldalán győzöl.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A mennyben él Istened, ne aggodalmaskodjál, mert egyik nap, ha bánatér, az másnap eltünik már.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A mennyben él Istened, őbenne van az élet. Ne kételkedjen senki sem, csak bízzon minden lélek!</lines>
+    </verse>
+  </lyrics>
+</song>

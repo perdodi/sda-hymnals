@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:37">
+  <properties>
+    <titles>
+      <title>Ott akarok lenni, ahol Te vagy</title>
+    </titles>
+    <copyright>S-080</copyright>
+    <verseOrder>i1 c1 v1 c1 v1 o1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ott akarok lenni, ahol Te vagy</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Ott akarok lenni, ahol Te vagy, minden nap jelenlétedben! Nem akarlak távolról látni, vonj magadhoz közel! Ott akarok lenni, ahol Te vagy, vezess ösvényeden engem! Taníts meg a mennyei útra, tölts be Szent Lelkeddel!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mert nálad lenni oly jó, nincs ahoz hasonló. Asztalod terítve, s átjár dicsőséged fénye! Együtt Veled, ez tesz csak boldoggá engem, Erre szomjazom, ezután vágyódom én.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Ó, Istenem, Te vagy erősségem s énekem, S mikor megérint Szent Lelked új dal fakad szívembe.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ott akarok lenni, ahol Te vagy, minden nap jelenlétedben! Nem akarlak távolról látni, vonj magadhoz, vonj magadhoz közel! Vonj magadhoz, vonj magadhoz közel!</lines>
+    </verse>
+  </lyrics>
+</song>

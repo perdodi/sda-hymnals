@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:31:33">
+  <properties>
+    <titles>
+      <title>447. Elmegyek, hadd megyek</title>
+    </titles>
+    <copyright>Hé-447, Üa-316</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elmegyek, hadd megyek...<br/><br/>Hitünk énekei<br/>447. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elmegyek, hadd megyek Jézusomat látni meg! Vággyal van a szívem tele, Őt fogadni örökre be. Trónjához én elmegyek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égi fény, drága fény! Nap mosolygó ég színén. Eljutok-e oda végre, hogy a szentek seregébe' örvendjek tekintetén.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh, mi szép! Óh, mi szép! Angyaloknak éneke. Volna szárnyam, oda szállnék, Hol csak fény van, nincsen árnyék: rád Sionnak szent hegye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mint leszek, mint leszek! Jézus ha hozzád jutok? Arany utcák városába, szívemet mily gyönyör várja? Lelkem előtt még titok.</lines>
+    </verse>
+  </lyrics>
+</song>

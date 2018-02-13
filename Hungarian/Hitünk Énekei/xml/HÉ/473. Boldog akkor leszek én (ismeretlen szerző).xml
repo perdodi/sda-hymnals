@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:44:02">
+  <properties>
+    <titles>
+      <title>473. Boldog akkor leszek én</title>
+    </titles>
+    <copyright>Hé-473, Üa-472, S-099</copyright>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Boldog akkor leszek én...<br/><br/>Hitünk énekei<br/>473. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Boldog akkor leszek én, hogyha tisztán, híven egyedül csakis Téged fog szeretni szívem, és önmagát egészen Tenéked átadja, követvén Téged híven Mindeneknek Atyja.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Óh, hát gyújtsd fel irántad, gyújtsd hő lángra szívem, hogy csak Téged szeressen, forrón, tisztán, híven; Csak benned lelje nyugtát lelkem gondolata, lássák nagy irgalmadat, Mindeneknek Atyja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ím a halandó ember Nélküled nem élhet; Te vagy forrás, belőled árad ki az élet, elvész menthetetlen, ki e forrást elhagyja, kívüled nincs Megmentő, Mindeneknek Atyja.</lines>
+    </verse>
+  </lyrics>
+</song>

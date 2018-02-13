@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:42">
+  <properties>
+    <titles>
+      <title>B156 A Bárány szent nevét</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A Bárány szent nevét<br/>B156</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A Bárány szent nevét, ó, áldja minden lény, Mert őt övezi hódolat és égi fény! Ki megöletett érettünk, Megváltotta az életünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A tenger mélysége, az ég dicsősége Az ő fenségét és nagyságát hirdesse! Ki a királyi széken ül, Úr mindenen ő egyedül.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha hozzá eljutunk, és nála lakozunk, Az angyalokkal szüntelenül hódolunk. „Az áldás és a tisztesség Övé örökkön-örökké!”</lines>
+    </verse>
+  </lyrics>
+</song>

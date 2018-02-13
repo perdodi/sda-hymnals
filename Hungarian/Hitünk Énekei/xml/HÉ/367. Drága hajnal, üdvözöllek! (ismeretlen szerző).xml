@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:28:17">
+  <properties>
+    <titles>
+      <title>367. Drága hajnal, üdvözöllek!</title>
+    </titles>
+    <copyright>Hé-367</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Drága hajnal, üdvözöllek!<br/><br/>Hitünk énekei<br/>367. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Drága hajnal, üdvözöllek! Isten napja, ébredj föl! Elszáll minden földi bánat, mikor fényed előtör! Hegyek csúcsa verőfényben, égi fényben tündököl, virág szirma arra oktat: Hívő szívvel nézz csak föl, hívő szívvel nézz csak föl!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miért aggodalmaskodnál? Hisz az Üdvözítő él! Élted szent kezébe vette, bízzál Benne és ne félj! Öröm, vígság, gond és bánat: Minden jó, ha Tőle jő! Híven bízzad Rá az élted: Örök honra tart meg Ő, örök honra tart meg Ő!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sötét éjnek harca után áldott hajnal vár reánk! Bánatunknak nehéz útján megvigasztal jó Atyánk. Jézus lesz világosságunk, öröklétünk, örömünk; Zengjünk Néki örömzsoltárt, áldjuk drága Mesterünk, áldjuk drága Mesterünk!</lines>
+    </verse>
+  </lyrics>
+</song>

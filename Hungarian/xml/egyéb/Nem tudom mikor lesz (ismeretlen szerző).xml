@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:32">
+  <properties>
+    <titles>
+      <title>Nem tudom mikor lesz</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nem tudom mikor lesz</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Nem tudom mikor lesz, talán éppen ma, amikor az Úr Jézus eljön. Az időt, a napot senki nem tudja, egyszer váratlanul beköszönt.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>És Te hogy várod Őt, ég és földnek Urát, aki életét értünk adta?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Most a mennyekben van, helyet készíteni, mikor újra jön elvisz haza.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Itt a föld kerekén sehol nincsen hely, ahol békében nyughat a szív, csakis egy, és annak neve: Golgota, ahová Isten téged is hív.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Fogadd szívedbe Őt, ég és földnek Urát, aki életét érted adta.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Egyedül soha nem volnék képes rá járni méltóképp, győzelmesen, és a hétköznapok gondjai között élni csendben és hűségesen.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Várni boldogan Őt, ég és földnek Urát, aki életét adta.</lines>
+    </verse>
+  </lyrics>
+</song>

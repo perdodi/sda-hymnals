@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:48:48">
+  <properties>
+    <titles>
+      <title>66. Én Istenem, taníts utaidra</title>
+    </titles>
+    <copyright>Hé-066</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én Istenem, taníts utaidra...<br/><br/>Hitünk énekei<br/>66. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én Istenem, taníts utaidra, hogy szent törvényedre gondot viseljek és azokat megtartsam mindeha! Adj értelmet, Uram, igazgass, kérlek, hogy törvényedet őrizzem híven és mindenkor megtartsam én szívemben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess, hogy benned leljem örömöm, mutasd meg parancsolatid ösvényét, mert azokban igen gyönyörködöm! Te rendelésedre hajtsad szívemet! Szent bizonyságid vegyem eszembe és ne hagyj esnem telhetetlenségbe!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fordítsad el az én szemeimet, hiábavalókat hogy ne nézzenek; A Te utadban éltess engemet! Szolgáddal láttasd szent igéretednek bétöltését, aki téged tisztel és mindenkor fél alázatos szívvel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Végy el rólam minden gyalázatot, melytől én igen félek és rettegek! Ítéleteid jók és azokat én megtanulni igen örvendezek. Gyönyörködik törvényedben szívem és igazságban éltess, Uram, engem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gyönyörködöm a Te törvényedben, szent parancsolataidat szeretem mindenek felett egész életemben. Én kezeimet készen felemelem a Te kedves parancsolatidra és én azokról beszélek mindenha.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:11">
+  <properties>
+    <titles>
+      <title>Áradj folyó</title>
+    </titles>
+    <verseOrder>i1 c1 v1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áradj folyó<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áradj folyó, jöjj a mennyből, áradj, mosd meg szívünk, tizstísd meg ruhánkat! Áradj folyó, töltsd be szívünk templomát, örök élet vize áradjránk!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mert úgy várunk és kiáltunk, szomjúságunk csillapítsd le, ó, Urunk! Mint a szarvas hűs forrásra, jelenlétedre úgy kívánkozunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tömlöcajtók nyíljanak meg, s a gonoszság láncai lehulljanak! Az erőtlen rád tekintsen, s a beteg azt mindja: meggyogyulok!</lines>
+    </verse>
+  </lyrics>
+</song>

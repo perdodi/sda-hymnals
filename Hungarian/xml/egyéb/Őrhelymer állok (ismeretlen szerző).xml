@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:19">
+  <properties>
+    <titles>
+      <title>Őrhelymer állok</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Őrhelymer állok</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Őrhelymer állok, megállok a bástyán, hallgatom, hogy mit szól Isten hangja hozzám. Úgy vágyom megállni előtte,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Úgy vágyom meglátni arcát, mint sok víz zúgását, hallani hangját, igazságot szóló Atyánk szavát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úgy vágyom megállni előtte, úgy vágyom meglátni arcát, hófehér haját, bölcs homlokát, ízzó szemét, tűz tekintetét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úgy vágyom megállni előtte, úgy vágyom meglátni arcát. Meglátjuk majd egyszer Őt, elváltozunk ábrázatára.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Akiben megvan ez a reménység önmagát mind megtisztítja. Halleluja! Szent az Úr! Halleluja! Szent az Úr! Halleluja! Szent az Úr! Szent az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

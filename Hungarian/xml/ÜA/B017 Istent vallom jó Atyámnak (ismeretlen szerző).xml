@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:24">
+  <properties>
+    <titles>
+      <title>B017 Istent vallom jó Atyámnak</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istent vallom jó Atyámnak<br/>B017</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Istent vallom jó Atyámnak; Ég és föld az őmüve. Minden enged hatalmának, szent szavára jött létre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vallom Jézust, ki mint Bárány értem halt, hogy megváltson. És feltámadt húsvét napján, győzött poklon, halálon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vallom, hogy az Úr szentlelke Bennem él és tanácsol. Ő indít jó szóra, tettre, vádak közöt is pártfogol.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldom Istent és szentlekét, áldom Jézust, mint Fiát. Hála ilet és tisztesség, fenséges szentháromság!</lines>
+    </verse>
+  </lyrics>
+</song>

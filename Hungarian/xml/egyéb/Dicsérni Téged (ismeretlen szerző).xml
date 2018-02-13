@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:36">
+  <properties>
+    <titles>
+      <title>Dicsérni Téged</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Dicsérlek Téged</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dicsérni Téged, Uram, ez jó dolog,<br/>Dicsérni Téged, milyen csodálatos,<br/>Éneket mondani szent nevednek, ó, Felséges.<br/>Mutasd meg nekem utadat, ó, Szent Uram, én Istenem,<br/>hogy járhassak a Te igazságodban, teljes szívvel féljelek.<br/>Mert nagy rajtam a Te kegyelmed, <br/>a mélységbol kimentetted az én lelkemet.</lines>
+    </verse>
+  </lyrics>
+</song>

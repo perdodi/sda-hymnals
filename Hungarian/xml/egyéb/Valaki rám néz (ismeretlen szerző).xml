@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:53">
+  <properties>
+    <titles>
+      <title>Valaki rám néz</title>
+    </titles>
+    <verseOrder>i1 o1 o2 o3 c1 o2 c1 c1 o4</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Valaki rám néz</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Valami eltörött idebent nézd,<br/>Valami fáj és oly nehéz.<br/>Üres a csend és görcsben a kéz,<br/>De valaki rám néz.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Perc fut a perc után, hideg a fal<br/>Az éjszaka átölel csak ő akar<br/>Keserű lett a számban a méz<br/>De valaki rám néz.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Elbújnék szótlan itt legbelül én<br/>A semmilyen semmi lét közepén<br/>Hol messze a hang és távol a fény<br/>De valaki rám néz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fény gyúladt mégis nézd itt        bent valahol,<br/>Lángolj, csak lángolj égő csipkebokor<br/>Látom az arcát, a tekintetét<br/>Érzem olvad bennem a jég.</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Minden mi eltörött újra egész,<br/>Dalol a szív és édes a méz.<br/>Az, ami fáj már nem nehéz,<br/>Mert valaki rám néz.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:38:24">
+  <properties>
+    <titles>
+      <title>396. Szent érzelem tölti keblem</title>
+    </titles>
+    <copyright>Hé-396, Üa-010</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szent érzelem tölti keblem...<br/><br/>Hitünk énekei<br/>396. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szent érzelem tölti keblem, hozzád vágyom Istenem, oltalmadban nyugszik lelkem, Te vagy nekem mindenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sújtson bár a vész a porba: nem rendíti meg szívem; elveszthetek mindent sorba’, ha te megmaradsz nekem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha házadban imádkozom: lelkem békén megpihen; kegyes szemed rám néz tudom, nyugszom azért csöndesen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldogságom tenálad van: vezesd hát úgy lábamat, hogy egykor szent országodban színről-színre lássalak.</lines>
+    </verse>
+  </lyrics>
+</song>

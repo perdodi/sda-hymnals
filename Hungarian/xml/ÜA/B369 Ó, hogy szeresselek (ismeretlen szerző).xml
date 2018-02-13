@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:08">
+  <properties>
+    <titles>
+      <title>B369 Ó, hogy szeresselek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, hogy szeresselek<br/>B369</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, hogy szeresselek Hűn s igazán, Mindjobban tégedet? Halld meg imám! Megváltóm, tégedet, Megváltóm, tégedet Mind jobban, hőn Szeresselek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kerestem másfelé Az üdvömet, De szívem nem lelé Azt, csak benned. Segíts, hogy tégedet, Segíts, hogy tégedet Mind jobban hőn Szeresselek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Habár gond, fájdalom nyom untalan, Mégis mindenkoron Ez lesz szavam: Hogy Jézus, tégedet, Hogy Jézus, tégedet Mind jobban hőn Szeresselek!</lines>
+    </verse>
+  </lyrics>
+</song>

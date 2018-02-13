@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:21">
+  <properties>
+    <titles>
+      <title>B475 Feléd, kegyelmes Istenem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Feléd, kegyelmes Istenem<br/>B475</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Feléd, kegyelmes Istenem, Fordítom arcomat, Segélyre várón, esdeklőn: Halld meg fohászomat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak tőled jő az oltalom, Én Istenem, Uram! Ki mennyet földet alkotál S mindent, mi benne van.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha fáradtság, vagy gyengeség Leverne lábamról, Te újra talpra állítasz S megőrzöl mindenhol.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nem szunnyadoz, nem alszik el, Ki őrzi Izráelt, Vigyázó szemmel néz reám, Kíséri léptemet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Úr megóv, véd biztosan, Mindig mellettem áll, Mint védő pajzs a jobbomon, Elhárít tőrt, halált.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A nap hevében árnyat ad, Nem rémít sápadt hold, Mind éjjel-nappal lát az Úr: Megóv és pártfogol.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hű gondossága elkísér, Míg járok utamon, E léttől kezdve holtomig Mentsvár és oltalom.</lines>
+    </verse>
+  </lyrics>
+</song>

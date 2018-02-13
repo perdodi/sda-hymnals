@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:42">
+  <properties>
+    <titles>
+      <title>Fenn a menny</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fenn a menny</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fenn a menny egy boldog hely, boldog hely, boldog hely,<br/>Fenn a menny egy boldog hely, halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincsen éj ott sohasem , nincsen éj ott sohasem, nincsen éj ott sohasem, halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drágakőből van a fal, drágakőből van a fal, drágakőből van a fal, halleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Minden útja színarany, minden útja színarany, minden útja színarany, halleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ott a trónon Isten ül, ott a trónon Isten ül, ott a trónon Isten ül, halleluja!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jézus oda csak az út, Ő az út, Ő az út,<br/>Jézus oda csak az út, Ő visz oda.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Száll az ének, hárfa peng odafenn, odafenn,<br/>Üdvözültek hangja zeng. Ó, jöjj velem!</lines>
+    </verse>
+  </lyrics>
+</song>

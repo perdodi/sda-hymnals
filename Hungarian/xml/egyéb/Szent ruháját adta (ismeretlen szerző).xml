@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:40">
+  <properties>
+    <titles>
+      <title>Szent ruháját adta</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 e1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szent ruháját adta</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szent ruháját adta Ő nekünk, hogy feddhetetlenek legyünk. Irgalma, s kegyelme vett körül, oly nagy öröm, hogy itt van! Az Úr jelen van, az Úr együtt jár velünk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Örvendezzünk az Úr előtt! Az Ő kegyelme nagy, eljött hozzánk az üdvösség Jézus Krisztusban! Örvendezzünk az Úr előtt! A mi meg váltónk él, dicsőítsük Őt mindörökké! 2X</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A menny kitárul, miénk az ország. Az Úr örökségébe vár. Drága vérét adta miértünk, Így hívott magához. S még nem látjuk, amit készített odaát!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Örvendezünk az Úr előtt!</lines>
+    </verse>
+  </lyrics>
+</song>

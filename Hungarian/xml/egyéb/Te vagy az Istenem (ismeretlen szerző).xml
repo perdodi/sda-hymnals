@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:46">
+  <properties>
+    <titles>
+      <title>Te vagy az Istenem</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Te vagy az Istenem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hit nélkül éltem egykor, távol tőled, Jézusom, Így jártam téves úton, terhek voltak vállamon. Míg egyszer ráébredtem: bűnös vagyok, nagy beteg! Igéddel szólítottál, s megismertelek:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy az Istenem, aki megőriz engem, Oltalmam csak te vagy, neked adom az életem. Tiéd a hódolat, téged imádat illet, Hűséggel teljesül minden ígéreted.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Múlhatnak mostmár évek, benned bízom, Jézusom, Bár hordok sok-sok terhet, véled mind megoszthatom. Készséggel járok véled, bármit kérjél megteszem, Adj még ma munkát nékem szőlőskertedben!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:42">
+  <properties>
+    <titles>
+      <title>Fenségednél nincs vonzóbb..</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fenségednél nincs vonzóbb..</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Fenségednél nincs vonzóbb e földön, se dal, se szó, se kép. És nem találnék nálad szebbet, bármerre is indulnék.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Benned van a szeretet fénye, csak Te vagy az egyetlen út. Benned megtalálok minden választ, nagy Király és győztes Úr.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Most csak nézlek és csodállak, és tiszta szívből áldlak. Minden tisztelet csak Hozzád száll, imádlak hű atyám!</lines>
+    </verse>
+  </lyrics>
+</song>

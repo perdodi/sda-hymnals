@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T19:41:00">
+  <properties>
+    <titles>
+      <title>230. Csak haladj, csak haladj</title>
+    </titles>
+    <copyright>Hé-230</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Csak haladj, csak haladj...<br/><br/>Hitünk énekei<br/>230. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csak haladj, csak haladj, fényben haladj szent Sion, égjen hited fénylő lángja, mint a boldog frigynapon; Vágyjon lelked hűs forrásra, keskeny utad, Sion, el ne hagyd; Csak haladj, csak haladj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szenvedj csak, szenvedj csak, próbád, Sion, bármily nagy; Tűrjed a gúnyt, a bánatot, mindhalálig hű maradj; Koronád, nézd, miként ragyog! Sion, hogyha az őskígyó mar, szenvedj csak, szenvedj csak!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne kövesd, ne kövesd a világnnak csábjait! Ígérget az jó hírnevet, kincse mégsem boldogít; Hogyha dicsér, ha kinevet, Sion, ne bánd, sohase feledd: Ne kövesd, ne kövesd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vizsgáld meg, vizsgáld meg, ne higgy minden léleknek; Hogyha édes szóval csábít, vigyázz, el ne tévelyedj; Próbáld meg és majd elválik: Menny vagy pokol küldött követet? Vizsgáld meg, vizsgáld meg!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Közeledj, közeledj, Sion lánya, Istenhez; Lelked töltsd meg erejével, igykezz, hogy el ne vessz; Szőlővessződ termésével hálát adva, Sion, örvendezz! Közeledj, közeledj!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Készen légy, készen légy, égjen benned szeretet; Mutasd meg a nagy világnak, benned ez mit teremtett. Menyasszonyként Urad várjad, Sion, égő mécsest tartva élj; Készen légy; készen légy!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Őrízd meg, őrízd meg hűségedet, hitedet; Langymelegnek ne találtass, jutalmad ím közelget. Hogy a rossznak ellenállhass, Sion, végig tartsd meg hitedet: Őrízd meg, őrízd meg!</lines>
+    </verse>
+  </lyrics>
+</song>

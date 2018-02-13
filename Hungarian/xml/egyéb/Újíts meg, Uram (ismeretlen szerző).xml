@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:22">
+  <properties>
+    <titles>
+      <title>Újíts meg, Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Újíts meg, Uram</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Újíts meg, Uram! Töltsön ba a Lelked, vedd el tőlem azt, mi hozzád nem vezet! Küldd el a szavad, hadd értse meg a szívem, töltsön be a vágy, hogy kövesselek! 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem számít merre vezetsz, nem baj, ha pórba ér, tudom Te mesegítesz, hogy engedelmes legyek! Nem számít merre vezetsz, nem baj, ha próba ér, tudom Te megsegítesz, hogy engedelmes legyek!</lines>
+    </verse>
+    <verse name="e1a">
+      <lines/>
+    </verse>
+    <verse name="e1b">
+      <lines>Töltsön be a vágy, hogy kövesselek! <br/>Töltsön be a vágy, hogy kövesselek!</lines>
+    </verse>
+  </lyrics>
+</song>

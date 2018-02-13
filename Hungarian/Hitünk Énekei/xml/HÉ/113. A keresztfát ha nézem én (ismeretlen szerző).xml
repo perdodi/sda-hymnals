@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:30:17">
+  <properties>
+    <titles>
+      <title>113. A keresztfát ha nézem én</title>
+    </titles>
+    <copyright>Hé-113</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A keresztfát ha nézem én...<br/><br/>Hitünk énekei<br/>113. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A keresztfát ha nézem én, hol Jézus Krisztus szenvedett, a bűnöm terhe porba sújt és bánat tépi szívemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lásd, szeretetből hullt e vér és értünk volt e gyötrő kín; A bánat éje s égi fény ó! hol találkozott már így?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A bűnöm terhét elvette a bűnbocsátó szeretet; Mert én csak benne dicsekszem, Ki értem hordott keresztet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mit Tőled nyertem, Jézusom, azt megfizetni nem lehet! Te áldott, égi megmentőm, ó! vedd hát teljes lényemet!</lines>
+    </verse>
+  </lyrics>
+</song>

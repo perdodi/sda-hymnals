@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:49:56">
+  <properties>
+    <titles>
+      <title>72. Hálaadásunkban rólad emlékezünk</title>
+    </titles>
+    <copyright>Hé-072</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hálaadásunkban rólad emlékezünk...<br/><br/>Hitünk énekei<br/>72. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hálaadásunkban rólad emlékezünk, kegyelmes Istenünk, tégedet tisztelünk Te nagy jóvoltodért és felmagasztalunk, haszontalan szolgák, mert ezzel tartozunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hajtsd hozzánk füledet, értsd meg kérésünket, mi édes Istenünk, ne nézd bűneinket, tiszta szívvel kérünk, mi könyörgésünket vedd hozzád, Úr Isten, esedezésünket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gerjeszd fel igédnek szerelmét lelkünkben, Szentlélek Istennek szentségét szívünkben, adj igaz értelmet bőséggel elménkben, Téged szolgálhassunk e földön éltünkben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tanúságra erőt csak Tetőled kérünk, mire mi most gyűlünk, mindnyájan készülünk, hogy Te Istenséged dicsértessék tőlünk, engedd szent fiadért ezeket minékünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Engedd meg ezeket, szent Atyánk Krisztusért, mi Üdvözítőnkért, kegyes táplálónkért, ki egy hatalomban Szentlélek Istennel élsz és uralkodol örökkön-örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:52:21">
+  <properties>
+    <titles>
+      <title>212. Élj bennem drága Jézus</title>
+    </titles>
+    <copyright>Hé-212</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Élj bennem drága Jézus...<br/><br/>Hitünk énekei<br/>212. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Élj bennem drága Jézus, én áldott Istenem! Te oldj meg minden kérdést, mely kínoz most engem. Az egész világ lássa, hogy bennem lelked él, hadd tükrözzelek Téged, kit szívem hitben fél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te tisztítsd meg a bűntől most szívem templomát, és add hogy dicső lényed és fényed hassa át! Te irányítsd az éltem, és minden tettemet. Az egész világ lássa, hogy szeretsz engemet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A testem és a lelkem már parancsodra vár, hogy kedved szerint használd, vagy mellőzd szent Király! Ha nem szolgálhat Téged a szívem eleped! A félelem és kétség, majd mardos engemet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha mégis bízol bennem és magadhoz emelsz ez lelkemben majd béke és örömforrás lesz. Ó éljél bennem, Jézus, én áldott Istenem és oldj meg minden kérdést, mely kínoz most engem!</lines>
+    </verse>
+  </lyrics>
+</song>

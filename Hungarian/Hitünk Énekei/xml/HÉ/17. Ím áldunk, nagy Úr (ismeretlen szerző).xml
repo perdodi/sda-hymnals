@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:31:16">
+  <properties>
+    <titles>
+      <title>17. Ím áldunk, nagy Úr</title>
+    </titles>
+    <copyright>Hé-017, S-114</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ím áldunk, nagy Úr...<br/><br/>Hitünk énekei<br/>17. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ím áldunk, nagy Úr, a mi Megváltónkért, aki meghalt és feltámadt bűnösökért.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zengjen hála minden ajkon, zengjen alleluja; zengjen ének, hála néked, ó! egek Ura.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ím áldunk, nagy Úr, a te Szentlelkedért, aki Jézushoz vezet és gyújt bennünk fényt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ím dicséret zeng néked, égi Bárány, aki eltörléd bűnünket ott fenn a fán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ím dicséret zeng a te kegyelmedért. Azzal bűnünktől megmentettél.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kelts új életre, tölts be szerelmeddel, hogy ma minden szív teljék meg Szentlelkeddel!</lines>
+    </verse>
+  </lyrics>
+</song>

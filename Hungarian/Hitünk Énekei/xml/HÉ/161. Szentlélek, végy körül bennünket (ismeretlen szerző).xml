@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:44:23">
+  <properties>
+    <titles>
+      <title>161. Szentlélek, végy körül bennünket</title>
+    </titles>
+    <copyright>Hé-161</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szentlélek, végy körül bennünket...<br/><br/>Hitünk énekei<br/>161. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szentlélek, végy körül bennünket, szenteld meg szívünket, készíts neved imádására, magasztalására, hogy téged szívből imádhassunk, hálákat adhassunk: Hisszük, a mi szánknak szózatja egeid meghatja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szentlélek, imádunk mi Téged, valljuk Istenséged, hisszük, hogy az új ember szíve saját kezed míve. Te vagy a hitnek mind szerzője, mind elvégezője, Te gyújtasz szívünkben világot, forró buzgóságot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szakaszd el hát most is szívünket, minden érzésünket a sok hiábavalóságtól, e csalárd világtól, hogy az igének hallgatói, légyünk megtartói; Mely szívünkben gyökeret verjen, gyümölcsöt teremjen.</lines>
+    </verse>
+  </lyrics>
+</song>

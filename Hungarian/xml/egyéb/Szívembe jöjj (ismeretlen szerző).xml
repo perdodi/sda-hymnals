@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:44">
+  <properties>
+    <titles>
+      <title>Szívembe jöjj</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szívembe jöjj</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, jöjj szívembe áldott Jézus! Így száll imám most feléd. A lelkem oly csüggedt és fáradt, jöjj szívembe, jöjj, ma még!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szívembe jöjj, szívembe jöjj, jöjj szívembe most, Úr Jézus! Ó, jöjj még ma, és lakj abba'! Jöjj szívembe most, Úr Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, jöjj szívembe áldott Jézus! Segíts, a bűn terhe nyom! A múltam, oly sok vétke vádol! Jöjj, adj erőt Jézusom!</lines>
+    </verse>
+  </lyrics>
+</song>

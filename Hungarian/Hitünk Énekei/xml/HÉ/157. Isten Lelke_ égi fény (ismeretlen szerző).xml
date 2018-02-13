@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:43:44">
+  <properties>
+    <titles>
+      <title>157. Isten Lelke: égi fény</title>
+    </titles>
+    <copyright>Hé-157</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten Lelke: égi fény...<br/><br/>Hitünk énekei<br/>157. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten Lelke: égi fény, szívem mélyén gyújts reményt, bűnnek éjét űzzed el, tölts be drága fényeddel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten Lelke: tiszítsd meg szent erőddel szívemet! Ó! mily sokat bűnözött, őrködj most e szív fölött.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten Lelke: szent öröm, béke, vigasz Tőled jön; Gyógyítsd meg a szívemet, áldd meg gyönge lelkemet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten Lelke: égi fény, vigaszoddal légy enyém, minden bálványt pusztíts el, töltsd be szívem lényeddel!</lines>
+    </verse>
+  </lyrics>
+</song>

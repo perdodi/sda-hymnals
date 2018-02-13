@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:52">
+  <properties>
+    <titles>
+      <title>Uram, itt vagyok 2</title>
+    </titles>
+    <verseOrder>i1 v1 c1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Uram, itt vagyok</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Uram, itt vagyok, változtasd meg szívemet, mert tőled árad rám a kegyelem. Uram, beismerem, hogy gyengeség van még bennem, de van szabadító: féltő szereteted!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj közel, tarts jelenlétedben, áraszd rám szent kenetedet! Ahogy várlak, felkelek, mint sasmadár, és szárnyalok veled, a te Szentlelked vezet a mennyhez közelebb.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nyisd meg értelmem, adj új látást nekem, tudjam, hogy szeretsz és bennem élsz! Uram, taníts, vezess, jóságodra emlékeztess, erős jobbod legyen mindennap velem!</lines>
+    </verse>
+  </lyrics>
+</song>

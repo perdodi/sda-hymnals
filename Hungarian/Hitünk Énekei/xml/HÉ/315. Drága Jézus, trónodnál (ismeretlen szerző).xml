@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:52:33">
+  <properties>
+    <titles>
+      <title>315. Drága Jézus, trónodnál</title>
+    </titles>
+    <copyright>Hé-315</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Drága Jézus, trónodnál...<br/><br/>Hitünk énekei<br/>315. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Drága Jézus, trónodnál hódolattal térdelünk. Bár a vétkünk tenger sok és a lelkünk csupa folt, Benned mégis remélünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tőled függ az életünk, kegyes szemmel nézz le ránk! Te viseljed gondunkat, áldd meg minden utunkat, s dicsér Téged szívünk, szánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Igéd által szólj hozzánk, készíts fel az életre! Vigaszt nyújtó Szentlelked töltse be a szívünket, lelkesítsen énekre!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Könnyeinket szárítsd fel, adj most újra örömet! Támogasd a csüggedőt, adjál néki új erőt, adj reményt a hívőnek!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lakja béke szívünket, szent áldásod, szerelmed! Szabadítsd meg lelkünket, bocsássad meg bűnünket, s adjál örök életet!</lines>
+    </verse>
+  </lyrics>
+</song>

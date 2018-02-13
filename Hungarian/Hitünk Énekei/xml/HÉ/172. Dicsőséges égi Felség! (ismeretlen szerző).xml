@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:46:17">
+  <properties>
+    <titles>
+      <title>172. Dicsőséges égi Felség!</title>
+    </titles>
+    <copyright>Hé-172</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Dicsőséges égi Felség!<br/><br/>Hitünk énekei<br/>172. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dicsőséges égi Felség! Íme előtted vagyok; Fáradt szívvel, könnyezéssel Hozzád, Jézus, óhajtok: Hadd leljek Rád, hadd leljek Rád, bár hamu és por vagyok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tekints reám, kérlek, Uram, térítsd Hozzád szívemet, Téged kérlek és kereslek, mint én örökségemet: Hadd leljek Rád, hadd leljek Rád, vonj Magadhoz engemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem kérek mást és több áldást, csak örök kegyelmedet, melyet közlesz, arra költesz, aki Téged hűn szeret. Hadd leljek Rád, hadd leljek Rád, adjál örök életet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E világnak, mint virágnak szépsége bár légyen sok, terhemre van s nem kedvemre, azért keressék mások: Hadd leljek Rád, hadd leljek Rád, Uram, ímé kész vagyok!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:17:36">
+  <properties>
+    <titles>
+      <title>407. Már egy hétnek újra vége</title>
+    </titles>
+    <copyright>Hé-407, Üa-068</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Már egy hétnek újra vége...<br/><br/>Hitünk énekei<br/>407. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Már egy hétnek újra vége, buzdulj szívem fel, vigadj! Tekints hittel fel az égre, Istenednek hálát adj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Már egy hétnek újra vége, így múlnak el a napok. Rólok Uram neked végre, számot mint is adhatok?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh egy hétnek újra vége, jön a szent nap csendesen. Munkát, gondot félretéve, test és elme megpihen!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Már egy hétnek újra vége, utunk újra rövidebb; Múlik létünk szenvedése, örök hazánk közelebb.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:33">
+  <properties>
+    <titles>
+      <title>Nincs számomra más Úr</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nincs számomra más Úr</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Nincs számomra más Úr, csak Ő. Senki sincs. akihez jobban vágynék, csak fozzá! A szívem, testem sokszor elnukik, de igazsága mindig megsegít!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Szívemnek Ő ad erőt, szivemnek Ő ad erőt! Szívemnek Ő ad erőt, mindig biztam és mellém áll!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Szívemnek Ő ad erőt, szivemnek Ő ad erőt! Szívemnek Ő ad erőt, mindig biztam és mellém áll, örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

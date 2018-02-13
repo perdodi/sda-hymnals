@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:09">
+  <properties>
+    <titles>
+      <title>Jöjjetek, örvendjünk az Úr előtt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jöjjetek, örvendjünk az Úr előtt...</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Jöjjetek, örvendjünk az Úr előtt, ujjongjunk Kősziklánk előtt! Menjünk eléje hála'dással, ujjongjunk énekszóval; nagy, nagy Isten az Úr!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Ő az Úr minden nép fölött, Király Ő királyok fölött. Kezében van a föld mélysége, a világ összes teremtménye; nagy, nagy Isten az Úr!</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Menjünk, boruljunk le, menjünk, hajoljunk meg, essünk térdre alkotónk, az Úr előtt! Menjünk, boruljunk le, menjünk hajoljunk meg, essünk térdre alkotónk, az Úr előtt! Ő az Úr! Ő az Úr! Ő az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

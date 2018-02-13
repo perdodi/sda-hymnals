@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:19">
+  <properties>
+    <titles>
+      <title>Menjetek szét e világban</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Menjetek szét e világban</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Menjetek szét e világba, éjsötét borítja azt, az örömhírt prédikálva terjesszétek a vigaszt! Hívjatok be, hívjatok be megkeresve minden bűntől fáradtat, minden bűntől fáradtat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözítő hatalommal teljes ez az örömhír, hirdessétek hangos szóval, hogy az Úr mindenkit hív; újra élhet, újra élhet, békét nyerhet bűnök rabja, terhelt szív, bűnök rabja, terhelt szív!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bár a Sátán bősz hadával szüntelenül háborít, szembeszállunk hatalmával, az igazság bátorít. Mit sem árthat, mit sem árthat, bárhogy támad, mert az Isten gyámolít, mert az Isten gyámolít.</lines>
+    </verse>
+  </lyrics>
+</song>

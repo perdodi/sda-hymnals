@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:15:30">
+  <properties>
+    <titles>
+      <title>401. Hirdessétek hangos szóval</title>
+    </titles>
+    <copyright>Hé-401, Üa-030</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hirdessétek hangos szóval...<br/><br/>Hitünk énekei<br/>401. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hirdessétek hangos szóval, hogy Isten a szeretet. Erről szól a föld szépsége, ezt hirdetik az egek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, mily igazság, elménk alig fogja fel, mégis hangos énekekben vígan ezt mind zengjük el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zengjétek ezt: e világot úgy szerette Istenünk, hogy szent fiát leküldötte megmentőül minekünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldog szó ez, amely mondja, hogy Isten a szeretet. Boldog az, kinek a szívét hit és hűség tölti meg.</lines>
+    </verse>
+  </lyrics>
+</song>

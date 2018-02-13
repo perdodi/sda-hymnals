@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:27">
+  <properties>
+    <titles>
+      <title>Mivel én vagyok a te Urad</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mivel én vagyok a te Urad</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mivel én vagyok a te Urad, <br/>a jobb kezed fogom, s mondom neked:<br/>Ne félj, ne félj én megsegítelek,<br/>Ne félj férgecske Jákob, maroknyi Izráel,<br/>én megsegítelek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mivel én vagyok a te Urad,<br/>A jobb kezed fogom, s mondom neked,<br/>Te légy erős, az én lelkem veled,<br/>Te légy erős bátorodjék a szíved,<br/>lelkem veled Izráel.</lines>
+    </verse>
+  </lyrics>
+</song>

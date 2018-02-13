@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:18">
+  <properties>
+    <titles>
+      <title>Az Úr Jézus eljön</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr Jézus eljön</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr Jézus eljön, megígérte nekünk, talán holnap lesz már az a nap. Várjuk Őt éberen, úgy örül a szívünk, és az ajkunk is dalra fakad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluját zeng majd a mennyei sereg, mikor hallják a trombiták szavát. Az Úr jön, elviszi mind a felhőkön át, akik elfogadták hívó szavát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És te ott leszel-e, mikor hangzik a szó, Atyám áldottai jöjjetek! Vagy még nem döntöttél és a mennyeiek nem írták be még a nevedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Még ma jöjj, fogadd el, Jézust a megváltót, aki érted is emberré lett. Meghalt a Golgotán a te bűneidért, így adott néked is életet.</lines>
+    </verse>
+  </lyrics>
+</song>

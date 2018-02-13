@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:15">
+  <properties>
+    <titles>
+      <title>Légy Te az első nékem</title>
+    </titles>
+    <copyright>S-091</copyright>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy Te az első nékem...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Légy Te az első nékem, irányítsd életem! Lelkeddel töltsd be szívem, újítsd meg teljesen! Többé nem kell félnem, ha nem maradsz énbennem, az életem üres!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Istenem, úgy kérlek, légy az éltem fénye, irányítsd a léptem és töltsd be szívemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudom, hogy tested vérzett, kínok közt szenvedett. A Golgotán folyt véred, eltörli bűnömet. Mostmár értem, miért tetted, ha elhagy minden ember, Te itt vagy mellettem.</lines>
+    </verse>
+  </lyrics>
+</song>

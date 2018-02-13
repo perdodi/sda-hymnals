@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:11">
+  <properties>
+    <titles>
+      <title>A Te hűséged</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A Te hűséged</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>A Te hűséged az egekig ér, a  Te hűséged az egekig ér. Te vagy az élet, szóljon az ének, Igéd éltet ma és mindörökké.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Velünk az Isten mindennapon, velünk az Isten mindennapon.  Te vagy az élet, szóljon az ének, Igéd éltet ma és mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

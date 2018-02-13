@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:15:09">
+  <properties>
+    <titles>
+      <title>400. Miként a szarvas a folyóvizekre</title>
+    </titles>
+    <copyright>Hé-400, Üa-021</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Miként a szarvas a folyóvizekre...<br/><br/>Hitünk énekei<br/>400. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Miként a szarvas a folyóvizekre, úgy vágyik lelkem hozzád Istenem! Ah, szomjazom nagyon tekintetedre! Mikor lehet eléd jönnöm nekem?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Könnyhullatás volt étkem nappal-éjjel, midőn ezt hányták folyton énfelém: "Hol van az Istened védő kezével?" S ezen oly szörnyen elbúsultam én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De mért hagyád el úgy magad én lelkem? Miért is vagy bennem oly nyugtalan? Bízzál erősen a te Istenedben, kinek még hálát zengek boldogan!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert Ő az én orcám szabadítója Óh Istenem, oh várjad lelkem őt! Ugyan miért is búsulnál magadba? Még nagy hálával dicsőítem őt.</lines>
+    </verse>
+  </lyrics>
+</song>

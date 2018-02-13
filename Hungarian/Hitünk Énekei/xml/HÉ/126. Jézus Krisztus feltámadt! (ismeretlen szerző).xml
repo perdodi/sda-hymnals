@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:32:32">
+  <properties>
+    <titles>
+      <title>126. Jézus Krisztus feltámadt!</title>
+    </titles>
+    <copyright>Hé-126</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus Krisztus feltámadt!<br/><br/>Hitünk énekei<br/>126. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus Krisztus feltámadt! Alleluja! Angyal, ember mondjon dalt, alleluja! Örvendezve zengjetek, alleluja! Tenger, föld és nagy egek! Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus Jézus ismét él! Alleluja! Pedig meghalt vétkünkért! Alleluja! Halál, hol a te erőd? Alleluja! Bárány Jézus legyőzött! Alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A megváltó szeretet alleluja! Aratott itt győzelmet! Alleluja! Bár a sírnak foglya volt, Alleluja! Földön, égen áthatolt! Alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én csak Krisztust követem, Alleluja! Övé szívem, életem! Alleluja! Tőle várom üdvömet: Alleluja! Boldog örök életet! Alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

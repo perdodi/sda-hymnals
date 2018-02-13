@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:20:23">
+  <properties>
+    <titles>
+      <title>415. Itt immár az idő</title>
+    </titles>
+    <copyright>Hé-415, Üa-113</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Itt immár az idő...<br/><br/>Hitünk énekei<br/>415. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Itt immár az idő, hirdessétek minden nyelvnek most és minden népnek: "Féljétek a nagy Istent ítélete megjelent."</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Istennek országáról szóló örömhír hangozzék az egész földön át, míg eljő a reggel, ama szép hajnalpír, s látjuk aratás Urát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A nagy Babilon immár leomlott, mely e földön oly rég uralkodott. A tévelygés borából nem ihatnak már sehol.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne tiszteljétek azt a hatalmat, amely az igazságtól elmaradt. "Ne imádjátok képét, fel ne vegyétek jegyét."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eljön felhőben az ember fia, mert érett már a föld aratásra. "A búzát összegyűjti, A konkolyt elégeti."</lines>
+    </verse>
+  </lyrics>
+</song>

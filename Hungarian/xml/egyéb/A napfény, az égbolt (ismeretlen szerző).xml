@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:13">
+  <properties>
+    <titles>
+      <title>A napfény, az égbolt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A napfény, az égbolt</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A napfény, az égbolt csak róla beszél nekem. Ha látom a tengert, szavára emlékezem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ő az ég, föld Ura, lelkem megváltója, ezért áldom, áldom naponként. Akiben bízhatom hangjára hallgatok, és csodás szent nevét hirdetem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az erdők, virágok, madárdal a hegyeken. A szentséges Isten,<br/>hatalmát zengi nekem.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dicsérd Őt szívem, dicsérd Őt szüntelen, nincs más út, mint az én Istenem. Akiben bízhatom hangjára hallgatok, és csodás szent nevét hirdetem.</lines>
+    </verse>
+  </lyrics>
+</song>

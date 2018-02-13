@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:56:02">
+  <properties>
+    <titles>
+      <title>325. Úr Jézus, mely igen drága</title>
+    </titles>
+    <copyright>Hé-325</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úr Jézus, mely igen drága...<br/><br/>Hitünk énekei<br/>325. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úr Jézus, mely igen drága, a Te igédnek világa, mely bölccsé tévén az elmét, szüli az Úrnak félelmét. Gerjeszd fel most indulatunk, hogy míg igédre hallgatunk, végyen bennünk épületet a hit, reménység és szeretet: Tégy bölcsekké, tégy szentekké!</lines>
+    </verse>
+  </lyrics>
+</song>

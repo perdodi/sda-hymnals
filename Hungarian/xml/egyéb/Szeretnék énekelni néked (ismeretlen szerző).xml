@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:43">
+  <properties>
+    <titles>
+      <title>Szeretnék énekelni néked</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szeretnék énekelni néked</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szeretnék énekelni néked,<br/>Uram, Te nyisd meg ajkamat<br/>hogy szent legyen mindig az ének,<br/>amely szívemből fölfakad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hadd zengjem el, hogy százszor áldott,<br/>keresztednél aki megpihen.<br/>Hadd zengjem el, hogy megtalált ott<br/>s békére lelt az én szívem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretném énekelni másnak,<br/>hogy néked énekelni jó,<br/>hogy életünk bús lázadás csak,<br/>míg el nem éri az égi szó.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szeretnék énekelni néked<br/>folyton ameddig itt leszek.<br/>Szeretnék hangot adni szépet,<br/>mikor szívemhez ér kezed.</lines>
+    </verse>
+  </lyrics>
+</song>

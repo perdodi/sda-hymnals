@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:26">
+  <properties>
+    <titles>
+      <title>Mint a szarvas a forrásvízre</title>
+    </titles>
+    <copyright>S-012</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mint a szarvas a forrásvízre</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mint a szarvas a forrás vízre, úgy vágyom Rád, Uram. Te vagy egyedül az én szívem vágya szolgállak, Uram.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pásztor vagy és erősség, a lelkem mit kívánhatna még? Te vagy egyedül az én szívem vágya, szolgállak, Uram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Többet érsz nekem minden drága kincsnél mert megerősítesz. Te vagy egyedül az, ki betölt engem mindenek felett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Magy Király vagy mégis a barátom és a testvérem. Téged szeretni vágylak, Uram Jézus mindenek felett.</lines>
+    </verse>
+  </lyrics>
+</song>

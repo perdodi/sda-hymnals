@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:08">
+  <properties>
+    <titles>
+      <title>Jöjj, az Úr vár reád</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jöjj, az Úr vár reád</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jöjj, az Úr vár reád, jöjj, amíg ifjú vagy! Életed tavaszát, derűjét Neki add! Ó, ne hagyd fejedet bűnben őszülni vénhedté, ne csupán teledet vigyed végül az Úr elé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, a szárnyas idő, mint az álom, repül, ámde zsákmányt szed ő, fogyunk szüntelenül. Tétován mire vársz? Hallod-e már a hívó szót? El ne késs, jaj vigyázz, mire eszmélsz, a van csak volt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus hív, Vele járj, erre váltott meg Ő. Lelki sziklára állj, élő víz onnan jő. Ő nekünk utat tört, te is lépj arra hittel rá! Már itt lent s odafönt téged Ő tehet boldoggá!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:14">
+  <properties>
+    <titles>
+      <title>Lelkem, áld az Urat</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Lelkem, áld az Urat!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lelkem, áld az Urat! És egész bensőm, dicsérd az Ő szent Nevét!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Oly nagy dolgot tett az Úr, Oly nagy dolgot tett az Úr, életét áldozta fel érettem.<br/>(Ezért hát)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagy a Te Neved, Uram, Nagy a Te Neved, Uram, Szent a Te Neved, igen felséges. (Ezért hát)</lines>
+    </verse>
+  </lyrics>
+</song>

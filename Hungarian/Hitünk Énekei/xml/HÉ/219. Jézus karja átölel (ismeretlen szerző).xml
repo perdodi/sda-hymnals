@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:53:33">
+  <properties>
+    <titles>
+      <title>219. Jézus karja átölel</title>
+    </titles>
+    <copyright>Hé-219, S-115</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus karja átölel...<br/><br/>Hitünk énekei<br/>219. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus karja átölel, mindörökké megtart engem; Értem többet áldozott, semhogy újból elengedjen. Megkönyörült lelkemen: ez én édes reményem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lelkem hogyha remeg, fél, meginog a békességem: Krisztus karja nyúl felém, Krisztus segít győzni nékem. Isten hőse van velem: ez én édes reményem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha vádol engemet, s rá tör Sátán életemre, Jézus Krisztus küzd értem, siet az én védelmemre; Kezeskedik érettem: ez én édes reményem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha az utat nem látom, s bizonytalan minden léptem, Jézus fényt gyújt s Ő vezet éjszakámnak sötétjében; fényem Ő és vezérem: ez én édes reményem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogyha a föld megindul s minden ember fél és jajgat, boldogságuk ködbe vész, tudom, Jézus el nem hagyhat! Krisztus ott van énvelem: ez én édes reményem!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mikor Jézus jóra int, s képmására formál engem, nincsen bennem csüggedés, bízva fogja kezét kezem. Tudom, jót akar nekem: ez én édes reményem!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Az Úr Jézus Krisztustól semmi el nem szakít engem! Minden szava ígéret: erősíti szívem, lelkem. Megvéd, megtart Istenem: Ez én édes reményem!</lines>
+    </verse>
+  </lyrics>
+</song>

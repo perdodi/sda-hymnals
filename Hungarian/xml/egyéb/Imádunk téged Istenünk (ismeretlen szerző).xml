@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:55">
+  <properties>
+    <titles>
+      <title>Imádunk téged Istenünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Imádunk téged Istenünk<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Imádunk Téged Istenünk, ó, igen, Jézus nevében dicsérünk,<br/> /: mert te vagy méltó, és örökkévaló, Téged áldunk, fenséges Úr!:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hódolunk Néked, szent Fiú, Kőszikla, dicsérünk Téged, legföbb Úr,<br/>/:Mert te vagy méltó, Te vagy a megváltó, Téged áldunk, felnséges Úr!:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérün Téged, szent Szellem, ó, igen, imádat, hála néked zeng,<br/>/:Mert Te vagy méltó, az égi Pártfogó, Téged áldunk, fenséges Úr!:/</lines>
+    </verse>
+  </lyrics>
+</song>

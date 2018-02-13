@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:09">
+  <properties>
+    <titles>
+      <title>Áldott légy, Istenem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldott légy, Istenem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldott légy, Istenem, köszönöm neked, hogy tartod életem, köszönöm neked. Köszönöm a Golgotát, szent Fiadnak halálát. Köszönöm neked, köszönöm neked, Légy áldott, Istenem, köszönöm neked.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott légy, Istenem, köszönöm neked, hogy tartod életem, köszönöm neked. Köszönöm az éjszakát, a ragyogó holdsugárt. Köszönöm neked, köszönöm neked, Légy áldott, Istenem, köszönöm neked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott légy, Istenem, köszönöm neked, hogy tartod életem, köszönöm neked. Köszönöm az életet, a mindennapi kenyeret. Köszönöm neked, köszönöm neked, Légy áldott, Istenem, köszönöm neked.</lines>
+    </verse>
+  </lyrics>
+</song>

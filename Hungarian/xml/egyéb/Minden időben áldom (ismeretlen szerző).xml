@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:23">
+  <properties>
+    <titles>
+      <title>Minden időben áldom</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Minden időben áldom</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Minden időben áldom, dicsérem az Urat, magasztalom az Ő nevét. Hallják ezt a szegények, és együtt örülnek, sietve asztalához ülnek</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Érezd, és lásd, hogy jó az Úr kegyelme az őt félőkön megmarad örökkön örökké. Érezd, és lásd, hogy jó az Úr, kiáltasz, s mert közel van Ő hozzád, válaszol.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megkerestem az Urat, s meghallgatott engem. Minden félelmemből kimentett. Aki Őreá néz, annak lelke felvidul, és arca szégyentől el nem pirul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr angyala tábort jár az Őt félők körül s megszabadítja Isten az Ő népét. Az oroszlánok szűkölködnek és éheznek, de az Őt keresők bőségben élnek.</lines>
+    </verse>
+  </lyrics>
+</song>

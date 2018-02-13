@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:51:00">
+  <properties>
+    <titles>
+      <title>204. Elmegyek szívesen, Jézus veled</title>
+    </titles>
+    <copyright>Hé-204, S-004</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elmegyek szívesen, Jézus veled...<br/><br/>Hitünk énekei<br/>204. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elmegyek szívesen, Jézus, veled. Boldogan építem Szent művedet. Bár méltó nem vagyok, most mindent elhagyok, mert győzni akarok, Jézus veled!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent műved építem, Jézus, veled és vígan hirdetem Szent igédet. Ím hozzád vezetek bűnterhes szíveket és mentek lelkeket, Jézus, veled.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én el nem lankadok, Jézus, veled; Te régen hordozod a terhemet. Oly öröm énnekem, mert olyan végtelen, s hogy vár a kegyelem, Jézus, veled.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hadd járjak szüntelen, Jézus veled, míg végül elnyerem az üdvömet. Ha jössz majd dicsfényben, és meglát minden szem, hadd legyek a mennyben, Jézus veled.</lines>
+    </verse>
+  </lyrics>
+</song>

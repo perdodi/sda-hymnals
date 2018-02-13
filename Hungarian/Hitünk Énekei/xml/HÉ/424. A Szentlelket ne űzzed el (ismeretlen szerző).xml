@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:23:32">
+  <properties>
+    <titles>
+      <title>424. A Szentlelket ne űzzed el</title>
+    </titles>
+    <copyright>Hé-424, Üa-155</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A Szentlelket ne űzzed el...<br/><br/>Hitünk énekei<br/>424. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A Szentlelket ne űzzed el, a világba vissza ne térj, Üdvözítődhöz futnod kell. Mikor? S miért ma nem? Miért?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miért ma nem? Óh mért ma nem? Mikor teszed? Miért ma nem? Miért ma nem? Óh mért ma nem? Mikor teszed? Óh mért ma nem?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki tudja meddig élsz te még? Siess, míg kedvez a jelen, elérni az élet vizét! Mikor teszed? Óh mért ma nem?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mit nyújt tenéked a világ? Játéka semmivé leszen. Lépj a megnyílt üdvajtón át. Mikor teszed? Óh mért ma nem?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megváltónk bűnöst elfogad, téged is üdvre felviszen. Keskeny útjára von, haladj, kövesd hamar! Óh mért ma nem?</lines>
+    </verse>
+  </lyrics>
+</song>

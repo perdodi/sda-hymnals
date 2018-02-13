@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:48:41">
+  <properties>
+    <titles>
+      <title>188. Tökéletes volt minden tekintetben</title>
+    </titles>
+    <copyright>Hé-188</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tökéletes volt minden tekintetben...<br/><br/>Hitünk énekei<br/>188. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tökéletes volt minden tekintetben, mind amit, Uram, teremtél kezdetben, az ember testét Te alkotád szépen és lelkét épen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tenmagad képét adtad őreája, szent ártatlanság volt ékes ruhája, bölccsé is tetted, hogy Téged ismerne s élvén dicsérne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Első szüleink de félre térének, a kísértőnek mikor engedének, már mi mindnyájan, kik tőlük eredtünk, bűnben születtünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tagjaink mind és bennünk minden részek restek a jóra, a gonoszra készek, nincs erőnk s a jót, noha jónak hisszük, véghez nem visszük.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fertőbe estünk, Uram, végy ki onnan, szülvén minket Szentlelkeddel újonnan; Újítsd meg rajtunk, hogy legyünk Te néped, Isteni képed.</lines>
+    </verse>
+  </lyrics>
+</song>

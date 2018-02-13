@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:20">
+  <properties>
+    <titles>
+      <title>Örülj, Örülj!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Örülj, Örülj!</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Örülj, örülj, az Úr veled van, Ő lzráelnek Istene. Ő él, Ő él nem változott meg, nem lankad féltő szerelme! Jézus él, Jézus él!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Hatalma erejével mellettünk áll, harcol értünk, Ő pártfogónk. Ő segitőnk! Szolgájának hívott el, nálunk lakik, bennünk marad, teljessé teszi életünk!</lines>
+    </verse>
+  </lyrics>
+</song>

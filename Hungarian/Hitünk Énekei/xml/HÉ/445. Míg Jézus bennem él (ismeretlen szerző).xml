@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:30:51">
+  <properties>
+    <titles>
+      <title>445. Míg Jézus bennem él</title>
+    </titles>
+    <copyright>Hé-445, Üa-285</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Míg Jézus bennem él...<br/><br/>Hitünk énekei<br/>445. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Míg Jézus bennem él, míg ereje segél, fut tőlem gond és félelem s örvend a kebelem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jó pásztor ő, aki juhát hőn őrizi, legeltet gazdag pázsiton, itat életfolyón.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mikor leszáll a nap, süvölt felém a vad, sötét éjfélkor is tudom: oltalmam Jézusom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha lábam gyenge lesz, ha e világ sebez, megyek Jézus szívéhez én s szűnnek gyötrelmeim.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csak őtet nézem hát, ki nékem üdvöt ád, szeret ő engem, ő nekem mentsváram, s Édenem.</lines>
+    </verse>
+  </lyrics>
+</song>

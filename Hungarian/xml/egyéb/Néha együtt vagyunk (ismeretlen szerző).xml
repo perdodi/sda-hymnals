@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:34">
+  <properties>
+    <titles>
+      <title>Néha együtt vagyunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Néha együtt vagyunk</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Néha együtt vagyunk, és énekelni kezdünk, A dal néked szól, Urunk. Szívünk mélyéből fogadd el hálánkat, Téged mi így magasztalunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És ha együtt vagyunk, és énekelni kezdünk, A dalban szívünk összeforr. Együtt zeng néked dicséret, Istenünk, Téged mi így magasztalunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mikor együtt vagyunk, és énekelni kezdünk, A dalban rád emlékezünk. Amit értünk megtettél a Golgotán, Téged mi így magasztalunk.</lines>
+    </verse>
+  </lyrics>
+</song>

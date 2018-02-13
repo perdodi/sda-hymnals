@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:21:47">
+  <properties>
+    <titles>
+      <title>419. A tejjel, mézzel dús hazát</title>
+    </titles>
+    <copyright>Hé-419, Üa-134</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A tejjel, mézzel dús hazát...<br/><br/>Hitünk énekei<br/>419. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A tejjel, mézzel dús hazát szívem köszönti innen át. Nincs benne éj, dicsőn ragyog az Úr örök szép napja ott.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Óh békehon, öröm, gyönyör, rólad lelkem be tündököl; Kedves sugár ömlik elém s honom felé tekintek én, hol égi üdvvel ékesen lakásom kész már teljesen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megváltóm jár emitt velem, megfogja nyájasan kezem és úgy vezet a cél felé, honunkba fel, Atyánk elé.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amott örök tavasz virul s illatár ömlik halmirul virággal ékes fénymezőn életfolyó folyik dicsőn.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:56">
+  <properties>
+    <titles>
+      <title>Isten jó mindenkor</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten jó mindenkor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Isten jó mindenkor Ő a szívembe új reményt adott, Isten jó mindenkor, a sötétben fénye felragyog, Isten jó, Isten jó mindenkor.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mikor célod nem találod, és az árnyékban bolyongsz ne rettegj, Ő vezet téged, megment a gonosztól, azt ígérte nem hagy el téged, veled lesz mindig, népe közt megtart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én nem mindig érthetem, mi a terved velem. Életem kezedben van, amit mondasz nekem, mindent megteszek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bűnben éltünk, sötétségben, de Ő meghalt helyettünk betöltött a Szent Lelkévell, és hatalmat vettünk. Mert kegyelme megtart minket, az Ő nevében győztesek vagyunk.</lines>
+    </verse>
+  </lyrics>
+</song>

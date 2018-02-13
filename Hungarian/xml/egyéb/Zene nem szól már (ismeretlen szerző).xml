@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:55">
+  <properties>
+    <titles>
+      <title>Zene nem szól már</title>
+    </titles>
+    <verseOrder>i1 v1 c1 c2 v2 c1 c2 e1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Zene nem szól már...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Zene nem szól már és minden távol jár, jöhetek Hozzád. Mit is mondhatnék, mit hozhatnék eléd, mi Neked is érték.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Többet mint egyszerű dalt, ami halkan elhal, hadd hozzam azt amit vársz. Tudom, hogy mélyebbre látsz puszta felszínen át, bennem Te kincset találsz.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Adj nekem Uram, imádó szívet, ami csak Rólad szól, csak Rólad szól, Jézus. Ne ródd fel nekem, hogy mássá tettem, ami csak Rólad szól, csak Rólad szól, Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szavak nem tudnák, elmondani Atyám ami méltó hozzád. Lehet semmim nincs, mit adhatnék neked, fogadd lényemet.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Csak Rólad szól, csak Rólad szól, csak Rólad szól, Jézus.</lines>
+    </verse>
+  </lyrics>
+</song>

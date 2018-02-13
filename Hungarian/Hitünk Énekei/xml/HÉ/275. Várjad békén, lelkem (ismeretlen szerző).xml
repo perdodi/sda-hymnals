@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:54:54">
+  <properties>
+    <titles>
+      <title>275. Várjad békén, lelkem</title>
+    </titles>
+    <copyright>Hé-275</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Várjad békén, lelkem...<br/><br/>Hitünk énekei<br/>275. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Várjad békén, lelkem, várd Jézust, várd! Várjad mindig híven Életed Urát! Kél már a nap, hinti sugarát: Várjad türelemmel ékes tavaszát! Tomboló vészben bízd rá magad: Isten erős karja az oltalmad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Várjad békén, lelkem, várd Jézust, várd! Várjad mindig híven Életed Urát! Bízd rá magad: Jézus el nem hagy! Karja oltalmában Biztonságban vagy! Ó! Örök hűség, Én Istenem, oltalmazd és védd meg az én lelkem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Várjad békén, lelkem, várd Jézust, várd! Várjad mindig híven Életed Urát! Meghallja Ő gyönge hangodat: S íme szűnni érzed súlyos gondodat. Bánatban, búban Ő felkarol, hálatelten áldjad Őt mindenkor!</lines>
+    </verse>
+  </lyrics>
+</song>

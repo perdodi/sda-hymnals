@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:53">
+  <properties>
+    <titles>
+      <title>Hálát adok az esti órán</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hálát adok az esti órán</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hálát adok az esti órán, hálát adok, hogy itt az éj,<br/>Hálát adok, hogy szívem mélyén hála dala kél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálát adok, hogy küldtél testvért társként, aki mellém állt.<br/>Hálát adok, hogy megengedted azt is, ami fájt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hálát adok, hogy Igéd táplál, hálát, hogy ma is szólt szavad.<br/>Hálát adok, hogy lelkem biztos cél felé halad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hálát adok, hogy mellém álltál, hálát, hogy van jó otthonom,<br/>Hálát, hogy munkám elvégeztem, s békén alhatom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hálát adok, hogy szemed rajtam, hálát adok, hogy reményt adsz.<br/>Hálát adok, mert biztos eljössz, mint a virradat.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:33">
+  <properties>
+    <titles>
+      <title>Bűneimmel jövök</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Bűneimmel jövök</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bűneimmel jövök most hozzád, érzem, ahogy szívemet nyomják. Bár szégyellem nagyon, mégis jól tudom, hogy egyedül tenálad találok bocsánatot.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincsen kötelék, nincsen béklyó, nincsen bűntudat, (rajtam) nincs terhem, nincs oly bűn, ami kárhoztat, mert Jézus Krisztus felvállalta minden gondomat, így lehet, hogy a szívem már teljesen szabad.</lines>
+    </verse>
+  </lyrics>
+</song>

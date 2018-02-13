@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:21">
+  <properties>
+    <titles>
+      <title>Az élet hajnalán</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az élet hajnalán</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az élet hajnalán már gondolt rád Atyád. Ő tudja jól ha sírsz, hát ne szégyelld, ha fáj! Mert úgy szeretett Isten, hogy egyszülött fiát érted áldozta, jöjj ma hozzá!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Semmit sem tehetsz, hogy jobban szeressen. És bármit is tettél, ne félj, Ő nem küld el! Mert úgy szeretett Isten, hogy egyszükött Fiát érted áldozta, jöjj ma Hozzá!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj ma Atyádhoz, bárhogyan is állsz, összetört életed add Neki ma át! A halál óráján így szólt a Golgotán: élvégeztetett! Jöjj ma Hozzá!</lines>
+    </verse>
+  </lyrics>
+</song>

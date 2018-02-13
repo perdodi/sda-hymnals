@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:02">
+  <properties>
+    <titles>
+      <title>B320 Vezess, Jézusunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vezess, Jézusunk<br/>B320</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vezess, Jézusunk, S véled indulunk! Küzdelemre hív az élet, Hadd kövessünk benne téged; Fogjad a kezünk, Míg megérkezünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adj erős szívet, Hogy legyünk hívek! És ha terhet kell viselnünk, Panaszt mégsem ejt a nyelvünk; Rögös bár utunk, Hozzád így jutunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sebzett szívünk majd Mikor felsóhajt, Vagy ha másért bánat éget: Adj türelmet, békességet, Reménnyel teli Rád tekinteni!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kísérd lépteink Éltünk végéig! És ha roskadozva járunk, Benned támaszt hadd találjunk, Míg elfogy az út, S mennybe nyitsz kaput!</lines>
+    </verse>
+  </lyrics>
+</song>

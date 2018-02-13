@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:32:52">
+  <properties>
+    <titles>
+      <title>128. Jézus meghalt bűneinkért</title>
+    </titles>
+    <copyright>Hé-128</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus meghalt bűneinkért...<br/><br/>Hitünk énekei<br/>128. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus meghalt bűneinkért, harmadnap feltámadott; Mi megigazulásunkért mindenről számot adott. Mennyei szent Atyjának és Ő igazságának a váltságot megfizette a bűnösöknek helyette.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Életét maga letette önként és jó kedvéből, azt maga ismét felvette Isteni erejéből. Ó! csudáknak csudája! Íme az Isten fia értem életet áldozott, élővé holtból változott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A meghalt Jézus vére szólt nékünk oly drága dolgot, mert e vér Isten vére volt, bűnt, halált ezzel oldott. Vér, melynek nincsen mása, ó! Betlehem forrása! Ó! Jézus egy áldozatja, Isten gyönyörű illatja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy ez kedves volt Istennek, azt azzal megmutatta, hogy szent testét ő Szentjének sírban soká nem hagyta és a halál kötelét, a koporsónak tőrét harmadnap széjjeloldozta, Fiát fogságból kihozta.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézus, én megholt életem, Jézus, feltámadásom, benned bűntől mentté lettem, Benned igazulásom. Ó! adj hát segítséget, lelki elevenséget, az új életben járásra, az első feltámadásra!</lines>
+    </verse>
+  </lyrics>
+</song>

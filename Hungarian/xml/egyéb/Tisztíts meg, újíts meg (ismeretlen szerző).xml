@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:47">
+  <properties>
+    <titles>
+      <title>Tisztíts meg, újíts meg</title>
+    </titles>
+    <verseOrder>i1 v1 v2 v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tisztíts meg, újíts meg</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tisztíts meg! Újíts meg! Lellked töltsön be! Frissítsd föl népedet! Hozz ébredést a szívekbe!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérünk, Urunk, a vak szemek nyíljanak meg, és hulljon ránk friss esőd! Friss esőd!</lines>
+    </verse>
+  </lyrics>
+</song>

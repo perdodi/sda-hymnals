@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:49">
+  <properties>
+    <titles>
+      <title>Hatalmas vagy</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hatalmas vagy<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hatalmas vagy erős Isten, szent és dicső senki más nincsen. Feltámadtál, és Te győztél, a halálom uralmat vetél!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, örvendezzünk hát! Halleluja, örvendezzünk hát!</lines>
+    </verse>
+  </lyrics>
+</song>

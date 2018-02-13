@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:39">
+  <properties>
+    <titles>
+      <title>Elmúlik ez a világ</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elmúlik ez a világ</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elmúlik ez a világ, és minden, mi benne van, de az én hűségem tetőled el nem távozik a bajban. Jó azokhoz az 1sten, akik tiszta szívűek és gyönyörködnek őbenne, megadja kérésüket, halleluja!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Isten olyan jó hozzám,<br/>Isten olyan jó hozzám,<br/>Isten olyan jó hozzám,<br/>mert szeret engem az én édes jó Atyám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nappal kiküldte kegyelmét az Úr Éjjel éneke volt velem: Imádság életem Istenéhéz. Te tanítasz engém az élet útjaira, Teljes öröm van tenálad És gyönyörűségek mindörökké!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kicsoda az lsten a mi Urunkon kívül, Kicsoda kőszikla a mi Istenünkön kívül?! Halleluja. Kicsoda az lsten a mi Urunkon kívül, Kicsoda kőszikla a mi Istenünkön kívül?! Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

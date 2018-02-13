@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:48">
+  <properties>
+    <titles>
+      <title>Tudd, van egy gyertya</title>
+    </titles>
+    <verseOrder>i1 v1 c1 c1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tudd, van egy gyertya</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Tudd, van egy gyertya a szívünkben, van kié lobban, van kié nem. De él az Isten, ki lángra gyújthat és meggyógyíthat, ha Benne élsz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hát hordozd a gyertyát, lángoljon benned, annyian várják, oly sok szív fáj. Törd át az éjet, hadd lássák fényed, tartsd a gyertyát, mert szükség van rá, óvd a lángját, mert szükség van rá!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Eltévedt testvér, látod, hogy nem megy, ahol kerestél, nem égett láng. Becsaptak téged, de ne add fel, kérlek! Elszunnyadt gyertyád szikrára vár!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Istenben bízva, a holnap hív ma, nézzünk fel együtt most az ég felé. Imában kérve, Jézus nevében győzzük le együtt az éjszakát!</lines>
+    </verse>
+  </lyrics>
+</song>

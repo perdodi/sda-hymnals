@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:53:52">
+  <properties>
+    <titles>
+      <title>94. Ó! Betlehem kis városa</title>
+    </titles>
+    <copyright>Hé-094, S-117</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! Betlehem kis városa...<br/><br/>Hitünk énekei<br/>94. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! Betlehem kis városa, mily mélyen alszol már; a csöndben némán őrködik a fényes csillagár... De sötét utcád végén ma fényes csillag kél, mert benned lett ma emberré, kit minden nép remél!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Krisztust szülte Mária; az Ige testté lett! És angyalsereg őrködik az újszülött felett. A hajnalcsillag jelzi, hogy Krisztus földre jött, és meghajol a mindenség a szent Fiú előtt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csak épp a földünk nem tudja, hogy nagy vendége jött! Mert csendben jött, mint csillagfény az alvó táj fölött... És nem hallja fül jöttét, nem sejti senki még, hogy ez a kisded adja majd érettünk életét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Betlehemnek gyermeke, mi várunk tégedet, hogy tisztítsd meg a szívünket, és bennünk szüless meg! Az angyalkarok zengnek, s az ének szárnyra kel, és száll a szívünk vágya is: "Ó! jöjj, Immánuel!"</lines>
+    </verse>
+  </lyrics>
+</song>

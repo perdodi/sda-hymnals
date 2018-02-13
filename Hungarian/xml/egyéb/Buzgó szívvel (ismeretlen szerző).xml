@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:32">
+  <properties>
+    <titles>
+      <title>Buzgó szívvel</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 c1 v3 c1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Buzgó szívvel</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Buzgó szívvel ünnepeljünk szent Karácsony ünnepén! Jézus Krisztus földre szállott, valóság lett a remény.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Halld, mint szól az angyal ének, földi visszhang száll az égnek:</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Béke az embereknek, dicsőség az Istenek! 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pásztor emberek örvendve Betlehembe siettek. Bölcs királyok napkeletről a kisdedhez érkeztek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldog már a szívünk, lelkünk, Íme itt a Messiás. Széjjeltörte rabbilincsünk, benne van szabadulás!</lines>
+    </verse>
+  </lyrics>
+</song>

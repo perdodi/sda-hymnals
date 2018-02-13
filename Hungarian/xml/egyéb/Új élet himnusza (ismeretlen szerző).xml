@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:21">
+  <properties>
+    <titles>
+      <title>Új élet himnusza</title>
+    </titles>
+    <copyright>S-040</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Új élet himnusza</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Új élet himnusza száll fel a magasba, a Teremtőnek szól e dal, hadd teljék hálával! Zeng milljó dicséret, él, zsong a természet; ó mondjad, hirdesd ég és föld, hogy fenn van Teremtőd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint vizek zúgása, szól Isten szózata. Ó kérdezd meg a rózsaszált, azt mondja: Ő itt járt! A mélyben, magasban a keze nyoma van, Ő mindent szépen alkotott, Ő rendelt szombatot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogy hiányozhatna a hangom éppen ma, a dicsőítő kórusból, mely Teremtőnknek szól! Én tudom legjobban, hogy mennyben Isten van, Ő adott nékem életet, mert Isten szeretet!</lines>
+    </verse>
+  </lyrics>
+</song>

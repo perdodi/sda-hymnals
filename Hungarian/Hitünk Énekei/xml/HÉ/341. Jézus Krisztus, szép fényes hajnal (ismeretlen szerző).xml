@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:01:37">
+  <properties>
+    <titles>
+      <title>341. Jézus Krisztus, szép fényes hajnal</title>
+    </titles>
+    <copyright>Hé-341, S-100</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus Krisztus, szép fényes hajnal...<br/><br/>Hitünk énekei<br/>341. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus Krisztus, szép fényes hajnal, ki feltámadsz új világgal, és megáldasz minden jókkal:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy nékünk egy reménységünk, Isten előtt közbenjárónk, szép koronánk, ékességünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Világosítsd a mi szívünket: ismerhessünk meg tégedet; tanulhassuk szent igédet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az ördögnek csalárdságától, lelki s testi nyavalyától, őrizz hamis tudománytól.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Atyával és Szentlélekkel, hogy tégedet tiszta szívvel mindörökké áldjunk! Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

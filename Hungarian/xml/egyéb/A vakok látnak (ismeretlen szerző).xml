@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:15">
+  <properties>
+    <titles>
+      <title>A vakok látnak</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A vakok látnak<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A vakokk látnak, a sánták járnak, a halotak ébrednek álmukból. Kikrabok voltak, most megszabadulnak, a szegényeknek öröm hír szól.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ő az Úr, Ő a nagy Király, aki ott ül Isten jobbján. Ő az út, Ő az igazság, Ő az élet, aki rád vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A gonosz tettek mind eltöröltetnek, és tisztává lesz a romlott szív, a megtört lelkek új életre kelnek, a Mester van itt és téged hív.</lines>
+    </verse>
+  </lyrics>
+</song>

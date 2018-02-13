@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:53:05">
+  <properties>
+    <titles>
+      <title>216. Hadd menjek, Istenem, mindig feléd</title>
+    </titles>
+    <copyright>Hé-216</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hadd menjek, Istenem, mindig feléd...<br/><br/>Hitünk énekei<br/>216. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hadd menjek, Istenem, mindig feléd, fájdalmak útjain mindig feléd. Ó! sok keresztje van, de ez az én utam, mert hozzád visz, Uram, mindig feléd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha este száll reám, s csöndes helyen álomra hajtanám fáradt fejem: Nem lesz, hol nyughatom, kő lesz a vánkosom, de álomszárnyakon szállok feléd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szívemtől trónodig - mily szent csoda - mennyei grádicsok fényes sora: A szent angyalsereg mind nékem integet; Ó! Uram, hadd megyek én is feléd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Álomlátás után hajnal ha kél, kínos kővánkosom megáldom én. Templommá szentelem, hogy fájdalmas szívem, Uram, hozzád vigyem, mindig feléd!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csillagvilágokat elhagyva már, elfáradt lelkem is hazatalál. Hozzád ha eljutok, lábadhoz roskadok: Ottan megnyughatok örökre én!</lines>
+    </verse>
+  </lyrics>
+</song>

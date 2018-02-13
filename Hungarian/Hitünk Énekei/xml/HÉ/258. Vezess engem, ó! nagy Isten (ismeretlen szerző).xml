@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T11:24:31">
+  <properties>
+    <titles>
+      <title>258. Vezess engem, ó! nagy Isten</title>
+    </titles>
+    <copyright>Hé-258</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vezess engem, ó! nagy Isten...<br/><br/>Hitünk énekei<br/>258. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vezess engem, ó! nagy Isten, földi vándorutamon! Látod, milyen gyönge vagyok: Hordozz erős karodon! Égi manna, égi manna, égi manna, tápláld bágyadt gyermeked!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örök kőszál, nyílj meg nékem, gyógyítsd meg a lelkemet! Tűz- és felhőoszlopoddal vezesd minden léptemet! Erős Isten, erős Isten, erős Isten, légy Te pajzsom, fegyverem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha a Jordán partján állok szívszrongva, aggódón, oszlasd el a kétség éjét, vezess által a folyón! Hálazsoltárt, hálazsoltárt, hálazsoltárt zengek Néked örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

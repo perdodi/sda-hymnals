@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:02">
+  <properties>
+    <titles>
+      <title>Jézus én Téged választottalak</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v1 c1 v1 c1 e1</verseOrder>
+    <authors>
+      <author>Testvérek</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus én Téged választottalak...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus én Téged választottalak, hol halál jár és fojtogat, ott Te vagy nekem az élet. Feléd tárom két kezem, engem küldjél, Istenem, jelként ahova kell!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hát jöjj és élj velem egy egész életen át! Nem győz a félelem, ha látja szívem Urát.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Jézus én téged választottalak, hol halál jár és fojtogat, ott Te vagy nekem az élet.</lines>
+    </verse>
+  </lyrics>
+</song>

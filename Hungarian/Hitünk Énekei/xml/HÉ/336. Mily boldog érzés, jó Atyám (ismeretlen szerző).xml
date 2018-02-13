@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:59:52">
+  <properties>
+    <titles>
+      <title>336. Mily boldog érzés, jó Atyám</title>
+    </titles>
+    <copyright>Hé-336</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mily boldog érzés, jó Atyám...<br/><br/>Hitünk énekei<br/>336. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mily boldog érzés, jó Atyám, hogy Téged dicsér hő imám! Hogy éjjel zsoltárt éneklek és szent neveddel ébredek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily szép a csöndes szombatnap! A súlyos gondok nem bántnak. A föld s az ég is ünnepel és Isten népe énekel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te biztos úton vezeted a győzelemre népedet. Mert igéd áldott, bölcs tanács és minden jóra biztatás.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mit vágyva vágytam egykoron, a mennyben mindazt láthatom; S így teljes lészen örömem és örök, boldog életem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:26">
+  <properties>
+    <titles>
+      <title>Mindörökké hű az Úr</title>
+    </titles>
+    <copyright>S-121</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mindörökké hű az Úr...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mindörökké hű az Úr, mindörökké hű az Úr, mindig áldom én az ő nevét, mindörökké hű az Úr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden jóval áld az Úr, minden jóval áld az Úr, mindig áldom én az ő nevét, minden jóval áld az Úr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kísértésben óv az Úr, kísértésben óv az Úr, mindig áldom én az ő nevét, kísértésben óv az Úr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lelkével betölt az Úr, Lelkével betölt az Úr, mindig áldom én az ő nevét, Lelkével betölt az Úr.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Újra visszajön az Úr, újra visszajön az Úr, mindig áldom én az Ő nevét, újra visszajön az Úr.</lines>
+    </verse>
+  </lyrics>
+</song>

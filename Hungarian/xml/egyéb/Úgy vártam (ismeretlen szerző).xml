@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:21">
+  <properties>
+    <titles>
+      <title>Úgy vártam</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1 v2 e1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úgy vártam</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy vártam, Uram, Istenem! Úgy vártam és Ő megmentett!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kivont enegem a mélyéből, a félelmeimből. Kősziklára állított és új utat adott nekem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én hirdetem a népeknek, hogy életem megújult! Hadd tudja meg minden ember, nincs rajta kívül Úr!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>És most egy új dal szól a szívemben, és ez az új dal csak is rólad zeng! Úgy vártm!</lines>
+    </verse>
+  </lyrics>
+</song>

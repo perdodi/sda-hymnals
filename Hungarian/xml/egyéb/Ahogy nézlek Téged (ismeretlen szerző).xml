@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:15">
+  <properties>
+    <titles>
+      <title>Ahogy nézlek Téged</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ahogy nézlek Téged<br/>(Dicsérem Neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ahogy nézlek téged, elszáll minden félelem. Ahogy szól szelíd szavad, nem kérdezek már. Amikor érzem: itt vagy, szent szellemed hoz közel. Erős karod átölel, és új élet tölt el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mennyben van otthonom, szívem szárnyal szabadon. Lekem megnyugszik benned, átitatja keneted. A halál itt véget ér, mert nem hagy el a remény, hogy a végén meglátlak ott fenn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vezes tovább Istenem, és  engedd megértenem szent célodat, tervedet, kedves akaratod. Adj próbában kegyelmet, bátorságot, hűséget, hogy mindvégig győztesen álljak meg hitben.</lines>
+    </verse>
+  </lyrics>
+</song>

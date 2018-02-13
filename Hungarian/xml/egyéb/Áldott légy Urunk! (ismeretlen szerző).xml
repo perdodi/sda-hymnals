@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:09">
+  <properties>
+    <titles>
+      <title>Áldott légy Urunk!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldott légy Urunk!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldott légy Urunk! Szívből magasztalunk! Áldott légy Urunk! Te vagy a nagy Király! 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagyvárosok lakói, távoli szigetek népei, zengjetek hűségéről, mondjátok: Nagy az Ő neve! Te vagy a nagy Király!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hódoljatok előtte, új dallal mind, ti nemzetek, közelvalók és föld szélén levők, dicsérjétek Őt szüntelen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:29">
+  <properties>
+    <titles>
+      <title>Míg Jézus él bennem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Míg Jézus él bennem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Míg Jézus él bennem, míg erejét érzem, fut tőlem gond és félelem, és örvend a lelken!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szelíd jó pásztor Ő, juhát hűn őriző; legeltet gazdag pázsiton, itat életfolyón.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mikor leszáll a nap, s üvölt felém a vad, sötét éjfélkor is tudom: oltalmam Jézusom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha lábam gyenge lesz, ha e világ sebez: megyek jó pásztoromhoz én, nyugtot lelek szívén.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csak Jézust nézem hát, ki nékem üdvöt ád, Ő bizton vezet útamon, mertt őrző pásztorom.</lines>
+    </verse>
+  </lyrics>
+</song>

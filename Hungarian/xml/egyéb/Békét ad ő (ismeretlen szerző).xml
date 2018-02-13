@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:32">
+  <properties>
+    <titles>
+      <title>Békét ad ő</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Békét ad ő</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Békét ad ő, aki összetör gátakat, békét ad Jézus, békét ad ő. (2x)<br/>Vesd rá sok terhedet, nyisd meg a szívedet, békét ad Jézus, békét ad ő. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hatalmas ő, aki győzött a Golgotán, hatalmas Jézus, hatalmas ő. (2x)<br/>Dicsérd őt szüntelen, szolgáljad szívesen, hatalmas Jézus, hatalmas ő. (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Újra eljön, aki oly sokat szenvedett, a Krisztus Jézus újra eljön. (2x)<br/>Légy készen, várjad őt, várjad a menyegzőt, a Krisztus Jézus újra eljön. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

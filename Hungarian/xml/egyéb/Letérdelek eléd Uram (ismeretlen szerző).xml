@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:15">
+  <properties>
+    <titles>
+      <title>Letérdelek eléd Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Letérdelek eléd Uram</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Letérdelek eléd Uram,<br/>Tudom Te vagy az én oltalmam,<br/>a szívemet erősítsed meg,<br/>hadd lehessek<br/>(1. a Te gyermeked.) (2. igaz gyermeked).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűneimet leteszem eléd,<br/>Terheimet kinyújtom feléd,<br/>Kérlek Uram, vedd el ezeket,<br/>és adj nékem élő,<br/>(1. hús szívet) (2. új szívet).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mondtad nekem, enyém leszel,<br/>és én tőlem senki nem vesz el,<br/>a sátán se győz le tégedet <br/>csak<br/>(1. tartsd tisztán)<br/>(2. őrizd meg) a te szívedet.</lines>
+    </verse>
+  </lyrics>
+</song>

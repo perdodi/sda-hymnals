@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:42">
+  <properties>
+    <titles>
+      <title>Feltámadt Jézusomnak szolgálok</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Feltámadt Jézusomnak szolgálok</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Feltámadt Jézusomnak szolgálok, Ő a cél.<br/>Ő itt van, a világban, tudom, tudom, hogy él.<br/>Látom kegyelme karját, hallom; szelíd szavát,<br/>Sietve jön, ha hívom, Ő a leghűbb barát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ő él, Ő él, Úr Jézus ma is él, <br/>beszél velem, és jár velem,<br/>a keskeny ösvényen.<br/>Ő él, Ő él, üdvöt hozott nekem,<br/>Kérded; honnan tudom, hogy él,<br/>mert él a szívemben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amerre nézek, látom a gondos, hű kezet,<br/>Bár szívem néha gyengül, de mégsem csüggedek,<br/>Viharban, fergetegben, Ő a legdrágább erő,<br/>Minden veszélyen átvisz, amíg visszajő.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ujjongj azért, te szent nép, harsogjon éneked,<br/>Jézusnak, a Királynak halleluját zengjetek,<br/>Ő mindenek reménye, így senki nem szeret,<br/>Nincs nála senki jobb, szebb, nincs kedvesebb.</lines>
+    </verse>
+  </lyrics>
+</song>

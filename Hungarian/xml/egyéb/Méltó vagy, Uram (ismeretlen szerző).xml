@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:29">
+  <properties>
+    <titles>
+      <title>Méltó vagy, Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Méltó vagy, Uram</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>Méltó vagy, Uram, Méltó vagy, Uram! Te vagy méltó Uram. Méltó vagy, hogy végy tisztességet, dicsőséget és erőt.</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>Mert alkotója vagy te minden dolognak, teremtő nagy Isten vagy. Minden teremtmény adjon ma hálát. Méltó erre az Úr.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Hálát adva áldja Istent, áldja Istent mi él. Róla zeng minden, mennyben és itt lenn, zengve az Ő szent nevét.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Az Úrhoz, az Úrhoz száll hála dicséret, mert Ő teremtő nagy Úr. Minden teremtmény adjon ma hálát, méltó erre az Úr.</lines>
+    </verse>
+  </lyrics>
+</song>

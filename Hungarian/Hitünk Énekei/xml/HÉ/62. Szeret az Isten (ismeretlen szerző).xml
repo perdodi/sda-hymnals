@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:48:05">
+  <properties>
+    <titles>
+      <title>62. Szeret az Isten</title>
+    </titles>
+    <copyright>Hé-062, S-138</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szeret az Isten...<br/><br/>Hitünk énekei<br/>62. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szeret az Isten, Ő vált meg engem, úgy szeret Isten, mint gyermekét. Isten a szeretet, mindig ezt zengem, úgy szeret engem, mint gyermekét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rabságban éltem, bűn foglya voltam, bilincsben éltem, nem volt kiút. Isten a szeretet, mindig ezt zengem, úgy szeret engem, mint gyermekét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elküldte Jézust, hű Megváltónkat, elküldte Jézust, megmentőnket. Isten a szeretet, mindig ezt zengem, úgy szeret engem, mint gyermekét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kegyelme által megmentett engem, Szentlelke által szabaddá tett. Isten a szeretet, mindig ezt zengem, úgy szeret engem, mint gyermekét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szerelme fénye lelkemre áradt, szerelme fénye meggyógyított. Isten a szeretet, mindig ezt zengem, úgy szeret engem, mint gyermekét.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Örömmel töltsd be, ó, örök Isten, békéddel töltsd be bús szívemet. Isten a szeretet, mindig ezt zengem, úgy szeret engem, mint gyermekét.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Adj üdvösséget, örömet, éltet, adj boldogságot, nyugodalmat. Isten a szeretet, mindig ezt zengem, úgy szeret engem, mint gyermekét.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsérlek Téged, szerető Isten, áldalak Téged, amíg élek. Isten a szeretet, mindig ezt zengem, úgy szeret engem, mint gyermekét.</lines>
+    </verse>
+  </lyrics>
+</song>

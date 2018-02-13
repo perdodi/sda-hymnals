@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:35">
+  <properties>
+    <titles>
+      <title>Nézz fel az égre</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nézz fel az égre</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nézz fel az égre, sok fény, hogy ragyog, hogyan születtek a fényes csillagok, hogyan jött létre és merre tart ez a világ, hogyha érdekel a válasz, hallgass rám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az ég csodái Őt hirdetik, nem tudsz betelni, csak csodálod tetteit, hogyan jött létre és merre tart ez a világ, hogyha érdekel a válasz, hallgass rám.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az ég felhőin túl meglátod Őt, az egyetlen királyt,<br/>Ő alkotott meg minden földet, tengert keze formált,<br/>Megígérte egy napon mindent ujjá teremt,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem tudom akkor, mi lesz veled. Jézus szavában van felelet. Hogyan jött létre és merre tart ez a világ, hogyha érdekel a válasz, hogyha érdekel a válasz, ó, hogyha érdekel a válasz, hallgass rám.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:49:15">
+  <properties>
+    <titles>
+      <title>192. Tégy foglyoddá, Uram</title>
+    </titles>
+    <copyright>Hé-192, S-133</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Tégy foglyoddá, Uram...<br/><br/>Hitünk énekei<br/>192. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tégy foglyoddá, Uram, hogy így szabad legyek! Ha néked adom önmagam, csak győztes lehetek. Ha egymagam vagyok, csak vesztes az a harc. De hogyha foglyod maradok, Te győzedelmet adsz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szívem oly hideg, míg nem talál reád! Míg le nem kötöd, tévelyeg, és hajlik mint a nád. Míg láncra nem vered, csak céltalan bolyong. Ám hogyha vonzza szerelmed, oly boldogan dobog.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A híved célhoz ér, és úgy nyer égi trónt. Ha készségesen hozzád tér, ha mindenről lemond. Így száz vihar között, csak győzni fog szívem, ha partot ér és kikötött, majd benned megpihen.</lines>
+    </verse>
+  </lyrics>
+</song>

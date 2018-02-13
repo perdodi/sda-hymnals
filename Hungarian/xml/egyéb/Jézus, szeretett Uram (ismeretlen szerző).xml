@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:04">
+  <properties>
+    <titles>
+      <title>Jézus, szeretett Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, szeretett Uram</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus, szeretett Uram, Jézus, ó, én nem hagylak el soha, Te alkotál a földnek porából, és Te állítottál a kősziklára</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy várlak és áldlak, elmulik a világ, és én meglátlak. Megváltóm, szeretlek Téged imádlak és dicsérlek amíg csak élek. 2X</lines>
+    </verse>
+  </lyrics>
+</song>

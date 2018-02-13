@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:50:55">
+  <properties>
+    <titles>
+      <title>265. Teremtő Istenünk, Édes Atyánk</title>
+    </titles>
+    <copyright>Hé-265</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Teremtő Istenünk, Édes Atyánk...<br/><br/>Hitünk énekei<br/>265. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Teremtő Istenünk, Édes Atyánk nékünk! Hatalmas vagy, irgalmad nagy: Ínségemben, szükségemben, kérlek, engem ne hagyj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívem Benned bízik, Hozzád fohászkodik; Nézz csendesen, kegyelmesen; Fájdalmimon, bánatimon könyörülj kegyesen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tudom, hogy kegyelmed enyhít mindeneket, bús szíveket, sebeseket; Szegénységben, betegségben ellankadt fejeket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jelen van az idő, hogy Te, jó segítő, meghallgatod siralmimat, nékem adod tanácsodat, mert tudod sorsomat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Azért, ó! Jézusom, legbölcsebb orvosom, siess, siess és lelkemnek segítője légy testemnek, megepedt szívemnek!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nálad lehetetlen, tudom, semmi nincsen. Nyújtsd kezedet: bús szívemet és lelkemet erősítsed, mert áldlak Tégedet.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szentlélek Istenünk, vigasztaló Urunk: bátoríts meg, oltalmazz meg; Igaz hitben, szerelmedben minden jókkal áldj meg!</lines>
+    </verse>
+  </lyrics>
+</song>

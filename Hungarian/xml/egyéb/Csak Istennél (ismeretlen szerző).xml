@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:33">
+  <properties>
+    <titles>
+      <title>Csak Istennél</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Csak Istennél<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csak Istennél csendesül a lekem, tőle kepok reménységet, csak Ő az én kősziklám szabadítóm, erős váram, nem ingadozom sokáig.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bízatok benne, ti népek, most öntsétek ki szívetek, mert Isten, egyedül Isten, az Isten a mi oltalmunk!</lines>
+    </verse>
+  </lyrics>
+</song>

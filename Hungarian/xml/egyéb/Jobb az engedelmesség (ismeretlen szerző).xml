@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:59">
+  <properties>
+    <titles>
+      <title>Jobb az engedelmesség</title>
+    </titles>
+    <verseOrder>i1 v1 v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jobb az engedelmesség</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Jobb az engedelmesség, mint az áldozat, nekem ne add a pénzed, az életed add! Tudom, hallotad, mondtam: "Eljövök hamar!", de téged ez rég nem zavar.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Olyan sok a szép szó a szeretetről, de te nem teszel többet, csak beszélsz erről. Látom előre könnyeidet arcodon, ha elém állsz a nagy napon.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Figyelem imád minden nap reggelén. Miért nem hallod meg mit mondok én?</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Jobb az engedelmesség, mint az áldozat, többet várok, mint hétvégi alkalmakat. Nálam elolthatod szomjad élő vízzel, miért csak szombaton reggel jössz el?</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Jobb az engedelmesség, mint az áldozat, nekem tüzes szív kell, nem csak meleg szavak. Mert mindenkinek kegyelemmel fizetek, ha eljövök megint hamar.</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Ha eljövök megint hamar. Ahogy mondtam, eljövök hamar.</lines>
+    </verse>
+  </lyrics>
+</song>

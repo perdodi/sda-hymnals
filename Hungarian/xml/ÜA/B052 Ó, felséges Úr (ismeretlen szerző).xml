@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:30">
+  <properties>
+    <titles>
+      <title>B052 Ó, felséges Úr</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, felséges Úr<br/>B052</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, felséges Úr, mi kegyes Istenünk, mely csudálatos a te neved nékünk! Nagy dicsőséged ez egész földre kiterjed, és felhat az egekre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérnek téged még a kisdedek is, nyelvükön hordják te nevedet ők is, kik által ellent ugyan megejtesz, és bosszúálót megszégyenítesz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagy voltát ha megnézem dolgaidnak, melyeket a te kezeid formáltak, az eget, holdat, a fényes napot és szép renddel a sok csillagokat;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csudálván mondom: micsoda az ember, ki tőled ennyi sok dicsőséget nyer? De micsoda az embernek fia, kiről felséged ennyit gondolna?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az angyaloknál noha egy kevéssé kisebbé tőd, de nagy dicsőségessé teremtéd őtet és magasztalád, nagy tisztességre felkoronázád.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kezed munkáin őtet úrrá tevéd, hogy bírna vélük, őnéki engedéd. Valamit e világra teremtél, mindeneket lába alá vetél.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó, felséges Úr, mi kegyelmes Urunk, mely csudálatos a te neved nálunk! Felségednek mely nagy dicsősége, mellyel teljes e föld kereksége!</lines>
+    </verse>
+  </lyrics>
+</song>

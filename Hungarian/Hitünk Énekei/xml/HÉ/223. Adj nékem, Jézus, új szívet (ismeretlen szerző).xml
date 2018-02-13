@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T19:39:57">
+  <properties>
+    <titles>
+      <title>223. Adj nékem, Jézus, új szívet</title>
+    </titles>
+    <copyright>Hé-223</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Adj nékem, Jézus, új szívet...<br/><br/>Hitünk énekei<br/>223. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Adj nékem, Jézus, új szívet és minden bűntől óvjad meg, Te őrízd szívem ajtaját, hogy soha bűn ne lépje át.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívemet megnyitom, lakozzál bennem, Jézusom, gonosztól, bűntől tisztíts meg, szent hajlék, templom hadd legyek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Orcádnak fénye, Jézusom, ragyogjon rám, ó, légy napom; Lelkednek lángja töltsön be, ó, jóság élő kútfeje!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gazdaggá tedd a szívemet, adj égi áldást, értelmet; Tanácsot, bölcsességet adj, életem, Jézus, el ne hagyj!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent neved hírét terjesztem, igédet híven hirdetem; Örömöt, áldást, békét ad, hogyha Te, Jézus, vélem vagy.</lines>
+    </verse>
+  </lyrics>
+</song>

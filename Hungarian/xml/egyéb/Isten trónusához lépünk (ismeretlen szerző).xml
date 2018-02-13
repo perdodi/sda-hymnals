@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:57">
+  <properties>
+    <titles>
+      <title>Isten trónusához lépünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten trónusához lépünk</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Isten trónusához lépünk, hogy Őt magasztaljuk, szívünkből hálatelten az Ő nevét áldjuk! Őt illeti hódolat, tisztesség a földön és mennyben, boldogan mondunk hálát minden jóért.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kitárva szívünk, csak őt imádjuk folyton. Az ajkunk gyümölcsét hozva áldozunk. Hisz' értünk adta szent Fiát, ki meghalt fön a Golgotán! Őt dicsérjük! Örökké áldott, szent az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

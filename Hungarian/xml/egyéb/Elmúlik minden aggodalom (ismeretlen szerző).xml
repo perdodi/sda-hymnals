@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:39">
+  <properties>
+    <titles>
+      <title>Elmúlik minden aggodalom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elmúlik minden aggodalom</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elmúlik minden aggodalom,<br/>ha csendben állok az Úr előtt.<br/>És könyörgésben, hálaadásban<br/>dicséri mindig a szívem Őt.<br/>Bánatom, gondom jól ismeri,<br/>nyomasztó terhem Ő felveszi.<br/>Még most sem értem, fel nem fogom, <br/>miért szeret engem ilyen nagyon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elmúlik minden aggodalom,<br/>ha csendben állok az Úr előtt.<br/>És könyörgésben, hálaadásban<br/>dicséri mindig a szívem Őt.<br/>Kegyelme által tanulhatom,<br/>hogy elég mindig az, amim van:<br/>Őbenne nyertem vígaszt, erőt,<br/>örökké áldom, imádom Őt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten megőrzi a Krisztusban<br/>szívem és minden gondolatom,<br/>hogy csak azt éljem, ami igaz,<br/>azt, ami tiszta és ami jó.<br/>Kérésem ott van előtte már,<br/>meghallgatásra Nála talál.<br/>Még most sem értem, fel nem fogom,<br/>Miért szeret engem ilyen nagyon.</lines>
+    </verse>
+  </lyrics>
+</song>

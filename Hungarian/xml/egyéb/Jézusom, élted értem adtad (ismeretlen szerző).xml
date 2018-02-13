@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:05">
+  <properties>
+    <titles>
+      <title>Jézusom, élted értem adtad</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézusom, élted értem adtad</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézusom, élted értem adtad, helyébe én, szegény, ó, mit adjak? Mit tettél értem, ki nem beszélhetem, átadom teljesen önmagamat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegytrónod nál fogadd hódolatom. hittel tekintek föl rád Jézusom. Hordom keresztemet, zengek dicséretet. Mindazt, tehetek: néked adom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mindaz, mi ven nekem, tőled ered; fény, élet, ész, erő: te adtad ezt. Egykor  a mennybe' fönt, szent arcodat dicső láthatom örökön. Hála neked!</lines>
+    </verse>
+  </lyrics>
+</song>

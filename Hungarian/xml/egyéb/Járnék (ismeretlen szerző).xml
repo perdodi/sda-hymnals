@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:59">
+  <properties>
+    <titles>
+      <title>Járnék</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Járnék<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Járnék, de nem tudok. Vízben hogyan jutok? Mennék, de nem tudok, mivel nincsen emberem, mivel nincsen emberem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, segítségem! Kérlek, segíts nékem! Íme, neked mondom: kej fel, vedd a nyoszolyád, kelj fel, vedd a nyoszolyád!</lines>
+    </verse>
+  </lyrics>
+</song>

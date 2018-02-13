@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:27">
+  <properties>
+    <titles>
+      <title>Mondd, úgy van-é</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mondd, úgy van-é</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mondd, úgy van-é, hogy Jézusom eltőrlé<br/>bűnömet? Hogy értem halt az átokfán, megmenté lelkemet?</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>A kereszt az a hely, hol feltünt reggelem, csodás fényre nyít meg ott a szemem, mert a szívembe Jézus már betért, ajkam zeng hozsanát e nagy kegyért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A könnyeim nem törlik le nagy tartozásomat, de íme, Jézus, átadom, Tenéked magamat.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>A kereszt az a hely, hol feltünt reggelem, csodás<br/>fényre nyít meg ott a szemem, mert a szívembe Jézus már betért, ajkam zeng hozsanát e nagy kegyért!</lines>
+    </verse>
+  </lyrics>
+</song>

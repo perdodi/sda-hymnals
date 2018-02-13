@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:45">
+  <properties>
+    <titles>
+      <title>Ha átadod Nékem a szívedet</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ha átadod Nékem a szívedet<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha átadod Nékem a szívedet, jöjj, ne félj, csak jöjj hozzám! Én megtisztítom azt teljesen, jöjj, ne félj, csak jöjj hozzám!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, bűnös, hát jöjj hozzám, a bűnöd ma tedd le rám, Szentlelkemet adom neked, kérlek, ne várj tovább!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én meggyógyítom az életed, jöjj, ne félj, csak jöjj, hozzám! És elveszem mind a terhedet, jöjj ne félj, csak jöjj hozzám!</lines>
+    </verse>
+  </lyrics>
+</song>

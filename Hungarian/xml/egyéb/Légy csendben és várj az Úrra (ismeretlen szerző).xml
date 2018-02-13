@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:16">
+  <properties>
+    <titles>
+      <title>Légy csendben és várj az Úrra</title>
+    </titles>
+    <copyright>S-069</copyright>
+    <verseOrder>i1 c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy csendben és várj az Úrra</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Légy csendben és várj az Úrra, valamit mondani akar neked! Légy csendben és várj az Úrra, nyisd meg előtte most a szívedet!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fájdalmak útjai, álmatlan éjszakák. Hidd el, Ő elveszi és a lelked ne kínozd tovább!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sok terhet hordozol, letenni nem tudod, mégis van megoldás, hogyha Istenre bízod magad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vagy tán úgy gondolod, hogy Isten elhagyott, megcsalnád így magad, hiszen eddig is Ő hordozott.</lines>
+    </verse>
+  </lyrics>
+</song>

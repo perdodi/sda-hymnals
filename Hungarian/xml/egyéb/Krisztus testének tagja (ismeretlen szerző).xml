@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:12">
+  <properties>
+    <titles>
+      <title>Krisztus testének tagja</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus testének tagja</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztus testének tagja vagy már,<br/>Tőled az Isten már többet vár.<br/>Várja, hogy szolgáld, amíg lehet,<br/>Ki tudja meddig tart életed?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Testvéred néha úgy látod tán,<br/>Megbotlik gyakran, s más úton jár,<br/>Várja Őt Jézus, Segítsd oda!<br/>Hadd tegye szentté az ég Ura!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ifjú, miért mondod: gyenge vagyok.<br/>Azt mondja Jézus: erőt adok!<br/>Ő megy előtted. Bízd rá magad!<br/>Erőt a harcban csak Jézus ad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Érezted sokszor, Ő hogy szeret,<br/>Ezért ma kéri az életed.<br/>Szeress és szolgálj, amíg lehet,<br/>Ki tudja meddig tart életed.</lines>
+    </verse>
+  </lyrics>
+</song>

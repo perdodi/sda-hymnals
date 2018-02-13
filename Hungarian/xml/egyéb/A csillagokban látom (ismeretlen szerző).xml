@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:12">
+  <properties>
+    <titles>
+      <title>A csillagokban látom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A csillagokban látom</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A csillagokban látom a kezed; szél hirdeti a te fenséged, uralkodsz a föld és víz felett. Mit jelent nekem?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Születése is már oly csodás; megjövendölték a próféták, a bűntől szabaddá tett engemet. Mit jelent nekem?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hitem által érzem kegyelmét, hitem által várom eljöttét, tudom, hogy Ő több, mint oly Isten, ki gondot nem visel, hisz ember alkotása.<br/>Napról-napra érzem a kezét, gazdagon megáldó szent kezét. Rávezet a keskeny útra, Ő mindenem nekem.</lines>
+    </verse>
+  </lyrics>
+</song>

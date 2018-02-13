@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:45">
+  <properties>
+    <titles>
+      <title>Ha néha-néha bús vagyok</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ha néha-néha bús vagyok</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha néha-néha bús vagyok és szívemben ellankadok,<br/>Holott e földi gondokon kesergni nincs okom.<br/>Hamar az Úr elé megyek, és kérek Tőle új szívet,<br/>Mert földi bánat és keserv a mennyből nem ered.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Megváltómra gondolok, ki minket arra oktatott,<br/>Hogy ne aggódjunk, mert Atyánk, gondot visel reánk.<br/>Ekkor eszembe jut nekem, egy kedves lelki énekem,<br/>És éneklem ezt csendesen, de mindig édesen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Majd egyre hangosabb lesz ez,<br/>míg szívem tűzzel telve lesz,<br/>Elmémet fény borítja át, elűzve a homályt.<br/>Ím, látom Jézust, Üdvömet, a mennyben örök részemet,<br/>És bú helyett a lelkem most, örömtől áradoz.</lines>
+    </verse>
+  </lyrics>
+</song>

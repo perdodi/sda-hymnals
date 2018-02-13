@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:11">
+  <properties>
+    <titles>
+      <title>A Te nevedben mi együtt vagyunk</title>
+    </titles>
+    <copyright>S-015</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A Te nevedben mi együtt vagyunk...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A Te nevedben mi együtt vagyunk. Jézus nevedben mi együtt vagyunk. Hallgasd meg imánk mikor Hozzád járulunk, Életvizeddel táplálj hű Urunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úgy mutassátok meg a hitetek, hogy az Én szavaimnak engedtek! Hogyha Velem és egymással egyek lesztek, minden kérésetekre felelek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Te nevedben mi együtt vagyunk. Jézus nevedben mi együtt vagyunk. Tégy eggyé minket szentségedben, ez óhajunk, használj munkádban, drága hű Urunk!</lines>
+    </verse>
+  </lyrics>
+</song>

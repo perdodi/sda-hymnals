@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:27:35">
+  <properties>
+    <titles>
+      <title>365. A nap immár felvirradván</title>
+    </titles>
+    <copyright>Hé-365</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A nap immár felvirradván...<br/><br/>Hitünk énekei<br/>365. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A nap immár felvirradván, kérjük az Istent mindnyájan, hogy ezen az egész napon bűntől minket oltalmazzon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyelvünket megtartóztassa és a bűnre ne bocsássa, szemeinket betakarja, gonoszra nézni ne hagyja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szíveink tiszták legyenek, gonosz bűnt be ne vegyenek; Kevélységet gyűlöljenek, dobzódást ne szeressenek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy, mikor a nap elnyugszik és az éj bealkonyodik, mi egészen tiszták legyünk és Őtet vígan dicsérjük.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicséret légyen Atyának és egyetlenegy Fiának és a mi Vigasztalónknak, kitől minden jók származnak.</lines>
+    </verse>
+  </lyrics>
+</song>

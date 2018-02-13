@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:16">
+  <properties>
+    <titles>
+      <title>Ó, Jézusunk, szent a neved</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, Jézusunk, szent a neved</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, Jézusunk, szent a neved! Szent a neved, ó Jézusunk, szent a neved a földön.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent a neved, szent a neved, szent a neved a Földön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drága Atyám, szent a neved! Szent a neved, ó Jézusunk, szent a neved a földön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csodás Szentlélek, szent a neved! Szent a neved, ó Jézusunk, szent a neved a földön.</lines>
+    </verse>
+  </lyrics>
+</song>

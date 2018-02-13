@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:11">
+  <properties>
+    <titles>
+      <title>Kicsi vagyok én</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kicsi vagyok én</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kicsi vagyok én, mégse félek én, <br/>kicsi vagyok én mégse félek én,<br/>Semmi baj nem lehet, mert engem Jézus szeret, <br/>Kicsi vagyok én, mégse félek én.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>la-la-la-la-la-la-la-la, la-la-la-la-la-la-la, la-la-la-la-la-la-la-la, la-la-la-la-la-la.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldog is vagyok, az is maradok, <br/>boldog is vagyok, az is maradok.<br/>Rossz kedvem nem lehet, <br/>mert engem Jézus szeret.<br/>Boldog is vagyok, az is maradok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erdőn, réteken, száll az énekem, <br/>erdőn, réteken száll az énekem.<br/>Tudja meg a világ, hogy Jézus a boldogság !<br/>Erdőn, réteken, száll az énekem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Utcán, tereken, nem hagy el sosem, <br/>utcán, tereken, nem hagy el sosem.<br/>Mindenkit így szeret, mert Jézus a szeretet.<br/>Utcán, tereken, nem hagy el sosem.</lines>
+    </verse>
+  </lyrics>
+</song>

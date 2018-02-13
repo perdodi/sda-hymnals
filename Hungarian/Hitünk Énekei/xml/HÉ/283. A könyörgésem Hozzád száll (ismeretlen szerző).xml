@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:57:41">
+  <properties>
+    <titles>
+      <title>283. A könyörgésem Hozzád száll</title>
+    </titles>
+    <copyright>Hé-283</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A könyörgésem Hozzád száll...<br/><br/>Hitünk énekei<br/>283. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A könyörgésem Hozzád száll a mélységből Úr Isten, szent trónodnál irgalom vár, bár tengernyi a vétkem! Ha megítélnéd, Istenem, mit neved ellen vétettem, ki áll meg színed előtt?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagy kegyelmed oly végtelen, hogy bűnöm elfelejted; Nincs nékem semmi érdemem, de mégis bízom benned. Nem sújtasz vétek, bűn szerint, ha szívem bízva Rád tekint, Te megbocsátasz nékem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr Istenben bízom én, nem gyarló érdemekben és éltet az a szent remény, hogy üdvöt nyer a lelkem. Szent igéd arról biztosít, hogy Jézus Krisztus üdvözít és ez ád erőt nékem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A küzdés nehéz percében én erős hittel várlak; Nem kételkedem sohasem, ha gyötör is a bánat. Ki Lelked által újjá lett, nyer üdvösséget, életet, ha Benned bízik mindig.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha vétkeimnek terhe nagy, még nagyobb szent kegyelmed! Te irgalomnak Atyja vagy és szereted az embert. Te irányítod léptemet és oltalmazod lelkemet, mert Te vagy a hű Pásztor!</lines>
+    </verse>
+  </lyrics>
+</song>

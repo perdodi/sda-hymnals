@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:53">
+  <properties>
+    <titles>
+      <title>Van egy pálcám</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Van egy pálcám</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Van egy pálcám, színarany, vele járom az utam.<br/>Mennyből kaptam a botom, bízva rá támaszkodom.<br/>Vándorbottal a kezembe, odatartok fel a mennybe.<br/>Biztos pálcám: ez a hit, támogat és megsegít.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Van egy angyal, csudaszép, szelíd, kedves, mint az ég.<br/>Csalogatja a szívem hűn követni Mesterem.<br/>Minden ember Tőle gazdag, boldogságot Tőle kaphat.<br/>Ez az angyal: szeretet, Isten szívéhez vezet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fenn az égen -tiszta fény- van egy csillag, az enyém!<br/>Mosolyogva integet, egyre vonja szívemet.<br/>Messziről is látva látja, égi ajtó, nyitva, tárva.<br/>Ez a csillag: a remény, vele mennybe jutok én.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:16">
+  <properties>
+    <titles>
+      <title>Amikor megérint</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Amikor megérint</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Amikor megérint engem kegyelmed, amikor betölt jelenléted, amikor melletted elhomályosul minden!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amikor eléd állok, s meglátlak, áthatol rajtam tekinteted, amikor hívón nyújtod átszegzett kezed!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imádlak, ó, Uram, imádlak Istenem. Ezért vagyok, és élek örökké! Imádlak, ó, Uram, imádlak Istenem. Ezért vagyok, és élek örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:43:20">
+  <properties>
+    <titles>
+      <title>471. Oly szép az ember, ki a bűnt</title>
+    </titles>
+    <copyright>Hé-471, Üa-461</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Oly szép az ember, ki a bűnt...<br/><br/>Hitünk énekei<br/>471. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Oly szép az ember, ki a bűnt egészen elveté, arcáról égi üdv ragyog, mert szíve Jézusé. Dicséret hangzik ajkiról, alázat homlokán és békesség minden művén, áldás azok nyomán.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mily szép, mily szép, ki Jézusé, kiben a Krisztus látható, ki Jézust felvevé!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A legszebb öltöny, a megtért hű lélek öltönye, Oly kedves fénytől tündököl, igaz fehér szíve. A szeretet ragyog azon és mennyei öröm, rajt' sok szép erény látható együtt s külön-külön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha ezt az öltönyt megnyered, vigyázz lelkem reá és ne térj attól el soha, ki azt neked adá. Ezen világban sok a szenny, megóvjad öltönyöd! Ha beszennyezted azt vele, elvész az örömöd.</lines>
+    </verse>
+  </lyrics>
+</song>

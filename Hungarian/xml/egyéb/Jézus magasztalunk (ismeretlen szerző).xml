@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:00">
+  <properties>
+    <titles>
+      <title>Jézus magasztalunk</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus magasztalunk</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus magasztalunk; légy a mi királyunk. Jöjj közénk, légy a vendégünk; hálával téged dicsérünk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És minden imádság hozzád száll és minden imádság téged áld. És minden hű szív téged vár. Jöjj el, Urunk, hisz úgy várunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus áldunk téged; dícsérjük nevedet. Magasztald te is, testvérünk; énekkel téged dicsérünk!</lines>
+    </verse>
+  </lyrics>
+</song>

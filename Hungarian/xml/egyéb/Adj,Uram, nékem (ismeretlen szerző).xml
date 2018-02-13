@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:15">
+  <properties>
+    <titles>
+      <title>Adj,Uram, nékem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Adj, Uram, nékem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Adj, Uram, nékem szeretetet, képmutatástól óvd szívemet! Hadd örüljek mindig a más örömén, és hadd töltsön el részvét a más könnyén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jóságos szívvel áldj meg Uram, irgalom utját hadd járhassam: megbocsátni tudjak, ha bántalom ért, és lehessek így hálás irgalmadért.</lines>
+    </verse>
+  </lyrics>
+</song>

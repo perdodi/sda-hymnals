@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:14">
+  <properties>
+    <titles>
+      <title>A szívemet átadom én</title>
+    </titles>
+    <copyright>S-094</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A szívemet átadom én</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A szívemet átadom én. Ó nézd leteszek mindent lábad elé. Mi nélküled benne volt kár és szemét. Uram szívemet átadom én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szívemet átadom én. Ó nézd könyörög lelkem új életért, és elhiszem üdvömért véred elég. Uram szívemet átadom én.</lines>
+    </verse>
+  </lyrics>
+</song>

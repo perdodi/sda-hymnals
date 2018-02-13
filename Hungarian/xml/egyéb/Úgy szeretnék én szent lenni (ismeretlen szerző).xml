@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:21">
+  <properties>
+    <titles>
+      <title>Úgy szeretnék én szent lenni</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úgy szeretnék én szent lenni</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úgy szeretnék én szent lenni! Add, Atyám, hogy az legyek! Moss meg Jézus szent vérében, és én hófehér leszek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tégy szenté, te, engemet, tisztísd meg a szívemet! Jézusom, átadom, tisztísd meg a szívemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halljad lelkem sóhajtását: vedd el bűnösségemet; Teljesítsd szívem vágyát, váltsd nappallá éjemet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nincssn semmi jóság bennem, a saját erőm kevés, tégy Atyám, te, szentté engem, kérlek, Jézus véréért!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Atyám, a lábaidnál megtört szívvel állok ím; Légy irgalmas szívvel hozzám, és boccsásd meg bűneim!</lines>
+    </verse>
+  </lyrics>
+</song>

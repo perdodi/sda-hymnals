@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:19">
+  <properties>
+    <titles>
+      <title>Az Úr jósága, hogy még élünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr jósága, hogy még élünk</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Az Úr jósága, hogy még élünk a földön, mert az Ő irgalma soha véget nem ér: Újjá éled reggelre, minden reggelre. Nagy a Te hűséged, ó Urunk, nagy a Te hűséged.</lines>
+    </verse>
+  </lyrics>
+</song>

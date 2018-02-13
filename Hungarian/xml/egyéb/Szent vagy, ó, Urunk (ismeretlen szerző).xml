@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:41">
+  <properties>
+    <titles>
+      <title>Szent vagy, ó, Urunk</title>
+    </titles>
+    <verseOrder>i1 v1 v1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szent vagy, ó, Urunk</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Szent vagy, Szent vagy,Szent vagy,  ó, Urunk! Szent vagy, Szent vagy,Szent vagy,  ó, Urunk!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Az ég, a föld s a mindenség mind hirdeti neved dicsőségét, mert</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Áldott, áldott. aki jő az Úr nevében!<br/>Áldott, áldott. aki jő az Úr nevében!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Előtted állunk és imádunk, Ó, jöjj, Úr Jézus, úgy várunk mert</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Áldott,  Áldott, Áldott, a mi Urunk!<br/>Áldott,  Áldott, Áldott, a mi Urunk!</lines>
+    </verse>
+  </lyrics>
+</song>

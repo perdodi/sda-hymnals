@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:46:04">
+  <properties>
+    <titles>
+      <title>51. Hű karod véd és oltalmaz</title>
+    </titles>
+    <copyright>Hé-051</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hű karod véd és oltalmaz...<br/><br/>Hitünk énekei<br/>51. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hű karod véd és oltalmaz, áldalak ezért, én Uram; Békédnek tiszta öröme boldogít vészben, viharban.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ez az én legfőbb óhajom: Lássam most műved fenségét; Lábadnál ülve, Megváltóm, csak veled lenni szeretnék.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bármilyen munkát bízol rám, jó kedvvel végzem, Istenem, mert tudom azt, hogy velem van a mindenható kegyelem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tebenned bízom mindenkor, add nékem Lelked erejét, hogy eme földi harc után elnyerjem lelkem békéjét.</lines>
+    </verse>
+  </lyrics>
+</song>

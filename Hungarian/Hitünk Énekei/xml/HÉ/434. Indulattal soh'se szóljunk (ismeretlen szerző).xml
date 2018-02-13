@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:27:01">
+  <properties>
+    <titles>
+      <title>434. Indulattal soh'se szóljunk</title>
+    </titles>
+    <copyright>Hé-434, Üa-218</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Indulattal soh'se szóljunk...<br/><br/>Hitünk énekei<br/>434. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Indulattal soh'se szóljunk oly szót, amely sebet ejt, meg ne nyíljék soha ajkunk, oly szóra, mely mérget rejt!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Egymást szeressük, mondja Mesterünk, szeressük egymást mindenekfelett. Egymást szeressük, ez legyen üdvünk, hű tanítvány az, ki szeret!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szeretet szent érzelme hassa által lelkünket! Helyet ne találjon benne a harag és gyűlölet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kövessük hát Istenünket, a szeretet Istenét. S árasszuk szeretetünket a világra szerteszét!</lines>
+    </verse>
+  </lyrics>
+</song>

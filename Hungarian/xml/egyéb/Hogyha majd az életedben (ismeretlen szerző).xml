@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:51">
+  <properties>
+    <titles>
+      <title>Hogyha majd az életedben</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hogyha majd az életedben</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hogyha majd az életedben nehéz, súlyos próbák jönnek, gondolj arra, Jézusé vagy, Neki adtad szíved.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Csak ne hagyd el Őt, hiszen nagyon szeret. Akkor is így van, ha nem érzed ezt, és úgy látod nincs, aki segítene, feletted őrködik Isten keze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Annyi mindent tett Ő érted, hogy te mindig boldog lehess, amit ígér, azt megadja idejében neked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soha nem hagyott el Isten, mikor nehéz volt  a szívem, szükségemben mindig ott volt, mint hű segítségem.</lines>
+    </verse>
+  </lyrics>
+</song>

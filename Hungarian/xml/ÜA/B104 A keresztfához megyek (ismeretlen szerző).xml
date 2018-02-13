@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:36">
+  <properties>
+    <titles>
+      <title>B104 A keresztfához megyek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A keresztfához megyek<br/>B104</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A keresztfához megyek, Mert máshol nem lelhetek Nyugodalmat lelkemnek. Ott könnyárban leborulok, Bűnterhemtől szabadulok, Hol a bűntelen szenved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten ama Báránya Hogy jut a keresztfára? Mért foly alá szent vére? Értem tette ezt Jézusom, Fájó szívvel hiszem, tudom, Lelkem örök üdvére.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én voltam az elveszett, Aki halált érdemelt, Kire gyászos éj szakadt. Isten Fia a jó Pásztor, Megváltott a bűn átkától, Üdvöm, napom föltámadt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csodás égi szeretet! Szívem mindet elfeled, Ami eddig félre vont. Csak rád nézek, én Megváltóm, Kegyelmedet sírig áldom, Óemberem már megholt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tied vagyok, Jézusom, Megyek keresztutadon, Nyugtot, békét így lelek. A szeretet hozzád kapcsol, Boldog, aki híven harcol, Veled mindig győzhetek!</lines>
+    </verse>
+  </lyrics>
+</song>

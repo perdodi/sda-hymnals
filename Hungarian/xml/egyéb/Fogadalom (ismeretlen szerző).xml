@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:42">
+  <properties>
+    <titles>
+      <title>Fogadalom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fogadalom</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Mivel a teljes Írás az Atya, a Fiú és a Szentlélek hozzánk szóló kijlentése, elismerjük, hogy a Biblia legfőbb tekintély. Ezért erkölcsi döntéseinkben, a hit és az élet minden területén<br/>Követjük a Bibliát</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mivel a Szentírásban Jézus Krisztus személyesen szólít meg bennünket, rendszeresen megnyitjuk magunk és családunk épülésére. Elkötelezzük magunkat, hogy újra felfedezzük benne a Megváltó hangját és így<br/>Követjük a Bibliát</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Mivel az Igében rejlik az örök élet evangéliuma, üzenetét megosztjuk barátainkkal, a környezetünkben élő emberekkel. Tanításait képviseljük személyes beszélgetésekben, kiscsoportokban, "alkalmas és alkalmatlan időben".</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Elkötelezzük magunkat: a Biblia üzenete életünkben láthatóvá válik, hogy a világ körülöttünk újra megtudja, a Könyv népe vagyunk<br/>Követjük a Bibliát</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Amíg egy ember is él a Földön, aki nem ismeri az Isten szavát; amíg élünk, vagy amíg eljön Jézus Krisztus<br/>Követjük a Bibliát<br/>Ámen</lines>
+    </verse>
+  </lyrics>
+</song>

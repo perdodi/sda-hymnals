@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:43">
+  <properties>
+    <titles>
+      <title>Fújd a kürtöt Sionban</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fújd a kürtöt Sionban</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fújd a kürtöt Sionban, zengessed a hegyen,<br/>Fújd a kürtöt Sionban, mert az Úrnak napja eljött!<br/>Halle-hallelujah, hatalmas Isten,<br/>Halle-hallelujah, Jézus a Király!</lines>
+    </verse>
+  </lyrics>
+</song>

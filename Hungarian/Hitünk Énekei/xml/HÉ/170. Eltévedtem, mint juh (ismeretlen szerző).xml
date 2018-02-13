@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:45:58">
+  <properties>
+    <titles>
+      <title>170. Eltévedtem, mint juh</title>
+    </titles>
+    <copyright>Hé-170</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Eltévedtem, mint juh...<br/><br/>Hitünk énekei<br/>170. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Eltévedtem, mint juh, eltévedtem, mint juh, a bűnösök útjára; Ó! segíts Jézusom, őriző pásztorom, hogy ne jussak romlásra. Te ontál drága vért elveszett juhokért, viselj gondot a nyájra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én is juhod vagyok, én is juhod vagyok, nyájadnak legkisebbje, kit Te megtéríthetsz, bűnből kivezethetsz a szép, kies helyekre. Kérlek azért hitből, töredelmes szívből, fogadj, végy kegyelmedbe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ím előtted állok, ím előtted állok, ajtód előtt zörgetek. Bár titkos bűnökkel és nyilvánlevőkkel vétkeztem Teellened: Kérlek mindazáltal, nagy irgalmassággal fogadd vissza gyermeked.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bár a hit szívemben, bár a hit szívemben oly kicsiny, mint mustármag, mégis bármily gyenge, Szentlelked nevelje, nevelje fel nagy fának, hogy terjedjen ága és legyen virága kedves néked, Urának.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Míg porsátoromban, míg porsátoromban tartasz, mint egy tömlöcben, nevelj igaz hitben, munkás szeretetben, hogy élhessek itt bölcsen és kimúlásomig, utolsó órámig tisztemet hűn betöltsem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szállj le, Uram, hozzám, szállj le, Uram, hozzám. Jöjj, ó! Jézus, sietve, vágyakozó szívvel, kiterjesztett kézzel várlak immár epedve, hogy veled mennyekbe, örömmel menjek be Ábrahám kebelébe.</lines>
+    </verse>
+  </lyrics>
+</song>

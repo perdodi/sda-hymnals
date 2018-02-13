@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:26:40">
+  <properties>
+    <titles>
+      <title>433. Mondjátok, meghalt-e az Úr</title>
+    </titles>
+    <copyright>Hé-433, Üa-206</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mondjátok, meghalt-e az Úr...<br/><br/>Hitünk énekei<br/>433. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mondjátok, meghalt-e az Úr én értem is a fán? Ontott-e vért ily bűnösért, mint én, a golgotán?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus értem halt! Jézus értem halt! Mindenkiért meghalt az Úr, énértem is tehát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igaz, hogy Jézus szenvedett az én sok bűnömért? Óh mily csodás nagy irgalom, mely azzal engem ért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ím átadom magam Uram, ahogy vagyok, neked! Te gyógyítsd meg a szívemet, vegyed Jézus, vegyed!</lines>
+    </verse>
+  </lyrics>
+</song>

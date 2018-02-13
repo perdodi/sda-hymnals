@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:19">
+  <properties>
+    <titles>
+      <title>B465 Az Úr meghall' imát</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr meghall' imát<br/>B465</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr meghall' imát, Jóvolta ez nem érdem, Meghallgat engem is, Ha hittel kéri szívem, Kegyesen elfogad, Vissza nem utasít, Elmondhatom néki Szívem panaszait.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igéje lelkesít És bátorít imára. Eléje borulok, A szívem megalázva. Szent Fia nevében Imám elrebegem, Amit hittel kérek, Megadja szívesen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Örömmel elhiszem, Amit ígértél nékem! Amíg tart életem, Abba vetem reményem. Bátran letérdelek, S bocsátok hő imát: Tégy hűvé engemet, Többit bízom Reád.</lines>
+    </verse>
+  </lyrics>
+</song>

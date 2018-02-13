@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T19:40:15">
+  <properties>
+    <titles>
+      <title>225. El nem hagylak Jézusom</title>
+    </titles>
+    <copyright>Hé-225</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>El nem hagylak Jézusom...<br/><br/>Hitünk énekei<br/>225. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>El nem hagylak Jézusom; Értem adtad drága élted! Add, hogy vándorutamon mindig közeledben éljek. Te vagy világosságom: El nem hagylak Jézusom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El nem hagylak sohasem, míg e földön utam járom; Tőled kaptam mindenem, reménységem, gyógyulásom! Te vagy örök támaszom: El nem hagylak Jézusom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden érzék cserbenhagy; Mint a virág: hervad minden; De Te, Jézus, velem vagy, Téged látlak mindig hitben! Ha közelg is alkonyom: El nem hagylak Jézusom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Égen, földön semmi más rajtad kívül nem kell nékem! Ez a boldog vágyódás tölti be az egész éltem. Te vagy üdvöm, megváltóm: El nem hagylak Jézusom!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Maradj vélem, Jézusom, hagyd, hogy mindig véled járjak. Te vagy életforrásom, melyből üdvösségem támad. Bízó hittel mondhatom: El nem hagylak Jézusom!</lines>
+    </verse>
+  </lyrics>
+</song>

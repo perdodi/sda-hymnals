@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:23">
+  <properties>
+    <titles>
+      <title>Üres kézzel</title>
+    </titles>
+    <verseOrder>i1 v1 v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Üres kézzel</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Üres kézzel menjeké el, álljak úgy az Úr előtt, egy lelket sem hozzaké el, gyümölcs nélkül nézzem Őt?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézusom megváltott engem, nem rettegem a halált, de üresen megjelennem: fájlalom e lelki kárt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bárcsak újra visszanyerém éltem elszórt éveit, Őt szolgálná szívem, elmém, néki élnék híven itt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fel munkára, Isten népe hűséggel működjetek, s mielőtt a nap lennem, sok lelket magmentsetek!</lines>
+    </verse>
+  </lyrics>
+</song>

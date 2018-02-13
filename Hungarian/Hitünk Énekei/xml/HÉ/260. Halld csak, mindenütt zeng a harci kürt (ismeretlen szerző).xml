@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T11:25:12">
+  <properties>
+    <titles>
+      <title>260. Halld csak, mindenütt zeng a harci kürt</title>
+    </titles>
+    <copyright>Hé-260</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Halld csak, mindenütt zeng a harci kürt...<br/><br/>Hitünk énekei<br/>260. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Halld csak, mindenütt zeng a harci kürt, Isten népe küzd az Úrért. Vedd föl fegyvered, álld meg jól helyed, harcolj égő hittel Jézusért!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fel hát, hősök, fel a végső harcra! Szívünk lángja Jézusért lobog. Rajta, rajta! Zeng a szent hozsanna, Krisztus hősi népe győzni fog!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bátran zeng a szó, harci induló, nékünk győzni kell, fel tehát! Lelki fegyverek messze fénylenek, és majd végül győz az igazság!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott Istenünk, kérünk, légy velünk, óvja életünk kegyelem; Majd a harc után, a sok könny után, tudjuk vár reánk a győzelem!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:28:37">
+  <properties>
+    <titles>
+      <title>104. Elrejt az Úr szent szárnya oltalmába</title>
+    </titles>
+    <copyright>Hé-104</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elrejt az Úr szent szárnya oltalmába...<br/><br/>Hitünk énekei<br/>104. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elrejt az Úr szent szárnya oltalmába, ez legyen majdan szent örökséged, míg véle jársz itt lépve lábnyomába, zengje hát szeretetét életed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elrejt az Úr - de híven tükrözd vissza orcája fényét annak, aki lát; Így lehetsz Isten élő bizonysága, hirdetve szeretetét, jóságát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elrejt az Úr - és béke, édes illat tölti be szíved boldog szentélyét. Elrejt az Úr - és zeng millió csillag, s hallod az égi hárfák zengését.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Elrejt az Úr - a szíved bízhat ebben; Az élet útját emelt fővel járd! Elrejt az Úr - e reménnyel szívedben az élet koronája vár reád!</lines>
+    </verse>
+  </lyrics>
+</song>

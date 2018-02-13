@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:36">
+  <properties>
+    <titles>
+      <title>Drága uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Drága Uram<br/>(Uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Drága Uram, kérlek, vedd el bűneimet, add erődet nékem, hogy így szabad legyek. Őrizz éjel, nappal a te jóságoddal, szívem trónján te uralkodj mindenkor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Véredben meg mostál, bűntől megváltotál, szabaddá lett lelkem, megújult a szívem. Drága Uram. érzem, nagyon szeretsz engem, szívem trónján te uralkodj mindenkor.</lines>
+    </verse>
+  </lyrics>
+</song>

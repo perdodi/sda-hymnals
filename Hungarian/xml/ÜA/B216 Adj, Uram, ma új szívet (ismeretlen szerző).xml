@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:49">
+  <properties>
+    <titles>
+      <title>B216 Adj, Uram, ma új szívet</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Adj, Uram, ma új szívet<br/>B216</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Adj, Uram, ma új szívet, Mely hozzád hű és szeret, Jónak vágya hatja át, Hogyha hívod, hallgat rád!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ím, a szívem megnyitom, Lakj Te benne, Jézusom! Bűneit ha elveszed, Templomoddá így lehet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden áldás kútfeje, Szívem vágyát töltsed be! Öntsd reám Szentlelkedet, Nézzen rám őrző szemed!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zengek hálaéneket, Mindig áldom szent neved. Mily boldogság énnekem Benned élni szüntelen!</lines>
+    </verse>
+  </lyrics>
+</song>

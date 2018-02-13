@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:56">
+  <properties>
+    <titles>
+      <title>teszt 01 válasz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Kígyón keresztül Sátán, amikor Évát megkérdezte a tiltott fánál, hogy “csakugyan azt mondta Isten, hogy a kertnek egy fájáról se egyetek” I. Móz. 3,1.</lines>
+    </verse>
+  </lyrics>
+</song>

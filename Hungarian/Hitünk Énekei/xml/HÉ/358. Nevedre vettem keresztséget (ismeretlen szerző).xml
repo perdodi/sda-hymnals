@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:25:08">
+  <properties>
+    <titles>
+      <title>358. Nevedre vettem keresztséget</title>
+    </titles>
+    <copyright>Hé-358</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nevedre vettem keresztséget...<br/><br/>Hitünk énekei<br/>358. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nevedre vettem keresztséget, ó! isteni Szentháromság! Megszentelt néped tagja lettem, és várom Krisztus országát. Krisztussal eltemettettem, s Lélektől újjá születtem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te gyermekednek szólítsz engem és örökösnek, jó Atyám. Jézusom, drága véred árán, most én is élek igazán! Szentlélek Isten, legfőbb jóm, Te vagy az én vigasztalóm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Átadom néked, Uram, újból, a lelkemet és szívemet. Te őrizz, segíts, vezess híven az igaz hitben engemet, hogy én így teljes éltemben, csak akaratodat tegyem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adj erőt, hogy e szövetséget, megtartsam mindig igazán; Ó tarts meg örök szerelmedben, míg végső órám itt lejár, hogy éltem delén, alkonyán áldjalak Téged, jó Atyám!</lines>
+    </verse>
+  </lyrics>
+</song>

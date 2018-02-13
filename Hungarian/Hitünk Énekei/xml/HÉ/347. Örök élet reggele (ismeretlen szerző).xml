@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:03:43">
+  <properties>
+    <titles>
+      <title>347. Örök élet reggele</title>
+    </titles>
+    <copyright>Hé-347</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Örök élet reggele...<br/><br/>Hitünk énekei<br/>347. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Örök élet reggele, fény a véghetetlen fényből, egy sugárt küldj ránk Te le, kik új napra ébredénk föld; Fényed lelkünk éjjelét űzze szét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jóságodnak harmata gyarló életünkre hulljon; Szívünk, mely kiszárada, vigaszodtól felviduljon; S híveid közt légy jelen szüntelen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szereteted ölje meg sok hitetlen büszkeségünk, s most, hogy újra itt a regg, ébredezzen tőle szívünk; Menjünk át az életen éberen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bűn ruháját vessük el a szövetség vére által, vétkeink fedezzük el Tőled nyert fehér ruhánkkal, hogy hitünk legyőzze majd mind a bajt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Feltámadás reggele, hogyha majd Te ránk köszöntesz; Üdvösségünk hírnöke, új életre hogyha költesz, lelkünk e nagy kegyelmen örvendjen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vezess majd az égbe föld, irgalomnak napvilága; Könnyek gyászos völgyiből üdvösségnek szép honába, hol az üdv és béke majd egyre tart.</lines>
+    </verse>
+  </lyrics>
+</song>

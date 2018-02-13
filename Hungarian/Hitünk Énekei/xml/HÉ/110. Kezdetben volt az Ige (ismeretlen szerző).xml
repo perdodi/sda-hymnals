@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:29:43">
+  <properties>
+    <titles>
+      <title>110. Kezdetben volt az Ige</title>
+    </titles>
+    <copyright>Hé-110</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kezdetben volt az Ige...<br/><br/>Hitünk énekei<br/>110. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kezdetben volt az Ige, a Krisztus ő felsége, szent Atyjának egyetlenegyje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leszálla mennyországból, Atyja akaratjából, Istenségnek szent tanácsából.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E világra adaték és minékünk születék, emberi nem hogy megváltatnék.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mint Ádámban kesergünk: a Krisztusban vígadunk, mert Ő nékünk minden örömünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mert Ádámban meghaltunk, de lőn Krisztus mi Urunk, Ki által ismét feltámadunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Örvendjünk és vigadjunk, Istennek hálát adjunk, hogy halálból életre jutunk.</lines>
+    </verse>
+  </lyrics>
+</song>

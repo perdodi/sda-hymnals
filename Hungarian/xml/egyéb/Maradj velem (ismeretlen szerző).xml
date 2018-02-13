@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:17">
+  <properties>
+    <titles>
+      <title>Maradj velem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Maradj velem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Maradj velem, mert mindjárt este van,<br/>Nő a sötét, ó el ne hagyj, Uram,<br/>Nincs senkim és a vígaszt nem lelem,<br/>Gyámoltalannal, ó maradj velem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden múló perc hozzád visz közel,<br/>Kegyelmed űzi kísértőmet el,<br/>Nincs más vezérem, nincs más Mesterem,<br/>Fényben, borúban, ó maradj velem.</lines>
+    </verse>
+  </lyrics>
+</song>

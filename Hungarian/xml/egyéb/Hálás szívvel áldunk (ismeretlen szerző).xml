@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:52">
+  <properties>
+    <titles>
+      <title>Hálás szívvel áldunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hálás szívvel áldunk</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hálás szívvel áldunk Téged, Istenünk. Nézz le ránk az égből, halld meg énekünk! Trónod meg nem rendül, mindvégig megáll. Zengjen hallelujánk Hozzád, nagy Király! Zengjen hallelujánk Hozzád, nagy Király!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott ülsz Isten jobbján fényes trónuson, égi lények folyton áldnak hódolón. Ég s föld minden lénye végül megtudja, hogy Te vagy a Bíró, Ég és föld Ura! Hogy Te vagy a Bíró, Ég és föld Ura!</lines>
+    </verse>
+  </lyrics>
+</song>

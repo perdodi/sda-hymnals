@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:51:28">
+  <properties>
+    <titles>
+      <title>207. Hordozd híven Jézus nevét</title>
+    </titles>
+    <copyright>Hé-207</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hordozd híven Jézus nevét...<br/><br/>Hitünk énekei<br/>207. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hordozd híven Jézus nevét, bú és bánat gyermeke; Vigaszt nyújt, ha fáj a lelked, balzsam ez a szívedre! Áldott név, drága név, Te a mennynek öröme, áldott név, drága név, Te a földnek reménye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Járjál szüntelen e névvel, pajzs ez, védő fegyvered, és ha megkísért az élet, hívd csak, hívd e szent nevet! Áldott név, drága név, Te a mennynek öröme, áldott név, drága név, Te a földnek reménye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus drága szent nevére minden szívben béke él, védőn átölel a karja, zengjük híven énekét. Áldott név, drága név, Te a mennynek öröme, áldott név, drága név, Te a földnek reménye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Majd ha véget ért a pályánk, trónjánál, ha térdelünk, Őt az üdvözítő Jézust, áldja hálaénekünk: Áldott név, drága név, Te a mennynek öröme, áldott név, drága név, Te a földnek reménye.</lines>
+    </verse>
+  </lyrics>
+</song>

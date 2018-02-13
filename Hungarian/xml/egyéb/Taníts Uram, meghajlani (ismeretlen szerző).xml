@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:45">
+  <properties>
+    <titles>
+      <title>Taníts Uram, meghajlani</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Taníts Uram, meghajlani</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Taníts Uram, meghajlani, mint szélben az arany kalász! Hajoljak meg, ha szentleked reám fuvall s porig aláz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>S dacos szívem, ha ellenáll, midőn a lélek rálehel; Jöjj tűz gyanánt, s a dac, a gőg Lelked tüzében égjen el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint bősz hullám, mely megtörik, ha parthoz űzi zúgó szél; úgy törjön össze szívem is, amint Tebenned partot ér!</lines>
+    </verse>
+  </lyrics>
+</song>

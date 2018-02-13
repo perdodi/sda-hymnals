@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:51">
+  <properties>
+    <titles>
+      <title>Hozzád jövünk, Uram - 1. változat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hozzád jövünk, Uram...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hozzád jövünk, Uram, ó segíts, ne szóljon Igéd hiába! A szívünk oly sötét, ó segíts, élessze Igéd világa! Áldd meg, ó Uram, ez énekünk, legyen jobban Tied életünk, ne szóljon Igéd hiába, ne szóljon Igéd hiába!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A fülünk Igédre nem figyel, lábunkkal járunk a sárba. Vágyaink szakítnak Tőled el, nem fénylik mécsünk világa. Ó Uram, templomod hadd legyen, a szívünk megszentelt hely legyen! Ne szóljon Igéd hiába, ne szóljon Igéd hiába!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ajkunkon hazugság bélyege, megrontott életünk átka. Hogy állunk elődbe így, Uram, naponként Téged imádva?! Nyisd meg a szemünk, hogy láthassunk! Szenteld meg ajkunk, hogy áldhassunk! Ne szóljon Igéd hiába! Ne szóljon Igéd hiába!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A szívünk összetört, ó Uram. Itt állunk Előtted gyászban. A mélyből hozd ki az életünk, ne szóljon Igéd hiába! Áldd meg Igédet, hogy érthessük, dicsőségedre, hogy élhessünk. Ne szóljon Igéd hiába, ne szóljon Igéd hiába!</lines>
+    </verse>
+  </lyrics>
+</song>

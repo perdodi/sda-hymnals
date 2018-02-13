@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:48">
+  <properties>
+    <titles>
+      <title>Harcos</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Harcos</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Harcos, aki ott állsz a harcmezőn, akit éltet vizem, s borom, az én erőm. Harcos, páncélod szép csillogó, de bensőd a sok küzdelemtől megfáradott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Harcos! Szemed a célpontra szegezd, segítsd meg, hordozd a sebesülteket. Bár fáj otthagynod a harcban elesetteket, készen álljon új csatára erős kardod és szellemed.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És este, mikor a fények kihunynak, s lepihensz, tudd meg, hogy büszkén nézlek és békém körülölel. Hadd nyugtassalak, hadd vegyem le terhedet, mert vitéz katonám vagy, csak ne feledd, gyermekem vagy, akit szeretek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Harcos, aki ott állsz a harcmezőn, akit éltet vizem, s borom, az én erőm, Hidd el veled vagyok, amikor a világ változik, és veled is maradok az idők végéig.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Harcos! Emeld magasra zászlód, ne engedd elragadni a csatában, és mindenek felett zengje kürtöd a riadót, mert az én mennyei seregem veletek harcba indul.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Vitéz katonám vagy és győztes leszel! Vitéz katonám vagy és gyermekem. Vitéz katonám vagy és győztes leszel, vitéz katonám vagy. Mert te vitéz katonám vagy csak ne feledd: Gyermekem vagy, akit szeretek!</lines>
+    </verse>
+  </lyrics>
+</song>

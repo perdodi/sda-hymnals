@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:41:56">
+  <properties>
+    <titles>
+      <title>467. Megváltóm, ki drága éltedet</title>
+    </titles>
+    <copyright>Hé-467, Üa-446</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Megváltóm, ki drága éltedet...<br/><br/>Hitünk énekei<br/>467. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Megváltóm, ki drága éltedet feláldozád mindenekért, a bűnbe süllyedt ember helyett a büntetés tégedet ért! Ó áldva légy, hogy az Atyának megszerezéd szeretetét; bár bűneim nagyok valának, adál nekem élő reményt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szereteted ültesd szívembe s tisztítsd meg azt én Megváltóm, legyen mindenkor életemben tied minden gondolatom! Óh légy velem Uram királyom! Kísérd, vezesd gyarló híved! Míg itt élek e földi tájon, ne vond meg, óh Szentlelkedet.</lines>
+    </verse>
+  </lyrics>
+</song>

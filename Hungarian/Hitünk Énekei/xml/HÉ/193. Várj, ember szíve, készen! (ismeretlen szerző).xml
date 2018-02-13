@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:49:24">
+  <properties>
+    <titles>
+      <title>193. Várj, ember szíve, készen!</title>
+    </titles>
+    <copyright>Hé-193</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Várj, ember szíve, készen!<br/><br/>Hitünk énekei<br/>193. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Várj, ember szíve, készen! Mert jó a hős, az Úr, ki üdvösséged lészen, szent, győztes harcosul; Fényt, éltet hozva jő, megtört az ősi átok: Kit vágyakozva vártok, betér hozzátok Ő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jól készítsétek útát, a vendég már közel! Mi néki gyűlölt, utált, azt mind vessétek el! A völgyből domb legyen, hegycsúcs a mélybe szálljon, hogy útja készen álljon, ha Krisztus megjelen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha Őeléje tárod a szív alázatát, Őt nem hiába várod: Betér hozzád, megáld. A testi gőg: halál! De bűnödet ha bánod, Szentlelke bőven árad, s a szív üdvöt talál.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Jézusom, szegényed kér, vár, epedve hív; Te készítsd el, Tenéked lesz otthonod e szív! Jer hű szívembe hát! Bár szegény ez a szállás, de mindörökre hálás, úgy áldja Krisztusát.</lines>
+    </verse>
+  </lyrics>
+</song>

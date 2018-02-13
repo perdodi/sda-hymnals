@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:32:07">
+  <properties>
+    <titles>
+      <title>378. Fáradt vagyok, lenyugszom</title>
+    </titles>
+    <copyright>Hé-378</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fáradt vagyok, lenyugszom...<br/><br/>Hitünk énekei<br/>378. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fáradt vagyok, lenyugszom, álmos szemem lehunyom. A Te szemed, jó Atyám, vigyázzon az éjjel rám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ami rosszat ma tettem, bocsássad meg, Istenem, Jézus vére s kegyelmed törölje el vétkemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>szeretteim, Istenem, nyugodjanak kezedben. Minden ember: kicsi, nagy, érezze, hogy vele vagy!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Beteg szívnek enyhet adj, aki sír, azt vigasztald. Őrizz engem, jó Atyám; Sötét éjjel vigyázz rám.</lines>
+    </verse>
+  </lyrics>
+</song>

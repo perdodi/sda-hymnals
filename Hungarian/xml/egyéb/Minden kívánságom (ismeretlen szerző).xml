@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:23">
+  <properties>
+    <titles>
+      <title>Minden kívánságom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Minden kívánságom</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Minden kívánságom, hogy áldjalak, teljes szívemből magasztalak. Éltem és bensőm Téged dicsér, teljes lényemből imádlak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram vedd a szívem, és vedd a lelkem, töltsd be teljesen minden lélegzetben, minden lépésemben, munkálkodj bennem!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Itt a szívem, itt a lelkem! <br/>Itt a szívem, itt a lelkem!</lines>
+    </verse>
+  </lyrics>
+</song>

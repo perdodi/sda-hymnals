@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:35:57">
+  <properties>
+    <titles>
+      <title>389. Áldás szálljon most e frigyre</title>
+    </titles>
+    <copyright>Hé-389</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldás szálljon most e frigyre...<br/><br/>Hitünk énekei<br/>389. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldás szálljon most e frigyre és béke lelke minden szívbe, mely tartson egész élten át! Hogyha néha üröm cseppje az öröm közé keveredne: Az Úr majd mindent jóra vált. Most Őrá nézzetek, mert híven elvezet örök honba! Bízzatok hát, megvéd és áld és veletek lesz mindenkor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Urunk Isten, esdve kérünk, a közös úton Te légy vélünk és áldd meg minden léptünket! Most rád bízzuk minden gondunk és boldog szívvel hálát mondunk, hogy irányítod életünket. Ó! légy az örömünk és égi örökünk; Vezess üdvre! Ha vélünk vagy, erőnk Te vagy és égi honba juthatunk.</lines>
+    </verse>
+  </lyrics>
+</song>

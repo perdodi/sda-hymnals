@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:00">
+  <properties>
+    <titles>
+      <title>Jézus hívott a csatába</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus hívott a csatába</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus hívott a csatába, így leszek a katonája, Ő a szívünknek királya, nekünk semmi sem drága.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glóri, glóri halleluja, glóri, glóri halleluja, Glóri, glóri halleluja, Jézus mindenek Ura.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kettényílik majd a felhő, Jézus dicsőségben eljő, Ő az utolsó, az első, teljes szívvel dicsérjük Őt.</lines>
+    </verse>
+  </lyrics>
+</song>

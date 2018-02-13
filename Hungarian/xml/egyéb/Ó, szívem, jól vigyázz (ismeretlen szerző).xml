@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:18">
+  <properties>
+    <titles>
+      <title>Ó, szívem, jól vigyázz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, szívem, jól vigyázz</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, szívem, jól vigyázz, sok ellenség tör rád! Bűn gyümölcs csak kín és gyász, jól küzdj ellene hát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak gyáva szolga fél, te harcolj hitedért! Az győz. ki imádsággal él, s az útról le nem tér.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Még győznöd kell neked, a küzdés tart tovább, de végül majd fönt átveszed az Úrtól koronád.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Légy sírig hűséges, és légy hitben erős, erőért az Úrhoz siess, fönt pálmát nyer, ki győz!</lines>
+    </verse>
+  </lyrics>
+</song>

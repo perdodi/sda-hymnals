@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:52:52">
+  <properties>
+    <titles>
+      <title>89. Úr Jézus Krisztus dicsérünk</title>
+    </titles>
+    <copyright>Hé-089</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úr Jézus Krisztus dicsérünk...<br/><br/>Hitünk énekei<br/>89. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úr Jézus Krisztus dicsérünk, ember lettél érettünk; Egy szűztől nékünk születtél és örömöt így szereztél. Irgalmazzál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az örök Atya egy Fia feküdt ott a jászolba'; Mi gyarló földi testünkbe az örök Ige öltöze. Irgalmazzál!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kit világ fel nem foghata, a szűz ölében tartja; A menny és föld megtartója ím eljött ember formába'. Irgalmazzál!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagy világosság támadott, s nékünk örömöt hozott; A sötét éjben fényt terjeszt, s a fénynek gyermekévé tesz. Irgalmazzál!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E földre szegényen jöve, rajtunk így könyörüle, hogy tegyen minket gazdaggá és angyalihoz méltókká. Irgalmazzál!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ezt mivelünk mind Ő tette, szerelmét hogy jelentse, min örül minden keresztyén, Őt mindörökké dicsérvén. Irgalmazzál!</lines>
+    </verse>
+  </lyrics>
+</song>

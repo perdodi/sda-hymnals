@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:43">
+  <properties>
+    <titles>
+      <title>Futunk, s nem lankadunk</title>
+    </titles>
+    <verseOrder>i1 o1 o2 o1 o4</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Futunk, s nem lankadunk</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Futunk s nem lankadunk, járunk és nem fáradunk el, mert az Úr jár előttünk s az Ő kegyelme nem fogy el. Magas helyekre szárnyalunk fel, mint a sas az ég felé, s mikor jelenlétébe lépünk, várjuk eljövetelét.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Benned bízunk, ó, Urunk. A Te sátradban van otthonunk, és megújul erőnk, mert velünk vagy, Istenünk.</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Benned bízunk, ó, Urunk. A Te sátradban van otthonunk, és megújul erőnk, mert velünk van a mi Istenünk.</lines>
+    </verse>
+  </lyrics>
+</song>

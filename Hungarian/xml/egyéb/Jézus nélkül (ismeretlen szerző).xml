@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:01">
+  <properties>
+    <titles>
+      <title>Jézus nélkül</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus nélkül</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus nélkül életem, nem volt més csak félelem. Nem látam, hol van kiút, Nem tudtam, hogy Ő az út. 2x</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dávid fia, Jézus, könyörülj én rajtam! Annál inkább kiáltok, ha azt mondják, hogy hallgass! Jézus!  Jézus!  Jézus!  Jézus!  Jézus!  Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egyszer végül megjelent, éreztem, hogy ez mit jelent. Új szívet, ha hívom Őt, nyílt szemet, ha várom Őt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szükséged van Őreá szíved néki adjad át! Itt van Jézus, téged vár, jöjj most, és velünk kiálts:</lines>
+    </verse>
+  </lyrics>
+</song>

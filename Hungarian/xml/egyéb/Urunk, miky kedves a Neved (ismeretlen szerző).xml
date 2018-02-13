@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:52">
+  <properties>
+    <titles>
+      <title>Urunk, miky kedves a Neved</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Urunk, miky kedves a Neved</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Urunk, miky kedves a Neved, naprólnapra édesebb, olyan szent vagy! Urunk, jöjj, és töltsd be életünk, a Te jelenléted féényével!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>És most dicsérjük Neved, éneklünk Neked szívünkből! Urunk, mi úgy szeretünk, Te vagy Istenünk, a legszentebb név!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Te vagy, aki kegyelmet adtál, irgalommal hordoztál, olyan jó vagy! Nincs más, aki jobban szeretne, hűségesebb lehetne, mit te!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>És most Téged hallgatunk, benned ujjonunk nagy örömmel! Urunk, mi úgy szeretünk, a legszentebb név! Tiéd!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:17">
+  <properties>
+    <titles>
+      <title>Atyám, én átadom az életem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Atyám, én átadom az életem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Atyám, én átadom az életem. Így ahogy van, a kezedbe teszem, mert tudom, hogy felépítjük az országot, örök királyságot.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atyánk, mi átadjuk a templomunk, szenteld meg azt szent véreddel Urunk, és dícsér Téged itt a szív és a lét, várjuk dicső jöttét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Atyánk, most esdve azt kérjük Tőled, fogadd el ezt a szerény éneket, hogy, dícsérhessük Nálad, a mennyben fent csodálatos neved.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atyánk, mi köszönjük, hogy meghallgatsz, beteljesül kijelentett szavad, ha valaki hisz benned, el nem vesz, örök élete lesz.</lines>
+    </verse>
+  </lyrics>
+</song>

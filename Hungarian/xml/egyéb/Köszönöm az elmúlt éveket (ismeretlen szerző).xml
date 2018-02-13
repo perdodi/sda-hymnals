@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:13">
+  <properties>
+    <titles>
+      <title>Köszönöm az elmúlt éveket</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Köszönöm az elmúlt éveket</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Köszönöm az elmúlt éveket, <br/>boldog vagyok, mert megismertelek,<br/>Köszönöm a boldog perceket, <br/>mikor megérintett két kezed.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, veled akarok élni, <br/>a kezem a kezedbe akarom tenni,<br/>Tőled nem vonhat el senki, <br/>Uram, a Tied akarok lenni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszönöm a Te Szent lelkedet, <br/>mellyel vezetsz naponta engemet,<br/>Tisztíts meg a drága véreddel, <br/>hogy méltó lehessek Hozzád, Istenem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hálát adok Tenéked mindenért, <br/>hálát adok szeretetedért,<br/>Jézus Krisztus a legjobb barát, <br/>Nékünk adta Isten országát.</lines>
+    </verse>
+  </lyrics>
+</song>

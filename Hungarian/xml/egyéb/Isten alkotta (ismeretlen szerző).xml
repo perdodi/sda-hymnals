@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:56">
+  <properties>
+    <titles>
+      <title>Isten alkotta</title>
+    </titles>
+    <copyright>Kicsiny kis fény-3. (64)</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten alkotta</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten alkotta az oroszlánokat, a medvét, a kengurut. Isten alkotta a tevéket is, a tehenet, a tigrist.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden, amit alkotott, jó, minden, amit alkotott, jó, minden, amit alkotott, jó, az Ő műve mind!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten alkotta a fülemet is, a szemeim s az orrom. Isten alkotta az ujjaimat mind, a térdem s a lábam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Emeld fel kezed, álljál fél lábra, mosolyogj az Úrnak! Csípd meg orrodat, görbítsd az ujjad, fordulj körbe és zengd:</lines>
+    </verse>
+  </lyrics>
+</song>

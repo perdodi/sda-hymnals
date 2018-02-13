@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:16">
+  <properties>
+    <titles>
+      <title>Ma ünnepel minden</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ma ünnepel minden</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ma ünnepel minden, jöjj, énekelj, áldd Őt, hadd töltse be szíved, hogy hallja meg a föld! A gonosz hatalma szétfoszlott, és ma is Jézus az Úr, gyere, állj fel és ünnepelj, így várd, míg visszatér! 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma ünnepel! Jöjj áldjuk Őt minden dallal, mely szíveinkből fakad! Jöjj áldjuk Őt és dicsérjük ma, emeljük fel a dalban. Jöjj áldjuk Őt ma táncal, hangszerek hadával, gyere, állj fel Jézusért, így várd, míg visszatér! 2x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Érted is hordozta Jézus a kereszt minden terhét, gyere, álj fel és ünnepeld, így várd, míg visszatér!</lines>
+    </verse>
+  </lyrics>
+</song>

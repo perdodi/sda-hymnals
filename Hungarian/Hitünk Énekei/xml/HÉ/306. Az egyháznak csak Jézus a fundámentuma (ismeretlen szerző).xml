@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:49:24">
+  <properties>
+    <titles>
+      <title>306. Az egyháznak csak Jézus a fundámentuma</title>
+    </titles>
+    <copyright>Hé-306</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az egyháznak csak Jézus a fundámentuma...<br/><br/>Hitünk énekei<br/>306. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az egyháznak csak Jézus a fundámentuma, a szent Igére épült fel lelki temploma. Leszállt a mennyből hívni és eljegyezni őt, megváltva drága vérén a váltságban hivőt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kihívott minden népből egy lelki népet itt, kit egy Úr, egy keresztség és egy hit egyesít. Csak egy nevet magasztal, csak egy cél vonja őt és egy terített asztal ád néki új erőt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A világ fejedelme föltámad ellene, vagy hamis tudománytól gyaláztatik neve; s míg egykor felderül majd az Úrnak hajnala, csak virrasztói kérdik: "Meddig az éjszaka?"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sok bajban, küzdelemben meghajszolt, megvetett, de szent megújulásért és békéért eped, míg látomása egykor az Úrral teljesül s a győzedelmes egyház Urával egyesül.</lines>
+    </verse>
+  </lyrics>
+</song>

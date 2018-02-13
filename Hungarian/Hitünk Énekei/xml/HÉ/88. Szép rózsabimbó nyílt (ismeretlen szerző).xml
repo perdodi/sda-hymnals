@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:52:42">
+  <properties>
+    <titles>
+      <title>88. Szép rózsabimbó nyílt</title>
+    </titles>
+    <copyright>Hé-088</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szép rózsabimbó nyílt...<br/><br/>Hitünk énekei<br/>88. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szép rózsabimbó nyílt ki hajdan egy zsenge tőn, mint ősi ének zengi: Jesszének sarja lőn. Még zordon bús tél volt... S a szép virág kinyílott, épp, mikor éjfél volt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A sarjat, kit minékünk Ézsajás jósola, Mária által népünk Betlehemben kapta. Kitárult az égbolt... S az Ige testet öltött, épp, mikor éjfél volt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Illatát e kis rózsa köztünk hintette szét, fényét ragyogva szórta s eloszlott a sötét. Legyőzött bűnt, halált. Ő igaz Isten, ember, minden kínt jóra vált.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Jézus, segíts bennünk' e földi élten át. Így bizonnyal elérjük a mennynek szép honát, s hogy hálát zenghessünk ott, felséges Úr Isten, ó! add ezt meg nekünk!</lines>
+    </verse>
+  </lyrics>
+</song>

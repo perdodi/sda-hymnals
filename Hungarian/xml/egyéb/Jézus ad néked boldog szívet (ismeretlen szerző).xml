@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:00">
+  <properties>
+    <titles>
+      <title>Jézus ad néked boldog szívet</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus ad néked boldog szívet</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus ad néked boldog szívet, Jézus a hitnek útján vezet. Folyton ezt zenged, énekeled, Jézus tesz boldoggá.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus ad néked egy új szívet, elveszi bűnös természeted, áldott szent Lelke újjáteremt, Jézus tesz boldoggá.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az életnek, csak tiszta szívvel örvendhetsz, kérd Jézust: Uram, adj nékem kegyelmet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus ad néked tiszta szívet. Vére eltörlé bűneidet, Téged is Jézus üdvözíthet, Jézus tesz boldoggá. Jézus ad néked boldog szívet...</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Jézus tesz boldoggá. Jézus tesz boldoggá.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:35">
+  <properties>
+    <titles>
+      <title>Dicsérettlel jövünk eléd</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Dicsérettlel jövünk eléd</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dicsérettlel jövünk eléd, teljes szívünk legyen tiéd, átadjuk most testünket, mozgass meg bennünket Urunk! 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vágyodunk jelenlétedre! Vágyodunk érintésedre! Vágyodunk dicsőségedre! Vágyódunk Isten kertjébe!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Átadjuk most testünket, mozgass meg bennünket Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:54">
+  <properties>
+    <titles>
+      <title>Igaz, hogy Jézus értem halt?</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Igaz, hogy Jézus értem halt?<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Igaz, hogy Jézus értem halt, s eltörlé bűnömet? Isten Fia a fán meghalt s megmenté lelkemet?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A kerszt az a hely, hol fel tűnt reggelem, vak voltam, ott megnyilott a szemem, mert a szívembe Jézust bevevém, hozsána a béke ím enyém!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Bárány hordta vétkemet a kínos keresztfán, abból valóban láthatom szerelmét én hozzám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Könnyemmel meg nem adhtom nagy tartozásomat, de ím, Jézus, átadom Tenéked magamat!</lines>
+    </verse>
+  </lyrics>
+</song>

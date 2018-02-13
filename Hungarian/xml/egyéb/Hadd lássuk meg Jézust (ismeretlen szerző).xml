@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:46">
+  <properties>
+    <titles>
+      <title>Hadd lássuk meg Jézust</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hadd lássuk meg Jézust</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hadd lássuk meg Jézust, mint királyt, mint győtesek fényes zászlaját! Hogy megtudja így minden ember, csak Ő az út a mennybe! 2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hát nézük fel mert látnunk kell! Hadd lássuk meg Jézust, mint Királyt! Hát, nézzünk fel! Mert látnunk kell! Hadd lássuk meg Jézust, mint Királyt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lépést lépés így követ majd, győzelmet a földön, így nyerünk. Minden imánk erős fegyver, az ellenség előttünk meg nem áll, nem áll, nem áll! 2x</lines>
+    </verse>
+  </lyrics>
+</song>

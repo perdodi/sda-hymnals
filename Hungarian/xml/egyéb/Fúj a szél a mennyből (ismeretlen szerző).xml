@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:43">
+  <properties>
+    <titles>
+      <title>Fúj a szél a mennyből</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fúj a szél a mennyből</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fúj a szél a mennyből, át a földeken. Friss, üditő szellő, újra fújni kezd. Nem tudod, honnan jön, és hogy merre tart, csak fújjon rajtam át! Ó, friss szél, jöjj, és fújj rajtam át!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott felhők gyűlnek a száraz föld felett. Drága, égi zápor végre hullni kezd. Fordítsd arcod a mennyre, tárd ki két kezed, hadd áztasson el. Ó, lágy eső, jöjj és áztass el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tűz száll ránk az égből, az Úrnak Lelke. Újra lángra gyújtja az első szeretet. Tartsd a szíved készen, mint égő áldozat, engedd, hogy égjen a láng. Ó, drága tűz, jöjj és forrósíts át!</lines>
+    </verse>
+  </lyrics>
+</song>

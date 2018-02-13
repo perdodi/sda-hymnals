@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-07T13:10:38">
+  <properties>
+    <titles>
+      <title>233. Én minden dolgaimban</title>
+    </titles>
+    <copyright>Hé-233</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én minden dolgaimban...<br/><br/>Hitünk énekei<br/>233. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én minden dolgaimban és minden utaimban az Istenben bízom, Ki hű és örök pásztor, Ki vezet s jól tanácsol, csak segedelmét óhajtom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én minden törekvésem és sok-sok gyötrődésem ó! milyen hasztalan; Legyen meg akaratja és amint elgondolja, mert reá bízom én magam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Javamra válik minden, mit kegyelméből ingyen ad nékem jó Atyám és hálát adok néki, mert érzem közelségit, ha bármily sorsot mér is rám.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent kegyelmében bízom, mert ígéretét bírom, hogy megóv engemet; Ha járok tövényében, nem árthat semmi nékem és veszteségem nem lehet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Én gyarlóságom látja, a bűnöm megbocsátja, s elnézi sok vétkem; Mert nagy az Ő kegyelme és nem fogy el türelme, így nem büntet rögtön engem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ha hív és int az este, ha kelek új reggelre a küzdés honában, ha sok botlásom fáraszt, ha bűnöm gyötör, bágyaszt, én erőt lelek szavában.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ím Tiéd vagyok végleg, ha meghalok vagy élek, Te mindig vélem vagy! Te ismered a sorsom: Rád bízom minden dolgom, hogy kívánatos véget adj.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Most szállj magadba, lelkem és bízzál Istenedben, ki téged teremtett; Ő élted, üdvösséged és érjen bármi téged, az akarata legyen meg.</lines>
+    </verse>
+  </lyrics>
+</song>

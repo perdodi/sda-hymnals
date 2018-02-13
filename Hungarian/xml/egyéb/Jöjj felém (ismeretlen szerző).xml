@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:08">
+  <properties>
+    <titles>
+      <title>Jöjj felém</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jöjj felém</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ugye túlhajszol az élet, tele aggódással szíved, itt az idő, hogy megállj és imádkozz. Keress helyet, mely nyugodt, ahol a hangját hallhatod.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hív a Lélek hangja téged: Jöjj felém! Jöjj felém! Legyen mindig rám időd: Jöjj felém.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Csendesítsd el szívedet, üresítsd meg elmédet, töltse be a szíved remény: Jöjj felém!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Belesüpedtél a búba, félve gondolsz a holnapra, és az élet terhét vinni túlnehéz. Ha gondjaid ráveted, igazi békét ad neked.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Átölel a szeretet, szabaddá lesz életed, töltse be a szíved remény: Jöjj felém!</lines>
+    </verse>
+  </lyrics>
+</song>

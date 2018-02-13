@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:48">
+  <properties>
+    <titles>
+      <title>Hallelúja, Jézust dicsérd</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Halleluja, Jézust dicsérd</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Halleluja, Jézust dicsérd, halleluja mindörökké él. Csak Ő nélki zengnek a habok, a szél a fák a csillagok: minden élő Néki zengi énekét.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Halleluja Istennek, egyedül csak az Ő nevének. Minden lélek dicsérje Őt, énekelj az Úrnak, te egész föld!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Halleluja, Jézust dicsérd, halleluja mindörökké él. Ő az első és az utolsó, Ő a kezdet és a vég: egyedül csak Övé minden dicsőség.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Halleluja Istennek, halleluja az Ő nevének. Trónja elő száll ez a dal, velünk zengi az égi kar, halleluja!</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Halleluja, halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

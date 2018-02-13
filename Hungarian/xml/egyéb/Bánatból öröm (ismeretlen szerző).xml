@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:32">
+  <properties>
+    <titles>
+      <title>Bánatból öröm</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Bánatból öröm</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szomorú a világ, oly nagy a bánatom, a szépségek özönét nem láthatom. A szívem könyörög: nyisd meg a szememet, hogy lássam az igazi szent életet</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gyönyörű a világ, Jézusom, köszönöm, hogy életet alkottál itt a földön.Csodaszép ez a nap, oly nagy az örömem, ma készséggel átadom az életem.</lines>
+    </verse>
+  </lyrics>
+</song>

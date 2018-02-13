@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:39:27">
+  <properties>
+    <titles>
+      <title>399. Jó minékünk keresni Téged</title>
+    </titles>
+    <copyright>Hé-399, Üa-020</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jó minékünk keresni Téged...<br/><br/>Hitünk énekei<br/>399. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jó minékünk keresni Téged, óh egyetlen fővalóság, mert Te örök s változatlan vagy, mi pedig mulandóság.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jó minékünk ismerni Téged, mert minden más hiába’ van; ha Tégedet mi nem bírhatunk, éltünk sivár s boldogtalan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jó minékünk imádni Téged, kik sok bajokkal küszködünk, mert biztatást, segítséget mi egyedül csak nálad lelünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jó minékünk hinnünk is Benned, mert igazmondó csak Te vagy, megcsalódni soha semmiképp, ígéreted minket nem hagy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jó minékünk szeretni Téged, egyetlen legfőbb szeretet, mert ez, mi boldogít e földön, s végre örök honba vezet.</lines>
+    </verse>
+  </lyrics>
+</song>

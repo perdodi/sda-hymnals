@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:30">
+  <properties>
+    <titles>
+      <title>B550 Légy kész, megváltott nép</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Légy kész, megváltott nép<br/>B550</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Légy kész, megváltott nép, Nézd, múlik már az éj! Az Úr nagy napja most jön el, de mit se félj, Mert békét hoz, És örök üdvvel téged megajándékoz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az őrök hangja szól: Jön már a Vőlegény! Ó, Sion, örvendezz a Bárány ünnepén! Mily boldogság, Ha Krisztus égbe viszi hű Menyasszonyát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A mennyben nem lesz könny, És nem lesz szenvedés, Mert Atyád vár és nála boldog ünneplés. Ne csüggedj hát, Ott színről-színre láthatod majd szent arcát!</lines>
+    </verse>
+  </lyrics>
+</song>

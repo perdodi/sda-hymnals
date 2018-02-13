@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:17">
+  <properties>
+    <titles>
+      <title>Atyám a mennyben</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Atyám a mennyben<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Atyám a mennyben, dicsőítelek! Égi Atyám, én dicsőítelek! Úgy szeret a szívem, meghajtom térdem, égi Atyám, én dicsőítelek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten Fia, csodálatos vagy, Isten Fia, Te csodálatos vagy! Szívem bűntől tiszta lett, leked bennem él már, Isten Fia csodálato vagy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Szellem pártfogónk vagy, Szent Szellem te pártfogónk vagy! Mindig őrzöl és vezetsz, bennünk élsz, szent Szellem, te pártfogónk vagy!</lines>
+    </verse>
+  </lyrics>
+</song>

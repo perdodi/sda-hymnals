@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:25:29">
+  <properties>
+    <titles>
+      <title>359. Jézus, általad lettem Tenéked</title>
+    </titles>
+    <copyright>Hé-359</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, általad lettem Tenéked...<br/><br/>Hitünk énekei<br/>359. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus, általad lettem Tenéked tulajdonoddá, s hogy megkeresztelkedtem, úgy lettem tanítványoddá. Add, magam úgy viselhessem, hogy méltán így neveztessem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Add, gyakran keresztségem figyelemmel megvizsgálnom, legfőbb gyönyörűségem e szövetségben találnom; Életemet ahhoz szabjam, amit néked ott fogadtam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus add, hogy példádat mindig hűséggel kövessem, s mint híved, e világot bűnnel együtt én megvessem; Így ha eljő is halálom, életem nálad találom.</lines>
+    </verse>
+  </lyrics>
+</song>

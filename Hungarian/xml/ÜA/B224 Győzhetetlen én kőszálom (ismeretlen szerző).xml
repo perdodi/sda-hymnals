@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:50">
+  <properties>
+    <titles>
+      <title>B224 Győzhetetlen én kőszálom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Győzhetetlen én kőszálom<br/>B224</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Győzhetetlen én kőszálom, Védelmezőm és kővárom, A keresztfán drága áron Oltalmamat tőle várom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sebeidnek nagy voltáért, Engedj kedves áldozatért, Drága szép piros véredért, Kit kiöntél ez világért!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reád bíztam és ügyemet, Én Jézusom, én lelkemet, Megepedett bús szívemet, Szegény, árva, bús fejemet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Irgalmazz meg én lelkemnek, Ki vagy Ura mennynek, földnek, Könyörgök csak Felségednek, Én megváltó Istenemnek!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mutass, Jézus, kies földet, Lakásomul adj jó helyet, Ez életben csendességet, Jövendőben idvességet!</lines>
+    </verse>
+  </lyrics>
+</song>

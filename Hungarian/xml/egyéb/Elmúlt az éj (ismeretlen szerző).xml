@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:39">
+  <properties>
+    <titles>
+      <title>Elmúlt az éj</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elmúlt az éj</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elmúlt az éj, itt a hajnal, a fényes diadallal; zeng győztes dalt sok angyal, halleluja! Halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hol van halál diadalmad, ím megtört már hatalmad, mert Krisztus úr lett rajtad, halleluja! Halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sok könnyel, megtört reménnyel múlt el két gyászos éjjel, de föltámadt nagy fénnyel, halleluja! Halleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, Jézus! Az örökélet legdrágább kincsünkké lett: föltámadunk mi véled, halleluja! Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

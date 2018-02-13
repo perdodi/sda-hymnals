@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:34:16">
+  <properties>
+    <titles>
+      <title>26. Úr Isten, mily nagy szent neved</title>
+    </titles>
+    <copyright>Hé-026, S-131</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úr Isten, mily nagy szent neved...<br/><br/>Hitünk énekei<br/>26. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úr Isten, mily nagy szent neved, nincsen más Isten kívüled; Lelkedből nékünk, kérünk, adj, és minket soha el ne hagyj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úr Isten, mily nagy szent kegyed, mert adod áldott Lelkedet; Előtted néped porba hull, és hittel vallja: jó az Úr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úr vagy te menny és föld felett, Te adtál nékünk életet; Hódolva zeng a föld, az ég, és dicsér, áld a mindenség.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hatalmad zengi énekünk, hassa át békéd most szívünk, oltalmad biztos sziklavár, és nálad üdvösségünk vár.</lines>
+    </verse>
+  </lyrics>
+</song>

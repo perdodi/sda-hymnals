@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T13:01:53">
+  <properties>
+    <titles>
+      <title>295. Halld az Úrnak hívó hangját</title>
+    </titles>
+    <copyright>Hé-295</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Halld az Úrnak hívó hangját...<br/><br/>Hitünk énekei<br/>295. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Halld az Úrnak hívó hangját: Gyere vélem, gyermekem, kész a föld az aratásra, minden kész, csak jöjj velem! Szeretettel hív a Gazda; Nagy lesz majd a jutalom. Hogyha szólít, mondjuk hittel: Küldj el engem, Jézusom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem kell menned messzi útra, pogány földek népéhez, elég hogyha a szomszédra, ismerősre tekintesz. Nem kell angyalnyelven szólnod, nem kell ékes nyelvezet: Mondd csak el, hogy Üdvözítőnk mindnyájunkért szenvedett!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne sajnáld, hogy nem vagy harcos szent Sionnak kőfalán, te a béke üzenetét adjad hírül harsonán; Könyörgéssel támogassad Isten áldott igéjét, te is úgy, mint egykor Áron, tartva Mózes hű kezét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mennyi lélek van veszélyben, Jézus hangja sürget még; Ne mondd azt, ha hív a Mester: Semmi sincs, mit tehetnék! Kövesd Jézust nagy örömmel, hogyha szólít e napon, felelj néki bízó hittel: Küldj el engem, Jézusom!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:53">
+  <properties>
+    <titles>
+      <title>Van egy jó hely</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Van egy jó hely</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Van egy jó hely, oda megyek,<br/>lerakom ott a terheket.<br/>Ott fönn a hegyen van az a hely,<br/>ahol a szív békére lel.<br/>A Golgotán áll a kereszt,<br/>ha fáradt vagy, oda jöhetsz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emberekért ömlött a vér,<br/>kegyelmet kap az aki kér <br/>Ott fönn a hegyen van az a hely,<br/>ahol a szív békére lel.<br/>A Golgotán áll a kereszt,<br/>ha bűnös vagy, bátran jöhetsz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keresni jött, mi elveszett,<br/>Megtört szívű embereket.<br/>Ott fönn a hegyen van az a hely,<br/>ahol a szív békére lel.<br/>A Golgotán áll a kereszt,<br/>Ha elhagytad, visszajöhetsz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csodálatos ez a titok,<br/>szellemével megragadott.<br/>Ott fönn a hegyen van az a hely,<br/>ahol a szív békére lel.<br/>A Golgotán áll a kereszt,<br/>várnak ott rád, mindig jöhetsz.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Azóta tart a kapcsolat,<br/>Ő vigyáz rá, el nem szakad.<br/>Ott fönn a hegyen van az a hely,<br/>ahol a szív békére lel.<br/>A Golgotán áll a kereszt,<br/>Isten szívén megpihenhetsz.</lines>
+    </verse>
+  </lyrics>
+</song>

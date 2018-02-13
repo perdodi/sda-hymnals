@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:38:03">
+  <properties>
+    <titles>
+      <title>395. Téged dicsérni, nagy Isten</title>
+    </titles>
+    <copyright>Hé-395, Üa-002</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Téged dicsérni, nagy Isten...<br/><br/>Hitünk énekei<br/>395. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Téged dicsérni, nagy Isten, a szívem vágya, gyönyöre! Néked szolgálni mindenben, ez lelkem édes öröme.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérni téged est’ s reggel ha nyugszom és ha dolgozom, ezt vágyom minden erőmmel minden helyen, mindenkoron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És ha nyomorba ér lábam, ha fájdalom is vesz körül; akkor is majd hő imában lelkem teveled egyesül.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bármi jön, javamra válik, ha téged nézlek szüntelen; s mikor szívem érted vágyik, nem árthat néki semmi sem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:52:02">
+  <properties>
+    <titles>
+      <title>84. Ó! halljad te föld</title>
+    </titles>
+    <copyright>Hé-084</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! halljad te föld...<br/><br/>Hitünk énekei<br/>84. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! halljad te föld és halljad te ég, mert Istenünk szólja dicső nevét; Csak Jézusról zengjen a szív és a száj, mert Ő földön, mennyen örök király.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Isten az égben uralkodik, s hogy jelen van köztünk, érzi a szív; Hajts trónjánál térdet te megváltott nép, és hirdesse ének az úr győzelmét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Őt dicséri most az egész világ, a megváltó Jézust, Isten Fiát. Az angyalok kara új éneket zeng, száll hálájuk szava: az Úr szent, szent, szent.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hadd dicsérje Őt a mi szívünk is, mert Ő ad erőt és Ő üdvözít! Az egész világot e hang hassa át: Jöjj, dicsérjük Jézust, az örök királyt!</lines>
+    </verse>
+  </lyrics>
+</song>

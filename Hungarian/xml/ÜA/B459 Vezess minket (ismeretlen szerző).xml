@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:19">
+  <properties>
+    <titles>
+      <title>B459 Vezess minket</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vezess minket<br/>B459</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vezess minket, ó, nagy Isten, Földi vándorutunkon! Gyengék vagyunk, Te hatalmas, Hordozz erős karodon! Nagy Megmentő, nagy Megmentő, Légy Te pajzsunk, fegyverünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyisd meg az üdv kőszikláját, Életvizet adj nékünk! Oltalmazz tűzoszlopoddal, Ha zord pusztán átmegyünk! Égi manna, égi manna, Tápláld bágyadt népedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha a Jordán partján állunk, Készíts utat a folyón, Hogy mehessen Kánaánba Fáradt néped át azon! Hálaének, hálaének Száll majd hozzád akkoron.</lines>
+    </verse>
+  </lyrics>
+</song>

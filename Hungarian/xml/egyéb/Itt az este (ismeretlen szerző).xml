@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:58">
+  <properties>
+    <titles>
+      <title>Itt az este</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Itt az este</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Itt az este ránkborul árnya, védjen, óvjon hu kezed! Adjál annak, akit szeretsz, álmában is eleget!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Reád bízuk, gyermeki hittel testünk lelkünk, jó Atyánk. Drága Pásztor, esdve kérünk: Bo áldásod áraszd ránk.</lines>
+    </verse>
+  </lyrics>
+</song>

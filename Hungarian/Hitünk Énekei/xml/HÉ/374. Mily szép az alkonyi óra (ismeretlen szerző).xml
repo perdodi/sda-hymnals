@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:30:43">
+  <properties>
+    <titles>
+      <title>374. Mily szép az alkonyi óra</title>
+    </titles>
+    <copyright>Hé-374, S-122</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mily szép az alkonyi óra...<br/><br/>Hitünk énekei<br/>374. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mily szép az alkonyi óra, ha csöndesen száll az est, ha lágyan, szívéből szólva sok kismadár dalba kezd, sok kismadár dalba kezd, sok kismadár dalba kezd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, nincs a virágnak hangja, és nem susog, mint a lomb, de kelyhét föld felé hajtva, a kis virág hálát mond, a kis virág hálát mond, a kis virág hálát mond.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most ének zendül a földön, és harsogva árad szét, mint szél száll hegyen és völgyön, szent hálaszót zeng az ég, szent hálaszót zeng az ég, szent hálaszót zeng az ég.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Istent dicséri minden, és csöndben mond estimát, hogy ezzel téged is intsen: az Úr nevét áldva áldd, az Úr nevét áldva áldd, az Úr nevét áldva áldd!</lines>
+    </verse>
+  </lyrics>
+</song>

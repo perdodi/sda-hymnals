@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:34:05">
+  <properties>
+    <titles>
+      <title>25. Az Isten fényes trónjánál</title>
+    </titles>
+    <copyright>Hé-025, S-059</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Isten fényes trónjánál...<br/><br/>Hitünk énekei<br/>25. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Isten fényes trónjánál hajtsatok térdet, nemzetek! Mert Ő az ég és föld Ura, és Tőle függ a létetek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten a porból alkotott nagy hatalmával bennünket, s bár utunk Tőle messze vitt, Szent Fia visszavezetett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hálával áldjuk nagy nevét, énekünk magasztalja Őt. Ezrek és ezrek zengenek, s dicsérik így a Teremtőt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Törvénye áldott, szent és jó, végtelen az Ő kegyelme. A tovaszálló időben sziklaként áll meg igéje.</lines>
+    </verse>
+  </lyrics>
+</song>

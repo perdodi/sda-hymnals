@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:23:03">
+  <properties>
+    <titles>
+      <title>352. Már újra száll az esthomály</title>
+    </titles>
+    <copyright>Hé-352</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Már újra száll az esthomály...<br/><br/>Hitünk énekei<br/>352. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Már újra száll az esthomály és néped Téged együtt áld. Az esti ének száll feléd, visszhangzik tőle föld és ég!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A küzdő lélek itt kapott szívére áldott balzsamot; Most zsoltárt zeng és hő imát, s a szívét Néked adja át.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sötéten jő az est, az éj, egyedül Nálad van csak fény... Bár alszik már a nagy világ: Te őrzöl minket, jó Atyánk!</lines>
+    </verse>
+  </lyrics>
+</song>

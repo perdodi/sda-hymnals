@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:44">
+  <properties>
+    <titles>
+      <title>Ha gyakran érzed úgy</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ha gyakran érzed úgy</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha gyakran érzed úgy, hogy minden ember idegen,<br/>Ha úgy találod még, hogy elkerülnek hidegen,<br/>Ne hagyjad azt, hogy kétség hassa át szívedet,<br/>Az Úr így kér, a Mesternél, ma tedd le terhedet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj Mesteredhez már és jól fogadd meg szavait!<br/>Ő társaidhoz küld és általad mást szabadít.<br/>Mondd el: a Mester vár rád, lásd ezt a szeretetet!<br/>Az Úr így kér, a Mesternél ma tedd le terhedet.</lines>
+    </verse>
+  </lyrics>
+</song>

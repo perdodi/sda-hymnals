@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:24:26">
+  <properties>
+    <titles>
+      <title>356. Mily boldog nap, most tudom én</title>
+    </titles>
+    <copyright>Hé-356, S-123</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mily boldog nap, most tudom én...<br/><br/>Hitünk énekei<br/>356. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mily boldog nap, most tudom én, hogy elfogadtál Jézusom! Ma árad rám az égi fény, mert lelkem néked átadom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boldog nap, áldott nap, elvetted Jézus, bűnömet. Imádlak, üdvöm, Krisztusom, új ének kél az ajkamon; boldog nap, áldott nap, elvetted Jézus, bűnömet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megújult már az életem, mert Jézus művelt új csodát; Most vére üdvöm, érdemem, és híven vallom szent szavát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szívem végre megpihen a Bárány Jézus kebelén; nem hagyom el Őt sohasem, és mindig véle járok én.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tanúja ím a föld, az ég, hogy áldva Isten kegyelmét megfogom Jézus szent kezét, mert benne üdvöm elnyerém!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha majd a menny a földre száll, köszöntlek téged örök hon, ott készít Jézus most nekem helyet a jobbján, jól tudom.</lines>
+    </verse>
+  </lyrics>
+</song>

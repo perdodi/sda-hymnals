@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:49">
+  <properties>
+    <titles>
+      <title>Téged hívunk</title>
+    </titles>
+    <verseOrder>i1 v1 v2 v3 v1 v2 v3 e1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Téged hívunk</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Téged hívunk, jöjj el szent Urunk, töltsön el most Lelked! Teljes szívvel hozzád száll dalunk, mindig áldjuk szent Neved!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hála Néked, mert Te úgy szeretsz, eltörölted bűnömet; életemben hordom fényedet, mindig áldom szent Neved!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Álddom most Őt, ki meghalt, hogy te élhess, áldd most Őt, mert méltó, hogy dicsérd! Áldd most Őt, ki meghalt, hogy te élhess, mert méltó, hogy dicsérd!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ő méltó, hogy dicsérd! Áldd most Őt!</lines>
+    </verse>
+  </lyrics>
+</song>

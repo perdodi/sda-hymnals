@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:55:56">
+  <properties>
+    <titles>
+      <title>278. Úgy legyen minden, Istenem</title>
+    </titles>
+    <copyright>Hé-278</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úgy legyen minden, Istenem...<br/><br/>Hitünk énekei<br/>278. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úgy legyen minden, Istenem, mint Te azt elrendelted! Benned van minden reményem, add nekem szent kegyelmed. Irgalmad tart meg engemet, léptemet, Uram, vezessed, mert így a legjobb nékem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adj becsületet, hűséget és vágyat szent igédre; Ments tévelygéstől engemet, hogy jussak üdvösségre. A jóra segíts vigyáznom, s az igaz úton megállnom én teljes életemben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha elér örök végzésed és nékem meg kell halnom, kísérje akkor kegyelmed én múló nyugovásom. Pihenjek békén, csöndesen, adj boldog véget, Istenem, a Jézus által. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

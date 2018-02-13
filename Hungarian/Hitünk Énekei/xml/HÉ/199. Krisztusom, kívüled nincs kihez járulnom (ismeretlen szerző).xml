@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:50:16">
+  <properties>
+    <titles>
+      <title>199. Krisztusom, kívüled nincs kihez járulnom</title>
+    </titles>
+    <copyright>Hé-199</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztusom, kívüled nincs kihez járulnom...<br/><br/>Hitünk énekei<br/>199. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztusom, kívüled nincs kihez járulnom, ily beteg voltomban nincs kitől gyógyulnom; Nincs ily fekélyemből ki által tisztulnom, veszélyes vermemből és felszabadulnom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gyújtsd meg szövétnekét áldott szent igédnek és bennem virraszd fel napját kegyelmednek; Igaz utat mutass nékem, szegénynek, járhassak kedvére Te szent Felségednek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Várlak, Uram, azért reménykedő szívvel, miként a vigyázó virradást vár éjjel; Hozd fel szép napodat nékem is jó reggel, hogy szolgálhassalak serényebb elmével.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsértessél, Atya Isten, magasságban, mi Urunk Krisztussal mind egy méltóságban és a szentlélekkel mind egy hatalomban: Háromság egy Isten, áldj meg dolgainkban.</lines>
+    </verse>
+  </lyrics>
+</song>

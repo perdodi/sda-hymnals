@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:50:00">
+  <properties>
+    <titles>
+      <title>197. Hozzád kiáltok, én Istenem</title>
+    </titles>
+    <copyright>Hé-197</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hozzád kiáltok, én Istenem...<br/><br/>Hitünk énekei<br/>197. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hozzád kiáltok, én Istenem, mert érzem, mily gyarló vagyok, ellenségim sokak s nagyok, az ó-ember harcol ellenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szerez lelkemnek sokféle bajt, mivel erősebb nálamnál, lakozik szintén házamnál; Ha meg nem szánsz, jaj, tőribe hajt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Öldököld meg, Uram, én bennem ez ó-embert, hogy meghaljon, maga pártjára ne vonjon: Ne kelljen igáját felvennem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Küldd el hozzám áldott Lelkedet, ki által bánja, gyűlölje szívem a bűnt, sőt megölje, mely megbántotta Felségedet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Támaszd fel, Uram, valójában az új embert én szívemben; Hadd nyugodjék kebelemben, s örüljek az Úr jóvoltában.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Az igazságnak tudománya járásomban vezéreljen, hogy lelkem, testem úgy éljen, mint szent akaratod kívánja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Taníts meg Te szent törvényedből, Felségedet mint tiszteljem, máshoz magam mint viseljem, hogy ki ne essem szerelmedből.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kész leszek, Uram, ím fogadom: Szent törvényed szerint élek, járok, kelek, fekszem vélek: Zálogul szívem néked adom.</lines>
+    </verse>
+  </lyrics>
+</song>

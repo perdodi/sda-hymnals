@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:57:26">
+  <properties>
+    <titles>
+      <title>329. Áldja Isten éltünket</title>
+    </titles>
+    <copyright>Hé-329</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldja Isten éltünket...<br/><br/>Hitünk énekei<br/>329. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldja Isten éltünket és a kimenetelünket, áldja meg kenyerünket, minden cselekedetünket; Áldjon csöndes nyugovással, végül örök boldogsággal!</lines>
+    </verse>
+  </lyrics>
+</song>

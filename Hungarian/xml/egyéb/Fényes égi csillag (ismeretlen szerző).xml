@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:43">
+  <properties>
+    <titles>
+      <title>Fényes égi csillag</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fényes égi csillag<br/>(uram, te hívtál)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fényes égi csillag vagy te, Jézusom, sziklavár és kőszirt biztos oltalom. Édes égi manna, tiszta forrásvíz; Mindenem vagy, Juzus, lelkem benned hisz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nélküled nem élnék; Fogyna az erőm. Csak te adhatsz áldást, égi teremtőm! Hogyha nem jársz vélem, semmi nem segít. mindenem vagy, Jézus, az ki boldogít.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keskeny utam Járom. Nem vezethet más, csak az áldott Ige, csak a Szentírás. Visszatérésedig szent szavad vezet. Tiszta szível várom érkezésedet.</lines>
+    </verse>
+  </lyrics>
+</song>

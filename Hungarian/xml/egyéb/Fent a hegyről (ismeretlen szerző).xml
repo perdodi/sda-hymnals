@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:42">
+  <properties>
+    <titles>
+      <title>Fent a hegyről</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fent a hegyről</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fent a hegyről jön a folyó, vize frissítően túl áradó. Völgyeken és a mezőkön át a folyó rohanva így ée el hozzád.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Isten folyója most táncra perdít, Isten folyója majd felvidít. Isten folyója megtőlti szívünk, és örvendezünk, mert az Úr van itt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten folyója az élő víz hogyha megérinted, életre hív. És partjára hogyha sokszor lejársz, egyre jobban szomjazol az Úr után.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr hegyére felmenni jó, mert jelenléte nyugtató, és a folyó mentén, ha futkározunk, vígan táncolva dicsérjük a Fiút!</lines>
+    </verse>
+  </lyrics>
+</song>

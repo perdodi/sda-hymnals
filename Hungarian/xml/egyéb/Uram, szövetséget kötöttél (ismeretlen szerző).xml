@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:52">
+  <properties>
+    <titles>
+      <title>Uram, szövetséget kötöttél</title>
+    </titles>
+    <verseOrder>i1 v1 v1 v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Uram, szövetséget kötöttél</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Uram, szövetséget szereztél, népeddel egyezséget szereztél, hit által! Igen! Hitáltal Ámen!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Uram Tiéd legyen a dicsőség, Ozráel néked örül fölöttébb, igen! Hitáltal Ámen!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+    <verse name="v1d">
+      <lines>Halleluja, halleluja, halleluja, Halleluja, halleluja, halleluja,! 2x<br/>Halleluja!</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Uram Tiéd legyen a dicsőség, Ozráel néked örül fölöttébb, igen! Hit által Ámen!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Uram, tiéd legyen a dicsőség, Jézusban népeké is a szövetség. Hit által - igen! Hit által - ámen!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Uram hála néked és hódolat, dicsérünk Krisztus, ártatlan áldozat, hit által - igen! Hit által - ámen!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja! (12x)</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Uram, színed előtt van egy szövetség, Férfi és nő között, véled most kötötték, hit által - igen! Hit által - ámen!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Uram, áldásod rákjuk öntsd ki ma, életünk hadd legyen boldog, útjuk sima hit által - igen! Hit által - ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

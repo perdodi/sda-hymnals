@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:55:35">
+  <properties>
+    <titles>
+      <title>277. Győzhetetlen én kőszálom</title>
+    </titles>
+    <copyright>Hé-277</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Győzhetetlen én kőszálom...<br/><br/>Hitünk énekei<br/>277. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Győzhetetlen én kőszálom, védelmezőm és kővárom, a keresztfán drága álron oltalmamat Tőled várom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sebeidnek nagy voltáért, engedj kedves áldozatért, drága szép piros véredért, Kit kiöntél e világért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reád bíztam én ügyemet, én Jézusom, én lelkemet, megepedett bús szívemet, szegény árva bús fejemet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Irgalmazz meg én lelkemnek, Ki vagy Ura mennynek, földnek, könyörgök csak Felségednek, én megváltó Istenemnek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mutass, Jézus, kies földet, lakásomul adj jó helyet, ez életben csendességet, jövendőben üdvösséget.</lines>
+    </verse>
+  </lyrics>
+</song>

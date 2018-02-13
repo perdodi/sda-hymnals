@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:29">
+  <properties>
+    <titles>
+      <title>B546 Krisztust váró lelkek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztust váró lelkek<br/>B546</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztust váró lelkek, Kik sokszor úgy féltek, Az ő szavát figyeljétek! Bízón hallgassátok, Így szól nagy Királytok: Ne féljetek tanítványok!Itt vagyok, bízzatok! Szenvedésben társak, Üdvösséggel várlak!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljövend az éjjel Rettenetességgel, Ellenséges gyűlölséggel. A szeretet csökken, S a bűn nagy erőben Uralkodik dölyfös gőgben.Istenünk, rettegünk! Ó, ne hagyj magunkra, Erősíts meg újra!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem attól kell félnünk, Ki megöli testünk, Hanem ki elveszti lelkünk. Ne menjünk el balra, És ne térjünk jobbra, Mert csak így jutunk a célba!Hűségért égi bért Nyerünk ott mindnyájan Csodás gazdagságban!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Legyünk mindig bölcsek És galamb-szelídek, Ápoljuk a békességet! Tanuljunk meg tűrni, Haláltól se félni, Gyermekét az Úr megvédi!Fel, bátran mindnyájan! Küzdjünk úgy, mint Jézus, Győzzünk úgy, mint Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

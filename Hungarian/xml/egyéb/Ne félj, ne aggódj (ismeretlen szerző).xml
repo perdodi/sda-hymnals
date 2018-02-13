@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:31">
+  <properties>
+    <titles>
+      <title>Ne félj, ne aggódj</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ne félj, ne aggódj</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Ne félj, ne aggódj, ne sírj, ne bánkódj: ha tiéd Isten tiéd már minden. Ne félj, ne aggódj, ne sírj, ne bánkódj: elég Ő néked.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:40">
+  <properties>
+    <titles>
+      <title>Emlékezzél meg az Úr jóságáról!</title>
+    </titles>
+    <verseOrder>i1 v1 v2 v1 v2 e1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Emlékezzél meg az Úr jóságáról...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Emlékezzél meg az Úr jóságáról! Emlékezzél meg oltalmáról, mert olyan magas, mint az ég hűsége és megtartó kegyelme hozzánk, nagy az Ő kegyelme népe iránt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Viharokban Ő erős várunk, mikor szélvész dúl, karjába zár. Amilyen távol van napkelet, oly messze veti el tőlünk bűneinket. Nem fogy el irgalma népe iránt.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Nem fogy el irgalma népe iránt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:15">
+  <properties>
+    <titles>
+      <title>Én vagyok néked az út</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én vagyok néked az út</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én vagyok néked az Út, Én vagyok néked az Út.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nincsen más Isten kívüled Uram,<br/>Te vagy az életem, Te vagy az utam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én vagyok az Igazság, Én vagyok az Igazság.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én vagyok néked az Élet,<br/>Én vagyok néked az Élet.</lines>
+    </verse>
+  </lyrics>
+</song>

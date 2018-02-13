@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:59">
+  <properties>
+    <titles>
+      <title>Járom a zarándok útjait</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Járom a zarándok útjait</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Járom a zarándok útjait, megyek a cél felé. Kóstolom öröklét kútjait, megyek az Uram elé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vágok a réten, a völgyön át, hágok a szirtre fel, láthatok útközben sok csodát, vágyom az Uramhoz el.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kezemben vándorbot és virág, lábamon út pora, zsákomban kalács a Bibliám, ajkamon hála dala.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megyek a tűző nap alatt, megyek, ha borús az éj, a földet fedheti zúzmara, megyek ha fütyül a szél.</lines>
+    </verse>
+  </lyrics>
+</song>

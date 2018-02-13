@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:40">
+  <properties>
+    <titles>
+      <title>Erdő mellett estvéledtem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Erdő mellett estvéledtem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Erdő mellett estvéledtem, subám fejem alá tettem. Összetettem két kezemet, úgy kértem jó Istenemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Én Istenem adjál szállást, már meguntam a járkálást. A járkálást, a bujdosást, az idegen földön lakást.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adjon Isten jó éjszakát! Küldje hozzánk szent angyalát. Bátorítsa szívünk álmát. Adjon Isten jó éjszakát!</lines>
+    </verse>
+  </lyrics>
+</song>

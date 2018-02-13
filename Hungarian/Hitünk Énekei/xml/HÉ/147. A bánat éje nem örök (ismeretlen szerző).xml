@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:40:11">
+  <properties>
+    <titles>
+      <title>147. A bánat éje nem örök</title>
+    </titles>
+    <copyright>Hé-147</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A bánat éje nem örök...<br/><br/>Hitünk énekei<br/>147. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A bánat éje nem örök, az örömhajnal ránk köszönt, mert Isten igaz szándéka a dicső menny ajándéka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most öröm száll a szívünkbe, az üdvösségnek öröme; A szív tovább nem szomjazik, csak Istenben gyönyörködik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! könnyesszemű vándortárs, az Isten dolga mily csodás: A bú örömre változik és minden sebed eltűnik.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Már nem emészt a félelem és nem kínoz a gyötrelem; Mert nem lesz könny, sem sóhajtás, csak örök örömujjongás.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csak emeld fel a szemedet, a hajnalcsillag közeleg; Ó! nyisd meg szíved ajtaját és fogadd be szent sugarát!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó! légy áldott, szép hajnalpír, hisz véled jön az örömhír, már nem látunk több éjszakát, mert örök nappal virrad ránk!</lines>
+    </verse>
+  </lyrics>
+</song>

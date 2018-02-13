@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:49:21">
+  <properties>
+    <titles>
+      <title>69. Ó! ne vedd el szent igédet</title>
+    </titles>
+    <copyright>Hé-069</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! ne vedd el szent igédet...<br/><br/>Hitünk énekei<br/>69. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! ne vedd el szent igédet soha tőlem, Istenem; Ez ad nékem reménységet, üdvösségem ez nekem! Szavadat ha nem bírhatnám, mivé lenne a hitem? Igéd az, mit lelkem kíván, igéd örök életem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőítlek, Uram Jézus, tekints reám kegyesen; Szent szavadban, élő Krisztus, hogy megálljak erősen! Hadd szolgáljak mindörökké, mindig, mindig csak neked, odaülve lábad elé vegyem örök részemet.</lines>
+    </verse>
+  </lyrics>
+</song>

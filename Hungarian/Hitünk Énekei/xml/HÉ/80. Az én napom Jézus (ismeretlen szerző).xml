@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:51:22">
+  <properties>
+    <titles>
+      <title>80. Az én napom Jézus</title>
+    </titles>
+    <copyright>Hé-080, S-033</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az én napom Jézus...<br/><br/>Hitünk énekei<br/>80. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az én napom Jézus sötét éjszakán, háladalom Jézus, hogyha öröm vár. Szeretetem Jézus, s a boldogságom. Reá nézni mindig, ez az óhajom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lelkem hogyha fáradt, üdít szent igéd. Boldog szívvel hordom Lelked pecsétjét. Édes békességed mindig élvezem, szent szerelmed karja hordoz így engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Küzdelem a létem, harc a bűn ellen. Isten segítsége az én győzelmem. Most Te harcolsz értem, nem fél már szívem, betakar kegyelmed s üdvözít engem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mily boldog az éltem itt e földön már, örvendezve zengem: Jézus velem jár! Senki el nem választ Tőled, Jézusom, s örök kegyelmedből eljön szép honom.</lines>
+    </verse>
+  </lyrics>
+</song>

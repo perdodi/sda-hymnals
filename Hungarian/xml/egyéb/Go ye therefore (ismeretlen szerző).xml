@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:43">
+  <properties>
+    <titles>
+      <title>Go ye therefore</title>
+    </titles>
+    <verseOrder>i1 v1 v2 v3 v2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Go ye therefore...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Go ye therefore and teach all nations, go, go, go.<br/>(repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baptising them in the name of the Father, the Son, the Holy Ghost, go, go, go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you love, really love me, feed my sheep<br/>(repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

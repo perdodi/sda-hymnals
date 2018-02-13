@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:18">
+  <properties>
+    <titles>
+      <title>Az Isten szeretete</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Isten szeretete<br/>(Dicsérem nevde 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Isten szeretete olyan nagy, hogy Fiát adta értünk. Ha benne hiszünk el ne vesszünk, öröké éljünk. Jézus szeretete olyan nagy, hogy meghalt helyetünk. Meghálálni ezt soha nem tudjuk, csak kitárhatjuk szívünk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert ő szeretetet kíván tőlünk, az Istenek ismeretét. Neki a véresáldozatok már nem kellenek, kell az engedelmeség. 2X</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A töredelmes szív az Úr előtt, kedves ajándék. Kezeinknek felemelése legyen kedves előtte! Szájunnak önkétes áldozatát fogadd el Atyánk! Dicséretet és hálaadást viszünk tehozzád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fülemet adtam szavaidnak meghallására, szívemet adtam az igazság befogadására. Ahogy az idő csak egyre múlik, annál jobban szeretlek. Nem akadály, hogy nem látalk még, annál inkább kereslek.</lines>
+    </verse>
+  </lyrics>
+</song>

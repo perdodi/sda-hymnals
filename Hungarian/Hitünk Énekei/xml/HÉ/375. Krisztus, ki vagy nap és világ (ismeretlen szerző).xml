@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:31:04">
+  <properties>
+    <titles>
+      <title>375. Krisztus, ki vagy nap és világ</title>
+    </titles>
+    <copyright>Hé-375, S-122</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus, ki vagy nap és világ...<br/><br/>Hitünk énekei<br/>375. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztus, ki vagy nap és világ, minket sötétségben ne hagyj! Igaz világosság te vagy, kárhozatra mennünk ne hagyj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged kérünk, szent Úr Isten: Oltalmazz minket ez éjen; nyugodalmunk benned légyen, a mi lelkünk el ne vesszen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nehéz álom el ne nyomjon, az ellenség meg ne csaljon; testünk hozzá ne hajoljon, és haragodba ne hozzon!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi szemeink ha alusznak, szíveink rád vigyázzanak; Hatalmadnak szent ereje légyen híveknek őrzője!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Úr Isten, hozzád kiáltunk: Gondviselőnk, légy oltalmunk! Őrizz meg ellenséginktől, lelki-testi ínségektől!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Parancsoljad angyalidnak, hogy mireánk vigyázzanak; a mi gonosz ellenségünk messze, távol járjon tőlünk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Emlékezzél meg mirólunk: Jól tudod, mily gyarlók vagyunk; Kiket megváltál véreddel: Úr Jézus, kérünk, ne hagyj el!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsőség légyen Atyának, Ő szent Fiának, Krisztusnak, Szentlélekkel egyetemben, örökkön-örökké! Ámen</lines>
+    </verse>
+  </lyrics>
+</song>

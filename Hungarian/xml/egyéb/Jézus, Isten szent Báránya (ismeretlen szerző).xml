@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:02">
+  <properties>
+    <titles>
+      <title>Jézus, Isten szent Báránya</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, Isten szent Báránya</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus, Isten szent Báránya, hófehér ruhádról tisztaság, erp árad. Jézus, Isten szent Báránya, a merre jársz, lépted nyomán halál helyén élet támad.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Mert a rabságban te vagy a szabadság, a betegségben te vagy a gyógyulás a hamiságban ta vagy az igzság, és a gyűlöletben te vagy a megbocsátás.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jézus, Isten szent Báránya, itt vagyok, kenj most meg szentségednek olajával!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert az ínsében te vagy a gazdagság, a sötétségben te vagy a világoság, a csügedésben te vagy a reménysugár, és a szomjúságban te vagy a bővízű forrás!</lines>
+    </verse>
+  </lyrics>
+</song>

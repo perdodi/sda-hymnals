@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:35">
+  <properties>
+    <titles>
+      <title>Dicsérjétek az Urat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Dicsérjétek az Urat<br/>(Dicsérem nebed 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dicsérjétek az Urat, hívjátok segítségül szent nevét, hirdesétek a népek közt hatalmas tetteit!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Énekeljetek néki, ajkatokon zengjen a dicséret beszéljetek mindenhol az Ő csodadolgairól!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérjétek az Ő szebt nevét, örüljön szívetek, kik keresitek az Urat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hát kívánjátok Őt, s az Ő hatalmas erejét, arcának szüntelen jelenlétét!</lines>
+    </verse>
+  </lyrics>
+</song>

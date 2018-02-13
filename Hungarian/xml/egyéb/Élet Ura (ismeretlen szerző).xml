@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:12">
+  <properties>
+    <titles>
+      <title>Élet Ura</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Élet Ura<br/>(Dicsérem neved 2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Élet Ura, jöjjközel, szívem téged keres. Hadd fussam meg pályámat végig győztesen, és Isten békessége legyen velem</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, szent Szelem, vígasztaló, friss olajjal kend meg fejem, és megőrzöm beszéded, dicsőítlek téged, és Isten békesége legyen velem!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ó, úgy kívánom szent jelenlétedet, szólj újra hozzám, tanítsd Igédet! Ó, szent Szelem, járd át bensőmet, Isten szent Szeleme, tölts be most szent erővel, lehelj életet belém, és békeségeddel maradj velem!</lines>
+    </verse>
+  </lyrics>
+</song>

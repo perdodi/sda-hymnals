@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:18">
+  <properties>
+    <titles>
+      <title>Megkérdezed, hogy merre tart utam?</title>
+    </titles>
+    <copyright>S-091</copyright>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Megkérdezed, hogy merre tart utam?</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Megkérdezed, hogy merre tart utam? Azt mondom: Jöjj és lásd! Célom az ég, mert oda hív Uram, szívem nem kíván mást.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vallom: az élet akkor szép csupán, ha Jézus elkísér. Jézus ragyog életem egén, csak Ő a fény!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megkérdezed, hogy tanácsot ki ad? Figyeld a szent igét: Jézus az út, a teljes igazság, benne vár örök lét.</lines>
+    </verse>
+  </lyrics>
+</song>

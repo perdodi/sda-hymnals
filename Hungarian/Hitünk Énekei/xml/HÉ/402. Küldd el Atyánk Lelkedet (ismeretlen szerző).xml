@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:15:51">
+  <properties>
+    <titles>
+      <title>402. Küldd el Atyánk Lelkedet</title>
+    </titles>
+    <copyright>Hé-402, Üa-049</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Küldd el Atyánk Lelkedet...<br/><br/>Hitünk énekei<br/>402. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Küldd el Atyánk Lelkedet, lágyítsd meg a szíveket, óh töltsd be kegyelmeddel, hogy a hit ébredjen fel.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden jónak kútfeje, megtérőknek ereje, adjad, hogy ismerhessünk és mindig dicsérhessünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Világosítsd elménket, hogy érthessük Igédet, és lelkünk üdvössége, legyen szent igéd fénye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bátorítsd a csüggedőt, adj szívébe új erőt, óh őrizd elbukástól és megtántorodástól.</lines>
+    </verse>
+  </lyrics>
+</song>

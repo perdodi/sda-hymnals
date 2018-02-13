@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T19:39:49">
+  <properties>
+    <titles>
+      <title>222. Legyen szívünk mindig vidám</title>
+    </titles>
+    <copyright>Hé-222</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Legyen szívünk mindig vidám...<br/><br/>Hitünk énekei<br/>222. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Legyen szívünk mindig vidám, hálatelt az Úr iránt! Gyermekének szólít minket mennyben lakó jó atyánk. Minden napon vidám szívvel dicsérjük az Úr nevét! Boldog, örömteli szívvel járjuk életünknek ösvényét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten hordoz áldott kézzel, hitharcunkban megsegít. Kegyelméből megtart minket, győzelemre lelkesít! Minden napon vidám szívvel dicsérjük az Úr nevét! Boldog, örömteli szívvel járjuk életünknek ösvényét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha kezét elengedjük, éj sötétje vesz körül. Bizonytalan minden léptünk, szívünk többé nem örül. Minden napon vidám szívvel dicsérjük az Úr nevét! Boldog, örömteli szívvel járjuk életünknek ösvényét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De a hű szív egyre vidul, életútja mindig fény. Szolgáljunk hát Jézusunknak, követve Őt ösvényén! Minden napon vidám szívvel dicsérjük az Úr nevét! Boldog, örömteli szívvel járjuk életünknek ösvényét!</lines>
+    </verse>
+  </lyrics>
+</song>

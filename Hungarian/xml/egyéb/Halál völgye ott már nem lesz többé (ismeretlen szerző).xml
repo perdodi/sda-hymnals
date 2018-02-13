@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:48">
+  <properties>
+    <titles>
+      <title>Halál völgye ott már nem lesz többé</title>
+    </titles>
+    <verseOrder>i1 v1 c1 c1 c1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Halál völgye ott már nem lesz többé</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Halál völgye ott már nem lesz többé, mikor Jézus dicsfényben visszatér. Halál árnya ott már nem lesz soha, mert megérkezünk haza.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ő szeretve vár reánk, Ő szeretve vár reánk. Elragadja hamar felhőkön át elkészült menyasszonyát.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Félelem és bánat ott nem lesz már, mikor Jézus eljön felhőkön át. Boldogság és nagy öröm vesz körül és haza megérkezünk.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Nem lesz többé se könny, se fájdalom, mikor Jézus miértünk jönni fog. Boldog szívünk epedve várja Őt, a dicső Üdvözítőt.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Lesz ott ének, s az öröm végtelen, mikor Jézus felhőkben megjelen. Mennyei szép hazánkban ott leszünk, mert haza megérkezünk.</lines>
+    </verse>
+  </lyrics>
+</song>

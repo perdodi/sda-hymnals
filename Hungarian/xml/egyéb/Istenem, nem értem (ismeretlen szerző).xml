@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:57">
+  <properties>
+    <titles>
+      <title>Istenem, nem értem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istenem, nem értem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Istenem, nem értem, hogyan létezhettem nélküled, nem ismerve a kegyelmed és féltő szereteted. De Te gyermekeddé fogadtál, új életet ajándékoztál, s nem kínoz már a félelem, mert mindig itt vagy velem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldom nagy kegyelmed, Téged ünnepellek, Téged és senki mást, amíg csak élek.<br/>Áldom nagy kegyelmed, Téged ünnepellek, Téged és senki mást, amíg csak élek.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:53">
+  <properties>
+    <titles>
+      <title>Van egy Megváltó</title>
+    </titles>
+    <verseOrder>i1 v1 v1 v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Van egy Megváltó</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Van egy Megváltó, aki örök. Kegyelme nem fogy el, szava erő. Minden új napra ez új remény, van egy Megváltó, utunkra a fény.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Megterhel most a szíved, tán egy nehéz emlék a múltból, vagy valami fájdalmadat már régóta hordozod? Akkor szívedben halld meg az Ő szavát! Van egy Megváltó, aki megbocsát.</lines>
+    </verse>
+  </lyrics>
+</song>

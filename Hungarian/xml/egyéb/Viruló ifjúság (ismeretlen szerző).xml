@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:54">
+  <properties>
+    <titles>
+      <title>Viruló ifjúság</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Viruló ifjúság</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Viruló ifjúság, a jövő idők reménye, gondold meg életed célját még most, idejébe'! Minden erőd, jelened és jövendőd add az Úr tiszteletére!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lehet-e célja más a tettre kész ifjúságnak, mint szívvel-lélekkel szolgálni az ég Urának? Mit ér a kincs? Állandó semmiben nincs, ne szolgálj hát a világnak!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Eszköz légy Istened méltó szent tiszteletére - nincsen szebb hivatás itt, ami ezzel fölérne. Ifjú, te vagy erre legalkalmasabb, ne hagyd ezt élted végére!</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Gondold meg, mily öröm lesz annak majd osztályrésze, ki ifjúságától élt az Úr tiszteletére! Benne bízott, útjában híven futott, s elér az üdvnek helyére.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:58">
+  <properties>
+    <titles>
+      <title>B288 Áldva áld az Úr, csak jót ád</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldva áld az Úr, csak jót ád<br/>B288</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldva áld az Úr, csak jót ád; Benne bízni érdemes. Szent kegyelme bőven árad; Végtelen és ingyenes. Ő az örök szeretet; Benne üdvöd megleled.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Senki meg nem váltja éltünk, Nincs barát, ki megmenthet; Ámde Jézus meghalt értünk, Az Atyához elvezet. Áldozata megtisztít, Bűnből megvált, üdvözít.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bűnösöknek volt barátja Jézus, míg e földön járt. Most a mennyben – sorsunk látva – értünk esdve mond imát. Köztünk élt a földön lent, Szószólónk a mennyben fent.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bárcsak szívünk megújulna Irgalmadtól, jó Atyánk, Minden rosszért csak jót adva, Megbocsátva indulnánk! Éljünk úgy, mint Jézus élt, S elérjük az égi célt!</lines>
+    </verse>
+  </lyrics>
+</song>

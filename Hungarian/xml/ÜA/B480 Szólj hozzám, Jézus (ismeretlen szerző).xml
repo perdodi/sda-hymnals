@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:21">
+  <properties>
+    <titles>
+      <title>B480 Szólj hozzám, Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szólj hozzám, Jézus<br/>B480</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szólj hozzám, Jézus, hadd legyek Szent szavad élő visszhangja! Hogy hallja meg, ki tévelyeg, És lépjen az üdv útjára.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te oktass, drága Mesterem, Hogy értsem Igéd titkait, És örvendezve hirdessem, Hogy véred bűntől szabadít.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, tölts meg hittel, Lélekkel, És indítsd szóra ajkamat, Hogy kétely nélkül mondjam el, Mily teljes béke van nálad.</lines>
+    </verse>
+  </lyrics>
+</song>

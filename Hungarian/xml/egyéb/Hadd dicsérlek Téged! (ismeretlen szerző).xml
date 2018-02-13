@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:46">
+  <properties>
+    <titles>
+      <title>Hadd dicsérlek Téged!</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hadd dicsérlek Téged!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hadd dicsérlek Téged! Hadd mondja a szám szeretlek! Te vagy minden nékem. Hát magasztaltassék fel szent neved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézusom, dicsérlek. Fennen hirdetem: szeretlek. Te vagy minden énekem. Hát áldassék a Te nagy neved! Áldassék a Te nagy neved! Áldassék a Te nagy, szent neved!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:43:35">
+  <properties>
+    <titles>
+      <title>40. Én életemnek Istene</title>
+    </titles>
+    <copyright>Hé-040</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én életemnek Istene...<br/><br/>Hitünk énekei<br/>40. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én életemnek Istene, légy gyönge lelkem védelme; Te óvjad gyarló testemet és áraszd énrám kegyelmed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te őrizd minden léptemet s én soha el nem tévedek! Most bizton járom utamat, ha drága Lelked támogat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szívem, lelkem úgy örül, hogy annyi áldás vesz körül. Oly boldog vagyok, Istenem, hogy a Te utad ismerem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha közeledben lehetek, szent béke lakja szívemet. A gond és bánat mind elszáll, mert lelkem biztos sziklán áll.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:37:52">
+  <properties>
+    <titles>
+      <title>135. Jézus Krisztus jön a felhőn</title>
+    </titles>
+    <copyright>Hé-135</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus Krisztus jön a felhőn...<br/><br/>Hitünk énekei<br/>135. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus Krisztus jön a felhőn, összegyűjti szent népét. Angyalsereg jön el véle magasztalva győzelmét: "Alleluja! Alleluja! Felragyog az öröklét!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden szemnek meg kell látni dicsőségét, erejét; Akik verték, megcsúfolták, akik általszegezték, hatalommal visszatérni látják Isten Igéjét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És ha szól majd harsonája, föld és égbolt megremeg! Mindaz, aki nem hitt néki, érzi már, hogy elveszett. Felharsan az angyalszózat: "Itt a végső ítélet!"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicséreted, dicsőséged zengjük, Uram, hálával; Tégy pecsétet szent művedre, csak Tiéd a diadal: "Jövel, Jézus, várva várunk, Jövel, Jézus, jöjj hamar!"</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:48">
+  <properties>
+    <titles>
+      <title>Hallgass meg Uram, a mennyekből</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hallgass meg Uram, a mennyekből</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hallgass meg Uram, a mennyekből,<br/>Oltalmad várom a szent helyről,<br/>Énekkel dicsérlek a Sionon,<br/>Fogadjad kedvesen áldozatom,<br/>Cselekedd velem a szándékodat.<br/>Én átadom önmagamat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szabadításodnak örvendünk,<br/>Teljesítetted a kérésünk,<br/>Láttuk, hogy jobboddal segítettél,<br/>Mennyei erőddel felemeltél,<br/>Mások, csak magukban bizakodnak,<br/>Mi Reád bízzuk magunkat.</lines>
+    </verse>
+  </lyrics>
+</song>

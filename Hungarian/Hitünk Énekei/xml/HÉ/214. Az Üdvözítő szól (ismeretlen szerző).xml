@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:52:47">
+  <properties>
+    <titles>
+      <title>214. Az Üdvözítő szól</title>
+    </titles>
+    <copyright>Hé-214</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Üdvözítő szól...<br/><br/>Hitünk énekei<br/>214. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Üdvözítő szól: "Még gyönge gyermek vagy, légy éber s imádkozz, így lelsz majd nyugalmat." Jézus drága vért ontott vétkemért; Bűnöm foltja vérpiros, Ő hófehérre mos!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most megtaláltam én gyógyító Mesterem és áldó szent kezén megolvadt kőszívem. Jézus drága vért ontott vétkemért; Bűnöm foltja vérpiros, Ő hófehérre mos!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nincs bennem semmi jó, de megment kegyelme; S lemossa azt, mi folt, a Bárány szent vére! Jézus drága vért ontott vétkemért; Bűnöm foltja vérpiros, Ő hófehérre mos!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha Jézus trónjánál ott állok egykoron, e szívből hála száll és dics zeng ajkamon! Jézus drága vért ontott vétkemért; Bűnöm foltja vérpiros, Ő hófehérre mos!</lines>
+    </verse>
+  </lyrics>
+</song>

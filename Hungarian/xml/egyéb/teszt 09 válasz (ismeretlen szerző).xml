@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:58">
+  <properties>
+    <titles>
+      <title>teszt 09 válasz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Naámán, a siriai király seregének a fővezére gyógyult meg így Elizeus próféta közreműködésével. II. Kir. 5,1. 9-18.</lines>
+    </verse>
+  </lyrics>
+</song>

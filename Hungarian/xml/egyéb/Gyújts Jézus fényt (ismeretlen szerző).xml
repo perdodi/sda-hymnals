@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:44">
+  <properties>
+    <titles>
+      <title>Gyújts Jézus fényt</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Gyújts Jézus fényt</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Árad ránk szeretet sugára,<br/>Fényt hoz vaksötét éjszakánkba,<br/>Jézus ragyogjon fényed rajtunk,<br/>Szabad lélekkel hadd világítsunk<br/>Fény hadd legyek!<br/>Fény hadd legyek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gyújts Jézus fényt, töltsd ki Lelked ez ország felett<br/>Szentlélek égj, lángolj fel bennünk!<br/>Áradj folyó át a népen a kegyelemmel,<br/>Igéd legyen lábunk előtt a fény!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, tiszta lényed nézve,<br/>Lelkünk vágyik az égi fényre,<br/>Jöjj, a szívünket átadjuk néked,<br/>Töltsön el öröm, mennyei béke,<br/>Fény hadd legyek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miért kell, Ó, az éjben járnunk,<br/>célt, reményt vajon hol találunk?<br/>Benned, Úr, Jézus megtaláltuk ezt,<br/>üdvünk életünk ára a kereszt,<br/>Fény hadd legyek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bárcsak Krisztus égi fénye<br/>rólunk visszatükröződne,<br/>Hadd látnák meg az emberek rajtunk,<br/>Bűnünk terhétől megszabadultunk.<br/>Fény hadd legyek!</lines>
+    </verse>
+  </lyrics>
+</song>

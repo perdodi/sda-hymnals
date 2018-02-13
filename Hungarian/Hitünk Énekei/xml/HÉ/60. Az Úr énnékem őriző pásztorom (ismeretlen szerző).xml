@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:47:44">
+  <properties>
+    <titles>
+      <title>60. Az Úr énnékem őriző pásztorom</title>
+    </titles>
+    <copyright>Hé-060</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr énnékem őriző pásztorom...<br/><br/>Hitünk énekei<br/>60. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr énnékem őriző pásztorom, azért semmiben meg nem fogyatkozom. Gyönyörű szép mezőn engemet éltet és szép kies folyóvízre legeltet; Lelkemet megnyugtatja szent nevében és vezérl engem igaz ösvényében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha a halál árnyékában járnék is, de nem félnék még ő sötét völgyén is, mert mindenütt Te jelen vagy énvelem, vessződ és botod megvigasztal engem és nekem az én ellenségim ellen asztalt készítesz, eledelt adsz bőven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az én fejemet megkened olajjal és engemet itatsz teljes pohárral; Jóvoltod, kegyességed körülvészen és követ engem egész életemben. Az Úr énnékem megengedi nyilván, hogy mind éltiglen lakjam ő házában.</lines>
+    </verse>
+  </lyrics>
+</song>

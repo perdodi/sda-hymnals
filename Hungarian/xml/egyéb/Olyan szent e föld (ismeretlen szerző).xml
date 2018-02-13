@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:36">
+  <properties>
+    <titles>
+      <title>Olyan szent e föld</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Olyan szent e föld</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Olyan szent e föld, mert itt az Úr, az Ő sátora vesz körül, az angyalok. Áldjuk azért Jézus nevét, aki halott volt, és íme él örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

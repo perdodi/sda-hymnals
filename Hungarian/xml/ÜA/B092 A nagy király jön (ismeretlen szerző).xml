@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:35">
+  <properties>
+    <titles>
+      <title>B092 A nagy király jön</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A nagy király jön<br/>B092</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A nagy király jön, hozsánna, hozsánna! Zeng a kiáltás előtte, utána; Zöld ágakat szeldelnek útjára, Békességet hoz népe javára.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott, aki jött az Úrnak nevébe', Általa léptünk az Isten kedvébe; Békesség ott fenn a mennyországban, Áldott az Isten a magasságban!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, lelki ország, Istennek országa, Mily édes ebben Jézus királysága! Szelíd, szegény ez és alázatos, De nagyhatalmú és csodálatos.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Igaz ez és a bűntől szabadító, Poklot és halált egyaránt hódító. Vasvesszővel bírja ellenségét, De szelíden őrzi örökségét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, áldott Jézus, ki bírsz a világgal, Jöjj mihozzánk is alázatossággal, Tégy tulajdon népeddé bennünket, Vezéreld jóra egész éltünket!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Áldott Királyunk, lelkünk nagy Királya, Jöttödet néped ma is várva várja. Jöjj hát hozzánk is nagy hatalommal, Terjeszd országod diadalommal!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A nagy Király jön, hozsánna, hozsánna! Zengjük, kiáltsuk előtte, utána; Hintsük be útját mi is zöld ággal, És ünnepeljünk szent buzgósággal!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsőség legyen az Isten Fiának, Áldás, békesség az égi Királynak, Hogy vele mi is, kiket megváltott, Bírhassuk egykor a mennyországot!</lines>
+    </verse>
+  </lyrics>
+</song>

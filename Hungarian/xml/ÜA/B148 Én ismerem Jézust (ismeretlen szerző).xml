@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:41">
+  <properties>
+    <titles>
+      <title>B148 Én ismerem Jézust</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Én ismerem Jézust<br/>B148</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Én ismerem Jézust, az Atya küldte őt, Ki szeretettől hajtva értem nyomorba jött, Ki szeretettől hajtva értem nyomorba jött.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bár őt megbántottam oly sokszor, oly nagyon, Ő hozzám mégis mindig kegyelemmel hajolt, Ő hozzám mégis mindig kegyelemmel hajolt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha látta, hogy bántott a bűn, amit tettem, Ő nyomban megbocsátott, megvigasztalt engem, Ő nyomban megbocsátott, megvigasztalt engem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Most éltem egészen őnéki szentelem, Az örök üdvösséget ő adja meg nekem, Az örök üdvösséget ő adja meg nekem.</lines>
+    </verse>
+  </lyrics>
+</song>

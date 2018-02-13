@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:44:22">
+  <properties>
+    <titles>
+      <title>474. Fel az áram ellen testvérem!</title>
+    </titles>
+    <copyright>Hé-474, Üa-478</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fel az áram ellen testvérem!<br/><br/>Hitünk énekei<br/>474. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fel az áram ellen testvérem! Küzdjünk ama jobb honba át, kezeljük erősen evezőnk, átszelve bátran a vízárt. S ha zúgnak is a habok néha, hogy visszaszorítsanak majd, vesd csak szemed bízva az égre s leküzdöd csakhamar a bajt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallod-e a távoli hangot? Mily kedves örömének ez. A mennyei városból hangzik, hová a szívünk epedez. Csak fogd erősen eveződet s kezedből azt ki ne bocsásd! Fel az áram ellen, testvérem, honunkba érünk majd meglásd!</lines>
+    </verse>
+  </lyrics>
+</song>

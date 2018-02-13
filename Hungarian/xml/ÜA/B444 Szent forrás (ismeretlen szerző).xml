@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:17">
+  <properties>
+    <titles>
+      <title>B444 Szent forrás</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szent forrás<br/>B444</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szent forrás, íme, lásd, Szomjas néped köréd áll! Pihennek és kérnek, Hadd üdüljön fel a nyáj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te magad lehetsz csak, Ki enyhíti szomjunkat. Nincs oly hely sehol sem, Hol a szív megnyugodhat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bolyongtunk, bujdostunk Tévelygések ösvényén; Lejöttél, kerestél, Megleltél a bűn mélyén.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oly boldog vagyok most, Hogy szívemre beszéltél. Ó, mily jó, nyugtató, Hogy nyájadba felvettél!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szent forrás, üdíts hát, Íme, kér e kis sereg! Lehajlunk, úgy iszunk, Élet vize tégedet.</lines>
+    </verse>
+  </lyrics>
+</song>

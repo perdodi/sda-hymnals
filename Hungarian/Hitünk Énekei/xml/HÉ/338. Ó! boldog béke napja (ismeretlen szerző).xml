@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:00:34">
+  <properties>
+    <titles>
+      <title>338. Ó! boldog béke napja</title>
+    </titles>
+    <copyright>Hé-338</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! boldog béke napja...<br/><br/>Hitünk énekei<br/>338. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! boldog béke napja, te kedves szombatnap! Oly áldott minden perced, mert áldás napja vagy! Most térdet, fejet hajtva hű néped leborul, és hálatelten zengi, mily szentséges az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A béke és a csönd vagy: A szívnek enyhet adsz, te Éden áldott kertje, hol nem sújt vész, sem harc. Te tiszta, üde forrás, mely Istenben fakad, Ó! Láttasd égi honunk mint nyújt majd nyugalmat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent gondolatok napja, te drága alkalom, a lelkünk mennybe röppen most könnyű szárnyakon. Légy mindörökre áldott, te drága szombatnap, mert földi létünk éke, az öröm napja vagy.</lines>
+    </verse>
+  </lyrics>
+</song>

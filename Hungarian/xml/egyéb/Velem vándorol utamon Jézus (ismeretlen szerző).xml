@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:54">
+  <properties>
+    <titles>
+      <title>Velem vándorol utamon Jézus</title>
+    </titles>
+    <copyright>S-129</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Velem vándorol utamon Jézus</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Velem vándorol utamon Jézus, gond és félelem el nem ér. Elvisz, elsegít engem a célhoz, Ő a győzelmes hű vezér, Ő a győzelmes hű vezér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Velem vándorol utamon Jézus, ott az oltalom hű szívén. Ha a szép napot fellegek rejtik, Ő az éltető, tiszta fény, Ő az éltető, tiszta fény.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Velem vándorol utamon Jézus, bár az út néha oly sötét, soha nincs okom félni a bajtól, amíg irgalmas karja véd, amíg irgalmas karja véd.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Velem vándorol utamon Jézus, ez a vigaszom, baj ha jő. Bármi súlyosak rajtam a terhek, segít hordani, ott van Ő, segít hordani, ott van Ő.</lines>
+    </verse>
+  </lyrics>
+</song>

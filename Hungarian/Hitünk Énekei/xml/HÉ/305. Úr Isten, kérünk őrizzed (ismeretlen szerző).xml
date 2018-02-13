@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:49:03">
+  <properties>
+    <titles>
+      <title>305. Úr Isten, kérünk őrizzed</title>
+    </titles>
+    <copyright>Hé-305</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úr Isten, kérünk őrizzed...<br/><br/>Hitünk énekei<br/>305. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úr Isten, kérünk őrizzed szent igéd által népedet, mert Jézus Krisztus ellen kélt a csalárd ősi ellenség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úr Jézus, szemünk rád tekint, tégy velünk szent igéd szerint: Óvd kegyelemmel népedet, adj nekünk örök életet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szentlélek, kérünk tégedet: tedd egységessé népedet; és amiként az ige szól: életre vigy a halálból.</lines>
+    </verse>
+  </lyrics>
+</song>

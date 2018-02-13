@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:53:01">
+  <properties>
+    <titles>
+      <title>271. Áldásodat érzi minden</title>
+    </titles>
+    <copyright>Hé-271</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldásodat érzi minden...<br/><br/>Hitünk énekei<br/>271. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldásodat érzi minden; Szent kegyelmed kísér híven minden embert, Istenem; Kinek Te vagy reménysége, bátorsága, menedéke, örömben él s békében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szíved végtelen jósága örömömnek bő forrása, maradj velem mindenkor! Csodás módon vezetsz engem, sosem engedsz elcsüggednem: vígasz árad ajkadról.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sokan földi kincsre vágyva, melynek gond és könny az ára, hívó szódat nem hallják. Én csak Benned bízva járok, örök kincset Tőled várok, Nálad van csak boldogság.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szívem csöndes, mert remélem, örök célom majd elérem, Te vezetsz minduntalan. Szívem, lelkem, testem, éltem Tőled kaptam, s most egészen Néked adom, én Uram!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szívem minden titkát látod, igaz bánatomat várod, s tőled kérek kegyelmet. Tudom, csak jót akarsz nékem, reád bízom egész éltem: Akaratod legyen meg!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Míg a földön hitben járok, keresve a Te országod, reád bízom sorsomat. Tudom, soká nem kell várnom, egy kis idő és meglátom örök boldogságomat!</lines>
+    </verse>
+  </lyrics>
+</song>

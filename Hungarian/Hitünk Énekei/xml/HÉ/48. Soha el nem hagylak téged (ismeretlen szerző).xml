@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:45:26">
+  <properties>
+    <titles>
+      <title>48. Soha el nem hagylak téged</title>
+    </titles>
+    <copyright>Hé-048</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Soha el nem hagylak téged...<br/><br/>Hitünk énekei<br/>48. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Soha el nem hagylak téged, soha el nem feledlek. Éjjel-nappal őrzöm utad, kézenfogva vezetlek! Bűntől, gondtól nem kell félned, bízzál csak, mert szeretlek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogyha vihar vesz majd körül, hívj csak Engem, gyermekem. Átölelem gyönge lelked, megóv, megvéd szerelmem! Tűzön-vízen, minden vészben lábad bizton vezetem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tűző napban, verőfényben, hímes mezőn hogyha jársz, lelked árad boldogságtól, szíved öröm járja át: ott is látod, ott is érzed, szeret égi jó Atyád!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogyha gondok fenyegetnek, s élted ege beborul, kiálts Hozzám, meghallgatlak, és a felhő elvonul! Így te érzed, mint szeretlek forrón, változatlanul!</lines>
+    </verse>
+  </lyrics>
+</song>

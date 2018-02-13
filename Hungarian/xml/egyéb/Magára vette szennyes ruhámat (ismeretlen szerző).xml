@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:17">
+  <properties>
+    <titles>
+      <title>Magára vette szennyes ruhámat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Magára vette szennyes ruhámat</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Magára vette szennyes ruhámat,<br/>Így békíté meg Istent, Atyámat.<br/>Így békíté meg, így békíté meg <br/>Istent, Atyámat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kín, mely őt érte, nékem volt szánva,<br/>De Ő felvitte a Golgotára,<br/>De Ő felvitte, de Ő felvitte<br/>a Golgotára.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szerelmes szíve szakadt meg értem,<br/>Hogy eltörölje mind, mind a vétkem.<br/>Hogy eltörölje, és eltörölte,<br/>Mind, mind a vétkem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus, te drága, mit adjak Néked?<br/>Összetört szívem hozom Elédbe,<br/>Összetört szívem, összetört szívem,<br/>Hozom Elébed!</lines>
+    </verse>
+  </lyrics>
+</song>

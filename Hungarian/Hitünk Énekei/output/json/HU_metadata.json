@@ -1,0 +1,5687 @@
+{
+    "texts": {
+        "1": [
+            {
+                "full": "ISMERETLEN SZERZŐ (1757)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(1757)"
+            }
+        ],
+        "2": [
+            {
+                "full": "DECIUS, Nikolaus (1485-1546)",
+                "name": "DECIUS, Nikolaus",
+                "life": "(1485-1546)"
+            }
+        ],
+        "3": [
+            {
+                "full": "BÁRTFA (1593)",
+                "name": "BÁRTFA",
+                "life": "(1593)"
+            }
+        ],
+        "4": [
+            {
+                "full": "RÁDAY Pál (1677-1733)",
+                "name": "RÁDAY Pál",
+                "life": "(1677-1733)"
+            }
+        ],
+        "5": [
+            {
+                "full": "FRANZ, Ignaz (1719-1790)",
+                "name": "FRANZ, Ignaz",
+                "life": "(1719-1790)"
+            },
+            {
+                "full": "NICETAS (335-414)",
+                "name": "NICETAS",
+                "life": "(335-414)"
+            }
+        ],
+        "6": [
+            {
+                "full": "EDMESTON, James (1791-1867)",
+                "name": "EDMESTON, James",
+                "life": "(1791-1867)"
+            }
+        ],
+        "7": [
+            {
+                "full": "BAKER, Hénry (1821-1877)",
+                "name": "BAKER, Hénry",
+                "life": "(1821-1877)"
+            }
+        ],
+        "8": [
+            {
+                "full": "HERRNSCHMIDT, Johann Daniel (1675-1723)",
+                "name": "HERRNSCHMIDT, Johann Daniel",
+                "life": "(1675-1723)"
+            }
+        ],
+        "9": [
+            {
+                "full": "MARÓT, Clément (1496-1544)",
+                "name": "MARÓT, Clément",
+                "life": "(1496-1544)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "10": [
+            {
+                "full": "HEBER, Reginald (1783-1826)",
+                "name": "HEBER, Reginald",
+                "life": "(1783-1826)"
+            }
+        ],
+        "11": [
+            {
+                "full": "PIERPOINT, Folliott S. (1864)",
+                "name": "PIERPOINT, Folliott S.",
+                "life": "(1864)"
+            }
+        ],
+        "12": [
+            {
+                "full": "SKARICZA Máté (1544-1591)",
+                "name": "SKARICZA Máté",
+                "life": "(1544-1591)"
+            }
+        ],
+        "13": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "14": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "15": [
+            {
+                "full": "SCHÜTZ, Johann Jakob (1640-1690)",
+                "name": "SCHÜTZ, Johann Jakob",
+                "life": "(1640-1690)"
+            }
+        ],
+        "16": [
+            {
+                "full": "APELLES von Löwenstern, Matthäus (1594-1648)",
+                "name": "APELLES von Löwenstern, Matthäus",
+                "life": "(1594-1648)"
+            }
+        ],
+        "17": [
+            {
+                "full": "MACKAY, William Paton (1886)",
+                "name": "MACKAY, William Paton",
+                "life": "(1886)"
+            }
+        ],
+        "18": [
+            {
+                "full": "LYTE, Henry F. (1793-1847)",
+                "name": "LYTE, Henry F.",
+                "life": "(1793-1847)"
+            }
+        ],
+        "19": [
+            {
+                "full": "CRASSELIUS, Bartholomäus (1677-1724)",
+                "name": "CRASSELIUS, Bartholomäus",
+                "life": "(1677-1724)"
+            }
+        ],
+        "20": [
+            {
+                "full": "MONSELL, John S. B. (1811-1875)",
+                "name": "MONSELL, John S. B.",
+                "life": "(1811-1875)"
+            }
+        ],
+        "21": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "22": [
+            {
+                "full": "LENGYEL József (1770-1822)",
+                "name": "LENGYEL József",
+                "life": "(1770-1822)"
+            }
+        ],
+        "23": [
+            {
+                "full": "CROSBY, Fanny Jane (1823-1915)",
+                "name": "CROSBY, Fanny Jane",
+                "life": "(1823-1915)"
+            }
+        ],
+        "24": [
+            {
+                "full": "BÁRTFA (1593)",
+                "name": "BÁRTFA",
+                "life": "(1593)"
+            }
+        ],
+        "25": [
+            {
+                "full": "WATTS, Isaac (1674-1748)",
+                "name": "WATTS, Isaac",
+                "life": "(1674-1748)"
+            }
+        ],
+        "26": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "27": [
+            {
+                "full": "MENTZER, Johann (1658-1734)",
+                "name": "MENTZER, Johann",
+                "life": "(1658-1734)"
+            }
+        ],
+        "28": [
+            {
+                "full": "RINCKART, Martin (1586-1649)",
+                "name": "RINCKART, Martin",
+                "life": "(1586-1649)"
+            }
+        ],
+        "29": [
+            {
+                "full": "GELLERT, Christian Fürchtegott (1715-1769)",
+                "name": "GELLERT, Christian Fürchtegott",
+                "life": "(1715-1769)"
+            }
+        ],
+        "30": [
+            {
+                "full": "TERSTEEGEN, Gerhard (1697-1769)",
+                "name": "TERSTEEGEN, Gerhard",
+                "life": "(1697-1769)"
+            }
+        ],
+        "31": [
+            {
+                "full": "MARÓT, Clément (1496-1544)",
+                "name": "MARÓT, Clément",
+                "life": "(1496-1544)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "32": [
+            {
+                "full": "NEANDER, Joachim (1650-1680)",
+                "name": "NEANDER, Joachim",
+                "life": "(1650-1680)"
+            }
+        ],
+        "33": [
+            {
+                "full": "NEANDER, Joachim (1650-1680)",
+                "name": "NEANDER, Joachim",
+                "life": "(1650-1680)"
+            }
+        ],
+        "34": [
+            {
+                "full": "MARÓT, Clément (1496-1544)",
+                "name": "MARÓT, Clément",
+                "life": "(1496-1544)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "35": [
+            {
+                "full": "STEELE, Anne (1716-1778)",
+                "name": "STEELE, Anne",
+                "life": "(1716-1778)"
+            }
+        ],
+        "36": [
+            {
+                "full": "GRANT Róbert (1779-1838)",
+                "name": "GRANT Róbert",
+                "life": "(1779-1838)"
+            }
+        ],
+        "37": [
+            {
+                "full": "MARÓT, Clément (1496-1544)",
+                "name": "MARÓT, Clément",
+                "life": "(1496-1544)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "38": [
+            {
+                "full": "OLIVERS, Thomas (1725-1799)",
+                "name": "OLIVERS, Thomas",
+                "life": "(1725-1799)"
+            }
+        ],
+        "39": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "40": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "41": [
+            {
+                "full": "ISTVÁN deák (1566 előtt)",
+                "name": "ISTVÁN deák",
+                "life": "(1566 előtt)"
+            }
+        ],
+        "42": [
+            {
+                "full": "MARÓT, Clément (1496-1544)",
+                "name": "MARÓT, Clément",
+                "life": "(1496-1544)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "43": [
+            {
+                "full": "SZTÁRAI Mihály (mh. 1575)",
+                "name": "SZTÁRAI Mihály",
+                "life": "(mh. 1575)"
+            }
+        ],
+        "44": [
+            {
+                "full": "SZTÁRAI Mihály (mh. 1575)",
+                "name": "SZTÁRAI Mihály",
+                "life": "(mh. 1575)"
+            }
+        ],
+        "45": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "46": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "47": [
+            {
+                "full": "GRAMANN, Johann (1487-1541)",
+                "name": "GRAMANN, Johann",
+                "life": "(1487-1541)"
+            }
+        ],
+        "48": [
+            {
+                "full": "ISMERETLEN SZERZŐ (1908)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(1908)"
+            }
+        ],
+        "49": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "50": [
+            {
+                "full": "DEBRECEN (1590)",
+                "name": "DEBRECEN",
+                "life": "(1590)"
+            }
+        ],
+        "51": [
+            {
+                "full": "WARING, Anna L. (1820-1910)",
+                "name": "WARING, Anna L.",
+                "life": "(1820-1910)"
+            }
+        ],
+        "52": [
+            {
+                "full": "WATTS, Isaac (1674-1748)",
+                "name": "WATTS, Isaac",
+                "life": "(1674-1748)"
+            }
+        ],
+        "53": [
+            {
+                "full": "LÉVAY József (1825-1918)",
+                "name": "LÉVAY József",
+                "life": "(1825-1918)"
+            }
+        ],
+        "54": [
+            {
+                "full": "FABER, Frederick W. (1854)",
+                "name": "FABER, Frederick W.",
+                "life": "(1854)"
+            }
+        ],
+        "55": [
+            {
+                "full": "SZEGEDI Gergely (mh. l566)",
+                "name": "SZEGEDI Gergely",
+                "life": "(mh. l566)"
+            }
+        ],
+        "56": [
+            {
+                "full": "COWPER, William (1731-1800)",
+                "name": "COWPER, William",
+                "life": "(1731-1800)"
+            }
+        ],
+        "57": [
+            {
+                "full": "HOW, William Walsham (1823-1897)",
+                "name": "HOW, William Walsham",
+                "life": "(1823-1897)"
+            }
+        ],
+        "58": [
+            {
+                "full": "HILLER, Philipp Friedrich (1699-1769)",
+                "name": "HILLER, Philipp Friedrich",
+                "life": "(1699-1769)"
+            }
+        ],
+        "59": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "60": [
+            {
+                "full": "MARÓT, Clément (1496-1544)",
+                "name": "MARÓT, Clément",
+                "life": "(1496-1544)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "61": [
+            {
+                "full": "GELLERT, Christian Fürchtegott (1715-1769)",
+                "name": "GELLERT, Christian Fürchtegott",
+                "life": "(1715-1769)"
+            }
+        ],
+        "62": [
+            {
+                "full": "RISCHE, August (1819-1906)",
+                "name": "RISCHE, August",
+                "life": "(1819-1906)"
+            }
+        ],
+        "63": [
+            {
+                "full": "LORENZ, E. S. (1890-?)",
+                "name": "LORENZ, E. S.",
+                "life": "(1890-?)"
+            }
+        ],
+        "64": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "65": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "66": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "67": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "68": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "69": [
+            {
+                "full": "ZINZENDORF, Nikolaus Ludwig (1700-1760)",
+                "name": "ZINZENDORF, Nikolaus Ludwig",
+                "life": "(1700-1760)"
+            }
+        ],
+        "70": [
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "71": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "72": [
+            {
+                "full": "SZTÁRAI Mihály (mh. 1575)",
+                "name": "SZTÁRAI Mihály",
+                "life": "(mh. 1575)"
+            }
+        ],
+        "73": [
+            {
+                "full": "KELLY, Thomas (1769-1854)",
+                "name": "KELLY, Thomas",
+                "life": "(1769-1854)"
+            }
+        ],
+        "74": [
+            {
+                "full": "SCHMOLCK, Benjamin (1672-1737)",
+                "name": "SCHMOLCK, Benjamin",
+                "life": "(1672-1737)"
+            }
+        ],
+        "75": [
+            {
+                "full": "NICOLAI, Philipp (1556-1608)",
+                "name": "NICOLAI, Philipp",
+                "life": "(1556-1608)"
+            }
+        ],
+        "76": [
+            {
+                "full": "TERSTEEGEN, Gerhard (1697-1769)",
+                "name": "TERSTEEGEN, Gerhard",
+                "life": "(1697-1769)"
+            }
+        ],
+        "77": [
+            {
+                "full": "PERRONET, Edward (1726-1792)",
+                "name": "PERRONET, Edward",
+                "life": "(1726-1792)"
+            }
+        ],
+        "78": [
+            {
+                "full": "HOFFMANN, Heinrich August von Fallersleben (1798-1874)",
+                "name": "HOFFMANN, Heinrich August von Fallersleben",
+                "life": "(1798-1874)"
+            },
+            {
+                "full": "MÜNSTER (1677)",
+                "name": "MÜNSTER",
+                "life": "(1677)"
+            }
+        ],
+        "79": [
+            {
+                "full": "FREYLINGHAUSEN, Johann Anastasius (1670-1739)",
+                "name": "FREYLINGHAUSEN, Johann Anastasius",
+                "life": "(1670-1739)"
+            }
+        ],
+        "80": [
+            {
+                "full": "RHIEM Caroline (1857-?)",
+                "name": "RHIEM Caroline",
+                "life": "(1857-?)"
+            }
+        ],
+        "81": [
+            {
+                "full": "TERSTEEGEN, Gerhard (1697-1769)",
+                "name": "TERSTEEGEN, Gerhard",
+                "life": "(1697-1769)"
+            }
+        ],
+        "82": [
+            {
+                "full": "KEY, Francis Scott",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "83": [
+            {
+                "full": "WOLCOTT, Samuel (1869)",
+                "name": "WOLCOTT, Samuel",
+                "life": "(1869)"
+            }
+        ],
+        "84": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "85": [
+            {
+                "full": "HAVERGAL, Frances Ridley (1836-1879)",
+                "name": "HAVERGAL, Frances Ridley",
+                "life": "(1836-1879)"
+            }
+        ],
+        "86": [
+            {
+                "full": "NEALE, John M (1818-1866)",
+                "name": "NEALE, John M",
+                "life": "(1818-1866)"
+            }
+        ],
+        "87": [
+            {
+                "full": "HELD, Heinrich (1620-1659)",
+                "name": "HELD, Heinrich",
+                "life": "(1620-1659)"
+            }
+        ],
+        "88": [
+            {
+                "full": "BERLIN (1853)",
+                "name": "BERLIN",
+                "life": "(1853)"
+            },
+            {
+                "full": "KÖLN (1599)",
+                "name": "KÖLN",
+                "life": "(1599)"
+            }
+        ],
+        "89": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            },
+            {
+                "full": "REFORMÁCIÓ ELŐTT (1370)",
+                "name": "REFORMÁCIÓ ELŐTT",
+                "life": "(1370)"
+            }
+        ],
+        "90": [
+            {
+                "full": "MORRISON, John",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "91": [
+            {
+                "full": "HERMAN, Nikolaus (1480 ?-1561)",
+                "name": "HERMAN, Nikolaus",
+                "life": "(1480 ?-1561)"
+            }
+        ],
+        "92": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "93": [
+            {
+                "full": "GELLERT, Christian Fürchtegott (1715-1769)",
+                "name": "GELLERT, Christian Fürchtegott",
+                "life": "(1715-1769)"
+            }
+        ],
+        "94": [
+            {
+                "full": "BROOKS, Phillips (1868)",
+                "name": "BROOKS, Phillips",
+                "life": "(1868)"
+            }
+        ],
+        "95": [
+            {
+                "full": "WEISSEL, Georg (1590-1635)",
+                "name": "WEISSEL, Georg",
+                "life": "(1590-1635)"
+            }
+        ],
+        "96": [
+            {
+                "full": "RIST, Johann (1607-1667)",
+                "name": "RIST, Johann",
+                "life": "(1607-1667)"
+            }
+        ],
+        "97": [
+            {
+                "full": "SCHEFFLER, Johann (1624-1677)",
+                "name": "SCHEFFLER, Johann",
+                "life": "(1624-1677)"
+            }
+        ],
+        "98": [
+            {
+                "full": "LENGYEL József (1770-1822)",
+                "name": "LENGYEL József",
+                "life": "(1770-1822)"
+            }
+        ],
+        "99": [
+            {
+                "full": "ÚJ ZENGEDEZŐ MENNYEI KAR (1743)",
+                "name": "ÚJ ZENGEDEZŐ MENNYEI KAR",
+                "life": "(1743)"
+            }
+        ],
+        "100": [
+            {
+                "full": "BATTHYÁNY-KÓDEX (1550 körül)",
+                "name": "BATTHYÁNY-KÓDEX",
+                "life": "(1550 körül)"
+            }
+        ],
+        "101": [
+            {
+                "full": "GÜNTHER, Cyriakus (1650-1705)",
+                "name": "GÜNTHER, Cyriakus",
+                "life": "(1650-1705)"
+            }
+        ],
+        "102": [
+            {
+                "full": "DEBRECEN (1806)",
+                "name": "DEBRECEN",
+                "life": "(1806)"
+            }
+        ],
+        "103": [
+            {
+                "full": "WHITTIER, John G. (1807-1892)",
+                "name": "WHITTIER, John G.",
+                "life": "(1807-1892)"
+            }
+        ],
+        "104": [
+            {
+                "full": "ALLEN, Freda Hanbury",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "105": [
+            {
+                "full": "HUNTER, William (1811-1877)",
+                "name": "HUNTER, William",
+                "life": "(1811-1877)"
+            }
+        ],
+        "106": [
+            {
+                "full": "NAGYVÁRAD (1566)",
+                "name": "NAGYVÁRAD",
+                "life": "(1566)"
+            }
+        ],
+        "107": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "108": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "109": [
+            {
+                "full": "ÖREG GRADUÁL (1636)",
+                "name": "ÖREG GRADUÁL",
+                "life": "(1636)"
+            }
+        ],
+        "110": [
+            {
+                "full": "DEBRECEN (1569)",
+                "name": "DEBRECEN",
+                "life": "(1569)"
+            }
+        ],
+        "111": [
+            {
+                "full": "BAKER, H. W. (1868)",
+                "name": "BAKER, H. W.",
+                "life": "(1868)"
+            }
+        ],
+        "112": [
+            {
+                "full": "ROSTOCK (1531)",
+                "name": "ROSTOCK",
+                "life": "(1531)"
+            }
+        ],
+        "113": [
+            {
+                "full": "WATTS, Isaac (1674-1748)",
+                "name": "WATTS, Isaac",
+                "life": "(1674-1748)"
+            }
+        ],
+        "114": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "115": [
+            {
+                "full": "SENITZ, Elisabeth (1629-1679)",
+                "name": "SENITZ, Elisabeth",
+                "life": "(1629-1679)"
+            }
+        ],
+        "116": [
+            {
+                "full": "ALEXANDER, Cecil Frances (1823-1895)",
+                "name": "ALEXANDER, Cecil Frances",
+                "life": "(1823-1895)"
+            }
+        ],
+        "117": [
+            {
+                "full": "GESENIUS, Justus (1601-1671)",
+                "name": "GESENIUS, Justus",
+                "life": "(1601-1671)"
+            }
+        ],
+        "118": [
+            {
+                "full": "HOMBURG, Ernst Christian (1605-1681)",
+                "name": "HOMBURG, Ernst Christian",
+                "life": "(1605-1681)"
+            }
+        ],
+        "119": [
+            {
+                "full": "ISMERETLEN SZERZŐ (XVII. század)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(XVII. század)"
+            }
+        ],
+        "120": [
+            {
+                "full": "THEBESIUS, Adam (1596-1652)",
+                "name": "THEBESIUS, Adam",
+                "life": "(1596-1652)"
+            }
+        ],
+        "121": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "122": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "123": [
+            {
+                "full": "LENGYEL ÉNEK",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "124": [
+            {
+                "full": "BOWRING, John (1792-1872)",
+                "name": "BOWRING, John",
+                "life": "(1792-1872)"
+            }
+        ],
+        "125": [
+            {
+                "full": "BLISS, Philip P. (1838-1876)",
+                "name": "BLISS, Philip P.",
+                "life": "(1838-1876)"
+            }
+        ],
+        "126": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "127": [
+            {
+                "full": "NEALE, John M (1818-1866)",
+                "name": "NEALE, John M",
+                "life": "(1818-1866)"
+            }
+        ],
+        "128": [
+            {
+                "full": "SZÖNYI Benjámin (1717-1794)",
+                "name": "SZÖNYI Benjámin",
+                "life": "(1717-1794)"
+            }
+        ],
+        "129": [
+            {
+                "full": "TURNER, Daniel",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "130": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "131": [
+            {
+                "full": "DEBRECEN (1815)",
+                "name": "DEBRECEN",
+                "life": "(1815)"
+            }
+        ],
+        "132": [
+            {
+                "full": "COWPER, William (1731-1800)",
+                "name": "COWPER, William",
+                "life": "(1731-1800)"
+            }
+        ],
+        "133": [
+            {
+                "full": "DEBRECEN (1815)",
+                "name": "DEBRECEN",
+                "life": "(1815)"
+            }
+        ],
+        "134": [
+            {
+                "full": "HEBER, Reginald (1783-1826)",
+                "name": "HEBER, Reginald",
+                "life": "(1783-1826)"
+            }
+        ],
+        "135": [
+            {
+                "full": "CENNICK, John (1718-1755)",
+                "name": "CENNICK, John",
+                "life": "(1718-1755)"
+            },
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "136": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "137": [
+            {
+                "full": "KOSZTA János",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "138": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "139": [
+            {
+                "full": "ISMERETLEN SZERZŐ (XVIII. század)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(XVIII. század)"
+            }
+        ],
+        "140": [
+            {
+                "full": "HILLER, Philipp Friedrich (1699-1769)",
+                "name": "HILLER, Philipp Friedrich",
+                "life": "(1699-1769)"
+            }
+        ],
+        "141": [
+            {
+                "full": "KELLY, Thomas (1769-1854)",
+                "name": "KELLY, Thomas",
+                "life": "(1769-1854)"
+            }
+        ],
+        "142": [
+            {
+                "full": "RINGWALDT, Bartholomäus (1530-1599)",
+                "name": "RINGWALDT, Bartholomäus",
+                "life": "(1530-1599)"
+            }
+        ],
+        "143": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "144": [
+            {
+                "full": "NICOLAI, Philipp (1556-1608)",
+                "name": "NICOLAI, Philipp",
+                "life": "(1556-1608)"
+            }
+        ],
+        "145": [
+            {
+                "full": "MARÓT, Clément (1496-1544)",
+                "name": "MARÓT, Clément",
+                "life": "(1496-1544)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "146": [
+            {
+                "full": "BROMEHEAD, Joseph",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "147": [
+            {
+                "full": "SMITH, Annié R.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "148": [
+            {
+                "full": "KELLY, Thomas (1769-1854)",
+                "name": "KELLY, Thomas",
+                "life": "(1769-1854)"
+            }
+        ],
+        "149": [
+            {
+                "full": "SCHEIDT, Christian Ludwig (1709-1761)",
+                "name": "SCHEIDT, Christian Ludwig",
+                "life": "(1709-1761)"
+            }
+        ],
+        "150": [
+            {
+                "full": "CUSHING, William O. (1823-1902)",
+                "name": "CUSHING, William O.",
+                "life": "(1823-1902)"
+            }
+        ],
+        "151": [
+            {
+                "full": "GELLERT, Christian Fürchtegott (1715-1769)",
+                "name": "GELLERT, Christian Fürchtegott",
+                "life": "(1715-1769)"
+            }
+        ],
+        "152": [
+            {
+                "full": "BERLIN (1653)",
+                "name": "BERLIN",
+                "life": "(1653)"
+            }
+        ],
+        "153": [
+            {
+                "full": "BENNETT, S. F. (1908)",
+                "name": "BENNETT, S. F.",
+                "life": "(1908)"
+            }
+        ],
+        "154": [
+            {
+                "full": "SZEGEDÍ KIS István (1505-1572)",
+                "name": "SZEGEDÍ KIS István",
+                "life": "(1505-1572)"
+            }
+        ],
+        "155": [
+            {
+                "full": "SPITTA, Karl Johann Philipp (1801-1859)",
+                "name": "SPITTA, Karl Johann Philipp",
+                "life": "(1801-1859)"
+            }
+        ],
+        "156": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "157": [
+            {
+                "full": "REED, Andrew (1787-1862)",
+                "name": "REED, Andrew",
+                "life": "(1787-1862)"
+            }
+        ],
+        "158": [
+            {
+                "full": "DEBRECEN (1778)",
+                "name": "DEBRECEN",
+                "life": "(1778)"
+            }
+        ],
+        "159": [
+            {
+                "full": "SPITTA, Karl Johann Philipp (1801-1859)",
+                "name": "SPITTA, Karl Johann Philipp",
+                "life": "(1801-1859)"
+            }
+        ],
+        "160": [
+            {
+                "full": "ALTENBURG (1648)",
+                "name": "ALTENBURG",
+                "life": "(1648)"
+            }
+        ],
+        "161": [
+            {
+                "full": "SZŰCS Gergely (mh. 1809)",
+                "name": "SZŰCS Gergely",
+                "life": "(mh. 1809)"
+            }
+        ],
+        "162": [
+            {
+                "full": "WELLS, Marcus M. (1815-1895)",
+                "name": "WELLS, Marcus M.",
+                "life": "(1815-1895)"
+            }
+        ],
+        "163": [
+            {
+                "full": "HELD, Heinrich (1620-1659)",
+                "name": "HELD, Heinrich",
+                "life": "(1620-1659)"
+            }
+        ],
+        "164": [
+            {
+                "full": "STOKES, Ellwood H.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "165": [
+            {
+                "full": "CODNER, Elizabeth (1860)",
+                "name": "CODNER, Elizabeth",
+                "life": "(1860)"
+            }
+        ],
+        "166": [
+            {
+                "full": "PECSELYI KIRÁLY Imre (mh. 1641)",
+                "name": "PECSELYI KIRÁLY Imre",
+                "life": "(mh. 1641)"
+            }
+        ],
+        "167": [
+            {
+                "full": "PALMER, Ray (1808-1887)",
+                "name": "PALMER, Ray",
+                "life": "(1808-1887)"
+            }
+        ],
+        "168": [
+            {
+                "full": "SZEGEDI Lajos (mh. l588)",
+                "name": "SZEGEDI Lajos",
+                "life": "(mh. l588)"
+            }
+        ],
+        "169": [
+            {
+                "full": "LENGYEL József (1770-1822)",
+                "name": "LENGYEL József",
+                "life": "(1770-1822)"
+            }
+        ],
+        "170": [
+            {
+                "full": "ZENGEDEZŐ MENNYEI KAR (1696)",
+                "name": "ZENGEDEZŐ MENNYEI KAR",
+                "life": "(1696)"
+            }
+        ],
+        "171": [
+            {
+                "full": "BALASSA Bálint (1554-1594)",
+                "name": "BALASSA Bálint",
+                "life": "(1554-1594)"
+            }
+        ],
+        "172": [
+            {
+                "full": "NEANDER, Joachim (1650-1680)",
+                "name": "NEANDER, Joachim",
+                "life": "(1650-1680)"
+            }
+        ],
+        "173": [
+            {
+                "full": "TIETZE V. TITIUS Christoph (1641-1703)",
+                "name": "TIETZE V. TITIUS Christoph",
+                "life": "(1641-1703)"
+            }
+        ],
+        "174": [
+            {
+                "full": "HARTYANI Imre (1566 előtt)",
+                "name": "HARTYANI Imre",
+                "life": "(1566 előtt)"
+            }
+        ],
+        "175": [
+            {
+                "full": "SZILÁGYI Mihály (mh. 1817)",
+                "name": "SZILÁGYI Mihály",
+                "life": "(mh. 1817)"
+            }
+        ],
+        "176": [
+            {
+                "full": "DEBRECEN (1569)",
+                "name": "DEBRECEN",
+                "life": "(1569)"
+            }
+        ],
+        "177": [
+            {
+                "full": "ELLIOTT, Charlotte (1789-1871)",
+                "name": "ELLIOTT, Charlotte",
+                "life": "(1789-1871)"
+            }
+        ],
+        "178": [
+            {
+                "full": "ÚJ ZENGEDEZŐ MENNYEI KAR (1743)",
+                "name": "ÚJ ZENGEDEZŐ MENNYEI KAR",
+                "life": "(1743)"
+            }
+        ],
+        "179": [
+            {
+                "full": "SZÁSZ Béla (1840-1898)",
+                "name": "SZÁSZ Béla",
+                "life": "(1840-1898)"
+            }
+        ],
+        "180": [
+            {
+                "full": "STONE, Samuel J. (1839-1900)",
+                "name": "STONE, Samuel J.",
+                "life": "(1839-1900)"
+            }
+        ],
+        "181": [
+            {
+                "full": "NEUMEISTER, Erdmann (1670-1756)",
+                "name": "NEUMEISTER, Erdmann",
+                "life": "(1670-1756)"
+            }
+        ],
+        "182": [
+            {
+                "full": "BLISS, Philip P. (1838-1876)",
+                "name": "BLISS, Philip P.",
+                "life": "(1838-1876)"
+            }
+        ],
+        "183": [
+            {
+                "full": "LIEBICH, Ehrenfried (1713-1780)",
+                "name": "LIEBICH, Ehrenfried",
+                "life": "(1713-1780)"
+            }
+        ],
+        "184": [
+            {
+                "full": "BAXTER, Lillian (1809-1874)",
+                "name": "BAXTER, Lillian",
+                "life": "(1809-1874)"
+            }
+        ],
+        "185": [
+            {
+                "full": "ARNDT, Julius Karl (1820-1888)",
+                "name": "ARNDT, Julius Karl",
+                "life": "(1820-1888)"
+            }
+        ],
+        "186": [
+            {
+                "full": "HEERMANN, Johann (1585-1647)",
+                "name": "HEERMANN, Johann",
+                "life": "(1585-1647)"
+            }
+        ],
+        "187": [
+            {
+                "full": "CROSBY, Fanny Jane (1823-1915)",
+                "name": "CROSBY, Fanny Jane",
+                "life": "(1823-1915)"
+            }
+        ],
+        "188": [
+            {
+                "full": "LENGYEL József (1770-1822)",
+                "name": "LENGYEL József",
+                "life": "(1770-1822)"
+            }
+        ],
+        "189": [
+            {
+                "full": "HOW, William Walsham (1823-1897)",
+                "name": "HOW, William Walsham",
+                "life": "(1823-1897)"
+            }
+        ],
+        "190": [
+            {
+                "full": "HAVERGAL, Frances Ridley (1836-1879)",
+                "name": "HAVERGAL, Frances Ridley",
+                "life": "(1836-1879)"
+            }
+        ],
+        "191": [
+            {
+                "full": "PALMER, Ray (1808-1887)",
+                "name": "PALMER, Ray",
+                "life": "(1808-1887)"
+            }
+        ],
+        "192": [
+            {
+                "full": "MATHESON, George (1842-1906)",
+                "name": "MATHESON, George",
+                "life": "(1842-1906)"
+            }
+        ],
+        "193": [
+            {
+                "full": "THILO, Valentin (1607-1662)",
+                "name": "THILO, Valentin",
+                "life": "(1607-1662)"
+            }
+        ],
+        "194": [
+            {
+                "full": "MOULE, H. C. G.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "195": [
+            {
+                "full": "HARTSOUGH, Lewis (1828-1919)",
+                "name": "HARTSOUGH, Lewis",
+                "life": "(1828-1919)"
+            }
+        ],
+        "196": [
+            {
+                "full": "REGIUSZ KIRÁLY Jakab (1823-1690)",
+                "name": "REGIUSZ KIRÁLY Jakab",
+                "life": "(1823-1690)"
+            }
+        ],
+        "197": [
+            {
+                "full": "LOSONTZI István (1709-1780)",
+                "name": "LOSONTZI István",
+                "life": "(1709-1780)"
+            }
+        ],
+        "198": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "199": [
+            {
+                "full": "PECSELYI KIRÁLY Imre (mh. 1641)",
+                "name": "PECSELYI KIRÁLY Imre",
+                "life": "(mh. 1641)"
+            }
+        ],
+        "200": [
+            {
+                "full": "MORRIS, Leila (1862-1929)",
+                "name": "MORRIS, Leila",
+                "life": "(1862-1929)"
+            }
+        ],
+        "201": [
+            {
+                "full": "HERRNSCHMIDT, Johann Daniel (1675-1723)",
+                "name": "HERRNSCHMIDT, Johann Daniel",
+                "life": "(1675-1723)"
+            }
+        ],
+        "202": [
+            {
+                "full": "LAWSON, James (1886)",
+                "name": "LAWSON, James",
+                "life": "(1886)"
+            }
+        ],
+        "203": [
+            {
+                "full": "GELLERT, Christian Fürchtegott (1715-1769)",
+                "name": "GELLERT, Christian Fürchtegott",
+                "life": "(1715-1769)"
+            }
+        ],
+        "204": [
+            {
+                "full": "OGDEN, W. A.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "205": [
+            {
+                "full": "SCHOCK, Johann Peter (1811-1892)",
+                "name": "SCHOCK, Johann Peter",
+                "life": "(1811-1892)"
+            }
+        ],
+        "206": [
+            {
+                "full": "SCHEFFLER, Johann (1624-1677)",
+                "name": "SCHEFFLER, Johann",
+                "life": "(1624-1677)"
+            }
+        ],
+        "207": [
+            {
+                "full": "BAXTER, Lillian (1809-1874)",
+                "name": "BAXTER, Lillian",
+                "life": "(1809-1874)"
+            }
+        ],
+        "208": [
+            {
+                "full": "HAUSMANN, Julie Katharine (1826-1901)",
+                "name": "HAUSMANN, Julie Katharine",
+                "life": "(1826-1901)"
+            }
+        ],
+        "209": [
+            {
+                "full": "ISMERETLEN SZERZŐ (1593 előtt)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(1593 előtt)"
+            }
+        ],
+        "210": [
+            {
+                "full": "SCHRÖDER, Johann Heinrich (1667-1699)",
+                "name": "SCHRÖDER, Johann Heinrich",
+                "life": "(1667-1699)"
+            }
+        ],
+        "211": [
+            {
+                "full": "LAMPE, Friedrich Adolf (1683-1729)",
+                "name": "LAMPE, Friedrich Adolf",
+                "life": "(1683-1729)"
+            }
+        ],
+        "212": [
+            {
+                "full": "HAVERGAL, Frances Ridley (1836-1879)",
+                "name": "HAVERGAL, Frances Ridley",
+                "life": "(1836-1879)"
+            }
+        ],
+        "213": [
+            {
+                "full": "FEATHERSTONE, William Ralf",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "214": [
+            {
+                "full": "HALL, Elvina M.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "215": [
+            {
+                "full": "BOLTON, Fannie E.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "216": [
+            {
+                "full": "ADAMS, Sarah Flower (1805-1843)",
+                "name": "ADAMS, Sarah Flower",
+                "life": "(1805-1843)"
+            }
+        ],
+        "217": [
+            {
+                "full": "GILMORE, J. H. (1862)",
+                "name": "GILMORE, J. H.",
+                "life": "(1862)"
+            }
+        ],
+        "218": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "219": [
+            {
+                "full": "GARVE, Karl Bernhard (1763-1841)",
+                "name": "GARVE, Karl Bernhard",
+                "life": "(1763-1841)"
+            }
+        ],
+        "220": [
+            {
+                "full": "SCHEFFLER, Johann (1624-1677)",
+                "name": "SCHEFFLER, Johann",
+                "life": "(1624-1677)"
+            }
+        ],
+        "221": [
+            {
+                "full": "TOPLADY, Augustus Montague (1740-1778)",
+                "name": "TOPLADY, Augustus Montague",
+                "life": "(1740-1778)"
+            }
+        ],
+        "222": [
+            {
+                "full": "CROSBY, Fanny Jane (1823-1915)",
+                "name": "CROSBY, Fanny Jane",
+                "life": "(1823-1915)"
+            }
+        ],
+        "223": [
+            {
+                "full": "NEUSS, Heinrich Georg (1654-1716)",
+                "name": "NEUSS, Heinrich Georg",
+                "life": "(1654-1716)"
+            }
+        ],
+        "224": [
+            {
+                "full": "HERBERGER, Valerius (1562-1627)",
+                "name": "HERBERGER, Valerius",
+                "life": "(1562-1627)"
+            }
+        ],
+        "225": [
+            {
+                "full": "KEIMANN, Christian (1607-1662)",
+                "name": "KEIMANN, Christian",
+                "life": "(1607-1662)"
+            }
+        ],
+        "226": [
+            {
+                "full": "FRANCK, Johann (1618-1677)",
+                "name": "FRANCK, Johann",
+                "life": "(1618-1677)"
+            }
+        ],
+        "227": [
+            {
+                "full": "BONAR, Horatius (1808-1889)",
+                "name": "BONAR, Horatius",
+                "life": "(1808-1889)"
+            }
+        ],
+        "228": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "229": [
+            {
+                "full": "HILLER, Philipp Friedrich (1699-1769)",
+                "name": "HILLER, Philipp Friedrich",
+                "life": "(1699-1769)"
+            }
+        ],
+        "230": [
+            {
+                "full": "SCHMIDT, Johann Eusebius (1669-1745)",
+                "name": "SCHMIDT, Johann Eusebius",
+                "life": "(1669-1745)"
+            }
+        ],
+        "231": [
+            {
+                "full": "FITCH, Charles",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "232": [
+            {
+                "full": "HEERMANN, Johann (1585-1647)",
+                "name": "HEERMANN, Johann",
+                "life": "(1585-1647)"
+            }
+        ],
+        "233": [
+            {
+                "full": "FLEMMING, Paul (1609-1640)",
+                "name": "FLEMMING, Paul",
+                "life": "(1609-1640)"
+            }
+        ],
+        "234": [
+            {
+                "full": "HAVERGAL, Frances Ridley (1836-1879)",
+                "name": "HAVERGAL, Frances Ridley",
+                "life": "(1836-1879)"
+            }
+        ],
+        "235": [
+            {
+                "full": "NEUMARK, Georg (1621-1681)",
+                "name": "NEUMARK, Georg",
+                "life": "(1621-1681)"
+            }
+        ],
+        "236": [
+            {
+                "full": "BONAR, Horatius (1808-1889)",
+                "name": "BONAR, Horatius",
+                "life": "(1808-1889)"
+            }
+        ],
+        "237": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "238": [
+            {
+                "full": "KOLOZSVÁR (1553)",
+                "name": "KOLOZSVÁR",
+                "life": "(1553)"
+            }
+        ],
+        "239": [
+            {
+                "full": "LUBECK (1603 előtt)",
+                "name": "LUBECK",
+                "life": "(1603 előtt)"
+            }
+        ],
+        "240": [
+            {
+                "full": "WINCKLER, Johann Joseph (1670-1722)",
+                "name": "WINCKLER, Johann Joseph",
+                "life": "(1670-1722)"
+            }
+        ],
+        "241": [
+            {
+                "full": "OSER, Friedrich Heinrich (1820-1891)",
+                "name": "OSER, Friedrich Heinrich",
+                "life": "(1820-1891)"
+            }
+        ],
+        "242": [
+            {
+                "full": "ZINZENDORF, Nikolaus Ludwig (1700-1760)",
+                "name": "ZINZENDORF, Nikolaus Ludwig",
+                "life": "(1700-1760)"
+            }
+        ],
+        "243": [
+            {
+                "full": "MONTGOMERY, James (1771-1854)",
+                "name": "MONTGOMERY, James",
+                "life": "(1771-1854)"
+            }
+        ],
+        "244": [
+            {
+                "full": "ÄMILIE Juliane schwarzburg-rudolfstadti grófnő (1637-1706)",
+                "name": "ÄMILIE Juliane schwarzburg-rudolfstadti grófnő",
+                "life": "(1637-1706)"
+            }
+        ],
+        "245": [
+            {
+                "full": "NAGYVÁRAD (1566)",
+                "name": "NAGYVÁRAD",
+                "life": "(1566)"
+            }
+        ],
+        "246": [
+            {
+                "full": "COWPER, William (1731-1800)",
+                "name": "COWPER, William",
+                "life": "(1731-1800)"
+            }
+        ],
+        "247": [
+            {
+                "full": "NAGYBÁNKAI Mátyás (1570 előtt)",
+                "name": "NAGYBÁNKAI Mátyás",
+                "life": "(1570 előtt)"
+            }
+        ],
+        "248": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "249": [
+            {
+                "full": "LYTE, Henry F. (1793-1847)",
+                "name": "LYTE, Henry F.",
+                "life": "(1793-1847)"
+            }
+        ],
+        "250": [
+            {
+                "full": "ALEXANDER, Cecil Frances (1823-1895)",
+                "name": "ALEXANDER, Cecil Frances",
+                "life": "(1823-1895)"
+            }
+        ],
+        "251": [
+            {
+                "full": "JESZENSZKY Károly (1890)",
+                "name": "JESZENSZKY Károly",
+                "life": "(1890)"
+            },
+            {
+                "full": "PAULI, Joachim (1636-1708)",
+                "name": "PAULI, Joachim",
+                "life": "(1636-1708)"
+            }
+        ],
+        "252": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "253": [
+            {
+                "full": "ALLENDORF, Johann Ludwig (1693-1773)",
+                "name": "ALLENDORF, Johann Ludwig",
+                "life": "(1693-1773)"
+            }
+        ],
+        "254": [
+            {
+                "full": "SCHRÖDER, Johann Heinrich (1667-1699)",
+                "name": "SCHRÖDER, Johann Heinrich",
+                "life": "(1667-1699)"
+            }
+        ],
+        "255": [
+            {
+                "full": "MOLIER, Martin (1547-1606)",
+                "name": "MOLIER, Martin",
+                "life": "(1547-1606)"
+            }
+        ],
+        "256": [
+            {
+                "full": "WESLEY, Charles (1707-1788)",
+                "name": "WESLEY, Charles",
+                "life": "(1707-1788)"
+            }
+        ],
+        "257": [
+            {
+                "full": "BELDEN, Franklin E. (1858-1945)",
+                "name": "BELDEN, Franklin E.",
+                "life": "(1858-1945)"
+            }
+        ],
+        "258": [
+            {
+                "full": "WILLIAMS, william (1717-1796)",
+                "name": "WILLIAMS, william",
+                "life": "(1717-1796)"
+            }
+        ],
+        "259": [
+            {
+                "full": "ANNON1, Hieronymus (1697-1770)",
+                "name": "ANNON1, Hieronymus",
+                "life": "(1697-1770)"
+            }
+        ],
+        "260": [
+            {
+                "full": "SHERWIN, William F. (1826-1888)",
+                "name": "SHERWIN, William F.",
+                "life": "(1826-1888)"
+            }
+        ],
+        "261": [
+            {
+                "full": "PALMER, Horatio R. (1834-1917)",
+                "name": "PALMER, Horatio R.",
+                "life": "(1834-1917)"
+            }
+        ],
+        "262": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "263": [
+            {
+                "full": "BALASSA Bálint (1554-1594)",
+                "name": "BALASSA Bálint",
+                "life": "(1554-1594)"
+            }
+        ],
+        "264": [
+            {
+                "full": "REDERN, Hedwig (1886-1035)",
+                "name": "REDERN, Hedwig",
+                "life": "(1886-1035)"
+            }
+        ],
+        "265": [
+            {
+                "full": "ÚJ ZENGEDEZŐ MENNYEI KAR (1743)",
+                "name": "ÚJ ZENGEDEZŐ MENNYEI KAR",
+                "life": "(1743)"
+            }
+        ],
+        "266": [
+            {
+                "full": "HILLER, Philipp Friedrich (1699-1769)",
+                "name": "HILLER, Philipp Friedrich",
+                "life": "(1699-1769)"
+            }
+        ],
+        "267": [
+            {
+                "full": "SPAFFORD, Horatio G. (1828-1888)",
+                "name": "SPAFFORD, Horatio G.",
+                "life": "(1828-1888)"
+            }
+        ],
+        "268": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "269": [
+            {
+                "full": "CROSBY, Fanny Jane (1823-1915)",
+                "name": "CROSBY, Fanny Jane",
+                "life": "(1823-1915)"
+            }
+        ],
+        "270": [
+            {
+                "full": "NEWTON, John (1725-1807)",
+                "name": "NEWTON, John",
+                "life": "(1725-1807)"
+            }
+        ],
+        "271": [
+            {
+                "full": "NÜRNBERG (1676)",
+                "name": "NÜRNBERG",
+                "life": "(1676)"
+            }
+        ],
+        "272": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "273": [
+            {
+                "full": "TIETZE V. TITIUS Christoph (1641-1703)",
+                "name": "TIETZE V. TITIUS Christoph",
+                "life": "(1641-1703)"
+            }
+        ],
+        "274": [
+            {
+                "full": "HELMBOLD, Ludwig (1532-1598)",
+                "name": "HELMBOLD, Ludwig",
+                "life": "(1532-1598)"
+            }
+        ],
+        "275": [
+            {
+                "full": "RAEDER, Johann Friedrich (1815-1872)",
+                "name": "RAEDER, Johann Friedrich",
+                "life": "(1815-1872)"
+            }
+        ],
+        "276": [
+            {
+                "full": "PRENTISS, E. (1818-1878)",
+                "name": "PRENTISS, E.",
+                "life": "(1818-1878)"
+            }
+        ],
+        "277": [
+            {
+                "full": "KURUCKORI ÉNEK",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "278": [
+            {
+                "full": "BIENEMANN, Kaspar (1540-1591)",
+                "name": "BIENEMANN, Kaspar",
+                "life": "(1540-1591)"
+            }
+        ],
+        "279": [
+            {
+                "full": "ALBRECHT, porosz herceg (1490-1568)",
+                "name": "ALBRECHT, porosz herceg",
+                "life": "(1490-1568)"
+            }
+        ],
+        "280": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "281": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "282": [
+            {
+                "full": "GELLERT, Christian Fürchtegott (1715-1769)",
+                "name": "GELLERT, Christian Fürchtegott",
+                "life": "(1715-1769)"
+            }
+        ],
+        "283": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "284": [
+            {
+                "full": "SPITTA, Karl Johann Philipp (1801-1859)",
+                "name": "SPITTA, Karl Johann Philipp",
+                "life": "(1801-1859)"
+            }
+        ],
+        "285": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "286": [
+            {
+                "full": "NAGYVÁRAD (1566)",
+                "name": "NAGYVÁRAD",
+                "life": "(1566)"
+            }
+        ],
+        "287": [
+            {
+                "full": "WALTER, Howard Arnold (1883-1918)",
+                "name": "WALTER, Howard Arnold",
+                "life": "(1883-1918)"
+            }
+        ],
+        "288": [
+            {
+                "full": "ÁCS Ferenc (1680-1747)",
+                "name": "ÁCS Ferenc",
+                "life": "(1680-1747)"
+            }
+        ],
+        "289": [
+            {
+                "full": "MARÓT, Clément (1496-1544)",
+                "name": "MARÓT, Clément",
+                "life": "(1496-1544)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "290": [
+            {
+                "full": "RODIGAST, Samuel (1649-1708)",
+                "name": "RODIGAST, Samuel",
+                "life": "(1649-1708)"
+            }
+        ],
+        "291": [
+            {
+                "full": "BOGATZKY, Karl Heinrich (1690-1774)",
+                "name": "BOGATZKY, Karl Heinrich",
+                "life": "(1690-1774)"
+            }
+        ],
+        "292": [
+            {
+                "full": "COGHILL, Anna L. (1861)",
+                "name": "COGHILL, Anna L.",
+                "life": "(1861)"
+            }
+        ],
+        "293": [
+            {
+                "full": "SMITH, Samuel F. (1832)",
+                "name": "SMITH, Samuel F.",
+                "life": "(1832)"
+            }
+        ],
+        "294": [
+            {
+                "full": "THOMSON, Mary A. (1834-1923)",
+                "name": "THOMSON, Mary A.",
+                "life": "(1834-1923)"
+            }
+        ],
+        "295": [
+            {
+                "full": "MARCH, Daniel (1816-1909)",
+                "name": "MARCH, Daniel",
+                "life": "(1816-1909)"
+            }
+        ],
+        "296": [
+            {
+                "full": "PREISWERK, Samuel (1799-1871)",
+                "name": "PREISWERK, Samuel",
+                "life": "(1799-1871)"
+            },
+            {
+                "full": "ZAREMBA, Felician Martin (1794-1874)",
+                "name": "ZAREMBA, Felician Martin",
+                "life": "(1794-1874)"
+            }
+        ],
+        "297": [
+            {
+                "full": "WALFORD, William W.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "298": [
+            {
+                "full": "PFEIL, Christoph Karl Ludwig (1712-1784)",
+                "name": "PFEIL, Christoph Karl Ludwig",
+                "life": "(1712-1784)"
+            }
+        ],
+        "299": [
+            {
+                "full": "FREYSTEIN, Johann Burchard (1671-1718)",
+                "name": "FREYSTEIN, Johann Burchard",
+                "life": "(1671-1718)"
+            }
+        ],
+        "300": [
+            {
+                "full": "SCRIVEN, John M. (1820-1886)",
+                "name": "SCRIVEN, John M.",
+                "life": "(1820-1886)"
+            }
+        ],
+        "301": [
+            {
+                "full": "BLISS, Philip P. (1838-1876)",
+                "name": "BLISS, Philip P.",
+                "life": "(1838-1876)"
+            }
+        ],
+        "302": [
+            {
+                "full": "DEBRECEN (1569)",
+                "name": "DEBRECEN",
+                "life": "(1569)"
+            }
+        ],
+        "303": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            },
+            {
+                "full": "SZEGEDI Gergely (mh. l566)",
+                "name": "SZEGEDI Gergely",
+                "life": "(mh. l566)"
+            }
+        ],
+        "304": [
+            {
+                "full": "SPITTA, Karl Johann Philipp (1801-1859)",
+                "name": "SPITTA, Karl Johann Philipp",
+                "life": "(1801-1859)"
+            }
+        ],
+        "305": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "306": [
+            {
+                "full": "STONE, Samuel J. (1839-1900)",
+                "name": "STONE, Samuel J.",
+                "life": "(1839-1900)"
+            }
+        ],
+        "307": [
+            {
+                "full": "BÉZA, Theodore (1519-1605)",
+                "name": "BÉZA, Theodore",
+                "life": "(1519-1605)"
+            },
+            {
+                "full": "SZENCZI MOLNÁR Albert (1574-1634)",
+                "name": "SZENCZI MOLNÁR Albert",
+                "life": "(1574-1634)"
+            }
+        ],
+        "308": [
+            {
+                "full": "OXENHAM, John (1908)",
+                "name": "OXENHAM, John",
+                "life": "(1908)"
+            }
+        ],
+        "309": [
+            {
+                "full": "SZKHÁROSI HORVÁT András (mh. 1549 után)",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "310": [
+            {
+                "full": "ZINZENDORF, Nikolaus Ludwig (1700-1760)",
+                "name": "ZINZENDORF, Nikolaus Ludwig",
+                "life": "(1700-1760)"
+            }
+        ],
+        "311": [
+            {
+                "full": "FAWCETT, John (1782)",
+                "name": "FAWCETT, John",
+                "life": "(1782)"
+            },
+            {
+                "full": "NÁGEU, Johann Georg (1773-1836)",
+                "name": "NÁGEU, Johann Georg",
+                "life": "(1773-1836)"
+            }
+        ],
+        "312": [
+            {
+                "full": "MÜNTER, Balthasar (1735-1793)",
+                "name": "MÜNTER, Balthasar",
+                "life": "(1735-1793)"
+            }
+        ],
+        "313": [
+            {
+                "full": "ISMERETLEN SZERZŐ (1832)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(1832)"
+            }
+        ],
+        "314": [
+            {
+                "full": "APPEL, W. (1893)",
+                "name": "APPEL, W.",
+                "life": "(1893)"
+            }
+        ],
+        "315": [
+            {
+                "full": "HAMMOND, William (1719-1783)",
+                "name": "HAMMOND, William",
+                "life": "(1719-1783)"
+            }
+        ],
+        "316": [
+            {
+                "full": "CLAUSNITZER Tobias (1618-1684)",
+                "name": "CLAUSNITZER Tobias",
+                "life": "(1618-1684)"
+            }
+        ],
+        "317": [
+            {
+                "full": "SCHMOLCK, Benjamin (1672-1737)",
+                "name": "SCHMOLCK, Benjamin",
+                "life": "(1672-1737)"
+            }
+        ],
+        "318": [
+            {
+                "full": "WHITMORE, Lucy Elizabeth (1792-1840)",
+                "name": "WHITMORE, Lucy Elizabeth",
+                "life": "(1792-1840)"
+            }
+        ],
+        "319": [
+            {
+                "full": "LENGYEL József (1770-1822)",
+                "name": "LENGYEL József",
+                "life": "(1770-1822)"
+            }
+        ],
+        "320": [
+            {
+                "full": "WARNER, Anna B. (1852)",
+                "name": "WARNER, Anna B.",
+                "life": "(1852)"
+            }
+        ],
+        "321": [
+            {
+                "full": "DAVID (Hertel) Ferenc (1520 ?-1579)",
+                "name": "DAVID (Hertel) Ferenc",
+                "life": "(1520 ?-1579)"
+            }
+        ],
+        "322": [
+            {
+                "full": "NAGYENYED (1785)",
+                "name": "NAGYENYED",
+                "life": "(1785)"
+            }
+        ],
+        "323": [
+            {
+                "full": "FÖLDVÁRI József (1766-1830)",
+                "name": "FÖLDVÁRI József",
+                "life": "(1766-1830)"
+            }
+        ],
+        "324": [
+            {
+                "full": "SKARICZA Máté (1544-1591)",
+                "name": "SKARICZA Máté",
+                "life": "(1544-1591)"
+            }
+        ],
+        "325": [
+            {
+                "full": "LENGYEL József (1770-1822)",
+                "name": "LENGYEL József",
+                "life": "(1770-1822)"
+            }
+        ],
+        "326": [
+            {
+                "full": "HUSZÁR Gál (mh. l575)",
+                "name": "HUSZÁR Gál",
+                "life": "(mh. l575)"
+            }
+        ],
+        "327": [
+            {
+                "full": "RANKIN, Jeremiah E. (1828-1904)",
+                "name": "RANKIN, Jeremiah E.",
+                "life": "(1828-1904)"
+            }
+        ],
+        "328": [
+            {
+                "full": "ISMERETLEN SZERZŐ (XVII. század)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(XVII. század)"
+            }
+        ],
+        "329": [
+            {
+                "full": "SCHENCK, Hartmann (1634-1681)",
+                "name": "SCHENCK, Hartmann",
+                "life": "(1634-1681)"
+            }
+        ],
+        "330": [
+            {
+                "full": "STEGMANN, Josua (1588-1632)",
+                "name": "STEGMANN, Josua",
+                "life": "(1588-1632)"
+            }
+        ],
+        "331": [
+            {
+                "full": "SELNECKER, Nikolaus (1530-1592)",
+                "name": "SELNECKER, Nikolaus",
+                "life": "(1530-1592)"
+            }
+        ],
+        "332": [
+            {
+                "full": "GREGOR, Christian (1723-1801)",
+                "name": "GREGOR, Christian",
+                "life": "(1723-1801)"
+            }
+        ],
+        "333": [
+            {
+                "full": "GEBHARDT, Heinrich Ernst (1832-1899)",
+                "name": "GEBHARDT, Heinrich Ernst",
+                "life": "(1832-1899)"
+            }
+        ],
+        "334": [
+            {
+                "full": "FITCH, E. T.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "335": [
+            {
+                "full": "ELLERTON, John (1870)",
+                "name": "ELLERTON, John",
+                "life": "(1870)"
+            }
+        ],
+        "336": [
+            {
+                "full": "WATTS, Isaac (1674-1748)",
+                "name": "WATTS, Isaac",
+                "life": "(1674-1748)"
+            }
+        ],
+        "337": [
+            {
+                "full": "NEUMANN, Kaspar (1648-1715)",
+                "name": "NEUMANN, Kaspar",
+                "life": "(1648-1715)"
+            }
+        ],
+        "338": [
+            {
+                "full": "WORDSWORTH, Christopher (1807-1885)",
+                "name": "WORDSWORTH, Christopher",
+                "life": "(1807-1885)"
+            }
+        ],
+        "339": [
+            {
+                "full": "PERLAKY Dávid (1754-1802)",
+                "name": "PERLAKY Dávid",
+                "life": "(1754-1802)"
+            }
+        ],
+        "340": [
+            {
+                "full": "PÉCHI Simon (kb. 1570-1642)",
+                "name": "PÉCHI Simon",
+                "life": "(kb. 1570-1642)"
+            }
+        ],
+        "341": [
+            {
+                "full": "DEBRECEN (1600 előtt)",
+                "name": "DEBRECEN",
+                "life": "(1600 előtt)"
+            }
+        ],
+        "342": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "343": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "344": [
+            {
+                "full": "AHRENS, Wilhelm (1893)",
+                "name": "AHRENS, Wilhelm",
+                "life": "(1893)"
+            }
+        ],
+        "345": [
+            {
+                "full": "EDMESTON, James (1791-1867)",
+                "name": "EDMESTON, James",
+                "life": "(1791-1867)"
+            }
+        ],
+        "346": [
+            {
+                "full": "LŐCSE (1699)",
+                "name": "LŐCSE",
+                "life": "(1699)"
+            }
+        ],
+        "347": [
+            {
+                "full": "KNORR von Rosenroth, Christian (1636-1689)",
+                "name": "KNORR von Rosenroth, Christian",
+                "life": "(1636-1689)"
+            }
+        ],
+        "348": [
+            {
+                "full": "KRAUSE Jonathan (1701-1762)",
+                "name": "KRAUSE Jonathan",
+                "life": "(1701-1762)"
+            }
+        ],
+        "349": [
+            {
+                "full": "LÖSCHER, Valentin Ernst (1673-1749)",
+                "name": "LÖSCHER, Valentin Ernst",
+                "life": "(1673-1749)"
+            }
+        ],
+        "350": [
+            {
+                "full": "ALBERT, Heinrich (1604-1651)",
+                "name": "ALBERT, Heinrich",
+                "life": "(1604-1651)"
+            }
+        ],
+        "351": [
+            {
+                "full": "LŐCSE (1720)",
+                "name": "LŐCSE",
+                "life": "(1720)"
+            }
+        ],
+        "352": [
+            {
+                "full": "LONGFELLOW, Samuel (1859)",
+                "name": "LONGFELLOW, Samuel",
+                "life": "(1859)"
+            }
+        ],
+        "353": [
+            {
+                "full": "ISMERETLEN SZERZŐ (1893)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(1893)"
+            }
+        ],
+        "354": [
+            {
+                "full": "OPPENHEIM (1812)",
+                "name": "OPPENHEIM",
+                "life": "(1812)"
+            }
+        ],
+        "355": [
+            {
+                "full": "LOSONTZI István (1709-1780)",
+                "name": "LOSONTZI István",
+                "life": "(1709-1780)"
+            }
+        ],
+        "356": [
+            {
+                "full": "DODDRIDGE, Philip (1702-1751)",
+                "name": "DODDRIDGE, Philip",
+                "life": "(1702-1751)"
+            }
+        ],
+        "357": [
+            {
+                "full": "LOSONTZI István (1709-1780)",
+                "name": "LOSONTZI István",
+                "life": "(1709-1780)"
+            }
+        ],
+        "358": [
+            {
+                "full": "RAMBACH, Johann Jakob (1693-1735)",
+                "name": "RAMBACH, Johann Jakob",
+                "life": "(1693-1735)"
+            }
+        ],
+        "359": [
+            {
+                "full": "KŐSZEG (1839)",
+                "name": "KŐSZEG",
+                "life": "(1839)"
+            }
+        ],
+        "360": [
+            {
+                "full": "WATTS, Isaac (1674-1748)",
+                "name": "WATTS, Isaac",
+                "life": "(1674-1748)"
+            }
+        ],
+        "361": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "362": [
+            {
+                "full": "FRANCK, Johann (1618-1677)",
+                "name": "FRANCK, Johann",
+                "life": "(1618-1677)"
+            }
+        ],
+        "363": [
+            {
+                "full": "ÚJ ZENGEDEZŐ MENNYEI KAR (1743)",
+                "name": "ÚJ ZENGEDEZŐ MENNYEI KAR",
+                "life": "(1743)"
+            }
+        ],
+        "364": [
+            {
+                "full": "LOSONTZI István (1709-1780)",
+                "name": "LOSONTZI István",
+                "life": "(1709-1780)"
+            }
+        ],
+        "365": [
+            {
+                "full": "ÖREG GRADUÁL (1636)",
+                "name": "ÖREG GRADUÁL",
+                "life": "(1636)"
+            }
+        ],
+        "366": [
+            {
+                "full": "WALDENBURG (Szilézia) (1734)",
+                "name": "WALDENBURG (Szilézia)",
+                "life": "(1734)"
+            }
+        ],
+        "367": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "368": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "369": [
+            {
+                "full": "SPURGEON, Charles H. (1834-1892)",
+                "name": "SPURGEON, Charles H.",
+                "life": "(1834-1892)"
+            }
+        ],
+        "370": [
+            {
+                "full": "PÉCHI Simon (kb. 1570-1642)",
+                "name": "PÉCHI Simon",
+                "life": "(kb. 1570-1642)"
+            }
+        ],
+        "371": [
+            {
+                "full": "KEBLE, John (1792-1866)",
+                "name": "KEBLE, John",
+                "life": "(1792-1866)"
+            }
+        ],
+        "372": [
+            {
+                "full": "CORELLI, Marie",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "373": [
+            {
+                "full": "LŐCSE (1720)",
+                "name": "LŐCSE",
+                "life": "(1720)"
+            }
+        ],
+        "374": [
+            {
+                "full": "SPITTA, Karl Johann Philipp (1801-1859)",
+                "name": "SPITTA, Karl Johann Philipp",
+                "life": "(1801-1859)"
+            }
+        ],
+        "375": [
+            {
+                "full": "DEBRECEN (1597)",
+                "name": "DEBRECEN",
+                "life": "(1597)"
+            }
+        ],
+        "376": [
+            {
+                "full": "CLAUDIUS, Matthias (1740-1815)",
+                "name": "CLAUDIUS, Matthias",
+                "life": "(1740-1815)"
+            }
+        ],
+        "377": [
+            {
+                "full": "GERHARDT, Paul (1607-1676)",
+                "name": "GERHARDT, Paul",
+                "life": "(1607-1676)"
+            }
+        ],
+        "378": [
+            {
+                "full": "HENSEL, Luise (1798-1876)",
+                "name": "HENSEL, Luise",
+                "life": "(1798-1876)"
+            }
+        ],
+        "379": [
+            {
+                "full": "HERZOG, Johann Friedrich (1647-1699)",
+                "name": "HERZOG, Johann Friedrich",
+                "life": "(1647-1699)"
+            }
+        ],
+        "380": [
+            {
+                "full": "HERMAN, Nikolaus (1480 ?-1561)",
+                "name": "HERMAN, Nikolaus",
+                "life": "(1480 ?-1561)"
+            }
+        ],
+        "381": [
+            {
+                "full": "LYTE, Henry F. (1793-1847)",
+                "name": "LYTE, Henry F.",
+                "life": "(1793-1847)"
+            }
+        ],
+        "382": [
+            {
+                "full": "ELEONORE reuszi hercegnő (1835-1903)",
+                "name": "ELEONORE reuszi hercegnő",
+                "life": "(1835-1903)"
+            }
+        ],
+        "383": [
+            {
+                "full": "BÁTORI István (1749-1833)",
+                "name": "BÁTORI István",
+                "life": "(1749-1833)"
+            }
+        ],
+        "384": [
+            {
+                "full": "BUDAI Ézsaiás (1766-1841)",
+                "name": "BUDAI Ézsaiás",
+                "life": "(1766-1841)"
+            }
+        ],
+        "385": [
+            {
+                "full": "STEURLEIN, Johann (1546-1613)",
+                "name": "STEURLEIN, Johann",
+                "life": "(1546-1613)"
+            },
+            {
+                "full": "ERFURT (1568)",
+                "name": "ERFURT",
+                "life": "(1568)"
+            }
+        ],
+        "386": [
+            {
+                "full": "HASTINGS, Horace L. (1873)",
+                "name": "HASTINGS, Horace L.",
+                "life": "(1873)"
+            }
+        ],
+        "387": [
+            {
+                "full": "KNAK, Gustav Friedrich (1806-1878)",
+                "name": "KNAK, Gustav Friedrich",
+                "life": "(1806-1878)"
+            }
+        ],
+        "388": [
+            {
+                "full": "KNAPP, Albert (1798-1864)",
+                "name": "KNAPP, Albert",
+                "life": "(1798-1864)"
+            }
+        ],
+        "389": [
+            {
+                "full": "KNAPP, Albert (1798-1864)",
+                "name": "KNAPP, Albert",
+                "life": "(1798-1864)"
+            }
+        ],
+        "390": [
+            {
+                "full": "WEISSE, Michael (mh. 1534)",
+                "name": "WEISSE, Michael",
+                "life": "(mh. 1534)"
+            }
+        ],
+        "391": [
+            {
+                "full": "ROSENMÜLLER, Johann (1620-1684)",
+                "name": "ROSENMÜLLER, Johann",
+                "life": "(1620-1684)"
+            }
+        ],
+        "392": [
+            {
+                "full": "BELDEN, Franklin E. (1858-1945)",
+                "name": "BELDEN, Franklin E.",
+                "life": "(1858-1945)"
+            }
+        ],
+        "393": [
+            {
+                "full": "MACKAY, Margaret (1832)",
+                "name": "MACKAY, Margaret",
+                "life": "(1832)"
+            }
+        ],
+        "1000": [
+            {
+                "full": "HOOPER, Wayne (1962-2007)",
+                "name": "HOOPER, Wayne",
+                "life": "(1962-2007)"
+            }
+        ]
+    },
+    "tunes": {
+        "1": [
+            {
+                "full": "GIARDINI, Felice de (1716-1796)",
+                "name": "GIARDINI, Felice de",
+                "life": "(1716-1796)"
+            }
+        ],
+        "2": [
+            {
+                "full": "DECIUS, Nikolaus (1485-1546)",
+                "name": "DECIUS, Nikolaus",
+                "life": "(1485-1546)"
+            }
+        ],
+        "3": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "4": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "5": [
+            {
+                "full": "BÉCS (1774)",
+                "name": "BÉCS",
+                "life": "(1774)"
+            }
+        ],
+        "6": [
+            {
+                "full": "ISMERETLEN SZERZŐ (1782)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(1782)"
+            }
+        ],
+        "7": [
+            {
+                "full": "WILKES, John B. (1861)",
+                "name": "WILKES, John B.",
+                "life": "(1861)"
+            }
+        ],
+        "8": [
+            {
+                "full": "ANSBACH (1665)",
+                "name": "ANSBACH",
+                "life": "(1665)"
+            }
+        ],
+        "9": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "10": [
+            {
+                "full": "DYKES, John B. (1823-1876)",
+                "name": "DYKES, John B.",
+                "life": "(1823-1876)"
+            }
+        ],
+        "11": [
+            {
+                "full": "ISMERETLEN SZERZŐ (1838)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(1838)"
+            }
+        ],
+        "12": [
+            {
+                "full": "DEBRECEN (1778)",
+                "name": "DEBRECEN",
+                "life": "(1778)"
+            }
+        ],
+        "13": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "14": [
+            {
+                "full": "GENF (1562)",
+                "name": "GENF",
+                "life": "(1562)"
+            }
+        ],
+        "15": [
+            {
+                "full": "SOHREN, Peter (1630-1692)",
+                "name": "SOHREN, Peter",
+                "life": "(1630-1692)"
+            }
+        ],
+        "16": [
+            {
+                "full": "APELLES von Löwenstem, Matthäus (1594-1648)",
+                "name": "APELLES von Löwenstem, Matthäus",
+                "life": "(1594-1648)"
+            }
+        ],
+        "17": [
+            {
+                "full": "HUSBAND, J. J. (1760-1885)",
+                "name": "HUSBAND, J. J.",
+                "life": "(1760-1885)"
+            }
+        ],
+        "18": [
+            {
+                "full": "GILBERT, Walter Bond (1822-1905)",
+                "name": "GILBERT, Walter Bond",
+                "life": "(1822-1905)"
+            }
+        ],
+        "19": [
+            {
+                "full": "HAMBURG (1690)",
+                "name": "HAMBURG",
+                "life": "(1690)"
+            }
+        ],
+        "20": [
+            {
+                "full": "BARNES, Edwin (1886)",
+                "name": "BARNES, Edwin",
+                "life": "(1886)"
+            }
+        ],
+        "21": [
+            {
+                "full": "SCHOP, Johann (1600 előtt-1665)",
+                "name": "SCHOP, Johann",
+                "life": "(1600 előtt-1665)"
+            }
+        ],
+        "22": [
+            {
+                "full": "BATTHYÁNY-KÓDEX (1550 körül)",
+                "name": "BATTHYÁNY-KÓDEX",
+                "life": "(1550 körül)"
+            },
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "23": [
+            {
+                "full": "DANKS, H. P. (1886)",
+                "name": "DANKS, H. P.",
+                "life": "(1886)"
+            }
+        ],
+        "24": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "25": [
+            {
+                "full": "HATTON, John (mh. 1793)",
+                "name": "HATTON, John",
+                "life": "(mh. 1793)"
+            }
+        ],
+        "26": [
+            {
+                "full": "MILLER, Harold A.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "27": [
+            {
+                "full": "KÖNIG, Johann (1691-1758)",
+                "name": "KÖNIG, Johann",
+                "life": "(1691-1758)"
+            }
+        ],
+        "28": [
+            {
+                "full": "CRÜGER, Johann (1598-1662)",
+                "name": "CRÜGER, Johann",
+                "life": "(1598-1662)"
+            }
+        ],
+        "29": [
+            {
+                "full": "SOHREN, Peter (1630-1692)",
+                "name": "SOHREN, Peter",
+                "life": "(1630-1692)"
+            }
+        ],
+        "30": [
+            {
+                "full": "NEANDER, Joachim (1650-1680)",
+                "name": "NEANDER, Joachim",
+                "life": "(1650-1680)"
+            }
+        ],
+        "31": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "32": [
+            {
+                "full": "NEANDER, Joachim (1650-1680)",
+                "name": "NEANDER, Joachim",
+                "life": "(1650-1680)"
+            }
+        ],
+        "33": [
+            {
+                "full": "STRALSUND (1665)",
+                "name": "STRALSUND",
+                "life": "(1665)"
+            }
+        ],
+        "34": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "35": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "36": [
+            {
+                "full": "CROFT, William (1678-1727)",
+                "name": "CROFT, William",
+                "life": "(1678-1727)"
+            }
+        ],
+        "37": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "38": [
+            {
+                "full": "LEONI, Michael (mh. 1797)",
+                "name": "LEONI, Michael",
+                "life": "(mh. 1797)"
+            }
+        ],
+        "39": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "40": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "41": [
+            {
+                "full": "DEBRECEN (1778)",
+                "name": "DEBRECEN",
+                "life": "(1778)"
+            }
+        ],
+        "42": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "43": [
+            {
+                "full": "DEBRECEN (1778)",
+                "name": "DEBRECEN",
+                "life": "(1778)"
+            }
+        ],
+        "44": [
+            {
+                "full": "DEBRECEN (1778)",
+                "name": "DEBRECEN",
+                "life": "(1778)"
+            }
+        ],
+        "45": [
+            {
+                "full": "CRÜGER, Johann (1598-1662)",
+                "name": "CRÜGER, Johann",
+                "life": "(1598-1662)"
+            }
+        ],
+        "46": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "47": [
+            {
+                "full": "KUGELMANN, Hans (1519-1542)",
+                "name": "KUGELMANN, Hans",
+                "life": "(1519-1542)"
+            }
+        ],
+        "48": [
+            {
+                "full": "ISMERETLEN SZERZŐ (1893)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(1893)"
+            }
+        ],
+        "49": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "50": [
+            {
+                "full": "BOROSZLÓI KÉZIRAT (XVI. század)",
+                "name": "BOROSZLÓI KÉZIRAT",
+                "life": "(XVI. század)"
+            }
+        ],
+        "51": [
+            {
+                "full": "AITKEN, Hay",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "52": [
+            {
+                "full": "CROFT, William (1678-1727)",
+                "name": "CROFT, William",
+                "life": "(1678-1727)"
+            }
+        ],
+        "53": [
+            {
+                "full": "CRÜGER, Johann (1598-1662)",
+                "name": "CRÜGER, Johann",
+                "life": "(1598-1662)"
+            }
+        ],
+        "54": [
+            {
+                "full": "TOURJEE, Lizzie L. (1858-1913)",
+                "name": "TOURJEE, Lizzie L.",
+                "life": "(1858-1913)"
+            }
+        ],
+        "55": [
+            {
+                "full": "DEBRECEN (1778)",
+                "name": "DEBRECEN",
+                "life": "(1778)"
+            }
+        ],
+        "56": [
+            {
+                "full": "SKÓT ZSOLTÁR (1615)",
+                "name": "SKÓT ZSOLTÁR",
+                "life": "(1615)"
+            }
+        ],
+        "57": [
+            {
+                "full": "SMITH, Samuel (1865)",
+                "name": "SMITH, Samuel",
+                "life": "(1865)"
+            }
+        ],
+        "58": [
+            {
+                "full": "HALLE (1704)",
+                "name": "HALLE",
+                "life": "(1704)"
+            }
+        ],
+        "59": [
+            {
+                "full": "EBE LING, Georg Johann (1637-1676)",
+                "name": "EBE LING, Georg Johann",
+                "life": "(1637-1676)"
+            }
+        ],
+        "60": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "61": [
+            {
+                "full": "HALLE (1704)",
+                "name": "HALLE",
+                "life": "(1704)"
+            }
+        ],
+        "62": [
+            {
+                "full": "THÜRINGIA (1840)",
+                "name": "THÜRINGIA",
+                "life": "(1840)"
+            }
+        ],
+        "63": [
+            {
+                "full": "BÁZEL (1745)",
+                "name": "BÁZEL",
+                "life": "(1745)"
+            }
+        ],
+        "64": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "65": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "66": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "67": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "68": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "69": [
+            {
+                "full": "HALLE (1704)",
+                "name": "HALLE",
+                "life": "(1704)"
+            }
+        ],
+        "70": [
+            {
+                "full": "LYON (1549)",
+                "name": "LYON",
+                "life": "(1549)"
+            }
+        ],
+        "71": [
+            {
+                "full": "NÄGELI, Johann Georg (1773-1836)",
+                "name": "NÄGELI, Johann Georg",
+                "life": "(1773-1836)"
+            }
+        ],
+        "72": [
+            {
+                "full": "SZÉKEL Balázs (1546)",
+                "name": "SZÉKEL Balázs",
+                "life": "(1546)"
+            }
+        ],
+        "73": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "74": [
+            {
+                "full": "MEININGEN (1693)",
+                "name": "MEININGEN",
+                "life": "(1693)"
+            }
+        ],
+        "75": [
+            {
+                "full": "NICOLAI, Philipp (1556-1608)",
+                "name": "NICOLAI, Philipp",
+                "life": "(1556-1608)"
+            }
+        ],
+        "76": [
+            {
+                "full": "BORTNYANSZKIJ, Dmitrij (1751-1825)",
+                "name": "BORTNYANSZKIJ, Dmitrij",
+                "life": "(1751-1825)"
+            }
+        ],
+        "77": [
+            {
+                "full": "SHRUBSOLE, William (1760-1806)",
+                "name": "SHRUBSOLE, William",
+                "life": "(1760-1806)"
+            }
+        ],
+        "78": [
+            {
+                "full": "SZILÉZIAI ÉNEKEK (1842)",
+                "name": "SZILÉZIAI ÉNEKEK",
+                "life": "(1842)"
+            }
+        ],
+        "79": [
+            {
+                "full": "DRESE, Adam (1620-1701)",
+                "name": "DRESE, Adam",
+                "life": "(1620-1701)"
+            }
+        ],
+        "80": [
+            {
+                "full": "ISMERETLEN SZERZŐ (XIX. század)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(XIX. század)"
+            }
+        ],
+        "81": [
+            {
+                "full": "HINTZE, Jakob (1622-1702)",
+                "name": "HINTZE, Jakob",
+                "life": "(1622-1702)"
+            }
+        ],
+        "82": [
+            {
+                "full": "MILLER, Harold A.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "83": [
+            {
+                "full": "GIARDINI, Felice de (1716-1796)",
+                "name": "GIARDINI, Felice de",
+                "life": "(1716-1796)"
+            }
+        ],
+        "84": [
+            {
+                "full": "CROFT, William (1678-1727)",
+                "name": "CROFT, William",
+                "life": "(1678-1727)"
+            }
+        ],
+        "85": [
+            {
+                "full": "HAYDN, Johann Michael (1737-1806)",
+                "name": "HAYDN, Johann Michael",
+                "life": "(1737-1806)"
+            }
+        ],
+        "86": [
+            {
+                "full": "LIPCSE (1615)",
+                "name": "LIPCSE",
+                "life": "(1615)"
+            }
+        ],
+        "87": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "88": [
+            {
+                "full": "KÖLN (1599)",
+                "name": "KÖLN",
+                "life": "(1599)"
+            }
+        ],
+        "89": [
+            {
+                "full": "WITTENBERG (1524)",
+                "name": "WITTENBERG",
+                "life": "(1524)"
+            }
+        ],
+        "90": [
+            {
+                "full": "HANDEL, Georg F. (1685-1759)",
+                "name": "HANDEL, Georg F.",
+                "life": "(1685-1759)"
+            }
+        ],
+        "91": [
+            {
+                "full": "HERMAN, Nikolaus (1480 ?-1561)",
+                "name": "HERMAN, Nikolaus",
+                "life": "(1480 ?-1561)"
+            }
+        ],
+        "92": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "93": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "94": [
+            {
+                "full": "REDNER, L. H. (1831-1908)",
+                "name": "REDNER, L. H.",
+                "life": "(1831-1908)"
+            }
+        ],
+        "95": [
+            {
+                "full": "HALLE (1704)",
+                "name": "HALLE",
+                "life": "(1704)"
+            }
+        ],
+        "96": [
+            {
+                "full": "SCHOP, Johann (1600 előtt-1665)",
+                "name": "SCHOP, Johann",
+                "life": "(1600 előtt-1665)"
+            }
+        ],
+        "97": [
+            {
+                "full": "MEININGEN (1693)",
+                "name": "MEININGEN",
+                "life": "(1693)"
+            }
+        ],
+        "98": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "99": [
+            {
+                "full": "NICOLAI, Philipp (1556-1608)",
+                "name": "NICOLAI, Philipp",
+                "life": "(1556-1608)"
+            }
+        ],
+        "100": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "101": [
+            {
+                "full": "NÜRNBERG (1523)",
+                "name": "NÜRNBERG",
+                "life": "(1523)"
+            }
+        ],
+        "102": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "103": [
+            {
+                "full": "MAKER, Frederick C. (1844-1927)",
+                "name": "MAKER, Frederick C.",
+                "life": "(1844-1927)"
+            }
+        ],
+        "104": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "105": [
+            {
+                "full": "SONGS OF DEVOTION (1851)",
+                "name": "SONGS OF DEVOTION",
+                "life": "(1851)"
+            }
+        ],
+        "106": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "107": [
+            {
+                "full": "FOSTER, J.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "108": [
+            {
+                "full": "ZUNDEL, John (1816-1882)",
+                "name": "ZUNDEL, John",
+                "life": "(1816-1882)"
+            }
+        ],
+        "109": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "110": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "111": [
+            {
+                "full": "DYKES, John B. (1823-1876)",
+                "name": "DYKES, John B.",
+                "life": "(1823-1876)"
+            }
+        ],
+        "112": [
+            {
+                "full": "ERFURT (1543)",
+                "name": "ERFURT",
+                "life": "(1543)"
+            }
+        ],
+        "113": [
+            {
+                "full": "MILLER, Edward (1731-1807)",
+                "name": "MILLER, Edward",
+                "life": "(1731-1807)"
+            }
+        ],
+        "114": [
+            {
+                "full": "HASSLER, Hans Leo (1564-1612)",
+                "name": "HASSLER, Hans Leo",
+                "life": "(1564-1612)"
+            }
+        ],
+        "115": [
+            {
+                "full": "NÜRNBERG (1688)",
+                "name": "NÜRNBERG",
+                "life": "(1688)"
+            }
+        ],
+        "116": [
+            {
+                "full": "HORSLEY, Wiliam (1774-1858)",
+                "name": "HORSLEY, Wiliam",
+                "life": "(1774-1858)"
+            }
+        ],
+        "117": [
+            {
+                "full": "LIPCSE (1545)",
+                "name": "LIPCSE",
+                "life": "(1545)"
+            }
+        ],
+        "118": [
+            {
+                "full": "WESSNITZER, Wolfgang (1620-1693)",
+                "name": "WESSNITZER, Wolfgang",
+                "life": "(1620-1693)"
+            }
+        ],
+        "119": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "120": [
+            {
+                "full": "MEININGEN (1693)",
+                "name": "MEININGEN",
+                "life": "(1693)"
+            }
+        ],
+        "121": [
+            {
+                "full": "DACHSTEIN, Wolfgang (mh. 1530)",
+                "name": "DACHSTEIN, Wolfgang",
+                "life": "(mh. 1530)"
+            }
+        ],
+        "122": [
+            {
+                "full": "GESIUS, Bartholomäus (1555-1613)",
+                "name": "GESIUS, Bartholomäus",
+                "life": "(1555-1613)"
+            }
+        ],
+        "123": [
+            {
+                "full": "SEKLUCYAN, S. énekeskdnyve (1559)",
+                "name": "SEKLUCYAN, S. énekeskdnyve",
+                "life": "(1559)"
+            }
+        ],
+        "124": [
+            {
+                "full": "CONKEY, Ithamar (1815-1867)",
+                "name": "CONKEY, Ithamar",
+                "life": "(1815-1867)"
+            }
+        ],
+        "125": [
+            {
+                "full": "WADE, John F. Cantus Diversi (1751)",
+                "name": "WADE, John F. Cantus Diversi",
+                "life": "(1751)"
+            }
+        ],
+        "126": [
+            {
+                "full": "LYRA DAVIDICA (1708)",
+                "name": "LYRA DAVIDICA",
+                "life": "(1708)"
+            }
+        ],
+        "127": [
+            {
+                "full": "SULLIVAN, Arthur S. (1842-1900)",
+                "name": "SULLIVAN, Arthur S.",
+                "life": "(1842-1900)"
+            }
+        ],
+        "128": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "129": [
+            {
+                "full": "MILLER, Harold A.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "130": [
+            {
+                "full": "BRADBURY, William B. (1816-1868)",
+                "name": "BRADBURY, William B.",
+                "life": "(1816-1868)"
+            }
+        ],
+        "131": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "132": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "133": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "134": [
+            {
+                "full": "HALLE (1704)",
+                "name": "HALLE",
+                "life": "(1704)"
+            }
+        ],
+        "135": [
+            {
+                "full": "WADE, John F. Cantus Diversi (1751)",
+                "name": "WADE, John F. Cantus Diversi",
+                "life": "(1751)"
+            }
+        ],
+        "136": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "137": [
+            {
+                "full": "GIARDINI, Felice de (1716-1796)",
+                "name": "GIARDINI, Felice de",
+                "life": "(1716-1796)"
+            }
+        ],
+        "138": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "139": [
+            {
+                "full": "FRANCIA MISEKÖNYV (XIII. század)",
+                "name": "FRANCIA MISEKÖNYV",
+                "life": "(XIII. század)"
+            }
+        ],
+        "140": [
+            {
+                "full": "GASTORIUS, Severus (1681)",
+                "name": "GASTORIUS, Severus",
+                "life": "(1681)"
+            }
+        ],
+        "141": [
+            {
+                "full": "MALAN, César (1787-1864)",
+                "name": "MALAN, César",
+                "life": "(1787-1864)"
+            }
+        ],
+        "142": [
+            {
+                "full": "WITTENBERG (1529)",
+                "name": "WITTENBERG",
+                "life": "(1529)"
+            }
+        ],
+        "143": [
+            {
+                "full": "LIPCSE (1615)",
+                "name": "LIPCSE",
+                "life": "(1615)"
+            }
+        ],
+        "144": [
+            {
+                "full": "NICOLAI, Philipp (1556-1608)",
+                "name": "NICOLAI, Philipp",
+                "life": "(1556-1608)"
+            }
+        ],
+        "145": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "146": [
+            {
+                "full": "REINAGLE, Alexander R. (1799-1877)",
+                "name": "REINAGLE, Alexander R.",
+                "life": "(1799-1877)"
+            }
+        ],
+        "147": [
+            {
+                "full": "WEBBE, Samuel (1740-1816)",
+                "name": "WEBBE, Samuel",
+                "life": "(1740-1816)"
+            }
+        ],
+        "148": [
+            {
+                "full": "ISMERETLEN SZERZŐ (évszám nélkül)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(évszám nélkül)"
+            }
+        ],
+        "149": [
+            {
+                "full": "KÖNIG, Johann (1691-1758)",
+                "name": "KÖNIG, Johann",
+                "life": "(1691-1758)"
+            }
+        ],
+        "150": [
+            {
+                "full": "SHERWIN, William F. (1826-1888)",
+                "name": "SHERWIN, William F.",
+                "life": "(1826-1888)"
+            }
+        ],
+        "151": [
+            {
+                "full": "BERLIN (1653)",
+                "name": "BERLIN",
+                "life": "(1653)"
+            }
+        ],
+        "152": [
+            {
+                "full": "BERLIN (1653)",
+                "name": "BERLIN",
+                "life": "(1653)"
+            }
+        ],
+        "153": [
+            {
+                "full": "WEBSTER, J. P.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "154": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "155": [
+            {
+                "full": "HALLE (1704)",
+                "name": "HALLE",
+                "life": "(1704)"
+            }
+        ],
+        "156": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "157": [
+            {
+                "full": "GOTTSCHALK, Louis M. (1829-1869)",
+                "name": "GOTTSCHALK, Louis M.",
+                "life": "(1829-1869)"
+            }
+        ],
+        "158": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "159": [
+            {
+                "full": "WEBB, George James (1803-1887)",
+                "name": "WEBB, George James",
+                "life": "(1803-1887)"
+            }
+        ],
+        "160": [
+            {
+                "full": "GÖRLITZ (1648)",
+                "name": "GÖRLITZ",
+                "life": "(1648)"
+            }
+        ],
+        "161": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "162": [
+            {
+                "full": "WELLS, Marcus M. (1815-1895)",
+                "name": "WELLS, Marcus M.",
+                "life": "(1815-1895)"
+            }
+        ],
+        "163": [
+            {
+                "full": "MEININGEN (1693)",
+                "name": "MEININGEN",
+                "life": "(1693)"
+            }
+        ],
+        "164": [
+            {
+                "full": "SWENEY, R. ifj. (1837-1899)",
+                "name": "SWENEY, R. ifj.",
+                "life": "(1837-1899)"
+            }
+        ],
+        "165": [
+            {
+                "full": "BRADBURY, William B. (1816-1868)",
+                "name": "BRADBURY, William B.",
+                "life": "(1816-1868)"
+            }
+        ],
+        "166": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "167": [
+            {
+                "full": "WHITE, James Edson (1878)",
+                "name": "WHITE, James Edson",
+                "life": "(1878)"
+            }
+        ],
+        "168": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "169": [
+            {
+                "full": "HASSLER, Hans Leo (1564-1612)",
+                "name": "HASSLER, Hans Leo",
+                "life": "(1564-1612)"
+            }
+        ],
+        "170": [
+            {
+                "full": "POZSONY (XVIII. század vége)",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "171": [
+            {
+                "full": "KAJONI KÓDEX (XVII. század közepe)",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "172": [
+            {
+                "full": "DARMSTADT (1698)",
+                "name": "DARMSTADT",
+                "life": "(1698)"
+            }
+        ],
+        "173": [
+            {
+                "full": "NEUMARK, Georg (1621-1681)",
+                "name": "NEUMARK, Georg",
+                "life": "(1621-1681)"
+            }
+        ],
+        "174": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "175": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "176": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "177": [
+            {
+                "full": "BRADBURY, William B. (1816-1868)",
+                "name": "BRADBURY, William B.",
+                "life": "(1816-1868)"
+            }
+        ],
+        "178": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "179": [
+            {
+                "full": "KALMAN Farkas (1838-1906)",
+                "name": "KALMAN Farkas",
+                "life": "(1838-1906)"
+            }
+        ],
+        "180": [
+            {
+                "full": "LANGRAN, James (1862)",
+                "name": "LANGRAN, James",
+                "life": "(1862)"
+            }
+        ],
+        "181": [
+            {
+                "full": "UHLICH, Johann (1634-1692)",
+                "name": "UHLICH, Johann",
+                "life": "(1634-1692)"
+            }
+        ],
+        "182": [
+            {
+                "full": "BLISS, Philip P. (1838-1876)",
+                "name": "BLISS, Philip P.",
+                "life": "(1838-1876)"
+            }
+        ],
+        "183": [
+            {
+                "full": "RAPPARD, Dora (1842-1923)",
+                "name": "RAPPARD, Dora",
+                "life": "(1842-1923)"
+            }
+        ],
+        "184": [
+            {
+                "full": "VAIL, S. J. (1818-1884)",
+                "name": "VAIL, S. J.",
+                "life": "(1818-1884)"
+            }
+        ],
+        "185": [
+            {
+                "full": "HASTINGS, Thomas (1784-1872)",
+                "name": "HASTINGS, Thomas",
+                "life": "(1784-1872)"
+            }
+        ],
+        "186": [
+            {
+                "full": "LIPCSE (1539)",
+                "name": "LIPCSE",
+                "life": "(1539)"
+            }
+        ],
+        "187": [
+            {
+                "full": "KNAPP, Joseph F. (1839-1908)",
+                "name": "KNAPP, Joseph F.",
+                "life": "(1839-1908)"
+            }
+        ],
+        "188": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "189": [
+            {
+                "full": "HUSBAND, Edward (1871)",
+                "name": "HUSBAND, Edward",
+                "life": "(1871)"
+            },
+            {
+                "full": "KNECHT, Heinrich Justin (1752-1817)",
+                "name": "KNECHT, Heinrich Justin",
+                "life": "(1752-1817)"
+            }
+        ],
+        "190": [
+            {
+                "full": "WHITE, James Edson (1878)",
+                "name": "WHITE, James Edson",
+                "life": "(1878)"
+            }
+        ],
+        "191": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "192": [
+            {
+                "full": "MARTIN, George William (1828-1881)",
+                "name": "MARTIN, George William",
+                "life": "(1828-1881)"
+            }
+        ],
+        "193": [
+            {
+                "full": "MAGDEBURG, Joachim (1525-1587)",
+                "name": "MAGDEBURG, Joachim",
+                "life": "(1525-1587)"
+            }
+        ],
+        "194": [
+            {
+                "full": "ATKINSON, Frederick C. (1841-1897)",
+                "name": "ATKINSON, Frederick C.",
+                "life": "(1841-1897)"
+            }
+        ],
+        "195": [
+            {
+                "full": "HARTSOUGH, Lewis (1828-1919)",
+                "name": "HARTSOUGH, Lewis",
+                "life": "(1828-1919)"
+            }
+        ],
+        "196": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "197": [
+            {
+                "full": "GENF (1562)",
+                "name": "GENF",
+                "life": "(1562)"
+            }
+        ],
+        "198": [
+            {
+                "full": "NÄGELI, Johann Georg (1773-1836)",
+                "name": "NÄGELI, Johann Georg",
+                "life": "(1773-1836)"
+            }
+        ],
+        "199": [
+            {
+                "full": "KURUCKORI DALLAM",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "200": [
+            {
+                "full": "MORRIS, Leila (1862-1929)",
+                "name": "MORRIS, Leila",
+                "life": "(1862-1929)"
+            }
+        ],
+        "201": [
+            {
+                "full": "TESTVÉRGYÜLEKEZET (1740)",
+                "name": "TESTVÉRGYÜLEKEZET",
+                "life": "(1740)"
+            }
+        ],
+        "202": [
+            {
+                "full": "LAWSON, James (1886)",
+                "name": "LAWSON, James",
+                "life": "(1886)"
+            }
+        ],
+        "203": [
+            {
+                "full": "SOHREN, Peter (1630-1692)",
+                "name": "SOHREN, Peter",
+                "life": "(1630-1692)"
+            }
+        ],
+        "204": [
+            {
+                "full": "SULLIVAN, Arthur S. (1842-1900)",
+                "name": "SULLIVAN, Arthur S.",
+                "life": "(1842-1900)"
+            }
+        ],
+        "205": [
+            {
+                "full": "SCHUCK, Johann Peter (1811-1892)",
+                "name": "SCHUCK, Johann Peter",
+                "life": "(1811-1892)"
+            }
+        ],
+        "206": [
+            {
+                "full": "SCHEIN, Johann Hermann (1586-1630)",
+                "name": "SCHEIN, Johann Hermann",
+                "life": "(1586-1630)"
+            }
+        ],
+        "207": [
+            {
+                "full": "DOANE, William H. (1832-1916)",
+                "name": "DOANE, William H.",
+                "life": "(1832-1916)"
+            }
+        ],
+        "208": [
+            {
+                "full": "SILCHER, Friedrich (1789-1880)",
+                "name": "SILCHER, Friedrich",
+                "life": "(1789-1880)"
+            }
+        ],
+        "209": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "210": [
+            {
+                "full": "KRIEGER, Adam (1634-1666)",
+                "name": "KRIEGER, Adam",
+                "life": "(1634-1666)"
+            }
+        ],
+        "211": [
+            {
+                "full": "GENF (1562)",
+                "name": "GENF",
+                "life": "(1562)"
+            }
+        ],
+        "212": [
+            {
+                "full": "WESLEY, Samuel S. (1810-1876)",
+                "name": "WESLEY, Samuel S.",
+                "life": "(1810-1876)"
+            }
+        ],
+        "213": [
+            {
+                "full": "GORDON, Adoniram J. (1836-1895)",
+                "name": "GORDON, Adoniram J.",
+                "life": "(1836-1895)"
+            }
+        ],
+        "214": [
+            {
+                "full": "GRAPE, John T. (1833-1906)",
+                "name": "GRAPE, John T.",
+                "life": "(1833-1906)"
+            }
+        ],
+        "215": [
+            {
+                "full": "BOLTON, Fannie E. (1900)",
+                "name": "BOLTON, Fannie E.",
+                "life": "(1900)"
+            }
+        ],
+        "216": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "217": [
+            {
+                "full": "BRADBURY, William B. (1816-1868)",
+                "name": "BRADBURY, William B.",
+                "life": "(1816-1868)"
+            }
+        ],
+        "218": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "219": [
+            {
+                "full": "UHLICH, Johann (1634-1692)",
+                "name": "UHLICH, Johann",
+                "life": "(1634-1692)"
+            }
+        ],
+        "220": [
+            {
+                "full": "KÖNIG, Johann (1691-1758)",
+                "name": "KÖNIG, Johann",
+                "life": "(1691-1758)"
+            }
+        ],
+        "221": [
+            {
+                "full": "HASTINGS, Thomas (1784-1872)",
+                "name": "HASTINGS, Thomas",
+                "life": "(1784-1872)"
+            }
+        ],
+        "222": [
+            {
+                "full": "LOWRY, Robert (1826-1899)",
+                "name": "LOWRY, Robert",
+                "life": "(1826-1899)"
+            }
+        ],
+        "223": [
+            {
+                "full": "GÖRLITZ (1648)",
+                "name": "GÖRLITZ",
+                "life": "(1648)"
+            }
+        ],
+        "224": [
+            {
+                "full": "LIPCSE (1615)",
+                "name": "LIPCSE",
+                "life": "(1615)"
+            }
+        ],
+        "225": [
+            {
+                "full": "UHLICH, Johann (1634-1692)",
+                "name": "UHLICH, Johann",
+                "life": "(1634-1692)"
+            }
+        ],
+        "226": [
+            {
+                "full": "CRÜGER, Johann (1598-1662)",
+                "name": "CRÜGER, Johann",
+                "life": "(1598-1662)"
+            }
+        ],
+        "227": [
+            {
+                "full": "SPOHR, Ludwig (1784-1859)",
+                "name": "SPOHR, Ludwig",
+                "life": "(1784-1859)"
+            }
+        ],
+        "228": [
+            {
+                "full": "PARKER, Horatio W. (1863-1919)",
+                "name": "PARKER, Horatio W.",
+                "life": "(1863-1919)"
+            }
+        ],
+        "229": [
+            {
+                "full": "ISMERETLEN SZERZŐ (1853)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(1853)"
+            }
+        ],
+        "230": [
+            {
+                "full": "HALLE (1704)",
+                "name": "HALLE",
+                "life": "(1704)"
+            }
+        ],
+        "231": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "232": [
+            {
+                "full": "MEININGEN (1693)",
+                "name": "MEININGEN",
+                "life": "(1693)"
+            }
+        ],
+        "233": [
+            {
+                "full": "GESIUS, Bartholomäus (1555-1613)",
+                "name": "GESIUS, Bartholomäus",
+                "life": "(1555-1613)"
+            }
+        ],
+        "234": [
+            {
+                "full": "MALAN, César (1787-1864)",
+                "name": "MALAN, César",
+                "life": "(1787-1864)"
+            }
+        ],
+        "235": [
+            {
+                "full": "NEUMARK, Georg (1621-1681)",
+                "name": "NEUMARK, Georg",
+                "life": "(1621-1681)"
+            }
+        ],
+        "236": [
+            {
+                "full": "HUSBAND, Edward (1871)",
+                "name": "HUSBAND, Edward",
+                "life": "(1871)"
+            },
+            {
+                "full": "KNECHT, Heinrich Justin (1752-1817)",
+                "name": "KNECHT, Heinrich Justin",
+                "life": "(1752-1817)"
+            }
+        ],
+        "237": [
+            {
+                "full": "HEWS, George (1806-1873)",
+                "name": "HEWS, George",
+                "life": "(1806-1873)"
+            }
+        ],
+        "238": [
+            {
+                "full": "KOLOZSVÁR (1553)",
+                "name": "KOLOZSVÁR",
+                "life": "(1553)"
+            }
+        ],
+        "239": [
+            {
+                "full": "REGNART, Jakob (1540-1599)",
+                "name": "REGNART, Jakob",
+                "life": "(1540-1599)"
+            }
+        ],
+        "240": [
+            {
+                "full": "TESTVÉRGYÜLEKEZET (1740)",
+                "name": "TESTVÉRGYÜLEKEZET",
+                "life": "(1740)"
+            }
+        ],
+        "241": [
+            {
+                "full": "VULPIUS, Melchior (1560-1615)",
+                "name": "VULPIUS, Melchior",
+                "life": "(1560-1615)"
+            }
+        ],
+        "242": [
+            {
+                "full": "DRESE, Adam (1620-1701)",
+                "name": "DRESE, Adam",
+                "life": "(1620-1701)"
+            }
+        ],
+        "243": [
+            {
+                "full": "LANE, Spencer (1843-1903)",
+                "name": "LANE, Spencer",
+                "life": "(1843-1903)"
+            }
+        ],
+        "244": [
+            {
+                "full": "BÜTTSTEDT, Franz (1735-1814)",
+                "name": "BÜTTSTEDT, Franz",
+                "life": "(1735-1814)"
+            }
+        ],
+        "245": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "246": [
+            {
+                "full": "CHOPE, R. R.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "247": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "248": [
+            {
+                "full": "LIPCSE (1615)",
+                "name": "LIPCSE",
+                "life": "(1615)"
+            }
+        ],
+        "249": [
+            {
+                "full": "MAIN, Hubert P. (1839-1926)",
+                "name": "MAIN, Hubert P.",
+                "life": "(1839-1926)"
+            }
+        ],
+        "250": [
+            {
+                "full": "JUDE, William H. (1851-1892)",
+                "name": "JUDE, William H.",
+                "life": "(1851-1892)"
+            }
+        ],
+        "251": [
+            {
+                "full": "LUTTENBERGER TIHANYI Ágost (1846-1899)",
+                "name": "LUTTENBERGER TIHANYI Ágost",
+                "life": "(1846-1899)"
+            }
+        ],
+        "252": [
+            {
+                "full": "VULPIUS, Melchior (1560-1615)",
+                "name": "VULPIUS, Melchior",
+                "life": "(1560-1615)"
+            }
+        ],
+        "253": [
+            {
+                "full": "KÖTHEN (1733)",
+                "name": "KÖTHEN",
+                "life": "(1733)"
+            }
+        ],
+        "254": [
+            {
+                "full": "KÖTHEN (1733)",
+                "name": "KÖTHEN",
+                "life": "(1733)"
+            }
+        ],
+        "255": [
+            {
+                "full": "KÖNIGSBERG (1602)",
+                "name": "KÖNIGSBERG",
+                "life": "(1602)"
+            }
+        ],
+        "256": [
+            {
+                "full": "DYKES, John B. (1823-1876)",
+                "name": "DYKES, John B.",
+                "life": "(1823-1876)"
+            }
+        ],
+        "257": [
+            {
+                "full": "BELDEN, Franklin E. (1886)",
+                "name": "BELDEN, Franklin E.",
+                "life": "(1886)"
+            }
+        ],
+        "258": [
+            {
+                "full": "EDWARDS, Robert (1796-1862)",
+                "name": "EDWARDS, Robert",
+                "life": "(1796-1862)"
+            }
+        ],
+        "259": [
+            {
+                "full": "ISMERETLEN SZERZŐ (1676)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(1676)"
+            }
+        ],
+        "260": [
+            {
+                "full": "SHERWIN, William F. (1826-1888)",
+                "name": "SHERWIN, William F.",
+                "life": "(1826-1888)"
+            }
+        ],
+        "261": [
+            {
+                "full": "PALMER, Horatio R. (1834-1917)",
+                "name": "PALMER, Horatio R.",
+                "life": "(1834-1917)"
+            }
+        ],
+        "262": [
+            {
+                "full": "WITTENBERG (1529)",
+                "name": "WITTENBERG",
+                "life": "(1529)"
+            }
+        ],
+        "263": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "264": [
+            {
+                "full": "DYKES, John B. (1823-1876)",
+                "name": "DYKES, John B.",
+                "life": "(1823-1876)"
+            }
+        ],
+        "265": [
+            {
+                "full": "BRNO (1796)",
+                "name": "BRNO",
+                "life": "(1796)"
+            }
+        ],
+        "266": [
+            {
+                "full": "NEUMARK, Georg (1621-1681)",
+                "name": "NEUMARK, Georg",
+                "life": "(1621-1681)"
+            }
+        ],
+        "267": [
+            {
+                "full": "BLISS, Philip P. (1838-1876)",
+                "name": "BLISS, Philip P.",
+                "life": "(1838-1876)"
+            }
+        ],
+        "268": [
+            {
+                "full": "FILLMORE, James H. (1849-1936)",
+                "name": "FILLMORE, James H.",
+                "life": "(1849-1936)"
+            }
+        ],
+        "269": [
+            {
+                "full": "DOANE, William H. (1832-1916)",
+                "name": "DOANE, William H.",
+                "life": "(1832-1916)"
+            }
+        ],
+        "270": [
+            {
+                "full": "REINAGLE, Alexander R. (1799-1877)",
+                "name": "REINAGLE, Alexander R.",
+                "life": "(1799-1877)"
+            }
+        ],
+        "271": [
+            {
+                "full": "LÖHNER, Johann (1645-1705)",
+                "name": "LÖHNER, Johann",
+                "life": "(1645-1705)"
+            }
+        ],
+        "272": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "273": [
+            {
+                "full": "ANSBACH (1731)",
+                "name": "ANSBACH",
+                "life": "(1731)"
+            }
+        ],
+        "274": [
+            {
+                "full": "MAGDEBURG, Joachim (1525-1587)",
+                "name": "MAGDEBURG, Joachim",
+                "life": "(1525-1587)"
+            }
+        ],
+        "275": [
+            {
+                "full": "MALAN, César (1787-1864)",
+                "name": "MALAN, César",
+                "life": "(1787-1864)"
+            }
+        ],
+        "276": [
+            {
+                "full": "DOANE, William H. (1832-1916)",
+                "name": "DOANE, William H.",
+                "life": "(1832-1916)"
+            }
+        ],
+        "277": [
+            {
+                "full": "ISMERETLEN SZERZŐ (XIX. század)",
+                "name": "ISMERETLEN SZERZŐ",
+                "life": "(XIX. század)"
+            }
+        ],
+        "278": [
+            {
+                "full": "DACHSTEIN, Wolfgang (mh. 1530)",
+                "name": "DACHSTEIN, Wolfgang",
+                "life": "(mh. 1530)"
+            }
+        ],
+        "279": [
+            {
+                "full": "ANTWERPEN (1540)",
+                "name": "ANTWERPEN",
+                "life": "(1540)"
+            }
+        ],
+        "280": [
+            {
+                "full": "GESIUS, Bartholomäus (1555-1613)",
+                "name": "GESIUS, Bartholomäus",
+                "life": "(1555-1613)"
+            }
+        ],
+        "281": [
+            {
+                "full": "WELLS, Marcus M. (1815-1895)",
+                "name": "WELLS, Marcus M.",
+                "life": "(1815-1895)"
+            }
+        ],
+        "282": [
+            {
+                "full": "GASTORIUS, Severus (1681)",
+                "name": "GASTORIUS, Severus",
+                "life": "(1681)"
+            }
+        ],
+        "283": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "284": [
+            {
+                "full": "NÜRNBERG (1688)",
+                "name": "NÜRNBERG",
+                "life": "(1688)"
+            }
+        ],
+        "285": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "286": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "287": [
+            {
+                "full": "PEEK, Joseph Yates (1843-1911)",
+                "name": "PEEK, Joseph Yates",
+                "life": "(1843-1911)"
+            }
+        ],
+        "288": [
+            {
+                "full": "FRANKFURT (1663)",
+                "name": "FRANKFURT",
+                "life": "(1663)"
+            }
+        ],
+        "289": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "290": [
+            {
+                "full": "GASTORIUS, Severus (1681)",
+                "name": "GASTORIUS, Severus",
+                "life": "(1681)"
+            }
+        ],
+        "291": [
+            {
+                "full": "HAMBURG (1690)",
+                "name": "HAMBURG",
+                "life": "(1690)"
+            }
+        ],
+        "292": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "293": [
+            {
+                "full": "WEBB, George James (1803-1887)",
+                "name": "WEBB, George James",
+                "life": "(1803-1887)"
+            }
+        ],
+        "294": [
+            {
+                "full": "WALCH, James (1837-1901)",
+                "name": "WALCH, James",
+                "life": "(1837-1901)"
+            }
+        ],
+        "295": [
+            {
+                "full": "BELDEN, Franklin E. (1886)",
+                "name": "BELDEN, Franklin E.",
+                "life": "(1886)"
+            }
+        ],
+        "296": [
+            {
+                "full": "KAISERSWERTH (1866)",
+                "name": "KAISERSWERTH",
+                "life": "(1866)"
+            }
+        ],
+        "297": [
+            {
+                "full": "BRADBURY, William B. (1816-1868)",
+                "name": "BRADBURY, William B.",
+                "life": "(1816-1868)"
+            }
+        ],
+        "298": [
+            {
+                "full": "DREZDA (1694)",
+                "name": "DREZDA",
+                "life": "(1694)"
+            }
+        ],
+        "299": [
+            {
+                "full": "DREZDA (1694)",
+                "name": "DREZDA",
+                "life": "(1694)"
+            }
+        ],
+        "300": [
+            {
+                "full": "CONVERSE, Charles C. (1834-1918)",
+                "name": "CONVERSE, Charles C.",
+                "life": "(1834-1918)"
+            }
+        ],
+        "301": [
+            {
+                "full": "WILSON, Hans",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "302": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "303": [
+            {
+                "full": "LIPCSE (1539)",
+                "name": "LIPCSE",
+                "life": "(1539)"
+            }
+        ],
+        "304": [
+            {
+                "full": "GENF (1562)",
+                "name": "GENF",
+                "life": "(1562)"
+            }
+        ],
+        "305": [
+            {
+                "full": "WITTENBERG (1543)",
+                "name": "WITTENBERG",
+                "life": "(1543)"
+            }
+        ],
+        "306": [
+            {
+                "full": "WESLEY, Samuel S. (1810-1876)",
+                "name": "WESLEY, Samuel S.",
+                "life": "(1810-1876)"
+            }
+        ],
+        "307": [
+            {
+                "full": "GENF (1562)",
+                "name": "GENF",
+                "life": "(1562)"
+            }
+        ],
+        "308": [
+            {
+                "full": "REINAGLE, Alexander R. (1799-1877)",
+                "name": "REINAGLE, Alexander R.",
+                "life": "(1799-1877)"
+            }
+        ],
+        "309": [
+            {
+                "full": "SZÉKEL Balázs (1546)",
+                "name": "SZÉKEL Balázs",
+                "life": "(1546)"
+            }
+        ],
+        "310": [
+            {
+                "full": "NÜRNBERG (1688)",
+                "name": "NÜRNBERG",
+                "life": "(1688)"
+            }
+        ],
+        "311": [
+            {
+                "full": "NÄGELI, Johann Georg (1773-1836)",
+                "name": "NÄGELI, Johann Georg",
+                "life": "(1773-1836)"
+            }
+        ],
+        "312": [
+            {
+                "full": "NÜRNBERG (1523)",
+                "name": "NÜRNBERG",
+                "life": "(1523)"
+            }
+        ],
+        "313": [
+            {
+                "full": "BRADBURY, William B. (1816-1868)",
+                "name": "BRADBURY, William B.",
+                "life": "(1816-1868)"
+            }
+        ],
+        "314": [
+            {
+                "full": "MELCHIOR, Johann Abraham (1813-1873)",
+                "name": "MELCHIOR, Johann Abraham",
+                "life": "(1813-1873)"
+            }
+        ],
+        "315": [
+            {
+                "full": "MALAN, César (1787-1864)",
+                "name": "MALAN, César",
+                "life": "(1787-1864)"
+            }
+        ],
+        "316": [
+            {
+                "full": "AHLE, Johann Rudolph (1623-1673)",
+                "name": "AHLE, Johann Rudolph",
+                "life": "(1623-1673)"
+            }
+        ],
+        "317": [
+            {
+                "full": "NEANDER, Joachim (1650-1680)",
+                "name": "NEANDER, Joachim",
+                "life": "(1650-1680)"
+            }
+        ],
+        "318": [
+            {
+                "full": "DYKES, John B. (1823-1876)",
+                "name": "DYKES, John B.",
+                "life": "(1823-1876)"
+            }
+        ],
+        "319": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "320": [
+            {
+                "full": "BELDEN, Franklin E. (1886)",
+                "name": "BELDEN, Franklin E.",
+                "life": "(1886)"
+            }
+        ],
+        "321": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "322": [
+            {
+                "full": "KOLOZSVÁR (1811)",
+                "name": "KOLOZSVÁR",
+                "life": "(1811)"
+            }
+        ],
+        "323": [
+            {
+                "full": "BATTHYÁNY-KÓDEX (1550 körül)",
+                "name": "BATTHYÁNY-KÓDEX",
+                "life": "(1550 körül)"
+            }
+        ],
+        "324": [
+            {
+                "full": "KOLOZSVÁR (1907)",
+                "name": "KOLOZSVÁR",
+                "life": "(1907)"
+            }
+        ],
+        "325": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "326": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "327": [
+            {
+                "full": "TOMER, William G. (1833-1896)",
+                "name": "TOMER, William G.",
+                "life": "(1833-1896)"
+            }
+        ],
+        "328": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "329": [
+            {
+                "full": "AHLE, Johann Rudolph (1623-1673)",
+                "name": "AHLE, Johann Rudolph",
+                "life": "(1623-1673)"
+            }
+        ],
+        "330": [
+            {
+                "full": "VULPIUS, Melchior (1560-1615)",
+                "name": "VULPIUS, Melchior",
+                "life": "(1560-1615)"
+            }
+        ],
+        "331": [
+            {
+                "full": "LIPCSE (1615)",
+                "name": "LIPCSE",
+                "life": "(1615)"
+            }
+        ],
+        "332": [
+            {
+                "full": "GREGOR, Christian (1723-1801)",
+                "name": "GREGOR, Christian",
+                "life": "(1723-1801)"
+            }
+        ],
+        "333": [
+            {
+                "full": "GEBHARDT, Heinrich Emst (1832-1899)",
+                "name": "GEBHARDT, Heinrich Emst",
+                "life": "(1832-1899)"
+            }
+        ],
+        "334": [
+            {
+                "full": "NARES, James (1715-1783)",
+                "name": "NARES, James",
+                "life": "(1715-1783)"
+            }
+        ],
+        "335": [
+            {
+                "full": "WALCH, James (1837-1901)",
+                "name": "WALCH, James",
+                "life": "(1837-1901)"
+            }
+        ],
+        "336": [
+            {
+                "full": "LEDINGTON, Stanley (1938)",
+                "name": "LEDINGTON, Stanley",
+                "life": "(1938)"
+            }
+        ],
+        "337": [
+            {
+                "full": "ALBERT, Heinrich (1604-1651)",
+                "name": "ALBERT, Heinrich",
+                "life": "(1604-1651)"
+            }
+        ],
+        "338": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "339": [
+            {
+                "full": "WITTENBERG (1529)",
+                "name": "WITTENBERG",
+                "life": "(1529)"
+            }
+        ],
+        "340": [
+            {
+                "full": "BOROSZLÓI KÉZIRAT (XVI. század)",
+                "name": "BOROSZLÓI KÉZIRAT",
+                "life": "(XVI. század)"
+            }
+        ],
+        "341": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "342": [
+            {
+                "full": "CRÜGER, Johann (1598-1662)",
+                "name": "CRÜGER, Johann",
+                "life": "(1598-1662)"
+            }
+        ],
+        "343": [
+            {
+                "full": "PLEYEL, Ignaz (1757-1831)",
+                "name": "PLEYEL, Ignaz",
+                "life": "(1757-1831)"
+            }
+        ],
+        "344": [
+            {
+                "full": "WILSON, Hans",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "345": [
+            {
+                "full": "MATTHEWS, Timothy Richard (1826-1910)",
+                "name": "MATTHEWS, Timothy Richard",
+                "life": "(1826-1910)"
+            }
+        ],
+        "346": [
+            {
+                "full": "DEBRECEN (1778)",
+                "name": "DEBRECEN",
+                "life": "(1778)"
+            }
+        ],
+        "347": [
+            {
+                "full": "AHLE, Johann Rudolph (1623-1673)",
+                "name": "AHLE, Johann Rudolph",
+                "life": "(1623-1673)"
+            }
+        ],
+        "348": [
+            {
+                "full": "ALBERT, Heinrich (1604-1651)",
+                "name": "ALBERT, Heinrich",
+                "life": "(1604-1651)"
+            }
+        ],
+        "349": [
+            {
+                "full": "DARMSTADT (1698)",
+                "name": "DARMSTADT",
+                "life": "(1698)"
+            }
+        ],
+        "350": [
+            {
+                "full": "ALBERT, Heinrich (1604-1651)",
+                "name": "ALBERT, Heinrich",
+                "life": "(1604-1651)"
+            }
+        ],
+        "351": [
+            {
+                "full": "TRITONIUS (1507)",
+                "name": "TRITONIUS",
+                "life": "(1507)"
+            }
+        ],
+        "352": [
+            {
+                "full": "OAKBLEY, Herbert S. (1830-1903)",
+                "name": "OAKBLEY, Herbert S.",
+                "life": "(1830-1903)"
+            }
+        ],
+        "353": [
+            {
+                "full": "VINER, W. L. (1845)",
+                "name": "VINER, W. L.",
+                "life": "(1845)"
+            }
+        ],
+        "354": [
+            {
+                "full": "GREITER, Matthias (1525)",
+                "name": "GREITER, Matthias",
+                "life": "(1525)"
+            }
+        ],
+        "355": [
+            {
+                "full": "STRASBOURG (1539)",
+                "name": "STRASBOURG",
+                "life": "(1539)"
+            }
+        ],
+        "356": [
+            {
+                "full": "RIMBAULT, Edward F. (1816-1876)",
+                "name": "RIMBAULT, Edward F.",
+                "life": "(1816-1876)"
+            }
+        ],
+        "357": [
+            {
+                "full": "BOURGEOIS, Louis (1510-1569)",
+                "name": "BOURGEOIS, Louis",
+                "life": "(1510-1569)"
+            }
+        ],
+        "358": [
+            {
+                "full": "KÖNIG, Johann (1691-1758)",
+                "name": "KÖNIG, Johann",
+                "life": "(1691-1758)"
+            }
+        ],
+        "359": [
+            {
+                "full": "CRÜGER, Johann (1598-1662)",
+                "name": "CRÜGER, Johann",
+                "life": "(1598-1662)"
+            }
+        ],
+        "360": [
+            {
+                "full": "BOSTON (1850)",
+                "name": "BOSTON",
+                "life": "(1850)"
+            }
+        ],
+        "361": [
+            {
+                "full": "MASON, Lowell (1792-1872)",
+                "name": "MASON, Lowell",
+                "life": "(1792-1872)"
+            }
+        ],
+        "362": [
+            {
+                "full": "CRÜGER, Johann (1598-1662)",
+                "name": "CRÜGER, Johann",
+                "life": "(1598-1662)"
+            }
+        ],
+        "363": [
+            {
+                "full": "KOLOZSVÁR (1837)",
+                "name": "KOLOZSVÁR",
+                "life": "(1837)"
+            }
+        ],
+        "364": [
+            {
+                "full": "GENF (1562)",
+                "name": "GENF",
+                "life": "(1562)"
+            }
+        ],
+        "365": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "366": [
+            {
+                "full": "EBE LING, Georg Johann (1637-1676)",
+                "name": "EBE LING, Georg Johann",
+                "life": "(1637-1676)"
+            }
+        ],
+        "367": [
+            {
+                "full": "WEINGAND W. (1893)",
+                "name": "WEINGAND W.",
+                "life": "(1893)"
+            }
+        ],
+        "368": [
+            {
+                "full": "SELNECKER, Nikolaus (1530-1592)",
+                "name": "SELNECKER, Nikolaus",
+                "life": "(1530-1592)"
+            }
+        ],
+        "369": [
+            {
+                "full": "SWEETSER, Joseph E. (1849)",
+                "name": "SWEETSER, Joseph E.",
+                "life": "(1849)"
+            }
+        ],
+        "370": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "371": [
+            {
+                "full": "WEBBE, Samuel (1740-1816)",
+                "name": "WEBBE, Samuel",
+                "life": "(1740-1816)"
+            }
+        ],
+        "372": [
+            {
+                "full": "LLOYD, Frands R.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "373": [
+            {
+                "full": "KOLOZSVÁR (1744)",
+                "name": "KOLOZSVÁR",
+                "life": "(1744)"
+            }
+        ],
+        "374": [
+            {
+                "full": "GEBHARDT, Heinrich Emst (1832-1899)",
+                "name": "GEBHARDT, Heinrich Emst",
+                "life": "(1832-1899)"
+            }
+        ],
+        "375": [
+            {
+                "full": "DEBRECEN (1774)",
+                "name": "DEBRECEN",
+                "life": "(1774)"
+            }
+        ],
+        "376": [
+            {
+                "full": "SCHULZ, Johann Abraham (1747-1800)",
+                "name": "SCHULZ, Johann Abraham",
+                "life": "(1747-1800)"
+            }
+        ],
+        "377": [
+            {
+                "full": "GESIUS, Bartholomäus (1555-1613)",
+                "name": "GESIUS, Bartholomäus",
+                "life": "(1555-1613)"
+            }
+        ],
+        "378": [
+            {
+                "full": "NÜRNBERG (1544)",
+                "name": "NÜRNBERG",
+                "life": "(1544)"
+            }
+        ],
+        "379": [
+            {
+                "full": "KRIEGER, Adam (1634-1666)",
+                "name": "KRIEGER, Adam",
+                "life": "(1634-1666)"
+            }
+        ],
+        "380": [
+            {
+                "full": "KÖNIGSBERG (1602)",
+                "name": "KÖNIGSBERG",
+                "life": "(1602)"
+            }
+        ],
+        "381": [
+            {
+                "full": "MONK, William H. (1823-1889)",
+                "name": "MONK, William H.",
+                "life": "(1823-1889)"
+            }
+        ],
+        "382": [
+            {
+                "full": "GESIUS, Bartholomäus (1555-1613)",
+                "name": "GESIUS, Bartholomäus",
+                "life": "(1555-1613)"
+            }
+        ],
+        "383": [
+            {
+                "full": "GENF (1562)",
+                "name": "GENF",
+                "life": "(1562)"
+            }
+        ],
+        "384": [
+            {
+                "full": "BATTHYÁNY-KÓDEX (1550 körül)",
+                "name": "BATTHYÁNY-KÓDEX",
+                "life": "(1550 körül)"
+            }
+        ],
+        "385": [
+            {
+                "full": "LUTHER, Márton (1483-1546)",
+                "name": "LUTHER, Márton",
+                "life": "(1483-1546)"
+            }
+        ],
+        "386": [
+            {
+                "full": "RICE, Elihu S. (1886)",
+                "name": "RICE, Elihu S.",
+                "life": "(1886)"
+            }
+        ],
+        "387": [
+            {
+                "full": "NICOLAI, Philipp (1556-1608)",
+                "name": "NICOLAI, Philipp",
+                "life": "(1556-1608)"
+            }
+        ],
+        "388": [
+            {
+                "full": "GESIUS, Bartholomäus (1555-1613)",
+                "name": "GESIUS, Bartholomäus",
+                "life": "(1555-1613)"
+            }
+        ],
+        "389": [
+            {
+                "full": "NICOLAI, Philipp (1556-1608)",
+                "name": "NICOLAI, Philipp",
+                "life": "(1556-1608)"
+            }
+        ],
+        "390": [
+            {
+                "full": "WITTENBERG (1544)",
+                "name": "WITTENBERG",
+                "life": "(1544)"
+            }
+        ],
+        "391": [
+            {
+                "full": "WEIMAR (1681)",
+                "name": "WEIMAR",
+                "life": "(1681)"
+            }
+        ],
+        "392": [
+            {
+                "full": "HAKES, D. S.",
+                "name": "",
+                "life": ""
+            }
+        ],
+        "393": [
+            {
+                "full": "BRADBURY, William B. (1816-1868)",
+                "name": "BRADBURY, William B.",
+                "life": "(1816-1868)"
+            }
+        ],
+        "1000": [
+            {
+                "full": "HOOPER, Wayne (1962-2007)",
+                "name": "HOOPER, Wayne",
+                "life": "(1962-2007)"
+            }
+        ]
+    }
+}

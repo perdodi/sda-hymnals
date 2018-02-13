@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:17">
+  <properties>
+    <titles>
+      <title>Meggyógyítod, aki szenved</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Meggyógyítod, aki szenved</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Meggyógyítod, aki szenved, mennyei erővel, s a fájdalmas szívűt betöltöd örömmrl! Úr Jézus életünk fölött végy teljes uralmat, hogy szent népedhez méltón várjuk nagy napodat.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Uram, éhezem igazságodat, szomjazom sznet szellemed vizét! Jézus töltsd tele lámpásomat, hadd világítson míg visszatérsz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent Szellem, erősíts meg, Újíts meg friss kenet, hogy megtegyem akaratod, adj még több kegyelmet, hogy hűséggel harcoljam meg a hit nemes harcát, s utam végén meglássam az én Uram arcát!</lines>
+    </verse>
+  </lyrics>
+</song>

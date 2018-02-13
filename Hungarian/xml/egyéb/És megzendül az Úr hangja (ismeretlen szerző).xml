@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:15">
+  <properties>
+    <titles>
+      <title>És megzendül az Úr hangja</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c2 c1 v2 c2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>És megzendül az Úr hangja</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És megzendül az Úr hangja nagy hatalommal, felhangzik királyi szózata. Össze gyűjti az Ő népét, messze földről vezeti haza.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A pásztor hangját meghallják a vakok látnak, a bezárt fülek megnyílnak. A sánták táncot járva dicsőitik Őt. Néma ajkak új dalt dalolnak.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Az Úrnak népe Izráel, az Úrnak népe Izráel, nem felejti övéit, és nem hagyjy el, mert szeme fénye Izráel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr kinyújtja kezét és nincs többé gonosz, az emléke is ködbe vész. Virágzik a puszta, visszhangozzák a hegyek a megváltottak hálaénekét</lines>
+    </verse>
+  </lyrics>
+</song>

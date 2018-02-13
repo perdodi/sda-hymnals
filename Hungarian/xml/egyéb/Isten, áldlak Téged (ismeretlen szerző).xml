@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:57">
+  <properties>
+    <titles>
+      <title>Isten, áldlak Téged</title>
+    </titles>
+    <copyright>S-044</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten, áldlak Téged</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten, áldlak Téged, fogadj el tiédnek, Néked élek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, áldlak téged, fogadj el tiédnek, Néked élek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lélek, áldalak téged, fogadj el tiédnek, Néked élek!</lines>
+    </verse>
+  </lyrics>
+</song>

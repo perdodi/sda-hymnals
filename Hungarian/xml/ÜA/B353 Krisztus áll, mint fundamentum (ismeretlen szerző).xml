@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:06">
+  <properties>
+    <titles>
+      <title>B353 Krisztus áll, mint fundamentum</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus áll, mint fundamentum<br/>B353</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztus áll, mint fundamentum, Bármi vész is tomboljon, Őrá épül szent egyháza Mindenütt a világon Népe nem fél semmi bajban, Mert ő biztos oltalom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Épülj rá e kősziklára, Hogy megállhass szilárdan! Vess el minden téves eszmét, Higgy az Isten szavában! Lelki házad meg nem rendül, Hogyha bízol Krisztusban.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lásd, hogy minden földi érték Tűnik, mint a szivárvány. Földi házad összeomlik Szorgos évek elmúltán. Úgy élj, hogy beléphess végül Égi házad ajtaján!</lines>
+    </verse>
+  </lyrics>
+</song>

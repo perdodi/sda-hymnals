@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:37:56">
+  <properties>
+    <titles>
+      <title>32. Egek nagy Királya</title>
+    </titles>
+    <copyright>Hé-032</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Egek nagy Királya...<br/><br/>Hitünk énekei<br/>32. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egek nagy Királya, magasztalunk téged; Térjen nevedre dicséret! Mulandó és gyarló életünk átjárja végtelen kegyelmed árja. Jöjj, segíts, jóra ints; Rólad zengjen nyelvünk, vígan énekeljünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérjed, világom, Alkotód hatalmát, mindenek felett uralmát! Hirdesse a csillag ránk sugárzó fénye, mily csodás az Isten lénye! Nagy égbolt, nap és hold, kik ott fennen jártok: ti is Őt áldjátok!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zengjen minden szívben boldog hálaének a világ teremtőjének! Nagy kegyelmessége gondot visel rólunk, számon tartja minden dolgunk. Égben fenn, földön lenn, áldassék jósága, nagy irgalmassága!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alleluját zengve, magasztalva áldjad Krisztus által jó Atyádat! Ha az Istent élő, igaz hittel féled és a szíved Jézusé lett: Boldogság, üdv vár rád fenn az ég honában, hófehér ruhában.</lines>
+    </verse>
+  </lyrics>
+</song>

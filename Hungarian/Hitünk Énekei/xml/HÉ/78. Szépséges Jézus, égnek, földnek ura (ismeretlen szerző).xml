@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T18:51:02">
+  <properties>
+    <titles>
+      <title>78. Szépséges Jézus, égnek, földnek ura</title>
+    </titles>
+    <copyright>Hé-078, S-074, S-136</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szépséges Jézus, égnek, földnek Ura...<br/><br/>Hitünk énekei<br/>78. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szépséges Jézus, égnek, földnek Ura, Isten és ember fia: óhajtlak Téged és áldva áldlak, én lelkem irányítója.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily szép az erdő, tavasszal a hegy, völgy, s a zöld mező pázsitja! De még szebb Jézus tündöklő lénye, s ez szívünk, lelkünk vidítja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szép a nap fénye, szépen ragyog a hold és a fényes csillagok. De szebben fénylik Jézus dicsfénye, mint fenn az égi angyalok!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oly szép a virág és az ember élte a szép tavasz idején! Elszáll a szépség, elmúlik minden, de Jézus mindörökké él!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Benned van Jézus, menynek és a földnek minden áldott szépsége! Légy már e földön az osztályrészem, Te Isten gyönyörűsége!</lines>
+    </verse>
+  </lyrics>
+</song>

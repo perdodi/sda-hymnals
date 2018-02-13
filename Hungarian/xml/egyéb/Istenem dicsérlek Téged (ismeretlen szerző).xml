@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:57">
+  <properties>
+    <titles>
+      <title>Istenem dicsérlek Téged</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istenem dicsérlek Téged</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Istenem dicsérlek Téged, Igéd oly csodálatos. Istenem dicsérlek Téged, Igéd oly csodálatos. Felüdít engem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Minden reggel szívembe zárom, amit mond, minden verse nekem szól, mint útravaló.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Olvasom és ismerem a Te Igédet, annak minden betűje biztos ígéret.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Térben és az időben szavad állandó, visszavonhatatlanul örökkévaló.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Öröm, erő, bátorság tölti el szívem ajándékként adod ezt mindennap nékem.</lines>
+    </verse>
+  </lyrics>
+</song>

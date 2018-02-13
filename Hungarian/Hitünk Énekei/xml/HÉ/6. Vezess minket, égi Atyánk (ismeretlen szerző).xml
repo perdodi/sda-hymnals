@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T17:12:27">
+  <properties>
+    <titles>
+      <title>6. Vezess minket, égi Atyánk</title>
+    </titles>
+    <copyright>Hé-006</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vezess minket, égi Atyánk...<br/><br/>Hitünk énekei<br/>6. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vezess minket, égi Atyánk, éltünk zúgó tengerén. Őrízd, gondozd földi nyájad, rajtad kívül nincs remény! Te vagy nékünk menedékünk az egész földkerekén!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Krisztus, gyarlók vagyunk: irgalommal nézz le ránk. Bocsánatért esdekelve száll fel hozzád hő imánk. Szánj meg minket, gyermekidet, áldásodat add reánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Töltsd be szívünk boldogsággal: tölsd ki reánk Lelkedet! Szeretetlen életünket töltse be most szerelmed! Áldj meg minket -híveidet-, öröklétre őrízz meg!</lines>
+    </verse>
+  </lyrics>
+</song>

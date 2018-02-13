@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:32">
+  <properties>
+    <titles>
+      <title>Békességre vágyik minden ember</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Békességre vágyik minden ember</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Békességre vágyik minden ember, pénzt is adna érte, de mégsem lel. Mert az igaz békesség, ma még ingyen kapható, de nem tudják, hogy hol található. Csak egy út van, bár az nagyon keskeny, békességem én is azon nyertem. Jézus Krisztus drága vére mindenre elég, Ő az út, és Ő a békesség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jóbarátom, talán fáj a szíved, nagyon nehéz viselni a terhet. Akit szerettél, igen, az is elhagyott, keserűen telnek a napok. Van egy drága szív, mely dobog érted, egész biztos nagyon szeret téged. Jöjjetek énhozzám, ha megfáradtatok, -Ezt mondja-, én nyugalmat adok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(első rész zenei betét)<br/>Jézus Krisztus régen keres téged, üdvösséget kínál ingyen néked. Azért, hogy te élhess, meghalt éretted, nincsen ennél nagyobb szeretet.</lines>
+    </verse>
+  </lyrics>
+</song>

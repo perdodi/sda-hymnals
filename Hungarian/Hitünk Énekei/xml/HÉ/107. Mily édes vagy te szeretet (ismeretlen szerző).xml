@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:29:15">
+  <properties>
+    <titles>
+      <title>107. Mily édes vagy te szeretet</title>
+    </titles>
+    <copyright>Hé-107</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mily édes vagy te szeretet...<br/><br/>Hitünk énekei<br/>107. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mily édes vagy te szeretet, ó! töltsd be fáradt lelkemet és enyhet adj nekem; Mert most csak erre szomjazom és szívem néked átadom, ó! Jézus, életem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily drága kincs a szeretet, mert minden másnál erősebb, s mint Isten, oly örök! Nem mérheted fel mélységét, csak érzed, látod szépségét, ha hozzád költözött.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg meg nem látlak tégedet: nem értem, mi a szeretet, csak hírből ismerem. De én csak erre szomjazom, ó! add hát, add én Jézusom, e jobbik részt nekem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! drága Mester, engedd meg, hogy lábadnál én ott legyek, ha hirdeted igéd. A lelkemet, a szívemet és ádventváró hitemet ó! hassa át békéd!</lines>
+    </verse>
+  </lyrics>
+</song>

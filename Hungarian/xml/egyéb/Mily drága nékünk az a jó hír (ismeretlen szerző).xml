@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:22">
+  <properties>
+    <titles>
+      <title>Mily drága nékünk az a jó hír</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mily drága nékünk az a jó hír</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mily drága nékünk az a jó hír, mily édes örömtelten zeng! Halljátok a nagy szabadítást, mely Jézusban lett mienk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, bízd magad e kegyelemre, mely gazdagon árad feléd, váltságát tedd a magadévá, hidd az számodra is elég!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Laszállott a mennyei fényből, elhagyta a dicső hazát, hogy széttörhesse rabbilincsünk, hogy hintsen az éjbe sugárt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, jöjj el hatalmas Urunkhoz, fáradt, szomorú, jer ide! Érted gyötrődött a kereszten, hát bízva jöhetsz elébe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csak Jézus az, aki segíthet, üdvöt nem ad más csakis Ő. Itt áll, és türelmesen vár még. Mit késel? Nincs már sok idő!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:00">
+  <properties>
+    <titles>
+      <title>teszt 18 válasz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az összes szárazföldi állatokat, végül pedig az embert. I. Móz 1,24-31.</lines>
+    </verse>
+  </lyrics>
+</song>

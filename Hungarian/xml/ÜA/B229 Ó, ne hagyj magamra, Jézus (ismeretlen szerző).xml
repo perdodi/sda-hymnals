@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:51">
+  <properties>
+    <titles>
+      <title>B229 Ó, ne hagyj magamra, Jézus</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, ne hagyj magamra, Jézus <br/>B229</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, ne hagyj magamra, Jézus, Halld, kiált szívem! Hogyha másnak adsz kegyelmet, előlem se menj!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus! Jézus! Halld, kiált szívem! Hogyha másnak adsz kegyelmet, előlem se menj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegytrónodról adj nyugalmat és békét nékem, Lásd, itt állok bűnbánóan, Vigasztald szívem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te vagy a vigasz forrása, Bűnösök üdve, Légy szívemnek nyugodalma És legjobb része!</lines>
+    </verse>
+  </lyrics>
+</song>

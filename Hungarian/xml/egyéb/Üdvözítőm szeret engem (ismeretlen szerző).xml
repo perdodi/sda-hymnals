@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:22">
+  <properties>
+    <titles>
+      <title>Üdvözítőm szeret engem</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Üdvözítőm szeret engem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Üdvözítőm szeret engem, szeret engem. jól tudom. És én mégis bűnt cselekszem, s gyakran megbántom nagyon.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Drága Jézus, ó, adj nékem szilárdságot, nagy hitet, megbotlástól, eleséstől, Uram, óvd meg lelkemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, mért van, hogy oly könnyen, oly hamar elfeledem: mit tettél, Uram, te értem, mint míveltél énvelem?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most előtted alázattal, könnyek közt leborulok, más órában pedig tőled hűtlenül elfordulok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Most azt mondom, hogy értted éltem is od'adom, s aztán újra tetteimmel nevedet megtagadom.</lines>
+    </verse>
+  </lyrics>
+</song>

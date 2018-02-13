@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:04">
+  <properties>
+    <titles>
+      <title>Jézus, olyan kedves ez a név</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, olyan kedves ez a név</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus, ez a legkedvesebb név. Jézus, belőled élet árad szét. Ó Jézus, szemednek tisztatükrében engedd látnom, mit ér az életem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, hozzád ha közel vagyok, érzem, hogy én is értékes vagyok. Ó Jézus, értem haltál kínhalált. Bűne imet lemostad Golgotán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, eljövendő nagy Király Jézus, országod várjuk nagyon már. Ó Jézus, úgy kérünk erősíts minket. Megmaradjunk mindvégig meletted.</lines>
+    </verse>
+  </lyrics>
+</song>

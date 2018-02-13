@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:28">
+  <properties>
+    <titles>
+      <title>Most ujjongjon a szívünk</title>
+    </titles>
+    <verseOrder>i1 c1 v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Most ujjongjon a szívünk</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Most ujjongjon a szívünk, az Úr színe elé állva, szolgáljunk neki vígan, az Úrnak szolgáljunk vígan! Magasztaljuk énekszóval, szent hódolattal!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tudjátok meg, hogy az Úr az Isten. 2x<br/>Gyertek hozzá dicsérettel, 2x<br/>Az Ő juhai, az Úr a mi pásztorunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Menjetek hála énekekkel 2x<br/>Gyertek hozzá dicsérettel, 2x<br/>Nagy hálát zengve, az Ő nevét hirdetve!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jó az Úr a mi Istenünk, 2x<br/>Szeretete sose múlik 2x<br/>Ő igaz Isten, hű minden nemzedéken.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:07">
+  <properties>
+    <titles>
+      <title>B365 Hintsd szerteszét</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hintsd szerteszét<br/>B365</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hintsd szerteszét, A szeretet kincseit, Élj másokért, Az Úr téged így tanít! Ha sóvá lesz az életed, Úgy ízesül a világ, Megérzik majd az emberek Az Úr Jézus irgalmát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézusra nézz, Ő legyen a példakép! Tégy jót, szeress, Így mutasd be életét! A szolgálathoz új erőt Te mindig csak tőle várj, Az Úrtól vedd az égi fényt, És ragyogj, mint napsugár!</lines>
+    </verse>
+  </lyrics>
+</song>

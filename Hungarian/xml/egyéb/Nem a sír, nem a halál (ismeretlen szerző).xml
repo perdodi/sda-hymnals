@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:31">
+  <properties>
+    <titles>
+      <title>Nem a sír, nem a halál</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nem a sír, nem a halál</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nem a sír, nem a halál dicsőít Téged,<br/>Nem a sír, nem a halál dicsőít Téged.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ki él, ki él, csak az dicsőít Téged,<br/>Ki él, ki él, csak az dicsőít Téged.<br/>Mint ma én, mint ma én, mint ma én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kik élünk, kik élünk, mi dicsőítjük az urat,<br/>Kik élünk, kik élünk, mi dicsőítjük az urat.<br/>Ó, Jézusom, mindannyian, Halleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halleluja, halleluja, mi dicsőítjük az urat,<br/>Halleluja, halleluja, mi dicsőítjük az urat.<br/>Dicsérünk, dicsérünk, Jézus, Téged dicsérünk,<br/>Halleluja, halleluja, halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

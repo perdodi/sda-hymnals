@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:58:23">
+  <properties>
+    <titles>
+      <title>285. Erős vár a mi Istenünk</title>
+    </titles>
+    <copyright>Hé-285</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Erős vár a mi Istenünk...<br/><br/>Hitünk énekei<br/>285. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Erős vár a mi Istenünk, jó fegyverünk és pajzsunk, ha Ő velünk, ki ellenünk? Az Úr a mi oltalmunk. Az ős ellenség most is üldöz még, nagy a serege, csalárdság fegyvere; nincs ilyen több a földön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A harcra erőnk mit sem ér, mi csakhamar elesnénk; De küzd értünk a hős vezér, kit Isten rendelt mellénk. Kérdezed: ki az? Úr Jézusom az, Ki Isten Fia, az ég és föld Ura, Ő a mi diadalmunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E világ minden ördöge ha elnyelni akarna, nem riadnánk, mert ellene győz hitünk diadalma. E világ ura bár tör bosszúra: Nincs ereje már, reá ítélet vár: az ige porba dönti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az ige kőszálként megáll, megszégyenül, ki bántja; Az Úr mivelünk hadba száll, Szentlelkét nékünk adja. Jóhírt, életet és minden kincset, mind elvehetik, mit ér ez őnekik? A menny megmarad nékünk.</lines>
+    </verse>
+  </lyrics>
+</song>

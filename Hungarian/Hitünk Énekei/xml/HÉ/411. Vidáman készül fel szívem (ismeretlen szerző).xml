@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:19:00">
+  <properties>
+    <titles>
+      <title>411. Vidáman készül fel szívem</title>
+    </titles>
+    <copyright>Hé-411, Üa-074</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vidáman készül fel szívem...<br/><br/>Hitünk énekei<br/>411. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vidáman készül fel szívem az Úrnak szent napjára, hogy áldás boldogság legyen megtért keblem javára.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Üdv és boldogság napja! Üdv és boldogság napja! Ez hoz isteni szót az Úr házába, óh üdv és boldogság napja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr házában szól a kar hálaénekeket zengve, Istenhez áhítni akar szívünkhöz visszalengve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr szavában üde víz, élet forrása lüktet, kegyasztalán dús tápot visz. Lelket méltán kecsegtet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Úr házának legkisebb helyénél kedvesebb nincs szombati csendjénél nem szebb semmi dús földies kincs!</lines>
+    </verse>
+  </lyrics>
+</song>

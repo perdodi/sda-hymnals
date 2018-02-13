@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:45:47">
+  <properties>
+    <titles>
+      <title>475. Mentsváram énnékem az Úr</title>
+    </titles>
+    <copyright>Hé-475, Üa-486</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mentsváram énnékem az Úr...<br/><br/>Hitünk énekei<br/>475. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mentsváram énnékem az Úr; A zord viharban sziklavár! Bár csapdos a hullám vadul, ott szívemben helyet talál.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy, úgy bízom az Úrban, mentsváram Ő, mentsváram Ő, mentsváram Ő! Óh Jézusom Tebenned megnyugszom én, Te zord viharban sziklavár!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A nap hevétől oltalom, s a zord viharban sziklavár! Éji homályban fénytorony, Ködoszlató meleg sugár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szavától tenger csendesül, S a zord viharban sziklavár! Lelkem e szirtre menekül, S nem érhet engem semmi kár.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Enyém vagy én Üdvözítőm, Te zord viharban sziklavár! Tetőled jő hitem, s erőm S reám a mennynek üdve vár.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-07T13:11:57">
+  <properties>
+    <titles>
+      <title>241. Szent karod, Jézus</title>
+    </titles>
+    <copyright>Hé-241</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szent karod, Jézus...<br/><br/>Hitünk énekei<br/>241. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szent karod, Jézus, oly erős, megsegít minden bajban! Segítsd meg árva népedet, miként a messzi múltban! Nappal és éjjel harcolunk, egyedül benned bízhatunk: Légy velünk minden harcban!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Melletted, drága Mesterünk, tudjuk, hogy bizton győzünk! Leküzdünk bátran minden bajt, és hálazsoltárt zengünk. Előre! bátran, szüntelen: Közel a végső győzelem; Korona lesz az ékünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tombol az ádáz ellenség, de minket meg nem rémít: Lelkünket áldott szent karod és angyalszárnyak védik! Bizalmunk, Jézus, benned van, győzhetünk életharcunkban, ha véled járunk végig.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:28">
+  <properties>
+    <titles>
+      <title>Méink a hit</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Méink a hit</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Méink a hit, és miénk a remény, hogy Jézus, Te irányítod életünk, és mi megyünk, ha hívsz, lábunk keskeny útra lép, erősen fogjuk most meg egymás kezét, jöjj, ne hagyd, hogy elszürküljön az életünk, az erőd is hadd legyen miénk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Így érintsd meg lelkünkket, és lobbantsd fel tüzét, hogy lángjainál melegedjen minden földi nép! Jöjj, tisztísd meg a szívünk, hogy tölts be a fény, és világítsunk szüntelen e széles földteként.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha túl sok a baj, és kevés a remény, segíts, hogy szívünk ne legyen túl kemény! Mikor frászat a harc, és kísértés gyötör, segíts, hogy letépjük, mi gúzsba köt! Jöjj, ne hagyd, hogy elszürküljön életünk, az erő most hadd legyen miénk!</lines>
+    </verse>
+  </lyrics>
+</song>

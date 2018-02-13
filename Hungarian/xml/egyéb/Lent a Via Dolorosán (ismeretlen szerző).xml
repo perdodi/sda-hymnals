@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:15">
+  <properties>
+    <titles>
+      <title>Lent a Via Dolorosán</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Lent a Via Dolorosán</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Lent a Via Dolorosán, jeruzsálemben történt; Egy férfi vitte súlyos keresztjét. Körül állta Őt a nép, az embert, akit halálra ítélt.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jézus testén vérző sebek, korbácsütés nyomai, koronája vétkeink tövisei. minden lépést értünk tett, így bűneiktől szabadított meg</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Lent a Via Dolorosán, minden fájdalok útján Isten Fia feláldozta önmagát. Végtelen nagy szeretettel vállalta érted, értem, Lent a Via Dolorosán, a halált, ó, a halált.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Ő megtisztított, új lelket adott, vére által egy új életre hívott. Lent a Via Dolorosán, a halált, ó, a halált.</lines>
+    </verse>
+  </lyrics>
+</song>

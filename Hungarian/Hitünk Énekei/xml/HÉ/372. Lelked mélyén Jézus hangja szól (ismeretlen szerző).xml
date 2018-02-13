@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:30:01">
+  <properties>
+    <titles>
+      <title>372. Lelked mélyén Jézus hangja szól</title>
+    </titles>
+    <copyright>Hé-372</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Lelked mélyén Jézus hangja szól...<br/><br/>Hitünk énekei<br/>372. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lelked mélyén Jézus hangja szól hozzád: "Itt az este, drága gyermek, mondj imát!"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égi Atyánk, adj erőt, hogy jók legyünk; Megbocsátván, feledd el, ha vétkeztünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Téged áldunk minden boldog óráért. Hála néked, Urunk, minden áldásért!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csak Te őrizd éjjel-nappal éetünk! Add, hogy reggel Téged áldva ébredjünk!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gyönge hangú halk imánkat hallgasd meg; Tartsd felettünk szeretettel szent kezed!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Óvjad áldott kegyelmeddel szívünket; Add, hogy apró fények legyünk melletted!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:46:15">
+  <properties>
+    <titles>
+      <title>476. A megnyitott szent Biblia</title>
+    </titles>
+    <copyright>Hé-476, Üa-488</copyright>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A megnyitott szent Biblia...<br/><br/>Hitünk énekei<br/>476. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A megnyitott szent Biblia javítja meg a helyzetet. Eme világban általa mindenki oly boldog lehet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Urunk szava, te égi fény világíts minden tájon át. Míg üdvhöz jő az összes nép, s nap váltja fel az éjszakát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten kegyét, szeretetét, s lelkünk atyját ismerteti és az eltévedt lelkeket igaz ösvényre vezeti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus halálát mondja el s hogy mily dicsőn feltámadott, a bűn zsoldját lefizeté és nekünk életet adott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E könyvet Istentől nyerők, utunknak üdv forrása ez; Ha a sír éje közeleg, e könyvből ránk fény gerjedez.</lines>
+    </verse>
+  </lyrics>
+</song>

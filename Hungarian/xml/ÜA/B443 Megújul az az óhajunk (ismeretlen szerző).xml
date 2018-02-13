@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:17">
+  <properties>
+    <titles>
+      <title>B443 Megújul az az óhajunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Megújul az az óhajunk<br/>B443</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Megújul az az óhajunk: Legeltesd nyájadat! Életigédre szomjazunk, Mert lelkünk oly tikkadt.Jó Pásztorunk, jöjj és vezess, A legelőd oly szép, kies! Te ismered a jó mezőt, Mely éltet ád és új erőt; A te Igéd a tévutaktól véd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tenélküled eltévedünk, S nem lelünk jó ösvényt. Vész, vihar törhet ellenünk, Ha kezed meg nem véd.Terelgesd hát bárányidat, Mint Pásztor, óvjad nyájadat! Az életvízhez, ó, vezess, Hol lelki szomjunk szünteted! Igéd mily jó, Üdítő, üdvadó!</lines>
+    </verse>
+  </lyrics>
+</song>

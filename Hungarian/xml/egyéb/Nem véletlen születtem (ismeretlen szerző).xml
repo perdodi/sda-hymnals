@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:32">
+  <properties>
+    <titles>
+      <title>Nem véletlen születtem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nem véletlen születtem</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nem véletlen születtem, Isten alkotott,<br/>Hálát adok azért, hogy életet adott.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Veled vagyok mindennap, veled vagyok mindennap,<br/>Veled vagyok mindennap, így szól az Úr.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Többé nincs a szívemben már szomorúság,<br/>Értem küldte a földre egyszülött fiát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vére bűnöm, a vétkem mind eltörölte,<br/>Hogy én éljek, életét önként letette.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten az Ő Fiáért mindig elfogad,<br/>Ha elbukom felemel és kegyelmet ad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nincs még egy a világon, ilyen menedék,<br/>Ahol teljes öröm vár és a békesség.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Az elfáradt szívekhez szóljon az ének<br/>Jézus Krisztus szavával: "Hozzám jöjjetek!"</lines>
+    </verse>
+  </lyrics>
+</song>

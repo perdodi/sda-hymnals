@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:59">
+  <properties>
+    <titles>
+      <title>Jézsu az élet Ura</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézsu az élet Ura</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézsu az élet Ura, Ő a királyok Királya, mindennél nagyobb hatalma, Ő az Alfa és az Omega. Mi dicsérünk, dicsérünk, hangos szóval hirdetjük: Uralmad itt van már, királyságod megáll örökönörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

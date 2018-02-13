@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T12:50:35">
+  <properties>
+    <titles>
+      <title>264. Az utat nem tudom</title>
+    </titles>
+    <copyright>Hé-264, S-144</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az utat nem tudom...<br/><br/>Hitünk énekei<br/>264. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az utat nem tudom, Te tudod jól, ez lelkem felüdíti mindenkor. Nem csüggedek én többé sohasem, az élet útján vezetsz Mesterem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az utat és időt Te tudod jól: hisz engem terved szerint hordozol! Hirdetem most e drága kegyelmet: üdvözítsz, megmentsz, Uram, engemet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Útját a viharnak Te tudod jól: csendesül haragja Te szavadtól, szívemben ég a boldog reménység: Jól tudod utamat, s ez épp elég.</lines>
+    </verse>
+  </lyrics>
+</song>

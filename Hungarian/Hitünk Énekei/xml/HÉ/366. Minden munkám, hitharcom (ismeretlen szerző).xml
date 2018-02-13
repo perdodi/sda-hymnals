@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T18:27:56">
+  <properties>
+    <titles>
+      <title>366. Minden munkám, hitharcom</title>
+    </titles>
+    <copyright>Hé-366</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Minden munkám, hitharcom...<br/><br/>Hitünk énekei<br/>366. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Minden munkám, hitharcom Jézusommal kezdem, megsegít Ő, jól tudom, tanácsával engem. Szent nevével ébredek, szent nevével alszom; Jézus vezet engemet, míg bevégzem harcom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kora reggel ajkamon Jézus neve csendül, minden utam ráhagyom, erőm meg nem rendül. Reggel, este, éjszaka Jézus menedékem: Bármi bajom támadna, soha nem kell félnem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha Jézus van velem, semmi rossz nem érhet! Megvéd minden baj ellen: Senkitől sem félek! Bizodalmam benne van, erejében bízom, erős karja oltalmam, megvéd, tudom, bizton.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogyha minden dolgomat Jézusommal kezdem, bántó, kínző gondolat nem gyötri a lelkem. Öröm, béke, boldogság lesz az osztályrészem, s végül életkoronát ád a mennyben nékem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Minden dolgom, Jézusom, szent kezedbe tettem, Te őrködjél sorsomon egész életemben. Uram, minden dolgomat Te nevedben kezdem: Add reám áldásodat mindörökké. Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

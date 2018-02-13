@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:29">
+  <properties>
+    <titles>
+      <title>B541 Hű néped esdve rád tekint</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hű néped esdve rád tekint<br/>B541</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hű néped esdve rád tekint: Szent vágyát, ó, fogadd! Jöjj, nagy Király, így kérünk mind, Hozd el országodat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lásd, mily sötét az éjszaka, A bűnök éjjele! Mi ébren várunk, ég Ura, Ó, jöjj e földre le!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nincs messze már a pirkadat. Kitartást adj nekünk, Hogy jól figyelve szent szavad Ne hagyjuk el helyünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Majd megjelensz, áldott Napunk, És fényed átölel. Hű néped vár rád, Krisztusunk, Országod jöjjön el!</lines>
+    </verse>
+  </lyrics>
+</song>

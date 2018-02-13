@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:30">
+  <properties>
+    <titles>
+      <title>B552 Az Úré minden hatalom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úré minden hatalom<br/>B552</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úré minden hatalom, az áldás, bölcsesség. Csak őt illeti hál‘adás, az üdv, a tisztesség! Így zeng a menny nagy kórusa, Az Úrnak hódolva.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott állnak mind a trón körül, fejükön korona, A két kezükben pálmaág, rajtuk hószín ruha. A Bárányé a győzelem! Kiáltják szüntelen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megrendül tőle föld és ég, úgy árad, zeng e dal: A trónon ülő áldassék, övé a diadal! És áment mond a mennysereg, Kit Jézus váltott meg!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Egy nap majd én is ott leszek e boldog nép között, És vélük együtt éneklem: áldott az Egyszülött, Ki népét vérén vette meg, Ki lelkünk üdve lett!</lines>
+    </verse>
+  </lyrics>
+</song>

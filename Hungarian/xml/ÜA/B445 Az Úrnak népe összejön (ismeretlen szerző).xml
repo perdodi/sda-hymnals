@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:17">
+  <properties>
+    <titles>
+      <title>B445 Az Úrnak népe összejön</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úrnak népe összejön<br/>B445</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úrnak népe összejön, Hogy áldja szent nevét. Letéve terhét, gondjait, Szemléli Istenét. Víg hálaszóra hangolva, Elzengi énekét, És hő imában mondja el Az Úr dicséretét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha hittel kérjük, Istenünk A mélyből fölemel. Feloldja gyászunk, vigaszt ad, és karja átölel. Elűzi gondunk fellegét, Szétzúzza láncaink, Felhozza ránk szép hajnalát, És örvendünk megint.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dús asztalához ülhetünk, Hol táplál, felüdít, Megszüntet lelki éhséget, És bízni megtanít. Szentlelke által támogat, Új erőt ad nekünk. Így járunk útján, míg egykor Őhozzá érkezünk.</lines>
+    </verse>
+  </lyrics>
+</song>

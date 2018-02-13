@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T20:22:08">
+  <properties>
+    <titles>
+      <title>420. Halljátok? Jézus hívogat</title>
+    </titles>
+    <copyright>Hé-420, Üa-142</copyright>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Halljátok? Jézus hívogat...<br/><br/>Hitünk énekei<br/>420. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Halljátok? Jézus hívogat: "Utánam jöjjetek!" Bár utunkon tövis fakad, de mennybe felvezet. Óh emberek, hát jöjjetek, találtok édes nyughelyet! Hol örökké örvendenek a boldog seregek! Mily édes sors óh ez, óh mily sors, óh mily sors!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mily édes sors leend Jézus ölében fent. A szentek száma végtelen az Úr mennyegzőjén jelen, s éneklik: Bárány, dics neked, a győzelem tied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halljátok zengeni Siont? Ha egy bűnös megtér, az összes mennysereg ujjong, öröm örömre kél. Jézus vérét dicséri mind, hogy ily csudát tett most megint. Isten hatalmát hirdetik, ki bűnöst üdvözít.</lines>
+    </verse>
+  </lyrics>
+</song>

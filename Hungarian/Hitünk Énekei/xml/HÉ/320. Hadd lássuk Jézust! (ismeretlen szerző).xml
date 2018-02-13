@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-08T17:54:17">
+  <properties>
+    <titles>
+      <title>320. Hadd lássuk Jézust!</title>
+    </titles>
+    <copyright>Hé-320</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hadd lássuk Jézust!<br/><br/>Hitünk énekei<br/>320. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hadd lássuk Jézust! – Közeleg az éjfél, s az élet útján egyre fogy a fény; Őtőle kérünk védelmet és erőt a végső próbák nehéz idején.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hadd lássuk Jézust, üdvösségünk pajzsát! Ő menedékünk, hogyha jő a vész; És többé semmi el nem választ tőle, ha szemünk hittel folyton őrá néz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hadd lássuk Jézust! – Ez a forró vágyunk, a régi éltünk megváltozott már; S a bűnük csábja, káprázatos fénye nem bántja többé szívünk nyugalmát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„Hadd lássuk Jézust!” – Ez a drága jelszó. Most ez ad vigaszt, békét és erőt; Ez vezet végig életünknek útján, míg nemsokára újra látjuk őt!</lines>
+    </verse>
+  </lyrics>
+</song>

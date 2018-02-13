@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:49">
+  <properties>
+    <titles>
+      <title>Táncolok, éneklek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Táncolok, éneklek</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Táncolok, éneklek, örvendezek az én Istenemnek. Táncolok, éneklek, örvendezek az én Istenemnek. Jó dolog az Úrnak énekelni, mert Ő a dicséreteink között lakik. Teljes szívvel táncolok előtte, minden tagommal áldozom Neki.</lines>
+    </verse>
+  </lyrics>
+</song>

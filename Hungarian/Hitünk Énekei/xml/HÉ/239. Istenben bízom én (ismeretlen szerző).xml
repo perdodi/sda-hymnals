@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-07T13:11:35">
+  <properties>
+    <titles>
+      <title>239. Istenben bízom én</title>
+    </titles>
+    <copyright>Hé-239</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istenben bízom én...<br/><br/>Hitünk énekei<br/>239. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Istenben bízom én az ínség idején, ki mindig megvéd engem és erősíti lelkem; Ő fordít rosszat jóra, mert éltem megtartója.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha bűneim engem rettentnek szívemben, én Krisztusomban bízom, a békém Tőle várom; Én néki adom éltem, mert vérét ontá értem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A halál énnékem lész majd nyereségem; Úr Krisztus az én éltem, átadom néki szívem. Ha végórámat látom, az üdvöm Tőle várom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Úr Jézus Krisztusom, Te vagy a legfőbb jóm: Mert kereszthalált haltál, hogy nékem üdvöt adjál; És megváltál egy népet, hogy mennyben lakjék véled.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ámen zengjen híven szívemnek mélyében; Vezérelj engem, kérlek, Úr Krisztus, míg itt élek; És fenn a magas mennyben majd áldlak mindig. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

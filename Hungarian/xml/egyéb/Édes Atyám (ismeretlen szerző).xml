@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:12">
+  <properties>
+    <titles>
+      <title>Édes Atyám</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Édes Atyám</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Édes Atyám, Tiéd az ég és Tiéd a föld, a hold és a nap. Ezernyi csillag megalkotá azt "legyen" szavad. Kékszínű ég, viharzó tenger, szikrázó napfény, ősz és a tél, tavasz virága, nyárnak kalásza, Téged dicsér.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mélyen meghajtom térdem előtted Szent Atyám, őszinte szívvel mondok hálát. Áldásod, jó kegyelmed gazdagon árad rám, békét és szent örömöt ád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Édes Atyám, Tiéd a szívem, Tetőled kaptam új életet, azóta érzem mindennap őrző kegyelmedet. Jönnek bajok, ezer veszély, gond, próbáltatás és nehéz napok, nem ártanak, mert Krisztus Jézusban Tiéd vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

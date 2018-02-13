@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:58">
+  <properties>
+    <titles>
+      <title>teszt 07 kérdés</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Melyik gyümölcsfáról tudjuk biztosan, hogy már az Édenben az első emberpár otthonában is ott volt?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:33">
+  <properties>
+    <titles>
+      <title>B075 Ó, gyönyörű szép, titokzatos éj</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, gyönyörű szép, titokzatos éj<br/>B075</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, gyönyörű szép, titokzatos éj! Égszemű Gyermek, csöpp rózsalevél. Kisdedként az égi Úr Jászolában megsimul Szent karácsony éjjel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égszemű Gyermek, kérünk, hadd legyen Szívünk is jászlad, boldog Betlehem! Előtted leborulunk: Térj be hozzánk, Jézusunk, Szent karácsony éjjel!</lines>
+    </verse>
+  </lyrics>
+</song>

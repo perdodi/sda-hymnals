@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:11">
+  <properties>
+    <titles>
+      <title>Álmaimban mindig visszatérsz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Álmaimban mindig visszatérsz</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Álmaimban mindig visszatérsz, álmaimban mindig földet érsz, álmaimban megvalósul a legszentebb remény, minden szív lát, bármilyen kemény.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alázattal fordulok feléd, alázattal borulok eléd, alázattal átadom az életem, hiszen előttem a végtelen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Várlak Téged, szívem megremeg, várjuk áldón kinyújtott kezed, várja a föld, hogy eljöjj igazán, hogy megláthassuk, mi jön ezután.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallgattassék meg gyarló imánk, hallgass meg, és kérünk nézz le ránk, hallgass meg és érkezz el hamar, Jézus Krisztus, hozzád száll e dal.</lines>
+    </verse>
+  </lyrics>
+</song>

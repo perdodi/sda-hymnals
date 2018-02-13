@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:15:10">
+  <properties>
+    <titles>
+      <title>Áldott reménység</title>
+    </titles>
+    <copyright>S-075</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldott reménység...</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldott reménység lángol szívünkben, remény az Úr adventjében. Ő adta nékünk e csodás hitet, bízunk hű ígéretében.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hisszük, az idő itt van, eljön Krisztus országa, hirdesd ember: ébredj föl! Halleluja! Krisztus jön! Áldott reménység lángol szívünkben, jöjj, Jézus, néped vár Téged!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egységben élünk Jézussal, mint nép, szívünkben szeretete ég. Nemzetek, nyelvek hallják hívását, várják nagy szabadítását.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Népe áldja Krisztusát, énekel a nagy világ. Zengi lenn és zengi fönn: Halleluja! Krisztus jön! Áldott reménység, hit és szeretet, egységben tartja népünket!</lines>
+    </verse>
+  </lyrics>
+</song>

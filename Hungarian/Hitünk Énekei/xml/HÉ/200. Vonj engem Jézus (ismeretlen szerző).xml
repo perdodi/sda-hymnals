@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:50:26">
+  <properties>
+    <titles>
+      <title>200. Vonj engem Jézus</title>
+    </titles>
+    <copyright>Hé-200, S-018</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vonj engem Jézus...<br/><br/>Hitünk énekei<br/>200. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vonj engem Jézus mind közelebb, így vezesd menny felé lépteimet. Vonjad a lelkem, vond szelíden; Benned lel békét és ott megpihen, benned lel békét és ott megpihen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vonj engem Jézus még közelebb, bűnterhes szívemet nyújtom Neked. Bízom, hogy így is elfogadod, bűntől azt tisztára Te moshatod, bűntől azt tisztára Te moshatod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vonj engem Jézus mind közelebb, Éretted elhagyom bűneimet. A vétkek csábját mind megvetem, Megváltó Jézusom, csak légy velem, Megváltó Jézusom, csak légy velem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vonj engem Jézus, vonj közelebb, hadd lássam isteni dicsfényedet, s az örök létben Veled legyek, vonj engem Jézusom, vonj engemet, vonj engem Jézusom, vonj engemet.</lines>
+    </verse>
+  </lyrics>
+</song>

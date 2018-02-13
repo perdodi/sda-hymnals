@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-02T17:34:13">
+  <properties>
+    <titles>
+      <title>131. Ó! Úr Jézus! Egeknek nagy Királya!</title>
+    </titles>
+    <copyright>Hé-131</copyright>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó! Úr Jézus! Egeknek nagy Királya!<br/><br/>Hitünk énekei<br/>131. ének</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó! Úr Jézus! Egeknek nagy Királya! Kinek e földön végződvén munkája felmentél mennybe s boldogul ott élsz, mígnem eljössz és mindent megítélsz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És bár e földön nem vagy már testeddel: De ígérted, Lelkeddel s kegyelmeddel mitőlünk távol soha nem leszel, Istenségeddel mindent megteszel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus! esedezz Istennek érettünk, hogy bocsássa meg, valamit vétettünk; Pótold ki mennyben fogyatkozásunk, tedd kedvessé ott imádkozásunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szentlelkedet küldd hozzánk tanítónak, kit érezhessünk mi vigasztalónknak, ez élet sok keserűségében öntsön örömöt hívek szívében.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ez a Lélek nyújtson oly reménységet, hogy mint mi fejünk, Te bírsz dicsőséget; Minket is felviszel, tagjaidat, hogy bírjuk örök szent hajlékidat.</lines>
+    </verse>
+  </lyrics>
+</song>

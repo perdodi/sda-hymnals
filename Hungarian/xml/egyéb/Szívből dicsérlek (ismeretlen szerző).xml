@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:14:44">
+  <properties>
+    <titles>
+      <title>Szívből dicsérlek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szívből dicsérlek</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szívből dicsérlek, (Szívből dicsérlek), neved magasztalom, (neved magasztalom), szerelmed mélyebb, (szerelmed mélyebb), mint el mondhatom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Előttem jársz, (Előttem jársz), követlek útadon, (követlek útadon), minden vágyam, (minden vágyam), hogy hozzád szálljon fel dalom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szívemben Te erősítesz meg, éjszaka nem fogy el a fény, mindem lélegzetem hirdeti kegyelmedet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Elmémben csak Te vagy a győztes, lelkemben a trón a tied életem megérintetted, tűzben él!</lines>
+    </verse>
+  </lyrics>
+</song>

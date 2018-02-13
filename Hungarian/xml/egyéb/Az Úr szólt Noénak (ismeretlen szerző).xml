@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:20">
+  <properties>
+    <titles>
+      <title>Az Úr szólt Noénak</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr szólt Noénak</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr szólt Noénak, hogy özönvíz jön a földre, az Úr szólt Noénak, hogy özönvíz jön a földre, az Úr szólt: Noé, mentsd meg az állatkákat, s az Úr cselekedett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr szólt Noénak, hogy építsen árkát-bárkát, az Úr szólt Noénak, hogy építsen árkát-bárkát, jó erősre csinálja azt a bárkát, az Úr cselekedett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hát kelj fel és adjál az Istennek dicsőséget! Hát kelj fel és adjál az Istennek dicsőséget! Hát kelj fel és adjál az Istennek dicsőséget! Az Úr cselekedett.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az állatok szép rendben eljöttek kettesével, az állatok szép rendben eljöttek kettesével, az utolsó után az ajtó becsukódott, az Úr cselekedett.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Negyven napig az eső csak ömlött, ömlött, negyven napig az eső csak ömlött, ömlött, a sok állat végül mind elszédült, az Úr cselekedett.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A napocska feljött és szárította földet, a napocska feljött és szárította földet, végül minden csendes és nyugodt lett, az Úr cselekedett.</lines>
+    </verse>
+  </lyrics>
+</song>

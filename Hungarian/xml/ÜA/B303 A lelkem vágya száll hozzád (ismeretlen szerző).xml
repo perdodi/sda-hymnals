@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:59">
+  <properties>
+    <titles>
+      <title>B303 A lelkem vágya száll hozzád</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A lelkem vágya száll hozzád<br/>B303</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A lelkem vágya száll hozzád; Ó, jó Atyám, Halld meg imám! Az ajkam téged hőn imád Te Istenem vagy énnekem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak téged áldlak, ó, Uram, Mert mindenem Lettél nekem! Így bármerre vezet utam, Az életem Rád helyezem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az élet terhe nem nehéz, Ha rám tekintsz És csendre intsz. Ha szemed bús lelkembe néz Nem bánkódom a sorsomon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te vagy az éltem fénye már. Ragyogj felém, Örüljek én! Ó, jöjj, kegyelmi napsugár, S te légy a fény éltem egén!</lines>
+    </verse>
+  </lyrics>
+</song>
