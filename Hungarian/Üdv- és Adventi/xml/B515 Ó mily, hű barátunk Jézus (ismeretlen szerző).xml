@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:26">
+  <properties>
+    <titles>
+      <title>B515 Ó mily, hű barátunk Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó mily, hű barátunk Jézus<br/>B515</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó mily, hű barátunk Jézus Minden bajban megsegít Mily jó elé imádságban Vinni éltünk ügyeit. Gyakran nyugtalan a lelkünk Tévesek az útjaink Mert nem vittük hő imában Isten elé ügyeink.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jönnek próbák kísértések Nincsen örömcsillagod? El ne csüggedj ily órában Lépj az úr elé legott! Ha legnagyobb az ínséged Van segítőd mit se félj Hozd az Úrhoz imádságban Bármi kínoz, - higgy remélj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fáradt vagy és megterhelve, Jól esnék az enyhülés? Fáradtak ereje Jézus, Hozzá jönni ó ne késs! Elhagyatva élsz e földön? Tedd rá minden terhedet, És hozd mindig bizalommal Az Úr elé ügyedet!</lines>
+    </verse>
+  </lyrics>
+</song>

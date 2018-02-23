@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:02">
+  <properties>
+    <titles>
+      <title>B321 Már keresztem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Már keresztem<br/>B321</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Már keresztem vállra vettem, S érted mindent elhagyok. Mindenem vagy; árva lettem, Honja-vesztett szív vagyok. Vágyat, célt a múltnak adtam, Nincs már bennem vak remény, Mégis gazdag úr maradtam: Isten és a menny enyém!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ember bánthat és zavarhat: Szíved áldott menedék; Sorsom próbál és sanyargat: Édes csenddel vár az ég. Nincsen bú, mely könnyet adjon, Míg kegyelmed van velem, Nincs öröm, mely elragadjon, Hogyha nem benned lelem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lelkem, teljes üdv a részed, Hagyd a bút s a gondot el, Légy vidám, ha meg-megérzed: Tenni kell még s tűrni kell! Gondold el: ki Lelke éltet, Milyen Atya mosolya? Megváltód meghalt teérted: Mit bánkódnál, menny fia?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kegyelemből dicsőségbe Szállj, hited majd szárnyat ad, S az örök menny fénykörébe Bevezet majd szent Urad! Véget ér itt küldetésed, Elszáll vándoréleted, Üdvösséggé lesz reményed, Égi látássá hited.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:55">
+  <properties>
+    <titles>
+      <title>B266 Fölnézek rád</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fölnézek rád<br/>B266</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fölnézek rád, jó Istenem, és lelkem téged áld, Nagy hála tölti szívemet, szemlélve sok csodád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, mennyi áldás szállt reám, azt el sem mondhatom. Még gyermek voltam, védtelen, már óvtál utamon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A hála hangja száll feléd, kegyelmes jó Atyám, Mert irgalmad és jóságod oly bőven árad rám.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megóvsz a bajban, támogatsz; Szentlelked bátorít; És fényben látom új hazám, ha szavad mennybe hív.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Most szívből zengem énekem és lelkem úgy örül; De még szebb dallam csendül majd ott fönn, a trón körül.</lines>
+    </verse>
+  </lyrics>
+</song>

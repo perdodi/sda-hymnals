@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:24">
+  <properties>
+    <titles>
+      <title>B020 Az Úrnak irgalmát</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úrnak irgalmát<br/>B020</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úrnak irgalmát öröké éneklem, hűséges nagy voltát én mindig hordetem; Mert mondom, hogy megáll mindörökké irgalma, melyet úgy megépít, hogy megálljon mindenha; és hogy mind az égig megtartod fogadásod, megerősíted jól a te szent igazságod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az egek hirdetik sok csudadolgodat, a szent gyülekezet te igazságodat. Mert vajon ki volna ott fenn a magos égben, ki nagy hatalommal hozzád hasonló légyen? Az erős angyalok nagy seregében van-e, ki e dicső Úrhoz hogy hasonlatos lenne?<br/>verse 3<br/>Mely igen hatalmas e fölséges Isten, őt minden tiszteli a gyülekezetben. Ó, seregek Ura, tenéked minden enged! Te nagy, erős Isten, vajon ki érne véled? Tenálad lakozik a te nagy igazságod, és soha el nem múlik te igazmondásod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldog a nép, amely tenéked örvendez, minden dolgát, Uram, ez viszi jó véghez. Fényes orcád előtt ők járnak nagy merészen, és a te nevednek örvendnek éneklésben, mert nagy dicsőségre felmagasztalod őket, és jótéteményed rajtuk megerősíted.</lines>
+    </verse>
+  </lyrics>
+</song>

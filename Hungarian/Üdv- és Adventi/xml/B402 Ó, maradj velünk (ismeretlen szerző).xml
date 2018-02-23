@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:12">
+  <properties>
+    <titles>
+      <title>B402 Ó, maradj velünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, maradj velünk <br/>B402</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, maradj velünk, Krisztusunk, Mert már estefelé vagyunk; Szent Igéd világosodjék, És szívünkben munkálkodjék!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E mi zarándok időnkben Szentlelkedet öntsd ránk bőven, Hogy éltető beszédedet megtartsa e gyülekezet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úr Jézus, óvd egyházadat, És nevelj néki fiakat, Akik Igédet szeretik, S bőven termik gyümölcseit!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Igéddel állj őrt magad, Hogy Sátán, s bűn ne ártsanak; Adj hű népednek kegyelmet, Békét, hitet és türelmet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az ügy, melyért harcra kelénk, A Te ügyed, nem a miénk; Légy azért, Urunk, gyámolunk, Mi benned bízva harcolunk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Igédben élünk és halunk, Míg hozzád mennybe juthatunk, Ott sírás, panasz nem lesz már, Mert ott örök boldogság vár!</lines>
+    </verse>
+  </lyrics>
+</song>

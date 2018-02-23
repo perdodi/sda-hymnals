@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:47">
+  <properties>
+    <titles>
+      <title>B199 Gyermekként jött égi lény</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Gyermekként jött égi lény<br/>B199</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Gyermekként jött Égi lény, Glória nélkül érkeztél. Te szolgáltál minekünk, Halálod által élhetünk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Íme az Úr, Szolgakirály, Most minket hív, kövessük hát! Hozzuk Elé szívünk hódolatát, Imádjuk a Szolgakirályt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egy kertben sírt, könnyezett, Miattam hordott bűnterhet. Megtört szívvel mondta ott: „Legyen, Atyám, akaratod!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj hát, és nézd sebeit, Áldozatáról hirdetik: Egeket tartó kezét Kínzó szegeknek tárta szét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szolgálni Jézus tanít, Szívünknek trónján Ő lakik. Ha fölvesszük más baját, Akkor szolgáljuk Őt, magát!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:30">
+  <properties>
+    <titles>
+      <title>B049 Mennyben lakó én Istenem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mennyben lakó én Istenem<br/>B049</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mennyben lakó én Istenem, vedd füledbe dicséretem! Téged dicsér egész világ, néked köszön a kis virág. Erős vihar, kis gyenge szél. Tenger, patak hozzád beszél; Az ég s a föld telve veled, legyen áldott a te neved!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mennyben lakó én Istenem, könyörgök, légy mindig velem! Ha kél a fény napkeleten: a te szemed rajtam legyen! És ha leszáll napnyugaton: te légy, Atyám, az oltalom! Terjeszd ki rám áldó kezed, legyen áldott a te neved!</lines>
+    </verse>
+  </lyrics>
+</song>

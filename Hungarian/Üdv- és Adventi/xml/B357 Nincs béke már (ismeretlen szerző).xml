@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:06">
+  <properties>
+    <titles>
+      <title>B357 Nincs béke már</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nincs béke már<br/>B357</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nincs béke már, nincs szánalom E széles földön itt. Ó, hol van biztos oltalom, Mely vészen átsegít?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Mester hív. Halld meg szavát, A hangja oly szelíd! Az ő igéje nyugtot ád, És lelket csendesít.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mily kedves és csodálatos, Hogy most is jóra int: Mert az szelíd, alázatos, Kit Lelke megtanít.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:25">
+  <properties>
+    <titles>
+      <title>B507 E pár előtted áll, Urunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>E pár előtted áll, Urunk<br/>B507</lines>
+    </verse>
+    <verse name="v1">
+      <lines>E pár előtted áll, Urunk, Úr Jézus fogd kezük! Az út előttük még titok; Ha nap ragyog, ha jő az éj. Úr Jézus fogd kezük!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szép napokban szüntelen Légy társ a békében! Védd boldogságuk tűzhelyét, Adj minden napra új reményt, Légy társ a békében!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha próba éri életük, Légy oltalmuk, Urunk! Ha szólsz, elül a fergeteg, Eltűnnek baljós fellegek, Légy védelmük, Urunk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Add, hogyha útjuk véget ér, Elérjék hajlékod! Te légy vezérük szüntelen, Hogy hozzád érve, győztesen Elérjék hajlékod!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:16">
+  <properties>
+    <titles>
+      <title>B440 Ím, összegyűltünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ím, összegyűltünk<br/>B440</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ím, összegyűltünk itt, Urunk, Mint gyermekid, eléd, És meghallgatni óhajtjuk, Hogy mit mond szent Igéd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint Lídiának, adj nekünk Megnyílt szívet, fület; Ó, jöjj, és légy itt most velünk, Áldd meg e szent helyet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi hallgatunk, Te szólj magad, Ajkaddal, ó, beszélj! Mert el nem zárod szent szavad Attól, ki téged kér.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halld meg imánk, Úr Jézusunk, Ó, időzz közöttünk! S hogy hivő, bölcs szívhez jussunk, Te nyisd meg értelmünk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:27">
+  <properties>
+    <titles>
+      <title>B523 Uram, Isten, már meggyújtom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Uram, Isten, már meggyújtom<br/>B523</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Uram, Isten, már meggyújtom Én estvéli áldozatom, Fölgerjesztem tüzét, lángját, Mely csak néked lobog hálát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A hit unszol, hogy meggyújtsam, A hűség, hogy el ne oltsam, Mert örömben és bánatban A Te áldó kezed rajtam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szemed virraszt én fölöttem, Angyalaid körülöttem Tábort járva vigyáznak rám, Én Istenem, én jó Atyám.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Most is, hogy már jő az éjjel, Oltalmadban rejtőzöm el. Istenem, ha Te vagy vélem, Semmi baj nem érhet engem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te állj mellém, Uram, akkor, Ha napomra száll az alkony, S ha az ágyam sírban lészen, Te ébressz fel, Uram, engem!</lines>
+    </verse>
+  </lyrics>
+</song>

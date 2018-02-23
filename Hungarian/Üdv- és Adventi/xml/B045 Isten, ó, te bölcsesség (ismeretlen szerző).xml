@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:29">
+  <properties>
+    <titles>
+      <title>B045 Isten, ó, te bölcsesség</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten, ó, te bölcsesség<br/>B045</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten, ó, te bölcsesség, fel nem érlek ésszel téged! Minden szép s mi ékesség, téged hirdet földön, égen. Mégis gyarló emberszemmel rád tekintni merészel?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvend a nagy mindenség, s téged dicsér körforgása; Fennen zeng a széleség: bölcs az Isten, nincsen mása! S lám, a messziég hatéra nyugszik az ő bölcs karjába'!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, ember, te föld pora, tán az Isten készülsz mérni? Múló idők vándora, alkotódat megítélni? Két kezeddel eget fogni, abba gőggel behatolni?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten, jó és bölcs Atyám, add megértem szent Igédet! Mindig csak rád hallgatván, részem lesz majd az ígéret. Bár még színed el van rejtve, téged áldlak reggel, estve!</lines>
+    </verse>
+  </lyrics>
+</song>

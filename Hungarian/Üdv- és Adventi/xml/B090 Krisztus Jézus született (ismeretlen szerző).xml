@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:34">
+  <properties>
+    <titles>
+      <title>B090 Krisztus Jézus született</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Krisztus Jézus született<br/>B090</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Krisztus Jézus született, örvendezzünk! Néki öröméneket zengedezzünk! Dávidnak véréből, Jesse törzsökéből Született Krisztus nékünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áron ősi vesszeje kivirágzott, S megtermé a mennyei szép virágot. Születvén jászolba, minekünk meghozta Úr Jézus a váltságot.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:00">
+  <properties>
+    <titles>
+      <title>B309 Szent érzelem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szent érzelem<br/>B309</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szent érzelem tölti szívem: Uram, tehozzád vágyom. Oltalmadban nyugszik lelkem, Benned van boldogságom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lesújthat bár a vész porba, Nem rendül meg a szívem; Elveszthetek mindent sorba', Ha te megmaradsz nekem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha házadban imádkozom, Lecsendesül a lelkem. Kegyes szemed rám néz, tudom, S így megnyugszom csendesen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldogságom Tenálad van. Vezesd hát úgy a lábam, Hogy egykor szent országodban Fénylő orcád láthassam!</lines>
+    </verse>
+  </lyrics>
+</song>

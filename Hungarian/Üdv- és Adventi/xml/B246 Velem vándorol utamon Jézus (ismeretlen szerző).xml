@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:53">
+  <properties>
+    <titles>
+      <title>B246 Velem vándorol utamon Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Velem vándorol utamon Jézus <br/>B246</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Velem vándorol utamon Jézus, Gond és félelem el nem ér. Elvisz, elsegít engem a célhoz, Ő, a győzelmes, hű vezér, Ő, a győzelmes, hű vezér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Velem vándorol utamon Jézus, Ott az oltalom hű szívén. Ha a szép napot fellegek rejtik, Ő az éltető tiszta fény, Ő az éltető tiszta fény.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Velem vándorol utamon Jézus, Bár az út néha oly sötét, Soha nincs okom félni a bajtól, Amíg irgalmas karja véd, Amíg irgalmas karja véd.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Velem vándorol utamon Jézus, Ez a vigaszom, baj ha jő. Bármi súlyosak rajtam a terhek, Segít hordani, ott van ő, Segít hordani, ott van ő.</lines>
+    </verse>
+  </lyrics>
+</song>

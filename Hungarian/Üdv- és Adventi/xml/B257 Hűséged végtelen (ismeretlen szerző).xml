@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:54">
+  <properties>
+    <titles>
+      <title>B257 Hűséged végtelen</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Hűséged végtelen<br/>B257</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hűséged végtelen, Atyám nagy Isten, Elhat a mélybe s az egek fölé. Irgalmad nem fogy a múló idővel, Ki voltál az maradsz mindörökké.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hűséged végtelen, hűséged végtelen. Minden nap új áldás árad reám. Hiányom pótolod hatalmas kézzel: Hűséged végtelen, Uram, hozzám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A tél, a nyár, az ősz, a feslő tavasz, A nap, a hold s a nagy csillagsereg Ezt zengik szüntelen együttes karban: Te vagy az irgalom, a szeretet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eltörlöd bűnömet, béke leng körül, Velem vagy s lényed úgy megvidámít. Erőt adsz mára, a holnapra reményt, Áldásod ontja rám bő árjait.</lines>
+    </verse>
+  </lyrics>
+</song>

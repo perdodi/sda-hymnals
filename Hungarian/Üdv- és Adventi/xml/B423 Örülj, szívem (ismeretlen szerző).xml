@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:14">
+  <properties>
+    <titles>
+      <title>B423 Örülj, szívem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Örülj, szívem<br/>B423</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Örülj, szívem, Vigadj lelkem, Ékességed lett a hit! Vacsorához mégy Jézushoz, Hivatalos vagy te itt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha bűnödért Halálos bért Érdemlettél lelkedre: E szent asztal megvigasztal, S válik üdvösségedre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ez örömben, Reménységben, Jézus, ma hozzád jövök. Asztalodnál lábam megáll: Újítsál meg, könyörgök!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tisztogass meg, Bűnből moss meg Kegyelmedből, Istenem; És a Sátán lelkem kárán Nem örül, nem árt nekem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E vacsora égi módra Engem véled összead; Maradj bennem, Benned engem Hagyj lennem, hogy áldjalak!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Csakhogy immár Bűntől elválj, S légy hűséggel Jézushoz! Halálával, váltságával Minden bűnből feloldoz.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hát jöjjetek, Bűnös lelkek, Orvosságot kik vártok! Jézus Lelke, szent kegyelme Kiárad ma reátok.</lines>
+    </verse>
+  </lyrics>
+</song>

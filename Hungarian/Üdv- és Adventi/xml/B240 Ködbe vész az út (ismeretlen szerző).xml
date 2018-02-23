@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:52">
+  <properties>
+    <titles>
+      <title>B240 Ködbe vész az út</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ködbe vész az út <br/>B240</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ködbe vész az út, reményem elhagy, Gyönge szívem megpihenne már. Sűrű éj, kísértést rejtő árnyak… Távol otthonom, hol béke vár!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram, szánj meg, összetörve kérem Irgalmas szíved bocsánatát! Jól tudom, hogy nincsen bennem érdem, Nyisd ki mégis házad ajtaját!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Két karját kitárva Jézus így szól: Tékozlók, énhozzám jöjjetek! Mind, kiket megcsalt az ősi kígyó, Nálam nyertek boldog életet.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dalra hát, kezdődjék már az ünnep, Elveszett fiam megérkezett! Könny és bánat mind a múltba tűnnek. Boldog szívvel üljünk ünnepet!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:41">
+  <properties>
+    <titles>
+      <title>B145 Bár Isten volt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Bár Isten volt<br/>B145</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bár Isten volt, és ember lett, De mégsem ismerték; Az Emberfia sok jót tett, Még így sem kedvelték. Csak embert láttak őbenne, Nem Isten Fölkentjét, S hogy prófétánál több lenne, Azt alig sejtették.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De Péter a Lélek által Ott felismerte őt, És megvallotta nagy bátran Az emberek előtt: Te Krisztus vagy, a Messiás, Az Isten egy Fia! Nincs is szívünknek senki más, Kiben kell bíznia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megkérdez az Úr téged is, Hogy kinek tartod őt… Tán elnémít a kétkedés, Mely szíved mélyén nőtt? Ne gyűjtsd a balga érveket S mi tőle távolít, De hittel hajtsd meg térdedet, Hidd el, ez boldogít!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bár benne sokan kétkednek, S őt most is támadják; De boldogok mind, kik hisznek, S Péterrel ezt mondják: Te Krisztus vagy, a nagy Király, Az Isten egy Fia! Megvalljon téged szív és száj, Ó, mindenek Ura!</lines>
+    </verse>
+  </lyrics>
+</song>

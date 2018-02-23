@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:13">
+  <properties>
+    <titles>
+      <title>B414 Megmozdul a parton a víz</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Megmozdul a parton a víz<br/>B414</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Megmozdul a parton a víz, Egy néhány perc van még: Mily nagy kegyelem, Hogy már a szívem Csak őérette ég!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elveszti a lelkem a bűn, De Krisztus mellé áll, S ha néki adom, Úgy él szabadon, S nem árt néki halál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eltölti a szívem a vágy, Hogy Őt szolgálja hűn: S hogy tiszta legyen És most letegyen Mindent, mi szenny, mi bűn!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megvallani kész vagyok ím: Az Úr Üdvözítő, Mert vére kihullt, És mint nyomorult, Meghalt érettem Ő.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>De nincsen a sírban az Úr, Mert föltámadt és él! Ezt hinni öröm, Ezt megköszönöm, A szívem már nem fél!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó, Jézus! Egy életen át Csak téged nézlek én! Ez vigaszadó, S mily boldogító Lesz majd a menny ölén!</lines>
+    </verse>
+  </lyrics>
+</song>

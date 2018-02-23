@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:29">
+  <properties>
+    <titles>
+      <title>B039 Ég, föld, tenger</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ég, föld, tenger<br/>B039</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ég, föld, tenger és a szél nagy teremtőről beszél. Én lelkem, te is imádd Istent, a világ Urát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nézd a fényes napsugárt, ködfelhőkön, hogy tör át! Hold s a csillagóceán fénylik csendes éjszakán...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nézz körül, mily szép e föld, nézd a fát, a dús mezőt! Erdő, rét, madársereg Istenről zeng éneket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, csodálak, Istenem, s egyre jobban érzem, hogy tenálad nincs nagyobb, én meg semmi, por vagyok!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:45">
+  <properties>
+    <titles>
+      <title>B181 Istentől jött szózat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istentől jött szózat<br/>B181</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Istentől jött szózat, Békét osztó hangzat: Evangéliom! Öröm gazdag tára, Lelki vigasz háza, Égi hatalom! Hitadó, mézédes szó, Istenadta jó hír nékünk: Benne üdvöt leltünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit próféták szóltak, És egykor megírtak, Végbementek már. Aldozatjelképek, Sötét éjben fények Véget értek már. Tervei és szándéki Jézus által teljesedtek: Hála szent nevének!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teljesítve minden, Nékünk nyújtva ingyen Gazdag kegyelem! Jézus meghalt értünk, Elvette sok vétkünk: Itt a győzelem! Jézus fenn a mennyekben, Üdvvel vár ő minden hívőt, Bűnből hozzá térőt!</lines>
+    </verse>
+  </lyrics>
+</song>

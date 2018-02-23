@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:04">
+  <properties>
+    <titles>
+      <title>B339 Meredek és szűk az út</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Meredek és szűk az út<br/>B339</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Meredek és szűk az út, Mely visz győzelmünk honába. Boldog, aki odajut, Mert nem futott az hiába. Boldog, aki jól küzdött, S kit a bűn le nem győzött.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örök lesz a jutalma, Ki megmarad végig híven; Világ el nem csábítja, És az Úrnak él egészen. Reményének alapja A győzelmi korona.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki meghalt a kereszten, Üdvösséget szerzett nékünk: Fölment dicsőségesen, Várva, hogy utána menjünk. Jézus keskeny úton járt: Kövessük mi is nyomát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Testvérek, haladjatok Bátran e zord pusztán által! Ébren imádkozzatok: Isten segít hatalmával! Aki mindent megtehet, Jézusban ad győzelmet!</lines>
+    </verse>
+  </lyrics>
+</song>

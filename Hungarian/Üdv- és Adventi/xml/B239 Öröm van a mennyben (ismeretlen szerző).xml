@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:52">
+  <properties>
+    <titles>
+      <title>B239 Öröm van a mennyben</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Öröm van a mennyben<br/>B239</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Öröm van a mennyben egy bűnös felett, Ha megtérve hazaérkezett. Fut eléje atyja kinyújtva karját, Megcsókolja elveszett fiát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Öröm, öröm van a mennyben fent, Angyalének hangzik, hárfa peng, Öröm van a mennyben Egy bűnös felett, Ha megtérve hazaérkezett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Öröm van a mennyben, vándor érkezett, Hazatért, ki egykor elveszett! Kit a bűne eddig annyit kínozott Annak ád Ő bűnbocsánatot.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Öröm van a mennyben! Gyorsan lakomát! Vidámság pezsgjen a termen át! Hirdessétek vígan e hírt szerteszét: “Egy bűnös az Úrhoz visszatért!"</lines>
+    </verse>
+  </lyrics>
+</song>

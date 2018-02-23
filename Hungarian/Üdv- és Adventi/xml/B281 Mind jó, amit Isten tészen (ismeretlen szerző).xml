@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:57">
+  <properties>
+    <titles>
+      <title>B281 Mind jó, amit Isten tészen</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mind jó, amit Isten tészen<br/>B281</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mind jó, amit Isten tészen, Szent az ő akaratja. Ő énvélem is úgy tégyen, Mint kedve néki tartja! Ő az Isten, ki ínségben Az övéit megtartja, Hát légyen, mint akarja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mind jó, amit Isten tészen, Ő engemet meg nem csal, De igaz ösvényen viszen; Én megelégszem azzal, Hogy kedvében, nagy kegyében Ő intézi sorsomat; Csak rá hagyom magamat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mind jó, amit Isten tészen, Ő engem meg nem utál, Mint jó orvosom, úgy tészen, És mérget ő nem kínál. Orvosságot, boldogságot Én nékem készít, tudom, Azért csak benne bízom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mind jó, amit Isten tészen, Ő az én üdvösségem; Ő velem rosszul nem tészen, Rábízom egész éltem. Örömömben, keresztemben Mind nyilván megmutatja, Hogy javamat akarja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mind jó, amit Isten tészen, Mindörökké ezt vallom, Ha sorsom bú, bánat lészen, S kell bosszúságot látnom. Mindazáltal megvigasztal Mint édes Atyám engem, Mert csak ő segítségem.</lines>
+    </verse>
+  </lyrics>
+</song>

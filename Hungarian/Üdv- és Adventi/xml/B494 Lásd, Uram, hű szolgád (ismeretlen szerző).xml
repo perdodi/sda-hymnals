@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:23">
+  <properties>
+    <titles>
+      <title>B494 Lásd, Uram, hű szolgád</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Lásd, Uram, hű szolgád<br/>B494</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lásd, Uram, hű szolgád Ím, előtted áll, Tettre kész a szíve, Áldásodra vár! Tettre kész a szíve, Áldásodra vár!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Drága Pásztor áldd meg Szolgád életét, Töltsd ki rá Szentlelked S Igéd erejét!  Töltsd ki rá Szentlelked S Igéd erejét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent erőddel járva Védje népedet, Oltalmazza nyájad, Mentsen lelkeket! Oltalmazza nyájad, Mentsen lelkeket!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Magvetése érjen Gazdag aratást, Hogy sok bűnös nyerjen Nálad megváltást! Hogy sok bűnös nyerjen Nálad megváltást!</lines>
+    </verse>
+  </lyrics>
+</song>

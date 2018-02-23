@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:05">
+  <properties>
+    <titles>
+      <title>B346 Ki utánam jön</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ki utánam jön<br/>B346</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ki utánam jön — szól az Úr, Csak úgy követhet engem, Ha némán tűrni megtanul, És hordja terhét csendben; Ki megtagadja önmagát, Csak az nyerhet fönt koronát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki engem követ — szól az Úr, Az vessen számot bölcsen, Nehogy majd állhatatlanul Az útról visszalépjen! Ki vállal kereszt-hordozást, Csak az nyerhet fönt koronát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A kismadárnak fészke van, A rókát barlang várja, Az Emberfia hontalan, Nincs, hol fejét lehajtsa. Ki mégis követ mint Urát, Csak az nyerhet fönt koronát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Föl, mindnyájan az Úr után, Őt kövessük hű szívvel, És járjunk bátran nyomdokán Megküzdve száz veszéllyel! Ki megvívja a hit harcát, Csak az nyerhet fönt koronát.</lines>
+    </verse>
+  </lyrics>
+</song>

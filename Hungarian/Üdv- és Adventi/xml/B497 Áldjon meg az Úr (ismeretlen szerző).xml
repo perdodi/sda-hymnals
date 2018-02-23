@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:23">
+  <properties>
+    <titles>
+      <title>B497 Áldjon meg az Úr</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldjon meg az Úr<br/>B497</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldjon meg az Úr most téged, Őrizzen meg útában! Láttasson kegyelmességet Élted minden napjában!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fényeskedjék rajtad folyton Arca világossága, Könyörülő jósága! Igaz békességet adjon, És fordítsa tereád Az ő fényes orcáját!</lines>
+    </verse>
+  </lyrics>
+</song>

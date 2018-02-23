@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:21">
+  <properties>
+    <titles>
+      <title>B478 Fönt a nap</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fönt a nap<br/>B478</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fönt a nap, és halad! Az Igéből Jézus szól. Halld meg őt, mielőtt napod éjbe nem hajol!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, ébredj, és örvendj! Megvált bűnöd átkától. Tette áld, jöjj, csodáld, Míg sötét éj nem gátol!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elméd küzd, messze űzd magadtól a kétkedést! Jézus hív, jöjj hát, szív, Mert az idő oly kevés!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Elindít majd a hit, S meggyőződésre vezet. Új utat ez mutat, S megtalálod életed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A keskeny ösvényen Nincsen testi kényelem, De a hit átsegít Minden próbán, veszélyen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mit tehet Istened Veled mások üdvére? Tanácsa, jósága Indítson szőlőjébe!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Időd fogy, ne nyugodj! Annyi munka vár rád még! Nézd, a nap csak halad, Míg egyre nő az árnyék ...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:43">
+  <properties>
+    <titles>
+      <title>B165 Lássék lelkemben</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Lássék lelkemben <br/>B165</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lássék lelkemben Jézusnak békéje, Tiszta szíve és mennyei szent lénye! Ó, szállj, Szentlélek, ránk, Áldd meg szívünk és szánk, S bennünk teljes lesz Jézusnak szépsége!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lássék éltemben Jézusnak fensége, Tisztán ragyogjon általam szent fénye! Ó, szállj, Szentlélek, ránk, Áldd meg szívünk és szánk, S bennünk teljes lesz Jézusnak szépsége!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lássék szívemben Jézusnak kegyelme, Hű, megbocsátó, segítő készsége! Ó, szállj, Szentlélek, ránk, Áldd meg szívünk és szánk, S bennünk teljes lesz Jézusnak szépsége!</lines>
+    </verse>
+  </lyrics>
+</song>

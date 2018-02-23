@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:37">
+  <properties>
+    <titles>
+      <title>B110 Föltámadt Krisztus …</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Föltámadt Krisztus …<br/>B110</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Föltámadt Krisztus e napon, Halleluja, Hála légyen Az Istennek! Hogy minden ember vigadjon. Halleluja, Hála légyen Az Istennek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Értünk halált ki szenvedett, Halleluja, Hála légyen Az Istennek! S megváltott bűnös lelkeket. Halleluja, Hála légyen Az Istennek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Húsvéti, boldog lélekkel, Halleluja, Hála légyen Az Istennek! Dicsérjük Istent énekkel. Halleluja, Hála légyen Az Istennek!</lines>
+    </verse>
+  </lyrics>
+</song>

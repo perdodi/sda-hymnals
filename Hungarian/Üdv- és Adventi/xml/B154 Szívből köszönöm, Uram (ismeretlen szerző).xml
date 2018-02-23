@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:42">
+  <properties>
+    <titles>
+      <title>B154 Szívből köszönöm, Uram</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szívből köszönöm, Uram<br/>B154</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szívből köszönöm, Uram, az életet, Mind a jóért, mit oly bőven adtál nekem, Zengek hálaéneket. Szívből köszönöm, Uram, a békémet, Most hozzád száll az öröm hangjain: Halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldom, dicsérem Neved, mert úgy szeretsz, Mikor próbákkal küzdök, Te rám tekintesz, Felém nyújtod szent kezed. Szívből köszönöm, Uram, az új erőt. A lelkem hálaimát mond Neked: Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

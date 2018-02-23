@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:29">
+  <properties>
+    <titles>
+      <title>B543 Csend honol a földön</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Csend honol a földön<br/>B543</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csend honol a földön, égben; Örök trónján ül az Úr! Ám de ének kél a mennyben Mikor hozzánk elindul. Poklok réme mélybe hull már; Értünk Isten földre száll.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljön az Úr, esdve várjuk, Hozza drága kegyelmét. Teljesíti ősi vágyunk: A világnak ad békét. Dicső nevét zengi föld, ég. Áldja Őt a mindenség!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Őt hirdeti Kérub ajka, Szárnyas Szeráf díszben áll. Dicső fényben Isten trónja, Angyalsereg hangja száll: "Szent az Isten, Halleluja! Jön az Úr Halleluja!"</lines>
+    </verse>
+  </lyrics>
+</song>

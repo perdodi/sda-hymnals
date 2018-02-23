@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:20">
+  <properties>
+    <titles>
+      <title>B469 Nagy Főpapunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nagy Főpapunk<br/>B469</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nagy Főpapunk, add nékünk, Kik színed elé lépünk, Az áhítat csendjét; Űzd el most gondjainkat, Hogy imakarjainkat Buzgón emeljük tefeléd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hadd buzduljunk mindnyájan Egymás imája által Zengni dicséreted! Tedd bensőnk templomoddá, Bűn terhétől szabaddá, Hogy legyünk egységben veled!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fület adj, mely rád hallgat, És szemet, mely nem lankad Szemlélni Tégedet, Adj gyermeki bizalmat, Megszentelt szívet, ajkat, S lábat, mely járni kész veled!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nyisd meg hitünk világát, Add szent Igéd tanácsát, Mely jó utat mutat! Szálljon trónod elébe Népednek könyörgése, Mint jó illatú áldozat!</lines>
+    </verse>
+  </lyrics>
+</song>

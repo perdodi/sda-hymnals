@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:00">
+  <properties>
+    <titles>
+      <title>B306 Az Úr az én jó pásztorom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr az én jó pásztorom<br/>B306</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr az én jó pásztorom, Így nem szűkölködöm: Hűs, csendes vízhez elvezet, Legeltet dús füvön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha éj-sötétben járok is, Nem rémít zord halál; Mert vélem vagy minden napon, Lelkem nyugtot talál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr kegyelme, jóvolta Egy élten át követ, Az ő házában lelhetek Örökre lakhelyet.</lines>
+    </verse>
+  </lyrics>
+</song>

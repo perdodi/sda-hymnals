@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:22">
+  <properties>
+    <titles>
+      <title>B003 Szent vagy felséges Isten</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szent vagy felséges Isten<br/>B003</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, szent vagy, szent vagy, felséges Isten.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mindöröké Úr vagy és erőd végtelen. Téged áldva dicsér földön, égen minden, nagy vagy, nem értehet véges értelem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alkotásod mind jó és műved mind csodás. Rólad zeng az élet végtelen szép rendben, nagy dicsőséged öröké megáll.</lines>
+    </verse>
+  </lyrics>
+</song>

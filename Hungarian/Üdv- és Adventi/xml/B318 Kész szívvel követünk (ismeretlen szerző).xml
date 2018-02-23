@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:01">
+  <properties>
+    <titles>
+      <title>B318 Kész szívvel követünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kész szívvel követünk<br/>B318</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kész szívvel követünk, Úr Jézus, Mesterünk, Az úton, mely az üdvre visz, Mert szívünk benned hisz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tebenned remélünk, Te élteted hitünk, Szent véred hullott lelkünkért, Lemostad sok bűnét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvszerző keresztfád Oly égi erőt ád, Hogy minden bűnnek meghaljunk, Új élethez jussunk.</lines>
+    </verse>
+  </lyrics>
+</song>

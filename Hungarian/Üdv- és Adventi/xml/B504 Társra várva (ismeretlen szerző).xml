@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:24">
+  <properties>
+    <titles>
+      <title>B504 Társra várva</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Társra várva<br/>B504</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Társra várva jár az ember, Boldog, hogyha rátalál. Szívben égő érzülettel Egy lesz éltük útja már. Álmuk, vágyuk oly sok színű, Összeköti szívüket; Körbefonja, mint a gyűrű Éltüket a szeretet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dúsan hinti most ez utat Szépen díszlő sok virág. Csakhogy szirmuk megfakulhat, S gondok útja visz tovább. Ámde összefogva hitben, Könnyebb lesz a próba már, Egymást féltő szeretetben Szívük oltalmat talál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kérjük most az Úr kegyelmét: Házasságuk szép legyen, Szívük minden drága kincsét Óvja égi kegyelem! Évek múltán is ragyogjon Tiszta fényű szeretet, Rájuk áldást Isten adjon! Adjon boldog életet!</lines>
+    </verse>
+  </lyrics>
+</song>

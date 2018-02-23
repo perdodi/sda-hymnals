@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:10">
+  <properties>
+    <titles>
+      <title>B386 Mit használ a krisztusi név</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mit használ a krisztusi név<br/>B386</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mit használ a krisztusi név, Ha szerinte nem élek, Ha nincs bennem jóra készség, És vétkezni nem félek; Ha szívem a földhöz von, Feledem, mi a célom, S azt, ki értem ment halálra, Csak ajkam, s nem éltem áldja?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mit használ énnékem a hit, Ha csak szájjal hirdetem. De nem termem jó gyümölcsit S a bűnt pedig kedvelem; Hogyha gyáván legyőznek S hatalmukba kerítnek A hívságos indulatok, S nekik ellent én nem állok?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Napról-napra sok a vétkem, Ki a Krisztust ismérem, Tudom, mennyi jót tett értem, És csak szájjal dicsérem! Avagy jobb vagyok talán Mint a hitetlen pogány, Ki nem hallott még az Úrról, Megváltásról, üdv honáról?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uram, Uram! - mondhatom bár Képmutatók módjára, Nem segít az és nem használ, Ha majd hív számadásra. De a földi jótettek Öröklétbe követnek; Kinek hitét tett kíséri, Az őt meg nem szégyeníti.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, segíts, hogy életemet, Uram, néked szenteljem, S minden napon tetteimet Kedved szerint rendeljem! Nyújts erőt a Jézusért, Hogy meggyőzzek testet s vért, Félve minden bűnt kerüljek, S végre mennyben majd örvendjek!</lines>
+    </verse>
+  </lyrics>
+</song>

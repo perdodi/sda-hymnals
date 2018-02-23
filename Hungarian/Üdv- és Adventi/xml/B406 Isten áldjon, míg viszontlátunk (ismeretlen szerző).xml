@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:12">
+  <properties>
+    <titles>
+      <title>B406 Isten áldjon, míg viszontlátunk</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten áldjon, míg viszontlátunk<br/>B406</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten áldjon, míg viszontlátunk; Jó tanáccsal támogasson, Nyája között, ő megtartson, Isten áldjon, míg viszont látunk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Míg viszontláthatunk, Isten előtt állhatunk, Ő legyen véletek, Amíg újra, viszontláthatunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten áldjon, míg viszontlátunk; Szárnyaival betakarjon, Életkenyérrel tápláljon! Isten áldjon, míg viszontlátunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten áldjon, míg viszontlátunk; Hogyha tornyosul vészfelhő, Szent karjával védjen ő! Isten áldjon, míg viszontlátunk!ű</lines>
+    </verse>
+  </lyrics>
+</song>

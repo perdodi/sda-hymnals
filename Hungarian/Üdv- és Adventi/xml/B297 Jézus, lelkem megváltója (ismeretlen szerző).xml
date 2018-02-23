@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:59">
+  <properties>
+    <titles>
+      <title>B297 Jézus, lelkem megváltója</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jézus, lelkem megváltója<br/>B297</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézus, lelkem megváltója, Végy kebledre engemet, Mert a vizek jönnek zúgva, S közeleg a fergeteg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rejts el engem a veszélyben, Míg bevégzem éltemet, Vezess biztos révbe engem, S vedd magadhoz lelkemet!.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nincsen máshol menedékem, Reménységem csak Te vagy, Adj vigaszt s új erőt nékem, És magamra ó, ne hagyj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te vagy az élet forrása, Aki oltja szomjamat. Légy a szívem kútforrása, Melyből öröklét fakad!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézus, mily jó benned bízni, Véled lenni mily öröm, Boldogság fönt téged nézni, S ott maradni örökkön!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:04">
+  <properties>
+    <titles>
+      <title>B341 Fogadd éltem, Jézusom</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Fogadd éltem, Jézusom<br/>B341</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fogadd éltem, Jézusom, Íme, néked átadom! Legyen tied az időm, Néked szentelt a jövőm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fogadd el a kezemet, hadd szolgáljon az neked; Lábam járja útadat, Kövesse parancsodat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hangom zengje szent neved, Dicsőítse nagy kegyed! Tiszta szó az ajkamon Csak téged magasztaljon!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Még a pénzem is vegyed! Irányítsa azt kezed! Fogadd erőm, értelmem, Csak te urald teljesen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Akaratom is vegyed! Meghódolok előtted; Itt a szívem, téged vár, Néked adtam én azt már.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szeretetem is fogadd, Hűségem ebből fakad! Vedd át lényem teljesen, Örökre tied legyen!</lines>
+    </verse>
+  </lyrics>
+</song>

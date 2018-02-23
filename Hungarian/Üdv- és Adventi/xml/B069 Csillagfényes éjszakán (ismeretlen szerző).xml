@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:32">
+  <properties>
+    <titles>
+      <title>B069 Csillagfényes éjszakán</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Csillagfényes éjszakán<br/>B069</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csillagfényes éjszakán Angyalszózat hangzik, Betlehemnek pusztáján, Hol pásztornép tanyázik:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pásztorok, ne féljetek, Vígan örvendezzetek, Mert földre jött, kit elküldött Az Úr, az Isten néktek: A ti üdvösség’tek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hideg jászol szalmáján Égi gyermek alszik, Körülötte szállásán Halk ének hangja hangzik.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Imádják a pásztorok, Tiszta szívű jámborok. Örvendeznek, hálát zengnek az Úr nagy jóvoltáért, Egyszülött Fiáért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csillag támad Keleten, Látják gazdag bölcsek. Útra kelnek serényen És vélük drága kincsek.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Meglelik a Gyermeket, Kit a csillag hirdetett; Imádattal, ajándékkal  Előtte térdre hullnak, S hódolnak mint Úrnak...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Menjünk mi is jászlához  Örvendező szívvel, Boruljunk le lábához Mély hódolattal, hittel!</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Isten ő és Megváltó,  Atyánál közbenjáró.  Nem félelmes: nyájas, kedves. Mint kisgyermek jött hozzánk, Biztatón mosolyg ránk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Karácsonynak ünnepén Hangozzék víg ének!  Mindenütt a földtekén Ezt zengjék ifjak, vének:</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Dicsőség az Istennek, Békesség az embernek! Az éj elmúlt, hitfény kigyúlt,  Az Isten gyermekké lett, Nála az üdv s élet!</lines>
+    </verse>
+  </lyrics>
+</song>

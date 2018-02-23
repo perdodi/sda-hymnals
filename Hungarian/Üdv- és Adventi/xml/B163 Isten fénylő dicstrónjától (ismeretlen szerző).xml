@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:43">
+  <properties>
+    <titles>
+      <title>B163 Isten fénylő dicstrónjától</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Isten fénylő dicstrónjától<br/>B163</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten fénylő dicstrónjától Jöjj, Szentlélek, jöjj hozzánk! Prófétáktól ígért áldást, Kérünk, újból hozd le ránk! Szívünk jobban lángra lobban, Hogyha átjársz, égi tűz, Bűntől tépett szövetséget Lángod újból összefűz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sok aggódó szolgád kérdi: Meddig késel, jössz-e már? Hogyha vársz még, Nálad nélkül rombol, pusztít a halál. Szívünk jobban összedobban, Ha betöltesz, égi tűz, Szétszóródott félénk nyájat Erőd újból összefűz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha a Szél zúg s felhő támad, Újból éled a remény; Hozzád száll hát imádságunk: Jöjj el, jöjj el, égi fény! Így a szívünk, újult szívünk Buzgósággal érted ég; Angyalkarral énekeljük: Istené a dicsőség!</lines>
+    </verse>
+  </lyrics>
+</song>

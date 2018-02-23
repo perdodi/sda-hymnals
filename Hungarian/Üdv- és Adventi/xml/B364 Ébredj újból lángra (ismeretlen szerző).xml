@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:07">
+  <properties>
+    <titles>
+      <title>B364 Ébredj újból lángra</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ébredj újból lángra<br/>B364</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ébredj újból lángra, Első szeretet! Közöny útján járva Szívünk oly hideg. Vádol hűtlenségünk, Elhagytunk téged, Fáj a lelkünk érted, Szégyenpír éget.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lobbanj fel már végre, Első szeretet, Szívünk sötétjébe’ Gyújtson fényt tüzed! Nélküled az éltünk rideg és sivár, Jöjj, homályban élünk, lelkünk fényre vár!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tölts be minden hivőt, Első szeretet, Hogy szeressük szívből Testvéreinket! Képmutatás nélkül töltsük éltünket, Jézust tartsuk mindig példaképünknek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szenteld meg a szívünk, Első szeretet, Mindig egyek legyünk Egymással s veled! Általad megújul lelki életünk, S így lesz Jézus képe látható bennünk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:15">
+  <properties>
+    <titles>
+      <title>B426 Áldott légy, ó, Mesterünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldott légy, ó, Mesterünk<br/>B426</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldott légy, ó, Mesterünk, Hogy szent frigyre lépsz velünk, Vacsorádra, keresztfádra Emlékezhetünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ím, a kenyér, a pohár Drága kincset rejtve vár. Jézus vére érdemére Üdvünk készen már.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Térdre hullva kérünk hát: Tarts velünk szent vacsorát! A kenyérben, drága vérben Nyújtsd az ég javát!</lines>
+    </verse>
+  </lyrics>
+</song>

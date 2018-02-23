@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:31">
+  <properties>
+    <titles>
+      <title>B062 Éjek éjén</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Éjek éjén <br/>B062</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Éjek éjén, bűnök mélyén: Rajtunk bánat árnya ül. Égre nézve, Istent kérve Bízunk, hogy majd földerül. Vágyva várva Messiásra, Hogyha támad égi jel, Szívünk tárva: Készen várja, Zengjük mind: Az Úr közel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljön fényben, égi dicsben, Minden szem meglátja őt; Népe várja, készen állva, Mint az érte érkezőt. Készülj hát a végső napra, Mert a jötte már közel. Kórus hangja zengve mondja: Jöjj, ó, jöjj, Immánuel!</lines>
+    </verse>
+  </lyrics>
+</song>

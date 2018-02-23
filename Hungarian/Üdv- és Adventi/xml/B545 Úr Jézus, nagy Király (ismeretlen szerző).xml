@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:29">
+  <properties>
+    <titles>
+      <title>B545 Úr Jézus, nagy Király</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Úr Jézus, nagy Király<br/>B545</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Úr Jézus, nagy Király, Hű néped visszavár. Királyunk, ó, jövel, Országod jöjjön el!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E földön dúl a harc, Torzul az emberarc, De hogyha győz erőd, Békéd mindent betölt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Sátán erejét Hatalmad zúzza szét! Hozz éjszakánkra fényt, Adj nékünk új reményt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Úr Jézus, hű Urunk, Szép Hajnalcsillagunk, Szent néped esdekel: Országod jöjjön el!</lines>
+    </verse>
+  </lyrics>
+</song>

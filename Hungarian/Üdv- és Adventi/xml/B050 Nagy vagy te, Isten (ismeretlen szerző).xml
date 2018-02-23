@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:30">
+  <properties>
+    <titles>
+      <title>B050 Nagy vagy te, Isten</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nagy vagy te, Isten<br/>B050</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nagy vagy te, Isten, nagy a te hatalmad, világteremtő a te szózatod! Mondád: "Legyen!" s a puszta semmiségből világosság s mindenség támadott. A csillagezrek, a nap fényessége, ég, föld követte szent parancsszavad. Remeg szívem, megdöbenvén csodálja mindenható, dicső hatalmadat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagy vagy te, Isten, nagy a bölcsességed, mindent mi szépen s bölcsen alkotál! A földi embert tetted gyermekeddé, lelkedből lelket ő néki adál. Kicsiny fűszálban, óriási tölgyben dicső kezed nyomát szemlélteted. Szívem kitárva, hódolással áldom csodálatos nagy bölcsességedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagy vagy te, Isten, s mily nagy a kegyelmed, Fiadban mit vélem éreztetél! Apislogó kis mécsest el nem oltád, s a megtört nádnak megkegyelmetzél. Mikorhevertem bűnben, megkötözve, Felémnyújtád ki irgalmas kezed. Örömkönnyekkel, térdre hullva áldom te üdvözítő nagy kegyelmedet!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:03">
+  <properties>
+    <titles>
+      <title>B330 Mily jó, ha bűntől már szabad</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mily jó, ha bűntől már szabad<br/>B330</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mily jó, ha bűntől már szabad, Az Úr szolgája vagy; A bűn szolgája gyáva rab, A Krisztusé szabad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A bűn sötétben tévelyeg, És bajba dönt vakon; De Krisztus kézen fog s vezet Napfényes utakon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A bűnben kín van s gyűlölet, Mi mást, más minket öl; Öröm köt egybe s szeretet, Az Úr szívén belől.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Már szolgád lettem, Jézusom, Ki értem meghaltál; Más uram nincsen, jól tudom, Mert bűnből kihoztál.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Légy áldott, Krisztusom, Te nagy! Hadd adjam át szívem: Vedd szívesen, hogy hol te vagy, E szív is ott legyen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:00">
+  <properties>
+    <titles>
+      <title>B310 Csak rólad zengjen énekünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Csak rólad zengjen énekünk<br/>B310</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Csak rólad zengjen énekünk, Hatalmas Úr, szent Istenünk! Mert jó vagy, gondod van reánk, Bőven megáldod életünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyelmed árad gazdagon; Érezzük ezt minden napon. Te adsz új nappal új erőt, Jó tudni, hogy szeretsz nagyon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zengjen hát szívből énekünk, Hatalmas Úr, szent Istenünk! A sok jóért legyen tiéd Neked szolgáló életünk.</lines>
+    </verse>
+  </lyrics>
+</song>

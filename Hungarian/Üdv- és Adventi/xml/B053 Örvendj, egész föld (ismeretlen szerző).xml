@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:30">
+  <properties>
+    <titles>
+      <title>B053 Örvendj, egész föld</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Örvendj, egész föld<br/>B053</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Örvendj, egész föld, az Istennek, és énekelj szép zengéssel! Nagy dicsőségét szent nevének mindenek dicsérjék széjjel! Mondjátok ezt az Úr Istennek: mely csudások te dolgaid, nagy hatalmad és erősséged retegik ellenségeid!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szentséges isteni felséged e földön mindenek áldják, és dicsőséges szent nevedet énekléssel magasztalják. Jertek és ezt jól meglássátok, most minden ide figyelmezz: Istennek mely csudára méltók dolgai az emberekhez!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A tengert és a folyóvizet ő megszárastja népének, hogy lábuk szárazon átmehet, min szíveink örvendeznek. Országa megáll mindörökké, lát szeme minden népeket, kik feltámadnak őellene, jó véghez dolguk nem mehet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldjátok a mi Istenünket e földön, minden emberek; az ő szent nevét dicsérjétek nagy zengéssel, minden népek! Mert életünket ő megadá az ő nagy kegyességéből, lábainkat meggyámolítá, oltalmazván eleséstől.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Halljátok mostan, hadd beszéljem tinéktek, istenfélöknek, amiket Isten tett énvélem, mily kegyesen tett lelkemnek! Ínségemben nem hagyott ő el, meghallgata ottan engem, én azért nyelvem beszédével mindenkor őtet dicsérem.</lines>
+    </verse>
+  </lyrics>
+</song>

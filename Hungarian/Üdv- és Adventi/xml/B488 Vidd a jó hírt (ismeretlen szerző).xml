@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:22">
+  <properties>
+    <titles>
+      <title>B488 Vidd a jó hírt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vidd a jó hírt<br/>B488</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vidd a jó hírt minden tájra, Messze hallasd hangodat: Jézus Krisztus által Isten Minden bűnöst elfogad. A Szentírás adja tudtul Ezt a drága, nagy csodát. Hirdesd hát és szóld az Igét, Élő hittel prédikáld!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálát mondunk szent Igédért Néked, áldott Istenünk, Hűen adjuk át e kornak, Róla szól az életünk. Élő víz és égi manna Ez a fáradt vándornak, Gyógyít, oktat, helyre állít, És feltámaszt holtakat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus útnak indít minket, Menjünk hát, bármerre küld! Bátran szóljunk róla mindig, Töltse szívünk égi tűz! Járjuk végig ezt a földet, A megváltás hírével, Míg majd egykor, munkánk végén föld az éggel ünnepel.</lines>
+    </verse>
+  </lyrics>
+</song>

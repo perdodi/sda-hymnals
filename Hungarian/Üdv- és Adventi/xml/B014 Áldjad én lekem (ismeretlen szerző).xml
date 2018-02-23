@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:23">
+  <properties>
+    <titles>
+      <title>B014 Áldjad én lekem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldjad én lekem<br/>B014</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldjad én lekem, a dicsőség örök Királyát! Őnéki mennyei karokkal együtt zengj hálát! Zúgó harang, ének és orgona hang mind az ő szent nevét áldják!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldjad őt, mert az Úr mindent oly bölcsen intézett: Sasszárnyon hordozott, vezérelt, sok bajban védett! Nagy irgalmát naponként tölti reád, áldását mindenben érzed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldjad őt, mert keze csodásan alkotott téged! Utadon elkísér, tőle van testi épséged. Sok baj között erőd volt és örömöd, szárnyával takarva védett.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldjad őt, mert az Úr megáldja minden munkádat! Hűsége, mint az ég harmatja, bőven rád árad. Lásd: mint tehet jóságos Lelke veled, és hited tőle mit várhat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldjad az Úr nevét, őt áldja minden énbennem! Áldjad őt, lelkem, és róla tégy hitvallást, nyelvem! El ne feledd: Napfényed ő tenéked! Őt áldjad öröké! Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

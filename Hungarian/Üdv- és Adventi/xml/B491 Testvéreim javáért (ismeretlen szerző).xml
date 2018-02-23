@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:23">
+  <properties>
+    <titles>
+      <title>B491 Testvéreim javáért</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Testvéreim javáért<br/>B491</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Testvéreim javáért Fáradnom, küzdenem: Ó, erre segíts engem, Én édes Istenem! Hogy tövises pályámon Ragyogjon szeretet, Mert aki boldogít mást, Boldog csak az lehet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne legyen életemben Soha egy pillanat, Melyben elhagyna engem E nemes indulat! Ajándékozz meg engem Jó szívvel, jó Atyám, Hogy boldogítva — boldog Lehessek igazán!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E földön annyi a könny És annyi itt a seb, Mi volna boldogítóbb, Mi volna nemesebb, Mint könnyet felszárítni, Mégha egy cseppet is, Mint sebet bekötözni, Mégha csak egyet is.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te, mint samaritánus Szolgáltál, Jézusom; Hogy példádat kövessem, Szívből imádkozom: Lehessek tanítványod A te Lelked szerint, Akit a jótevésre A szíve kényszerít.</lines>
+    </verse>
+  </lyrics>
+</song>

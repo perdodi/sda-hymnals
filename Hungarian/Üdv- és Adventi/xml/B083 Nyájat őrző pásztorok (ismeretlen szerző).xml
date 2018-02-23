@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:34">
+  <properties>
+    <titles>
+      <title>B083 Nyájat őrző pásztorok</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nyájat őrző pásztorok<br/>B083</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nyájat őrző pásztorok, Rátok égi fény ragyog. Ősi Ige teljesül, Bánat éje földerül.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Testet öltve, kisdedként Jézus ím a földre lép. Benne nyertek életet, Bízzatok, ne féljetek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bár csak pólya rejti őt, És mint ember testet ölt, Ámde ő az Alkotó, Éjbe égi fényt hozó.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Angyaloknak hangja zeng: Jézus Krisztus megjelent! Hallja meg a nagy világ: Isten adja szent Fiát!</lines>
+    </verse>
+  </lyrics>
+</song>

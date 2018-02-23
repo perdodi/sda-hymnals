@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:11">
+  <properties>
+    <titles>
+      <title>B393 Jöjj, áldott Jézusunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Jöjj, áldott Jézusunk<br/>B393</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jöjj, áldott Jézusunk, tedd ünneppé napunk, Hogy örvendezve Téged lássunk, hallgassunk! Szent és bölcs Igéd áradjon, És utunkra fényt árasszon!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűnbánó, hő imánk és hálánk szép szavát Te kegyelmesen elfogadod, jó Atyánk. Adj új elmét és új ajkat, Mely méltóképp magasztalhat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az ének és a szó, mely mennyekből való, Mind magasztaljon, dicsérjen, Mindenható! Egy szívvel, szájjal, lélekkel Hű néped Néked énekel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, légy velünk Urunk, ha majd eltávozunk, Hogy életünkkel békédet sugározzuk! És meglássák az emberek A tőled nyert szeretetet!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:54">
+  <properties>
+    <titles>
+      <title>B259 Bűnnek tengerében voltam</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c2 v3 c3 v4 c3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Bűnnek tengerében voltam<br/>B259</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bűnnek tengerében voltam Elmerülve teljesen. Szörnyű helyzetemről ottan Nem tudtam én semmit sem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, de Jézus látott engem, Értem mennyből földre jött; Megkeresett a mélységben… Mindörökké áldom Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Senki nem tudott segítni Lelkem szánalmas sorsán, Körülvettek bűn örvényi, És az átok várt reám.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ámde Jézus látott engem, Értem mennyből földre jött; Megkeresett a mélységben… Mindörökké áldom Őt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus írta fel a mennyben  Élet-könyvbe a nevem. Bűntől megtisztítja lelkem, Üdvösséget ad nekem.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Drága Jézus látott engem, Értem mennyből földre jött; Megkeresett a mélységben… Mindörökké áldom Őt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uram, Jézus, te vagy nékem Szabadítóm, mindenem! Nagy kegyelmed ha szemlélem, Hálát zengek szívemben:</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:36">
+  <properties>
+    <titles>
+      <title>B106 Ott függ a néma Bárány</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ott függ a néma Bárány<br/>B106</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ott függ a néma Bárány: A vére földre hull, Míg dúl körül az ármány, S a tömeg zúg vadul. Szent arcát ütleg éri. És hull reá a vád, S ő szelíd hangon kéri Az ég bocsánatát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úgy fáj a szívem, nézve E koronás Királyt, Mert rút tövis az éke, S testét kín járja át. Én térdre hullva kérdem: Ó, mért szenvedsz, miért? Ő választ ád szelíden: Tengernyi bűnödért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most hogy rebegjek hálát A megnyílt öt sebért, Hogy adta bűnöm árát Elrontott életemért? Ím, magamról lemondok, Övé egész valóm, Így leszek véle boldog, Hisz ő az üdvadóm.</lines>
+    </verse>
+  </lyrics>
+</song>

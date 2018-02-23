@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:10">
+  <properties>
+    <titles>
+      <title>B383 Áldott szavad által</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Áldott szavad által<br/>B383</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldott szavad által, Uram, eltölt a remény: Kapu tárul a jövőmre, Bennem élsz, benned én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott szavad által, Uram, békéd száll reám, Győzedelmes Jézus Krisztus, Megtartóm, Kősziklám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott szavad által, Uram, eggyé lesz a föld. Szeretetben, békességben, Téged áld, égi Hőst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldott szavad által, Uram, néped már nem fél. Kapu tárul, hív a holnap, Közel van már a cél!</lines>
+    </verse>
+  </lyrics>
+</song>

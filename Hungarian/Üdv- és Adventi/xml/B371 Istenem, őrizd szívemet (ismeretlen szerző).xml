@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:08">
+  <properties>
+    <titles>
+      <title>B371 Istenem, őrizd szívemet</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Istenem, őrizd szívemet<br/>B371</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Istenem, őrizd szívemet! Hogy álnokság ne csalja meg! Bűnöktől mindig ment legyek, És éljek tiszta életet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, jól látod szívemet, És titkait mind ismered. Tűzszemed előtt nincs lepel, Nincs álarc, titkos rejtekhely.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Képmutatás és lelki gőg csak megcsal s végül összetör. Nincs élő hit, csak bú, panasz, Ám Lelked által jön vigasz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Igazság lelkét add nekem, Ha szólnom kell, bölcsen tegyem, „Igen”-em bizton az legyen, S ha „nem”-et mondok, legyen nem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kegytrónod irgalommal vár, Ha hozzád szárnyal hő imám. Lenne bár buzgó s mindig hév, Hogy tőled áment nyerhetnék!</lines>
+    </verse>
+  </lyrics>
+</song>

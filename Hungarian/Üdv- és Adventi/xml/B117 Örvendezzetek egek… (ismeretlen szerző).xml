@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:37">
+  <properties>
+    <titles>
+      <title>B117 Örvendezzetek egek…</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Örvendezzetek egek…<br/>B117</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Örvendezzetek egek, Ti is, földi seregek! Mindnyájan örüljetek, Vígan énekeljetek, Mert Urunk föltámadott, Nékünk életet adott!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus él, mi is élünk, Tőled, halál nem félünk, Mert ő diadalmat vőn, Értünk elégséget tőn Isteni erejével, Az ő nagy érdemével.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nékünk megigazulást, Bűnből teljes gyógyulást, Békességet Istennel, Szerzett nagy reménységgel Ő föltámadásával, Örök igazságával.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Arcra előtted esünk, S kérünk, drága Kezesünk: Részeltess halálodnak És feltámadásodnak Drága érdemeiben, Édes gyümölcseiben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tedd meg Te Szentlelkeddel És Te nagy érdemeddel, Hogy új életet éljünk, Végre porból fölkeljünk Örök, nagy boldogságra És halhatatlanságra!</lines>
+    </verse>
+  </lyrics>
+</song>

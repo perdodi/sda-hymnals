@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:52">
+  <properties>
+    <titles>
+      <title>B242 Új szívet adj</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Új szívet adj<br/>B242</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Új szívet adj, Uram, énnekem; Új szívet adj, én Istenem, Amely csupán csak teérted ég, S véled jár szüntelen, Csak véled szüntelen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyájas, vidám, szelíd, jó szívet, Mely Jézusom, Te lakhelyed, Hol egyedül a Te hangod szól, Mely véled van tele, Csak véled van tele!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, a Te gyógyító kezed Megfogta már a szívemet, S én is, tudom, bűntelen leszek Majd nálad odafönn, A mennyben odafönn.</lines>
+    </verse>
+  </lyrics>
+</song>

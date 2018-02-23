@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:56">
+  <properties>
+    <titles>
+      <title>B270 Az Úr irgalma végtelen</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr irgalma végtelen<br/>B270</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr irgalma végtelen, Ezt folyton érzem én, Ha bár nincs semmi érdemem, Ő mégis hord kezén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs arra szó, sem gondolat, mi jóval áld az Úr, Ha lankadok, Ő szárnyat ad, És terhem mind lehull.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sok itt a bűn és küzdelem, Az orkán zúgva dúl, De minden vészben tengeren megtart, megvéd az Úr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha véget ér az életem, Új otthont nyújt az ég, Ott még szebb hangon zenghetem a Bárány énekét.</lines>
+    </verse>
+  </lyrics>
+</song>

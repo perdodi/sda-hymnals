@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:30">
+  <properties>
+    <titles>
+      <title>B048 Teremtés Istene</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Teremtés Istene<br/>B048</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Teremtés Istene, felséges Úr! Szvadra az élet szent lángja gyúl. Mily szép a nagy világ, mit alkotál, Uralkodsz fenségben, örök Király!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megváltás Istene, édes Atyánk, csak hozzád fordolunk, halld mag imánk! Fényeddel űzd el a bűn éjjelét, nyerjük el lelkünknek békeségét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reménység Istene, vigasztaló, szövetség Istene, hű megtartó! Hatalmad, fenséged, ó, mily csodás, csak téged illet a magasztalás.</lines>
+    </verse>
+  </lyrics>
+</song>

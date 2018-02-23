@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:33">
+  <properties>
+    <titles>
+      <title>B080 Ha reád gondolok</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ha reád gondolok<br/>B080</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ha reád gondolok, ó, Betlehem, Nagy öröm tölti el a kebelem. Istenünk nagy kegyét itt láthatom, Jézusom kegyelmét csodálhatom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fölvette a nyomort önkéntesen, Megjelent egy kicsiny, szegény helyen, Nem hiú pompa közt, nem gazdagon, Pedig a menny üdve nála vagyon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha reád gondolok, ó, Betlehem, Vigaszom csakhamar én meglelem. Hisz lehet helyzetem bármily szegény, Meg nem vet Jézusom, jól tudom én.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Eljön ő szívesen meg nem utál, Benne a szív hű barátra talál. Ki értem fölvette a nagy nyomort, Mostan is hű kezén ápolva hord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha reád gondolok, ó, Betlehem, Helyzetem csakhamar megérthetem. Tán a szívem csupán egy palota, Földi fény, dőreség, nagyzás hona?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Vagy pedig szívem kicsiny Betlehem, S megszülettél benne, ó, Mesterem? Jó tehát, üdvösés kívánatos: Legyen a szív szelíd s alázatos!</lines>
+    </verse>
+  </lyrics>
+</song>

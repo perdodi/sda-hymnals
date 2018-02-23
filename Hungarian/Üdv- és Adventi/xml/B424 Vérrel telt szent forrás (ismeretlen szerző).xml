@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:15">
+  <properties>
+    <titles>
+      <title>B424 Vérrel telt szent forrás</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Vérrel telt szent forrás<br/>B424</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vérrel telt szent forrás ömöl Az Úr sebeiből, Mind megtisztul, ki hozzájön, A bűnnek szennyétől.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E forrásnál nyert a lator A bűnből gyógyulást; Ily hittel én is várhatok E vérnél újulást.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mióta hitben nézhetem, E sebből jött folyót, A Golgotán időz szívem S Jézust dicsérem ott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megölt Bárány, a bűn felett Győz üdvadó véred. Fehér ruhát nyer s életet, Ki megtalál téged.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Még szebben zeng majd énekem Ott fent a szent helyen, Míg testem békén megpihen A sírban csendesen.</lines>
+    </verse>
+  </lyrics>
+</song>

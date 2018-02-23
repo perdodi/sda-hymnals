@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:54">
+  <properties>
+    <titles>
+      <title>B256 Keresztyének, zengjetek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Keresztyének, zengjetek <br/>B256</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Keresztyének, zengjetek Istennek új éneket! Hirdessük el szerteszét Végtelen nagy kegyelmét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Magasztaljuk hatalmát, Hozzánk való irgalmát! Fiát küldte mennyekből, Hogy megváltson bűnünktől!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérjük mind szent nevét, Bűnbocsátó kegyelmét! Megtörte bűn hatalmát, S  eltörölte a halált.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zengjük ezt el mindenütt: Krisztusban van teljes üdv! Ő mindenkit felemel Magához a mennybe fel.</lines>
+    </verse>
+  </lyrics>
+</song>

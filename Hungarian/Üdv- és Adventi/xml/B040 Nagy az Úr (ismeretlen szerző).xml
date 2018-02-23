@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:29">
+  <properties>
+    <titles>
+      <title>B040 Nagy az Úr</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Nagy az Úr<br/>B040</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nagy az Úr, bármerre nézem,a magasban és a mélységben, nagy minden munkájában ő! Erős és hatalmas Isten, csak őt dicséri zengve minden, az égen, földön ő a Fő! Ezt zengik mennyekben, itt lent s a mélységben: halleluja! Ő alkotónkés fenntartónk; Őt magasztalja hálaszónk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És midőn az embert látom, s e mesterművet megcsodálom, eltölt imádó tisztelet. Nagy az ő kegyelmes volta, az embert képére alkotta, hogy éljen örök életet. Csodás örökséget a mennyben készített. Halleluja! Mind örvendjünk, hogy a lelkünk halhatatlan, mint Istenünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ám az ember bűnössé lett, az Isten ellen rútul vétett, így életére szerzett bajt. Bár az édenkert bezárult, az Úr irgalma megnyilvánult, és megszüntette a sok jajt. Az égből küldte le Fiát a földünkre... Halleluja! Ó, áldjuk hát nagy jóságát, hogy megmutatta irgalmát!</lines>
+    </verse>
+  </lyrics>
+</song>

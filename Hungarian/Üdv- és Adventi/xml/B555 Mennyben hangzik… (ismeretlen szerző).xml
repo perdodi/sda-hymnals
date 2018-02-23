@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:30">
+  <properties>
+    <titles>
+      <title>B555 Mennyben hangzik…</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Mennyben hangzik…<br/>B555</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mennyben hangzik a dicsének, Bűntől váltott lelkeké, Száll magasztalás, dicséret Jézushoz a trón felé.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nagy karének kél majd szárnyra, Ha a partra érkezünk, „Szent vagy, szent vagy” zeng a hála, Áldott légy, ó, Istenünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Éji ködtől nem borítva Szent fényesség árja hull, Tél s halál nem jő a nyárra, Ott örök tavasz virul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mindörökké zengve áldjuk Fényes angyalkórussal, Halleluja! Harsog és zúg Meg nem szűnő háladal!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Földi bánat s vétek távol, Nincs ott kétség, félelem, Végtelen szeretet lángol A megváltott lelkekben.</lines>
+    </verse>
+  </lyrics>
+</song>

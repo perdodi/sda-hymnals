@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:50">
+  <properties>
+    <titles>
+      <title>B226 Szeret az Isten</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Szeret az Isten<br/>B226</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szeret az Isten, Megváltott engem, Mert maga Isten a szeretet. Ezt vallom szüntelen: Szeret az Isten, Szeret az Isten, Ó mily csodás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A bűnben éltem, Mint láncra vert rab, A bűnben éltem reménytelen. Ezt vallom szüntelen: Szeret az Isten, Szeret az Isten, Ó mily csodás!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő küldte Jézust, Az Üdvözítőt, Ő küldte Jézust, A Megmentőt. Ezt vallom szüntelen: Szeret az Isten, Szeret az Isten, Ó mily csodás!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Értem halt Jézus, Az égi Bárány, Értem halt Jézus, Mint áldozat. Ezt vallom szüntelen: Szeret az Isten, Szeret az Isten, Ó mily csodás!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nem rémít többé A bűnnek átka, Nem rémít többé A kárhozat. Ezt vallom szüntelen: Szeret az Isten, Szeret az Isten, Ó mily csodás!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Már készen vár rám Az örök élet, Már készen vár rám Az üdvösség. Ezt vallom szüntelen: Szeret az Isten, Szeret az Isten, Ó mily csodás!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Csak Téged áldlak, Te örök jóság, Csak Téged áldlak, Míg élek én! Ezt vallom szüntelen: Szeret az Isten, Szeret az Isten, Ó mily csodás!</lines>
+    </verse>
+  </lyrics>
+</song>

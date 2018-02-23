@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:12">
+  <properties>
+    <titles>
+      <title>B404 Az egyháznak csak Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az egyháznak csak Jézus<br/>B404</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az egyháznak csak Jézus A fundamentuma, A szent Igére épült Fel lelki temploma. Leszállt a mennyből hívni És eljegyezni őt, Megváltva drága vérén A váltságban hívőt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kihívott minden népből Egy lelki népet itt, Kit egy Úr, egy keresztség És egy hit egyesít. Csak egy nevet magasztal, Csak egy cél vonja őt, És egy terített asztal Ád néki új erőt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A világ fejedelme Föltámad ellene, Vagy hamis tudománytól Gyaláztatik neve; S míg egykor felderül majd Az Úrnak hajnala, Csak virrasztói kérdik: „Meddig az éjszaka?”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sok bajban, küzdelemben Meghajszolt, megvetett, De szent megújulásért És békéért eped; Míg látomása egykor Dicsőn beteljesül, S a győzedelmes egyház Urával egyesül.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A háromegy Istennel Már itt a földön egy, S az üdvözült sereggel Egy nép és egy sereg. Ó, mily áldott reménység: Ha itt időnk lejár, Te boldog szentjeiddel Fönn nálad béke vár!</lines>
+    </verse>
+  </lyrics>
+</song>

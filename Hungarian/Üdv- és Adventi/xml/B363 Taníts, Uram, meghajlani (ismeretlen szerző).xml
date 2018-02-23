@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:07">
+  <properties>
+    <titles>
+      <title>B363 Taníts, Uram, meghajlani</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Taníts, Uram, meghajlani<br/>B363</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Taníts, Uram, meghajlani, Mint szélben az aranykalász! Hajoljak meg, ha Szentlelked Reám fuvall s porig aláz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>S dacos szívem ha ellenáll. Midőn a Lélek rálehel; Jöjj tűz gyanánt, s a dac, a gőg Lelked tüzében égjen el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint bősz hullám, mely megtörik, Ha parthoz űzi zúgó szél; Úgy törjön össze szívem is, Amint tebenned partot ér!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:54">
+  <properties>
+    <titles>
+      <title>B261 Elmém, szívem, dicsérjétek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Elmém, szívem, dicsérjétek<br/>B261</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elmém, szívem, dicsérjétek A kegyelem Istenét! Ami illik, azt tegyétek, Hirdessétek nagy kegyét! Világ teremtése előtt Kiválasztott engemet, Mert oly nagyon szeretett, Most itt élek népe között. Ahol öröm, s béke van A megváltó Jézusban.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem volt semmi érdem bennem, Isten mégis fölemelt. Bűnnek éltem, s azt szerettem, Gyönyöröm csak abban telt. Ámde egyszülött Fiában Megkedvelt ő engemet. Eltörölte bűnömet. Mily nagy Isten- irgalmában! Áldja hát ezért szívem Jézus által Istenem!</lines>
+    </verse>
+  </lyrics>
+</song>

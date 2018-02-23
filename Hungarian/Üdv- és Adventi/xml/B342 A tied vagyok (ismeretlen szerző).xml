@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:04">
+  <properties>
+    <titles>
+      <title>B342 A tied vagyok</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>A tied vagyok<br/>B342</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A tied vagyok, hisz szavad mondja: Megbocsátottam néked. Mégis óhajom folyton megújul: Vonj magadhoz közelebb!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, vonj engem, Jézus, mindig közelebb A keresztnek törzséhez! Ó, vonj engem, Jézus, mindig közelebb A keresztnek törzséhez!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mérhetetlen az égi szeretet, Mely a keresztről árad; Megtérő szívvel föltekintőnek Készen a bűnbocsánat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, mily édes az, ha a szív buzgón Kegyelmedbe elmélyed, Aztán mindenét kezedbe téve, híven szolgál tenéked.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szentelj fel még ma Szentlelked által Bátor szívű hithőssé; És amit Érted kárnak ítéltem, Az lesz nyereségemmé!</lines>
+    </verse>
+  </lyrics>
+</song>

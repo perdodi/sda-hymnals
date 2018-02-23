@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:22">
+  <properties>
+    <titles>
+      <title>B005 Az Úr légyen áldott</title>
+    </titles>
+    <verseOrder>i1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Az Úr légyen áldott<br/>B005</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Úr légyen áldott: nagy dolgokat tet; Leküldte a földre, kit úgy szeretett; Ó, lásd, Jézus értünk halt kereszthalált, hogy megnyissa nékünk az üdv ajtaját!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ő az Úr! Ő az Úr! Hallja ezt föld és ég! Ő az Úr! ő az Úr! Áldja őt minden nép! Ó, jöjj, vár a Megváltó: hű szeretet, jöjj, adj néki hálát: nayg dolgokat tett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj , zengj néki vígan, jöjj, áldd az Urat! Mily szent öröm az, mely az Úrban vigad, de még fényesebb lesz az égi öröm, ha Jézusnál örvendünk majd odafönn.</lines>
+    </verse>
+  </lyrics>
+</song>

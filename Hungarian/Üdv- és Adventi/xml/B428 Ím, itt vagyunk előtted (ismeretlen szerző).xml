@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:15">
+  <properties>
+    <titles>
+      <title>B428 Ím, itt vagyunk előtted</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ím, itt vagyunk előtted<br/>B428</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ím, itt vagyunk előtted, Mert hívtál Mesterünk: Újítsd meg szövetséged, Tarts vacsorát velünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint példát hagytál, vesszük A kenyeret és bort; Ezt emlékedre tesszük, Mert véred értünk folyt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kínhalálod emléke Élteti a hitünk, A szent jegyekkel élve Újból erőt nyerünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Úr Jézus, kit a bűnünk A fára szegezett, Add méltóképpen vennünk Ez emlékjegyeket!</lines>
+    </verse>
+  </lyrics>
+</song>

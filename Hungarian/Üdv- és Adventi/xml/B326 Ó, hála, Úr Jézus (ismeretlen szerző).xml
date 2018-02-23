@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:02">
+  <properties>
+    <titles>
+      <title>B326 Ó, hála, Úr Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ó, hála, Úr Jézus<br/>B326</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, hála, Úr Jézus, hogy tiéd vagyok, És reám új életnek fénye ragyog. Nagy kegyelmed dicsérem, mert megmentett, S a Szentlélek által újjáteremtett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, hála, Úr Jézus, hogy szabad vagyok, S mint megváltott, tenéked szolgálhatok! De nem így volt egykor, míg bűnben jártam, És balgán a Sátán zsoldjában álltam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, hála, Úr Jézus, hogy enyém lettél, S kifolyt véred árán üdvöt szereztél! Nem kell már e világ sok csábja nekem, Oltárodra teszem egész életem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, hála, Úr Jézus, hogy békét adtál, És szent szövetségedbe választottál! Vedd hát ezért hálából szívem s elmém, Az ajkam ujjong neved dicséretén!</lines>
+    </verse>
+  </lyrics>
+</song>

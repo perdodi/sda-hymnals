@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:13:22">
+  <properties>
+    <titles>
+      <title>B487 Ébredj, bizonyságtévő lélek</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Ébredj, bizonyságtévő lélek<br/>B487</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ébredj, bizonyságtévő lélek! Sion falára őrök álljanak, Kik az örömhírt szólni készek, Ha éj borul le, vagy ha kél a nap!Hívásuk zengjen messze, szerteszét, Az Úrhoz gyűjtve népek seregét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, bárha lángod fellobogna, S ébredne föl sok nemzet fényinél, Ó, bár sok szolga sarlót fogva, Aratna, mígnem elközelg az éj!Urunk, e roppant, ért vetésre nézz: A munka sok, a munkás oly kevés!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Küldd útra hirnökid csapatját, És adj erőt onnan felül nekik, Hogy Igédnek készítve útját, Hozzád vezessék földnek népeit!Országod jöjjön el minél elébb, Hirdetve szent neved dicséretét!</lines>
+    </verse>
+  </lyrics>
+</song>

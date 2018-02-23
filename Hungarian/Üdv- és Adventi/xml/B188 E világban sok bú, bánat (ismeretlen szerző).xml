@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2017-10-01T14:12:46">
+  <properties>
+    <titles>
+      <title>B188 E világban sok bú, bánat</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>E világban sok bú, bánat<br/>B188</lines>
+    </verse>
+    <verse name="v1">
+      <lines>E világban sok bú, bánat Vesz téged körül. Menedéket hol találhatsz Nyughelyül?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézushoz jöjj sok terheddel, Fáradt, bűnös szív! A keresztnél megpihenhetsz, Jézus hív.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bárány Jézus mind fölvette Bűneid terhét; Érezd meg, hogy szeret téged, S vedd kegyét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A keresztről bűnbocsánat, Vigasz árad rád, Örök élet lesz a részed Odaát.</lines>
+    </verse>
+  </lyrics>
+</song>
