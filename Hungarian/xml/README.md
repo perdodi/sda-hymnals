@@ -1,3 +1,2 @@
-huxml.xml - Adventista Énekeskonyv
+huxml.xml - Adventista Énekeskönyv
 pfxml.xml - Ifjúsági énekek
-uaehu.xml - Üdv- és Adventi Énekek
